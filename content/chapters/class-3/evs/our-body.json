@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Heart – pumps blood; lungs – breathing",
+      "hi": "दिल – ख़ून पंप; फेफड़े – साँस"
+    },
+    {
+      "en": "Stomach – digests food; brain – thinks and controls",
+      "hi": "पेट – पाचन; दिमाग़ – सोचना और नियंत्रण"
+    },
+    {
+      "en": "The skull protects the brain; ribs protect the heart and lungs.",
+      "hi": "खोपड़ी दिमाग़ की, पसलियाँ दिल और फेफड़ों की रक्षा करती हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which organ do you feel beating when you put your hand on the left of your chest?",
+        "hi": "सीने की बाईं ओर हाथ रखने पर कौन-सा अंग धड़कता महसूस होता है?"
+      },
+      "steps": [
+        {
+          "en": "It pumps blood all day and night.",
+          "hi": "यह दिन-रात ख़ून पंप करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Heart",
+        "hi": "दिल"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why does your chest go up and down?",
+        "hi": "सीना ऊपर-नीचे क्यों होता है?"
+      },
+      "steps": [
+        {
+          "en": "Air goes into and out of two organs in the chest.",
+          "hi": "हवा सीने के दो अंगों में अंदर-बाहर जाती है।"
+        }
+      ],
+      "answer": {
+        "en": "Because the lungs fill with air and empty when we breathe",
+        "hi": "साँस लेने पर फेफड़े हवा से भरते और ख़ाली होते हैं"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which organ digests food?",
+        "hi": "कौन-सा अंग भोजन पचाता है?"
+      },
+      "answer": {
+        "en": "Stomach",
+        "hi": "पेट (आमाशय)"
+      }
+    },
+    {
+      "question": {
+        "en": "What protects the brain?",
+        "hi": "दिमाग़ की रक्षा कौन करता है?"
+      },
+      "answer": {
+        "en": "Skull",
+        "hi": "खोपड़ी"
+      }
+    },
+    {
+      "question": {
+        "en": "Which organ helps us think?",
+        "hi": "सोचने में कौन-सा अंग मदद करता है?"
+      },
+      "answer": {
+        "en": "Brain",
+        "hi": "दिमाग़"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Our body has organs that work together. The heart pumps blood, the lungs help us breathe, the stomach digests food and the brain controls everything. Bones give shape and muscles help us move.",
+    "hi": "हमारे शरीर के अंग मिलकर काम करते हैं। दिल ख़ून पंप करता है, फेफड़े साँस लेने में मदद करते हैं, पेट भोजन पचाता है और दिमाग़ सब नियंत्रित करता है। हड्डियाँ आकार देती हैं और मांसपेशियाँ चलने में मदद करती हैं।"
+  }
+}

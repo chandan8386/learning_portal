@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "a + consonant sound: a cat, a pen, a university (yoo sound)",
+      "hi": "a + व्यंजन ध्वनि: a cat, a pen, a university (यू ध्वनि)"
+    },
+    {
+      "en": "an + vowel sound: an apple, an umbrella, an hour (silent h)",
+      "hi": "an + स्वर ध्वनि: an apple, an umbrella, an hour (h मौन)"
+    },
+    {
+      "en": "the + one special thing: the moon, the Taj Mahal",
+      "hi": "the + एक ख़ास चीज़: the moon, the Taj Mahal"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in a or an: \"__ orange and __ banana\"",
+        "hi": "a या an भरो: \"__ orange and __ banana\""
+      },
+      "steps": [
+        {
+          "en": "orange starts with the vowel sound \"o\" → an.",
+          "hi": "orange स्वर ध्वनि \"o\" से → an।"
+        },
+        {
+          "en": "banana starts with the consonant sound \"b\" → a.",
+          "hi": "banana व्यंजन ध्वनि \"b\" से → a।"
+        }
+      ],
+      "answer": {
+        "en": "an orange and a banana",
+        "hi": "an orange and a banana"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"__ sun rises in __ east.\"",
+        "hi": "भरो: \"__ sun rises in __ east.\""
+      },
+      "steps": [
+        {
+          "en": "There is only one sun and one east direction → the.",
+          "hi": "सूरज एक ही है और पूर्व दिशा भी एक → the।"
+        }
+      ],
+      "answer": {
+        "en": "The sun rises in the east.",
+        "hi": "The sun rises in the east."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"__ elephant\"",
+        "hi": "भरो: \"__ elephant\""
+      },
+      "answer": {
+        "en": "an",
+        "hi": "an"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"__ hour\"",
+        "hi": "भरो: \"__ hour\""
+      },
+      "answer": {
+        "en": "an (h is silent)",
+        "hi": "an (h मौन है)"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"__ Ganga is a holy river.\"",
+        "hi": "भरो: \"__ Ganga is a holy river.\""
+      },
+      "answer": {
+        "en": "The",
+        "hi": "The"
+      }
+    }
+  ],
+  "intro": {
+    "en": "a, an and the are articles. We use \"a\" before a consonant sound (a book), \"an\" before a vowel sound (an egg), and \"the\" for something specific or already known (the sun, the book I gave you).",
+    "hi": "a, an और the को articles कहते हैं। व्यंजन ध्वनि से पहले \"a\" (a book), स्वर ध्वनि से पहले \"an\" (an egg), और किसी ख़ास या पहले से पता चीज़ के लिए \"the\" (the sun, the book I gave you)।"
+  }
+}

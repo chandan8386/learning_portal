@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Read the passage twice: once for fun, once for answers.",
+      "hi": "अनुच्छेद दो बार पढ़ो: एक बार मज़े के लिए, एक बार उत्तरों के लिए।"
+    },
+    {
+      "en": "Answers are often in the text: underline them.",
+      "hi": "उत्तर अक्सर पाठ में होते हैं: उन्हें रेखांकित करो।"
+    },
+    {
+      "en": "Answer in full sentences.",
+      "hi": "पूरे वाक्यों में उत्तर दो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Read: \"Tara found a hurt sparrow in the garden. She gave it water and kept it in a box. In two days the sparrow flew away.\" What did Tara give the sparrow?",
+        "hi": "पढ़ो: \"Tara found a hurt sparrow in the garden. She gave it water and kept it in a box. In two days the sparrow flew away.\" तारा ने गौरैया को क्या दिया?"
+      },
+      "steps": [
+        {
+          "en": "Find the sentence with \"gave\".",
+          "hi": "\"gave\" वाला वाक्य ढूँढो।"
+        }
+      ],
+      "answer": {
+        "en": "Tara gave the sparrow water.",
+        "hi": "Tara gave the sparrow water."
+      }
+    },
+    {
+      "problem": {
+        "en": "What is the lesson of this story?",
+        "hi": "इस कहानी की सीख क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Tara helped a hurt bird until it was well.",
+          "hi": "तारा ने घायल पक्षी की तब तक मदद की जब तक वह ठीक नहीं हो गया।"
+        }
+      ],
+      "answer": {
+        "en": "We should be kind to animals.",
+        "hi": "We should be kind to animals. (जानवरों के प्रति दयालु रहो।)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where did Tara find the sparrow?",
+        "hi": "तारा को गौरैया कहाँ मिली?"
+      },
+      "answer": {
+        "en": "In the garden",
+        "hi": "बगीचे में"
+      }
+    },
+    {
+      "question": {
+        "en": "When did the sparrow fly away?",
+        "hi": "गौरैया कब उड़ गई?"
+      },
+      "answer": {
+        "en": "In two days",
+        "hi": "दो दिन में"
+      }
+    },
+    {
+      "question": {
+        "en": "What five question words help in comprehension?",
+        "hi": "समझने में कौन-से पाँच प्रश्न-शब्द मदद करते हैं?"
+      },
+      "answer": {
+        "en": "Who, where, when, what, why",
+        "hi": "Who, where, when, what, why"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Comprehension means understanding what we read. After reading a story, we can answer: Who? Where? When? What happened? Why? We also find the main idea and the lesson.",
+    "hi": "Comprehension का मतलब है पढ़ी हुई बात समझना। कहानी पढ़कर जवाब दे सकते हैं: कौन? कहाँ? कब? क्या हुआ? क्यों? मुख्य विचार और सीख भी ढूँढते हैं।"
+  }
+}

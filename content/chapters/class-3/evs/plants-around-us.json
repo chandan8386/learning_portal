@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Trees: mango, neem; shrubs: rose, tulsi; herbs: mint, coriander",
+      "hi": "पेड़: आम, नीम; झाड़ियाँ: गुलाब, तुलसी; शाक: पुदीना, धनिया"
+    },
+    {
+      "en": "Leaves make food; roots absorb water; stem carries water.",
+      "hi": "पत्ते भोजन बनाते हैं; जड़ें पानी सोखती हैं; तना पानी पहुँचाता है।"
+    },
+    {
+      "en": "Uses: food, cotton cloth, wood, medicine (neem, tulsi)",
+      "hi": "उपयोग: भोजन, सूती कपड़ा, लकड़ी, दवा (नीम, तुलसी)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is tulsi a tree, a shrub or a herb?",
+        "hi": "तुलसी पेड़ है, झाड़ी या शाक?"
+      },
+      "steps": [
+        {
+          "en": "Tulsi is bushy with many branches but not tall like a tree.",
+          "hi": "तुलसी घनी है, कई शाखाएँ हैं, पर पेड़ जितनी ऊँची नहीं।"
+        }
+      ],
+      "answer": {
+        "en": "Shrub",
+        "hi": "झाड़ी"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which plant gives us cotton for clothes?",
+        "hi": "कपड़ों के लिए रुई कौन-सा पौधा देता है?"
+      },
+      "steps": [
+        {
+          "en": "Its fluffy white fibre is spun into thread.",
+          "hi": "इसके सफ़ेद रेशों से धागा बनता है।"
+        }
+      ],
+      "answer": {
+        "en": "The cotton plant",
+        "hi": "कपास का पौधा"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part of a plant makes food?",
+        "hi": "पौधे का कौन-सा भाग भोजन बनाता है?"
+      },
+      "answer": {
+        "en": "Leaves",
+        "hi": "पत्ते"
+      }
+    },
+    {
+      "question": {
+        "en": "Is mint a tree or a herb?",
+        "hi": "पुदीना पेड़ है या शाक?"
+      },
+      "answer": {
+        "en": "Herb",
+        "hi": "शाक"
+      }
+    },
+    {
+      "question": {
+        "en": "Name a plant used as medicine.",
+        "hi": "दवा के रूप में इस्तेमाल होने वाला एक पौधा बताओ।"
+      },
+      "answer": {
+        "en": "Neem, tulsi or aloe vera",
+        "hi": "नीम, तुलसी या एलोवेरा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Plants can be trees (tall, thick woody stem), shrubs (bushy, many stems) or herbs (small, soft stem). Each part of a plant has a job, and we use plants for food, cloth, wood and medicine.",
+    "hi": "पौधे पेड़ (ऊँचे, मोटा लकड़ी का तना), झाड़ियाँ (घनी, कई तने) या शाक (छोटे, नरम तना) हो सकते हैं। पौधे के हर भाग का काम है, और हम पौधों से भोजन, कपड़ा, लकड़ी और दवा लेते हैं।"
+  }
+}

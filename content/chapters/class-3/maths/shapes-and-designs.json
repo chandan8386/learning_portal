@@ -1,0 +1,88 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Triangle: 3 sides, 3 corners",
+      "hi": "त्रिभुज: 3 भुजाएँ, 3 कोने"
+    },
+    {
+      "en": "Square: 4 equal sides; rectangle: opposite sides equal",
+      "hi": "वर्ग: 4 बराबर भुजाएँ; आयत: आमने-सामने की भुजाएँ बराबर"
+    },
+    {
+      "en": "Tiles that fit without gaps make a tiling pattern.",
+      "hi": "बिना जगह छोड़े जुड़ने वाली टाइलें टाइलिंग पैटर्न बनाती हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How many sides do 3 triangles and 2 squares have altogether?",
+        "hi": "3 त्रिभुज और 2 वर्गों की कुल कितनी भुजाएँ हैं?"
+      },
+      "steps": [
+        {
+          "en": "3 triangles: 3 × 3 = 9 sides.",
+          "hi": "3 त्रिभुज: 3 × 3 = 9 भुजाएँ।"
+        },
+        {
+          "en": "2 squares: 2 × 4 = 8 sides.",
+          "hi": "2 वर्ग: 2 × 4 = 8 भुजाएँ।"
+        }
+      ],
+      "answer": {
+        "en": "9 + 8 = 17 sides",
+        "hi": "9 + 8 = 17 भुजाएँ"
+      }
+    },
+    {
+      "problem": {
+        "en": "Can circles cover a floor with no gaps?",
+        "hi": "क्या वृत्त से फ़र्श बिना ख़ाली जगह के ढक सकते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Circles touch only at points; gaps are left between them.",
+          "hi": "वृत्त सिर्फ़ बिंदुओं पर छूते हैं; बीच में जगह बच जाती है।"
+        }
+      ],
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which shape has no corners?",
+        "hi": "किस आकृति का कोई कोना नहीं?"
+      },
+      "answer": {
+        "en": "Circle",
+        "hi": "वृत्त"
+      }
+    },
+    {
+      "question": {
+        "en": "How many shapes are in a tangram?",
+        "hi": "टैनग्राम में कितनी आकृतियाँ होती हैं?"
+      },
+      "answer": "7"
+    },
+    {
+      "question": {
+        "en": "Name a shape that can tile a floor with no gaps.",
+        "hi": "ऐसी आकृति बताओ जो फ़र्श को बिना जगह छोड़े ढके।"
+      },
+      "answer": {
+        "en": "Square (also rectangle, triangle, hexagon)",
+        "hi": "वर्ग (आयत, त्रिभुज, षट्भुज भी)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Flat (2D) shapes like squares, rectangles, triangles and circles have sides and corners. Repeating shapes make designs on floors, rangoli and cloth. A tangram is a puzzle of 7 shapes that make a square.",
+    "hi": "समतल (2D) आकृतियाँ जैसे वर्ग, आयत, त्रिभुज और वृत्त की भुजाएँ और कोने होते हैं। आकृतियाँ दोहराकर फ़र्श, रंगोली और कपड़ों पर डिज़ाइन बनते हैं। टैनग्राम 7 आकृतियों की पहेली है जो मिलकर वर्ग बनाती हैं।"
+  }
+}

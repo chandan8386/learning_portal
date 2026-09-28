@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Capital: New Delhi",
+      "hi": "राजधानी: नई दिल्ली"
+    },
+    {
+      "en": "National song: Vande Mataram; national anthem: Jana Gana Mana",
+      "hi": "राष्ट्रीय गीत: वंदे मातरम; राष्ट्रगान: जन गण मन"
+    },
+    {
+      "en": "Famous places: Taj Mahal (Agra), Red Fort (Delhi), Gateway of India (Mumbai)",
+      "hi": "प्रसिद्ध स्थान: ताजमहल (आगरा), लाल क़िला (दिल्ली), गेटवे ऑफ़ इंडिया (मुंबई)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In which city is the Taj Mahal?",
+        "hi": "ताजमहल किस शहर में है?"
+      },
+      "steps": [
+        {
+          "en": "It is on the banks of the Yamuna in Uttar Pradesh.",
+          "hi": "यह उत्तर प्रदेश में यमुना किनारे है।"
+        }
+      ],
+      "answer": {
+        "en": "Agra",
+        "hi": "आगरा"
+      }
+    },
+    {
+      "problem": {
+        "en": "Who wrote our national anthem?",
+        "hi": "हमारा राष्ट्रगान किसने लिखा?"
+      },
+      "steps": [
+        {
+          "en": "He was a famous poet who won the Nobel Prize.",
+          "hi": "वे नोबेल पुरस्कार जीतने वाले प्रसिद्ध कवि थे।"
+        }
+      ],
+      "answer": {
+        "en": "Rabindranath Tagore",
+        "hi": "रवींद्रनाथ टैगोर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the capital of India?",
+        "hi": "भारत की राजधानी क्या है?"
+      },
+      "answer": {
+        "en": "New Delhi",
+        "hi": "नई दिल्ली"
+      }
+    },
+    {
+      "question": {
+        "en": "What is our national song?",
+        "hi": "हमारा राष्ट्रीय गीत कौन-सा है?"
+      },
+      "answer": {
+        "en": "Vande Mataram",
+        "hi": "वंदे मातरम"
+      }
+    },
+    {
+      "question": {
+        "en": "Where is the Gateway of India?",
+        "hi": "गेटवे ऑफ़ इंडिया कहाँ है?"
+      },
+      "answer": {
+        "en": "Mumbai",
+        "hi": "मुंबई"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India is a large country with 28 states and 8 union territories. New Delhi is its capital. Its national symbols include the Tiranga, the tiger, the peacock, the lotus and the anthem \"Jana Gana Mana\".",
+    "hi": "भारत एक बड़ा देश है जिसमें 28 राज्य और 8 केंद्र शासित प्रदेश हैं। नई दिल्ली इसकी राजधानी है। राष्ट्रीय प्रतीकों में तिरंगा, बाघ, मोर, कमल और राष्ट्रगान \"जन गण मन\" शामिल हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Honesty: tell the truth even when it is hard.",
+      "hi": "ईमानदारी: मुश्किल हो तब भी सच बोलो।"
+    },
+    {
+      "en": "Respect: greet elders, listen to others, wait your turn.",
+      "hi": "सम्मान: बड़ों को नमस्ते, दूसरों की सुनो, बारी का इंतज़ार करो।"
+    },
+    {
+      "en": "Kindness: help people and animals in need.",
+      "hi": "दया: ज़रूरतमंद लोगों और जानवरों की मदद करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "You find a wallet in the playground. What will you do?",
+        "hi": "खेल के मैदान में बटुआ मिला। क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "It belongs to someone else.",
+          "hi": "यह किसी और का है।"
+        }
+      ],
+      "answer": {
+        "en": "Give it to the teacher so it reaches the owner",
+        "hi": "टीचर को दे दो ताकि मालिक तक पहुँचे"
+      }
+    },
+    {
+      "problem": {
+        "en": "An old woman is trying to cross the road. What can you do?",
+        "hi": "एक बूढ़ी अम्मा सड़क पार करने की कोशिश कर रही हैं। तुम क्या कर सकते हो?"
+      },
+      "steps": [
+        {
+          "en": "Kindness means helping those who need it.",
+          "hi": "दया का मतलब ज़रूरतमंद की मदद।"
+        }
+      ],
+      "answer": {
+        "en": "Help her cross safely with an adult",
+        "hi": "किसी बड़े के साथ उन्हें सुरक्षित पार कराओ"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which value is shown by telling the truth?",
+        "hi": "सच बोलने से कौन-सा गुण दिखता है?"
+      },
+      "answer": {
+        "en": "Honesty",
+        "hi": "ईमानदारी"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we throw litter on the road?",
+        "hi": "क्या सड़क पर कचरा फेंकना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Your friend is sad. What can you do?",
+        "hi": "दोस्त उदास है। तुम क्या कर सकते हो?"
+      },
+      "answer": {
+        "en": "Talk to them kindly and help",
+        "hi": "प्यार से बात करो और मदद करो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good values make us good people: honesty, kindness, sharing, respect, helping others and keeping our surroundings clean. Values show in small daily actions.",
+    "hi": "अच्छे गुण हमें अच्छा इंसान बनाते हैं: ईमानदारी, दया, बाँटना, सम्मान, दूसरों की मदद और आस-पास सफ़ाई। गुण रोज़ के छोटे कामों में दिखते हैं।"
+  }
+}

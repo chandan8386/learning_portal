@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Computers are fast, accurate and tireless.",
+      "hi": "कंप्यूटर तेज़, सटीक और बिना थके काम करते हैं।"
+    },
+    {
+      "en": "Uses: schools, banks, hospitals, railway tickets, games",
+      "hi": "उपयोग: स्कूल, बैंक, अस्पताल, रेल टिकट, गेम"
+    },
+    {
+      "en": "A computer needs instructions from people.",
+      "hi": "कंप्यूटर को लोगों के निर्देश चाहिए।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where is a computer used at a railway station?",
+        "hi": "रेलवे स्टेशन पर कंप्यूटर कहाँ इस्तेमाल होता है?"
+      },
+      "steps": [
+        {
+          "en": "Think of what you buy before boarding a train.",
+          "hi": "सोचो ट्रेन में चढ़ने से पहले क्या ख़रीदते हो।"
+        }
+      ],
+      "answer": {
+        "en": "To book tickets and show train timings",
+        "hi": "टिकट बुक करने और ट्रेन का समय दिखाने में"
+      }
+    },
+    {
+      "problem": {
+        "en": "Can a computer think by itself?",
+        "hi": "क्या कंप्यूटर ख़ुद सोच सकता है?"
+      },
+      "steps": [
+        {
+          "en": "It only does what its instructions (programs) tell it.",
+          "hi": "यह सिर्फ़ वही करता है जो निर्देश (प्रोग्राम) बताते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "No, it follows instructions",
+        "hi": "नहीं, यह निर्देश मानता है"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name two places where computers are used.",
+        "hi": "दो जगहें बताओ जहाँ कंप्यूटर इस्तेमाल होते हैं।"
+      },
+      "answer": {
+        "en": "Bank and hospital (also school, office)",
+        "hi": "बैंक और अस्पताल (स्कूल, दफ़्तर भी)"
+      }
+    },
+    {
+      "question": {
+        "en": "Does a computer get tired?",
+        "hi": "क्या कंप्यूटर थकता है?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Is a computer electronic or manual?",
+        "hi": "कंप्यूटर इलेक्ट्रॉनिक है या हाथ से चलने वाला?"
+      },
+      "answer": {
+        "en": "Electronic",
+        "hi": "इलेक्ट्रॉनिक"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A computer is an electronic machine that takes data, processes it and gives results. It works fast, does not get tired and remembers a lot, but it cannot think on its own — it follows instructions.",
+    "hi": "कंप्यूटर एक इलेक्ट्रॉनिक मशीन है जो डेटा लेती है, उस पर काम करती है और परिणाम देती है। यह तेज़ काम करता है, थकता नहीं और बहुत कुछ याद रखता है, पर ख़ुद नहीं सोचता — निर्देश मानता है।"
+  }
+}

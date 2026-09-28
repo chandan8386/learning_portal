@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Pucca houses: bricks, cement, iron. Kutcha houses: mud, straw, bamboo.",
+      "hi": "पक्के घर: ईंट, सीमेंट, लोहा। कच्चे घर: मिट्टी, भूसा, बाँस।"
+    },
+    {
+      "en": "Sloping roofs let rain and snow slide off.",
+      "hi": "ढलवाँ छत से बारिश और बर्फ़ फिसल जाती है।"
+    },
+    {
+      "en": "Houses on stilts stay above flood water.",
+      "hi": "खंभों पर बने घर बाढ़ के पानी से ऊपर रहते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why do houses in Assam have stilts?",
+        "hi": "असम में घर खंभों पर क्यों बनते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Assam gets heavy rain and floods.",
+          "hi": "असम में भारी बारिश और बाढ़ आती है।"
+        }
+      ],
+      "answer": {
+        "en": "To stay above flood water",
+        "hi": "बाढ़ के पानी से ऊपर रहने के लिए"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why do houses in Kashmir have sloping roofs?",
+        "hi": "कश्मीर में घरों की छत ढलवाँ क्यों होती है?"
+      },
+      "steps": [
+        {
+          "en": "Kashmir gets snow in winter.",
+          "hi": "कश्मीर में सर्दी में बर्फ़ गिरती है।"
+        }
+      ],
+      "answer": {
+        "en": "So that snow slides off",
+        "hi": "ताकि बर्फ़ फिसल जाए"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is a mud house pucca or kutcha?",
+        "hi": "मिट्टी का घर पक्का है या कच्चा?"
+      },
+      "answer": {
+        "en": "Kutcha",
+        "hi": "कच्चा"
+      }
+    },
+    {
+      "question": {
+        "en": "Who might live in a tent?",
+        "hi": "तंबू में कौन रह सकता है?"
+      },
+      "answer": {
+        "en": "Nomads, soldiers, campers",
+        "hi": "घुमंतू लोग, सैनिक, कैंप करने वाले"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one thing a shelter protects us from.",
+        "hi": "आश्रय हमें किससे बचाता है, एक बताओ।"
+      },
+      "answer": {
+        "en": "Rain, sun, cold or animals",
+        "hi": "बारिश, धूप, ठंड या जानवर"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A shelter protects us from sun, rain, cold and animals. Houses differ by place: stone houses in hills, houses on stilts in flood areas, sloping roofs where it snows or rains a lot, and tents or houseboats for some people.",
+    "hi": "आश्रय हमें धूप, बारिश, ठंड और जानवरों से बचाता है। जगह के हिसाब से घर अलग होते हैं: पहाड़ों में पत्थर के घर, बाढ़ वाले इलाक़ों में खंभों पर घर, ज़्यादा बर्फ़ या बारिश वाली जगह ढलवाँ छत, और कुछ लोगों के लिए तंबू या हाउसबोट।"
+  }
+}

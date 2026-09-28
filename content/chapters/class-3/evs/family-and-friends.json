@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Nuclear family: parents and children; joint family: grandparents, uncles, aunts too",
+      "hi": "एकल परिवार: माता-पिता और बच्चे; संयुक्त परिवार: दादा-दादी, चाचा-चाची भी"
+    },
+    {
+      "en": "We look like our family members in some ways (eyes, hair).",
+      "hi": "हम कुछ बातों में परिवार जैसे दिखते हैं (आँखें, बाल)।"
+    },
+    {
+      "en": "Good friends share, help and say sorry.",
+      "hi": "अच्छे दोस्त बाँटते हैं, मदद करते हैं और माफ़ी माँगते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who is your father's sister?",
+        "hi": "पापा की बहन कौन हैं?"
+      },
+      "steps": [
+        {
+          "en": "In Hindi, father's sister is called Bua.",
+          "hi": "पापा की बहन को बुआ कहते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Bua (aunt)",
+        "hi": "बुआ"
+      }
+    },
+    {
+      "problem": {
+        "en": "Your friend forgot her lunch. What can you do?",
+        "hi": "तुम्हारी दोस्त लंच भूल गई। तुम क्या कर सकते हो?"
+      },
+      "steps": [
+        {
+          "en": "Friends share and help.",
+          "hi": "दोस्त बाँटते हैं और मदद करते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Share my lunch with her",
+        "hi": "अपना लंच उसके साथ बाँटूँगा"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who is your mother's sister?",
+        "hi": "माँ की बहन कौन हैं?"
+      },
+      "answer": {
+        "en": "Mausi",
+        "hi": "मौसी"
+      }
+    },
+    {
+      "question": {
+        "en": "A family with grandparents, uncles and aunts living together is called?",
+        "hi": "दादा-दादी, चाचा-चाची साथ रहें तो वह परिवार क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Joint family",
+        "hi": "संयुक्त परिवार"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one quality of a good friend.",
+        "hi": "अच्छे दोस्त का एक गुण बताओ।"
+      },
+      "answer": {
+        "en": "Sharing, helping, being honest (any one)",
+        "hi": "बाँटना, मदद करना, ईमानदार होना (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Families can be small or large, and family members care for each other. Friends are people we like to play and share with. Relatives like cousins, aunts and uncles are part of our extended family.",
+    "hi": "परिवार छोटे या बड़े हो सकते हैं, और सदस्य एक-दूसरे का ध्यान रखते हैं। दोस्त वे हैं जिनके साथ हमें खेलना और बाँटना अच्छा लगता है। चचेरे भाई-बहन, बुआ, मामा जैसे रिश्तेदार बड़े परिवार का हिस्सा हैं।"
+  }
+}

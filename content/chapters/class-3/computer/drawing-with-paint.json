@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Pencil – thin lines; brush – thick strokes",
+      "hi": "पेंसिल – पतली रेखाएँ; ब्रश – मोटे स्ट्रोक"
+    },
+    {
+      "en": "Fill with colour (bucket) fills a closed shape.",
+      "hi": "रंग भरो (बाल्टी) बंद आकृति में रंग भरता है।"
+    },
+    {
+      "en": "Save: File → Save, give a name.",
+      "hi": "सेव: File → Save, नाम दो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you draw a red circle filled with yellow?",
+        "hi": "पीले रंग से भरा लाल गोला कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Choose the oval shape, pick red, hold Shift and drag.",
+          "hi": "ओवल आकृति चुनो, लाल रंग लो, Shift दबाकर ड्रैग करो।"
+        },
+        {
+          "en": "Choose the fill tool, pick yellow, click inside the circle.",
+          "hi": "फ़िल टूल चुनो, पीला लो, गोले के अंदर क्लिक करो।"
+        }
+      ],
+      "answer": {
+        "en": "Oval tool with Shift, then fill with yellow",
+        "hi": "Shift के साथ ओवल टूल, फिर पीला भरो"
+      }
+    },
+    {
+      "problem": {
+        "en": "The fill colour spilled over the whole page. Why?",
+        "hi": "भरा रंग पूरे पेज पर फैल गया। क्यों?"
+      },
+      "steps": [
+        {
+          "en": "Fill only stays inside a closed shape.",
+          "hi": "भराव सिर्फ़ बंद आकृति के अंदर रहता है।"
+        }
+      ],
+      "answer": {
+        "en": "The shape had a gap in its outline",
+        "hi": "आकृति की रेखा में ख़ाली जगह थी"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which tool rubs out mistakes?",
+        "hi": "कौन-सा टूल ग़लती मिटाता है?"
+      },
+      "answer": {
+        "en": "Eraser",
+        "hi": "रबड़ (Eraser)"
+      }
+    },
+    {
+      "question": {
+        "en": "Which key do you hold to draw a perfect circle?",
+        "hi": "पूरा गोल घेरा बनाने के लिए कौन-सी कुंजी दबाते हैं?"
+      },
+      "answer": {
+        "en": "Shift",
+        "hi": "Shift"
+      }
+    },
+    {
+      "question": {
+        "en": "How do you keep your drawing to open later?",
+        "hi": "ड्रॉइंग को बाद में खोलने के लिए क्या करोगे?"
+      },
+      "answer": {
+        "en": "Save it with a name",
+        "hi": "नाम देकर सेव करो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Paint is a program for drawing on the computer. We use tools like the pencil, brush, shapes, fill colour (bucket) and eraser, then save our drawing with a name.",
+    "hi": "पेंट कंप्यूटर पर चित्र बनाने का प्रोग्राम है। पेंसिल, ब्रश, आकृतियाँ, रंग भरने (बाल्टी) और रबड़ जैसे टूल इस्तेमाल करते हैं, फिर चित्र को नाम देकर सेव करते हैं।"
+  }
+}

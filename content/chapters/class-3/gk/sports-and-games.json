@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Cricket team: 11 players; football: 11; hockey: 11",
+      "hi": "क्रिकेट टीम: 11 खिलाड़ी; फ़ुटबॉल: 11; हॉकी: 11"
+    },
+    {
+      "en": "Kabaddi and kho-kho are traditional Indian games.",
+      "hi": "कबड्डी और खो-खो पारंपरिक भारतीय खेल हैं।"
+    },
+    {
+      "en": "The Olympic Games are held every 4 years.",
+      "hi": "ओलंपिक खेल हर 4 साल में होते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Neeraj Chopra won an Olympic gold medal in which sport?",
+        "hi": "नीरज चोपड़ा ने किस खेल में ओलंपिक स्वर्ण पदक जीता?"
+      },
+      "steps": [
+        {
+          "en": "He throws a long spear as far as he can.",
+          "hi": "वे लंबा भाला जितना दूर हो सके फेंकते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Javelin throw",
+        "hi": "भाला फेंक"
+      }
+    },
+    {
+      "problem": {
+        "en": "How many players are there on the field in a football team?",
+        "hi": "फ़ुटबॉल टीम के मैदान में कितने खिलाड़ी होते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Same as cricket and hockey.",
+          "hi": "क्रिकेट और हॉकी जितने।"
+        }
+      ],
+      "answer": "11"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which game is played with a shuttlecock?",
+        "hi": "शटलकॉक से कौन-सा खेल खेलते हैं?"
+      },
+      "answer": {
+        "en": "Badminton",
+        "hi": "बैडमिंटन"
+      }
+    },
+    {
+      "question": {
+        "en": "How often are the Olympic Games held?",
+        "hi": "ओलंपिक खेल कितने साल में होते हैं?"
+      },
+      "answer": {
+        "en": "Every 4 years",
+        "hi": "हर 4 साल में"
+      }
+    },
+    {
+      "question": {
+        "en": "Name a traditional Indian game.",
+        "hi": "एक पारंपरिक भारतीय खेल बताओ।"
+      },
+      "answer": {
+        "en": "Kabaddi or kho-kho",
+        "hi": "कबड्डी या खो-खो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Sports keep us fit and teach teamwork. Cricket, hockey, football, kabaddi and badminton are popular in India. India has great players like Sachin Tendulkar (cricket), P. V. Sindhu (badminton) and Neeraj Chopra (javelin).",
+    "hi": "खेल हमें स्वस्थ रखते हैं और टीमवर्क सिखाते हैं। भारत में क्रिकेट, हॉकी, फ़ुटबॉल, कबड्डी और बैडमिंटन लोकप्रिय हैं। भारत के महान खिलाड़ी हैं जैसे सचिन तेंदुलकर (क्रिकेट), पी. वी. सिंधु (बैडमिंटन) और नीरज चोपड़ा (भाला फेंक)।"
+  }
+}

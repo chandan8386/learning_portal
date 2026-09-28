@@ -1,0 +1,86 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Parts must be equal.",
+      "hi": "हिस्से बराबर होने चाहिए।"
+    },
+    {
+      "en": "1/2 + 1/2 = 1 whole; 4 quarters = 1 whole",
+      "hi": "1/2 + 1/2 = 1 पूरा; 4 चौथाई = 1 पूरा"
+    },
+    {
+      "en": "Half of a group: divide by 2. Quarter of a group: divide by 4.",
+      "hi": "समूह का आधा: 2 से भाग। चौथाई: 4 से भाग।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find half of 18 laddoos.",
+        "hi": "18 लड्डुओं का आधा निकालो।"
+      },
+      "steps": [
+        {
+          "en": "Half means divide into 2 equal parts.",
+          "hi": "आधा मतलब 2 बराबर हिस्से।"
+        },
+        {
+          "en": "18 ÷ 2 = 9",
+          "hi": "18 ÷ 2 = 9"
+        }
+      ],
+      "answer": {
+        "en": "9 laddoos",
+        "hi": "9 लड्डू"
+      }
+    },
+    {
+      "problem": {
+        "en": "A roti is cut into 4 equal pieces. Ravi eats 3. What fraction did he eat?",
+        "hi": "रोटी के 4 बराबर टुकड़े किए। रवि ने 3 खाए। उसने कितना भाग खाया?"
+      },
+      "steps": [
+        {
+          "en": "Each piece is 1/4.",
+          "hi": "हर टुकड़ा 1/4 है।"
+        },
+        {
+          "en": "3 pieces = 3/4.",
+          "hi": "3 टुकड़े = 3/4।"
+        }
+      ],
+      "answer": {
+        "en": "Three-quarters (3/4)",
+        "hi": "पौना (3/4)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find a quarter of 20.",
+        "hi": "20 का चौथाई निकालो।"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "How many halves make a whole?",
+        "hi": "कितने आधे मिलकर एक पूरा बनाते हैं?"
+      },
+      "answer": "2"
+    },
+    {
+      "question": {
+        "en": "A pizza has 4 equal slices; 1 is left. What fraction is left?",
+        "hi": "पिज़्ज़ा के 4 बराबर टुकड़े; 1 बचा। कितना भाग बचा?"
+      },
+      "answer": "1/4"
+    }
+  ],
+  "intro": {
+    "en": "When a whole is divided into equal parts, each part is a fraction. 2 equal parts: each is one-half (1/2). 4 equal parts: each is one-quarter (1/4); three of them are three-quarters (3/4).",
+    "hi": "जब पूरे को बराबर हिस्सों में बाँटते हैं, तो हर हिस्सा भिन्न कहलाता है। 2 बराबर हिस्से: हर एक आधा (1/2)। 4 बराबर हिस्से: हर एक चौथाई (1/4); तीन हिस्से पौना (3/4)।"
+  }
+}

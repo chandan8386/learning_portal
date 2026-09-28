@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "he – one boy/man; she – one girl/woman; it – one thing or animal",
+      "hi": "he – एक लड़का/आदमी; she – एक लड़की/औरत; it – एक चीज़ या जानवर"
+    },
+    {
+      "en": "they – more than one person or thing",
+      "hi": "they – एक से ज़्यादा लोग या चीज़ें"
+    },
+    {
+      "en": "I and we – when you talk about yourself",
+      "hi": "I और we – जब अपने बारे में बोलो"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Replace the underlined noun: \"Grandma tells stories. Grandma is kind.\"",
+        "hi": "संज्ञा बदलो: \"Grandma tells stories. Grandma is kind.\""
+      },
+      "steps": [
+        {
+          "en": "Grandma is a woman → she.",
+          "hi": "Grandma औरत हैं → she।"
+        }
+      ],
+      "answer": {
+        "en": "Grandma tells stories. She is kind.",
+        "hi": "Grandma tells stories. She is kind."
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"The puppies are hungry. __ want milk.\"",
+        "hi": "भरो: \"The puppies are hungry. __ want milk.\""
+      },
+      "steps": [
+        {
+          "en": "Puppies are more than one → they.",
+          "hi": "Puppies एक से ज़्यादा → they।"
+        }
+      ],
+      "answer": {
+        "en": "They",
+        "hi": "They"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"My uncle is a doctor. __ works in a hospital.\"",
+        "hi": "भरो: \"My uncle is a doctor. __ works in a hospital.\""
+      },
+      "answer": {
+        "en": "He",
+        "hi": "He"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"This book is new. __ has nice pictures.\"",
+        "hi": "भरो: \"This book is new. __ has nice pictures.\""
+      },
+      "answer": {
+        "en": "It",
+        "hi": "It"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"Reena and I are classmates. __ sit together.\"",
+        "hi": "भरो: \"Reena and I are classmates. __ sit together.\""
+      },
+      "answer": {
+        "en": "We",
+        "hi": "We"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A pronoun is used in place of a noun: I, you, he, she, it, we, they. Using pronouns stops us repeating the same noun again and again.",
+    "hi": "सर्वनाम (pronoun) संज्ञा की जगह इस्तेमाल होता है: I, you, he, she, it, we, they। इससे एक ही संज्ञा बार-बार नहीं दोहरानी पड़ती।"
+  }
+}

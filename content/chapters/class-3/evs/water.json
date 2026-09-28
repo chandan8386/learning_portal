@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Sources: rain, river, lake, well, tube well, tap",
+      "hi": "स्रोत: बारिश, नदी, झील, कुआँ, नलकूप, नल"
+    },
+    {
+      "en": "Make water safe: boil, filter, use clean containers.",
+      "hi": "पानी सुरक्षित करो: उबालो, छानो, साफ़ बर्तन रखो।"
+    },
+    {
+      "en": "Rainwater harvesting stores rain for later use.",
+      "hi": "वर्षा जल संचयन बारिश का पानी बाद के लिए जमा करता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How can a family save water while washing a car?",
+        "hi": "कार धोते समय परिवार पानी कैसे बचा सकता है?"
+      },
+      "steps": [
+        {
+          "en": "A running pipe wastes a lot of water.",
+          "hi": "खुला पाइप बहुत पानी बर्बाद करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Use a bucket and cloth instead of a running pipe",
+        "hi": "खुले पाइप की जगह बाल्टी और कपड़ा इस्तेमाल करो"
+      }
+    },
+    {
+      "problem": {
+        "en": "Name a disease caused by dirty water.",
+        "hi": "गंदे पानी से होने वाली एक बीमारी बताओ।"
+      },
+      "steps": [
+        {
+          "en": "Germs in dirty water affect our stomach.",
+          "hi": "गंदे पानी के कीटाणु पेट पर असर करते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Cholera, typhoid or diarrhoea",
+        "hi": "हैज़ा, टाइफ़ाइड या दस्त"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name two sources of water.",
+        "hi": "पानी के दो स्रोत बताओ।"
+      },
+      "answer": {
+        "en": "River and well (also rain, lake, tap)",
+        "hi": "नदी और कुआँ (बारिश, झील, नल भी)"
+      }
+    },
+    {
+      "question": {
+        "en": "How can we make water safe to drink?",
+        "hi": "पानी पीने लायक़ कैसे बनाएँ?"
+      },
+      "answer": {
+        "en": "Boil or filter it",
+        "hi": "उबालकर या छानकर"
+      }
+    },
+    {
+      "question": {
+        "en": "What is storing rainwater for later called?",
+        "hi": "बारिश का पानी जमा करना क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Rainwater harvesting",
+        "hi": "वर्षा जल संचयन"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We get water from rain, rivers, lakes, ponds, wells and hand pumps. Only a little of Earth's water is fit to drink. Dirty water spreads diseases, so we clean it by boiling or filtering, and we save water every day.",
+    "hi": "पानी बारिश, नदी, झील, तालाब, कुएँ और हैंडपंप से मिलता है। धरती का बहुत थोड़ा पानी पीने लायक़ है। गंदा पानी बीमारियाँ फैलाता है, इसलिए उबालकर या छानकर साफ़ करते हैं और रोज़ पानी बचाते हैं।"
+  }
+}

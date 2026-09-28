@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "CPU = Central Processing Unit, the brain of the computer.",
+      "hi": "CPU = सेंट्रल प्रोसेसिंग यूनिट, कंप्यूटर का दिमाग़।"
+    },
+    {
+      "en": "Monitor looks like a TV screen.",
+      "hi": "मॉनिटर टीवी स्क्रीन जैसा दिखता है।"
+    },
+    {
+      "en": "Printer prints on paper.",
+      "hi": "प्रिंटर काग़ज़ पर छापता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which part is called the brain of the computer?",
+        "hi": "कंप्यूटर का दिमाग़ किस भाग को कहते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It does all the thinking work (processing).",
+          "hi": "यह सारा सोचने का काम (प्रोसेसिंग) करता है।"
+        }
+      ],
+      "answer": {
+        "en": "CPU",
+        "hi": "CPU"
+      }
+    },
+    {
+      "problem": {
+        "en": "You want a paper copy of your drawing. Which device do you need?",
+        "hi": "तुम्हें अपनी ड्रॉइंग की काग़ज़ वाली कॉपी चाहिए। कौन-सा उपकरण चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "It puts ink on paper.",
+          "hi": "यह काग़ज़ पर स्याही लगाता है।"
+        }
+      ],
+      "answer": {
+        "en": "Printer",
+        "hi": "प्रिंटर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part do we type with?",
+        "hi": "किससे टाइप करते हैं?"
+      },
+      "answer": {
+        "en": "Keyboard",
+        "hi": "कीबोर्ड"
+      }
+    },
+    {
+      "question": {
+        "en": "Which part shows the output on a screen?",
+        "hi": "कौन-सा भाग स्क्रीन पर परिणाम दिखाता है?"
+      },
+      "answer": {
+        "en": "Monitor",
+        "hi": "मॉनिटर"
+      }
+    },
+    {
+      "question": {
+        "en": "Which part lets us hear music?",
+        "hi": "किससे संगीत सुनते हैं?"
+      },
+      "answer": {
+        "en": "Speakers",
+        "hi": "स्पीकर"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A computer has main parts: the monitor (shows pictures and text), keyboard (for typing), mouse (for pointing and clicking), CPU (the brain that does the work) and speakers (for sound).",
+    "hi": "कंप्यूटर के मुख्य भाग: मॉनिटर (चित्र और शब्द दिखाता है), कीबोर्ड (टाइप करने के लिए), माउस (इशारा और क्लिक), CPU (दिमाग़ जो काम करता है) और स्पीकर (आवाज़ के लिए)।"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "₹1 = 100 paise",
+      "hi": "₹1 = 100 पैसे"
+    },
+    {
+      "en": "Bill: item × quantity, then add all.",
+      "hi": "बिल: चीज़ × संख्या, फिर सब जोड़ो।"
+    },
+    {
+      "en": "Change = money given − total.",
+      "hi": "वापसी = दिए पैसे − कुल।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Make a bill: 3 notebooks at ₹20 each and 2 pens at ₹15 each.",
+        "hi": "बिल बनाओ: ₹20 की 3 कॉपियाँ और ₹15 के 2 पेन।"
+      },
+      "steps": [
+        {
+          "en": "Notebooks: 3 × ₹20 = ₹60.",
+          "hi": "कॉपियाँ: 3 × ₹20 = ₹60।"
+        },
+        {
+          "en": "Pens: 2 × ₹15 = ₹30.",
+          "hi": "पेन: 2 × ₹15 = ₹30।"
+        }
+      ],
+      "answer": {
+        "en": "Total = ₹60 + ₹30 = ₹90",
+        "hi": "कुल = ₹60 + ₹30 = ₹90"
+      }
+    },
+    {
+      "problem": {
+        "en": "You pay ₹100 for that bill. How much change?",
+        "hi": "उस बिल के लिए ₹100 दिए। कितनी वापसी?"
+      },
+      "steps": [
+        {
+          "en": "₹100 − ₹90",
+          "hi": "₹100 − ₹90"
+        }
+      ],
+      "answer": "₹10"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many paise are in ₹5?",
+        "hi": "₹5 में कितने पैसे?"
+      },
+      "answer": "500"
+    },
+    {
+      "question": {
+        "en": "A toy costs ₹45 and a ball ₹35. Total?",
+        "hi": "खिलौना ₹45 और गेंद ₹35। कुल?"
+      },
+      "answer": "₹80"
+    },
+    {
+      "question": {
+        "en": "You give ₹50 for a book of ₹38. Change?",
+        "hi": "₹38 की किताब के लिए ₹50 दिए। वापसी?"
+      },
+      "answer": "₹12"
+    }
+  ],
+  "intro": {
+    "en": "₹1 = 100 paise. We add prices to find the total bill and subtract to find the change. Write rupees and paise with a dot: ₹25.50 means 25 rupees 50 paise.",
+    "hi": "₹1 = 100 पैसे। दाम जोड़कर कुल बिल और घटाकर वापसी निकालते हैं। रुपये-पैसे बिंदु से लिखते हैं: ₹25.50 मतलब 25 रुपये 50 पैसे।"
+  }
+}
