@@ -1,0 +1,72 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "After: count one more.",
+      "hi": "बाद में: एक आगे गिनो।"
+    },
+    {
+      "en": "Before: count one back.",
+      "hi": "पहले: एक पीछे गिनो।"
+    },
+    {
+      "en": "Between: the number in the middle.",
+      "hi": "बीच में: बीच वाली संख्या।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What comes before 20?",
+        "hi": "20 से पहले क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "Count back one from 20.",
+          "hi": "20 से एक पीछे गिनो।"
+        }
+      ],
+      "answer": "19"
+    },
+    {
+      "problem": {
+        "en": "What is between 24 and 26?",
+        "hi": "24 और 26 के बीच क्या है?"
+      },
+      "steps": [
+        {
+          "en": "24, __, 26 → count: 24, 25, 26.",
+          "hi": "24, __, 26 → गिनो: 24, 25, 26।"
+        }
+      ],
+      "answer": "25"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What comes after 33?",
+        "hi": "33 के बाद क्या आता है?"
+      },
+      "answer": "34"
+    },
+    {
+      "question": {
+        "en": "What comes before 41?",
+        "hi": "41 से पहले क्या आता है?"
+      },
+      "answer": "40"
+    },
+    {
+      "question": {
+        "en": "What is between 9 and 11?",
+        "hi": "9 और 11 के बीच क्या है?"
+      },
+      "answer": "10"
+    }
+  ],
+  "intro": {
+    "en": "Numbers have neighbours. For 7, the number before is 6 and the number after is 8. 7 is between 6 and 8.",
+    "hi": "संख्याओं के पड़ोसी होते हैं। 7 से पहले 6 है और 7 के बाद 8। 7, 6 और 8 के बीच में है।"
+  }
+}

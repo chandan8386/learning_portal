@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Blend from left to right.",
+      "hi": "बाएँ से दाएँ मिलाओ।"
+    },
+    {
+      "en": "Word families: -an (can, fan, man), -op (top, hop, mop)",
+      "hi": "शब्द परिवार: -an (can, fan, man), -op (top, hop, mop)"
+    },
+    {
+      "en": "Sight words: the, is, was, he, she, we",
+      "hi": "पहचान शब्द: the, is, was, he, she, we"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Read: f-a-n",
+        "hi": "पढ़ो: f-a-n"
+      },
+      "steps": [
+        {
+          "en": "Say f … a … n, then blend fast.",
+          "hi": "f … a … n बोलो, फिर जल्दी मिलाओ।"
+        }
+      ],
+      "answer": {
+        "en": "fan 🪭",
+        "hi": "fan 🪭"
+      }
+    },
+    {
+      "problem": {
+        "en": "Change the first letter of \"hop\" to \"m\". What word do you get?",
+        "hi": "\"hop\" का पहला अक्षर \"m\" करो। कौन-सा शब्द बना?"
+      },
+      "steps": [
+        {
+          "en": "h-op → m-op",
+          "hi": "h-op → m-op"
+        }
+      ],
+      "answer": {
+        "en": "mop",
+        "hi": "mop"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Read: j-u-g",
+        "hi": "पढ़ो: j-u-g"
+      },
+      "answer": {
+        "en": "jug",
+        "hi": "jug"
+      }
+    },
+    {
+      "question": {
+        "en": "Make an -an word starting with \"c\".",
+        "hi": "\"c\" से -an वाला शब्द बनाओ।"
+      },
+      "answer": {
+        "en": "can",
+        "hi": "can"
+      }
+    },
+    {
+      "question": {
+        "en": "Read the sight word: \"was\"",
+        "hi": "पहचान शब्द पढ़ो: \"was\""
+      },
+      "answer": {
+        "en": "was (था)",
+        "hi": "was (था)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We read small words by blending sounds: b-a-g → bag. Some words like \"the\", \"is\" and \"was\" we learn by sight.",
+    "hi": "छोटे शब्द ध्वनियाँ मिलाकर पढ़ते हैं: b-a-g → bag। \"the\", \"is\", \"was\" जैसे शब्द देखकर पहचानते हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "We cannot live without water and air.",
+      "hi": "पानी और हवा के बिना नहीं जी सकते।"
+    },
+    {
+      "en": "Moving air is called wind.",
+      "hi": "चलती हवा को पवन कहते हैं।"
+    },
+    {
+      "en": "Air fills balloons and helps kites fly.",
+      "hi": "हवा गुब्बारे भरती है और पतंग उड़ाती है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you know air is there even though you cannot see it?",
+        "hi": "हवा दिखती नहीं, फिर कैसे पता चलता है कि वह है?"
+      },
+      "steps": [
+        {
+          "en": "Watch leaves move and feel the wind on your face.",
+          "hi": "पत्तों को हिलते देखो और चेहरे पर हवा महसूस करो।"
+        }
+      ],
+      "answer": {
+        "en": "We can feel it and see things move in the wind",
+        "hi": "हम उसे महसूस करते हैं और हवा से चीज़ें हिलती दिखती हैं"
+      }
+    },
+    {
+      "problem": {
+        "en": "What fills a balloon when you blow into it?",
+        "hi": "फूँक मारने पर गुब्बारे में क्या भरता है?"
+      },
+      "steps": [
+        {
+          "en": "We breathe out air into it.",
+          "hi": "हम उसमें हवा छोड़ते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Air",
+        "hi": "हवा"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Can we see air?",
+        "hi": "क्या हवा दिखती है?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one use of water.",
+        "hi": "पानी का एक उपयोग बताओ।"
+      },
+      "answer": {
+        "en": "Drinking, cooking, bathing, washing (any one)",
+        "hi": "पीना, खाना बनाना, नहाना, धोना (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "What helps a kite fly?",
+        "hi": "पतंग को उड़ने में कौन मदद करता है?"
+      },
+      "answer": {
+        "en": "Wind (air)",
+        "hi": "हवा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Water and air are very important for life. We drink water and use it to cook and clean. Air is everywhere; we cannot see it, but we can feel it when the wind blows. We breathe air.",
+    "hi": "पानी और हवा जीवन के लिए बहुत ज़रूरी हैं। हम पानी पीते हैं और खाना बनाने व सफ़ाई में इस्तेमाल करते हैं। हवा हर जगह है; दिखती नहीं, पर हवा चलने पर महसूस होती है। हम हवा में साँस लेते हैं।"
+  }
+}

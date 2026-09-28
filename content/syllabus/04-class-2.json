@@ -1,0 +1,722 @@
+{
+  "slug": "class-2",
+  "name": "Class 2",
+  "nameHi": "कक्षा 2",
+  "order": 4,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "7–8",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Mridang (reference)",
+      "chapters": [
+        {
+          "title": "Phonics: Blends and Digraphs",
+          "titleHi": "फ़ोनिक्स: मिश्रित ध्वनियाँ",
+          "topics": [
+            "bl cl fl",
+            "sh ch th",
+            "Long Vowel Sounds"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read blends like bl, cl, fl",
+              "hi": "bl, cl, fl जैसी मिश्रित ध्वनियाँ पढ़ना"
+            },
+            {
+              "en": "Read digraphs like sh, ch, th",
+              "hi": "sh, ch, th जैसी ध्वनियाँ पढ़ना"
+            }
+          ]
+        },
+        {
+          "title": "Nouns",
+          "titleHi": "संज्ञा",
+          "topics": [
+            "Naming Words",
+            "One and Many",
+            "Boy and Girl Words"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Identify nouns",
+              "hi": "संज्ञा पहचानना"
+            },
+            {
+              "en": "Change one to many",
+              "hi": "एक से अनेक बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Pronouns",
+          "titleHi": "सर्वनाम",
+          "topics": [
+            "He, She, It",
+            "I, We, They"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Use he, she, it, I, we, they",
+              "hi": "he, she, it, I, we, they का प्रयोग"
+            },
+            {
+              "en": "Replace nouns with pronouns",
+              "hi": "संज्ञा की जगह सर्वनाम लगाना"
+            }
+          ]
+        },
+        {
+          "title": "Verbs",
+          "titleHi": "क्रिया",
+          "topics": [
+            "Action Words",
+            "is, am, are"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Identify action words",
+              "hi": "काम वाले शब्द पहचानना"
+            },
+            {
+              "en": "Use is, am and are correctly",
+              "hi": "is, am, are का सही प्रयोग"
+            }
+          ]
+        },
+        {
+          "title": "Describing Words",
+          "titleHi": "विशेषण",
+          "topics": [
+            "Colour and Size Words",
+            "Opposites"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Use colour and size words",
+              "hi": "रंग और आकार वाले शब्द"
+            },
+            {
+              "en": "Learn opposites",
+              "hi": "विलोम शब्द सीखना"
+            }
+          ]
+        },
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "topics": [
+            "Poem: The Sun",
+            "Poem: My Kite"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recite poems with rhythm",
+              "hi": "लय के साथ कविता सुनाना"
+            },
+            {
+              "en": "Find rhyming words",
+              "hi": "तुक वाले शब्द ढूँढना"
+            }
+          ]
+        },
+        {
+          "title": "Stories",
+          "titleHi": "कहानियाँ",
+          "topics": [
+            "Story: The Kind Elephant",
+            "Story: The Clever Rabbit"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read short stories",
+              "hi": "छोटी कहानियाँ पढ़ना"
+            },
+            {
+              "en": "Answer questions about characters and events",
+              "hi": "पात्रों और घटनाओं पर सवालों के जवाब"
+            }
+          ]
+        },
+        {
+          "title": "Writing",
+          "titleHi": "लेखन",
+          "topics": [
+            "Writing Sentences",
+            "Describing a Picture"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Write simple sentences",
+              "hi": "आसान वाक्य लिखना"
+            },
+            {
+              "en": "Describe a picture in writing",
+              "hi": "चित्र का वर्णन लिखना"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Sarangi (reference)",
+      "chapters": [
+        {
+          "title": "Matra Revision",
+          "titleHi": "मात्राओं की दोहराई",
+          "topics": [
+            {
+              "title": "All Matras",
+              "titleHi": "सभी मात्राएँ"
+            }
+          ],
+          "learningOutcomes": [
+            "सभी मात्राएँ दोहराना",
+            "मात्रा वाले शब्द पढ़ना-लिखना"
+          ]
+        },
+        {
+          "title": "Chandrabindu and Anusvar",
+          "titleHi": "चंद्रबिंदु और अनुस्वार",
+          "topics": [
+            {
+              "title": "Chandrabindu",
+              "titleHi": "चंद्रबिंदु (ँ)"
+            },
+            {
+              "title": "Anusvar",
+              "titleHi": "अनुस्वार (ं)"
+            }
+          ],
+          "learningOutcomes": [
+            "चंद्रबिंदु और अनुस्वार पहचानना",
+            "इनके शब्द पढ़ना-लिखना"
+          ]
+        },
+        {
+          "title": "Conjunct Letters",
+          "titleHi": "संयुक्त अक्षर",
+          "topics": [
+            {
+              "title": "Half Letters",
+              "titleHi": "आधे अक्षर"
+            },
+            {
+              "title": "ra ke roop",
+              "titleHi": "र के रूप"
+            }
+          ],
+          "learningOutcomes": [
+            "आधे अक्षर वाले शब्द पढ़ना",
+            "र के अलग रूप पहचानना"
+          ]
+        },
+        {
+          "title": "Noun and Gender",
+          "titleHi": "संज्ञा और लिंग",
+          "topics": [
+            {
+              "title": "Sangya",
+              "titleHi": "संज्ञा"
+            },
+            {
+              "title": "Ling",
+              "titleHi": "लिंग"
+            }
+          ],
+          "learningOutcomes": [
+            "संज्ञा पहचानना",
+            "पुल्लिंग और स्त्रीलिंग बताना"
+          ]
+        },
+        {
+          "title": "Singular and Plural",
+          "titleHi": "वचन",
+          "topics": [
+            {
+              "title": "Ek aur Anek",
+              "titleHi": "एक और अनेक"
+            }
+          ],
+          "learningOutcomes": [
+            "एक और अनेक शब्द बनाना",
+            "वचन बदलकर वाक्य लिखना"
+          ]
+        },
+        {
+          "title": "Opposite Words",
+          "titleHi": "विलोम शब्द",
+          "topics": [
+            {
+              "title": "Vilom",
+              "titleHi": "विलोम शब्द"
+            }
+          ],
+          "learningOutcomes": [
+            "विलोम शब्द सीखना",
+            "वाक्यों में विलोम का प्रयोग"
+          ]
+        },
+        {
+          "title": "Poems and Stories",
+          "titleHi": "कविताएँ और कहानियाँ",
+          "topics": [
+            {
+              "title": "Poem: Bulbul",
+              "titleHi": "कविता: बुलबुल"
+            },
+            {
+              "title": "Story: Mitthu",
+              "titleHi": "कहानी: मिट्ठू"
+            }
+          ],
+          "learningOutcomes": [
+            "कविताएँ लय से पढ़ना",
+            "कहानी पढ़कर प्रश्नों के उत्तर देना"
+          ]
+        },
+        {
+          "title": "Writing",
+          "titleHi": "लेखन",
+          "topics": [
+            {
+              "title": "Picture Description",
+              "titleHi": "चित्र वर्णन"
+            },
+            {
+              "title": "Short Paragraph",
+              "titleHi": "छोटा अनुच्छेद"
+            }
+          ],
+          "learningOutcomes": [
+            "चित्र देखकर वर्णन लिखना",
+            "छोटा अनुच्छेद लिखना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Joyful Mathematics (reference)",
+      "chapters": [
+        {
+          "title": "Numbers up to 100",
+          "titleHi": "100 तक संख्याएँ",
+          "topics": [
+            "Tens and Ones",
+            "Number Names",
+            "Comparing Numbers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read and write numbers up to 100",
+              "hi": "100 तक संख्याएँ पढ़ना-लिखना"
+            },
+            {
+              "en": "Compare and order numbers",
+              "hi": "संख्याओं की तुलना और क्रम"
+            }
+          ]
+        },
+        {
+          "title": "Numbers up to 999",
+          "titleHi": "999 तक संख्याएँ",
+          "topics": [
+            "Hundreds, Tens, Ones",
+            "Expanded Form"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Understand hundreds, tens and ones",
+              "hi": "सैकड़ा, दहाई और इकाई समझना"
+            },
+            {
+              "en": "Write numbers in expanded form",
+              "hi": "संख्या का विस्तारित रूप लिखना"
+            }
+          ]
+        },
+        {
+          "title": "Addition up to 99",
+          "titleHi": "99 तक जोड़",
+          "topics": [
+            "Adding Without Carrying",
+            "Adding With Carrying",
+            "Word Problems"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Add 2-digit numbers with and without carrying",
+              "hi": "हासिल के साथ और बिना दो अंकों का जोड़"
+            },
+            {
+              "en": "Solve addition word problems",
+              "hi": "जोड़ के इबारती सवाल"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction up to 99",
+          "titleHi": "99 तक घटाव",
+          "topics": [
+            "Subtracting Without Borrowing",
+            "Subtracting With Borrowing",
+            "Word Problems"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Subtract 2-digit numbers with and without borrowing",
+              "hi": "उधार के साथ और बिना दो अंकों का घटाव"
+            },
+            {
+              "en": "Check subtraction by adding",
+              "hi": "जोड़कर घटाव की जाँच"
+            }
+          ]
+        },
+        {
+          "title": "Multiplication Readiness",
+          "titleHi": "गुणा की शुरुआत",
+          "topics": [
+            "Repeated Addition",
+            "Tables of 2, 5 and 10"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "See multiplication as repeated addition",
+              "hi": "गुणा को बार-बार जोड़ के रूप में समझना"
+            },
+            {
+              "en": "Learn tables of 2, 5 and 10",
+              "hi": "2, 5 और 10 के पहाड़े"
+            }
+          ]
+        },
+        {
+          "title": "Shapes and Lines",
+          "titleHi": "आकृतियाँ और रेखाएँ",
+          "topics": [
+            "Straight and Curved Lines",
+            "2D Shapes",
+            "Corners and Sides"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tell straight lines from curved lines",
+              "hi": "सीधी और घुमावदार रेखाएँ पहचानना"
+            },
+            {
+              "en": "Count sides and corners of shapes",
+              "hi": "आकृतियों की भुजाएँ और कोने गिनना"
+            }
+          ]
+        },
+        {
+          "title": "Measurement",
+          "titleHi": "माप",
+          "topics": [
+            "Length in cm and m",
+            "Weight in kg",
+            "Capacity in litres"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Measure length in cm and m",
+              "hi": "लंबाई से.मी. और मी. में नापना"
+            },
+            {
+              "en": "Measure weight in kg and liquids in litres",
+              "hi": "वज़न कि.ग्रा. और तरल ली. में"
+            }
+          ]
+        },
+        {
+          "title": "Time",
+          "titleHi": "समय",
+          "topics": [
+            "Reading the Clock",
+            "Months of the Year",
+            "Calendar"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read time on a clock",
+              "hi": "घड़ी में समय पढ़ना"
+            },
+            {
+              "en": "Know the months of the year",
+              "hi": "साल के महीने"
+            }
+          ]
+        },
+        {
+          "title": "Money",
+          "titleHi": "पैसा",
+          "topics": [
+            "Adding Money",
+            "Making a Bill"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Add prices to find the total",
+              "hi": "दाम जोड़कर कुल निकालना"
+            },
+            {
+              "en": "Find the change to be returned",
+              "hi": "वापसी के पैसे निकालना"
+            }
+          ]
+        },
+        {
+          "title": "Patterns and Data",
+          "titleHi": "पैटर्न और आँकड़े",
+          "topics": [
+            "Number Patterns",
+            "Pictographs"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Continue number patterns",
+              "hi": "संख्या पैटर्न आगे बढ़ाना"
+            },
+            {
+              "en": "Read pictographs",
+              "hi": "चित्रालेख पढ़ना"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us",
+      "nameHi": "हमारे आस-पास",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        {
+          "title": "Our Body and Health",
+          "titleHi": "हमारा शरीर और स्वास्थ्य",
+          "topics": [
+            "Sense Organs",
+            "Keeping Healthy"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name sense organs",
+              "hi": "ज्ञानेंद्रियों के नाम"
+            },
+            {
+              "en": "Keep our body healthy and clean",
+              "hi": "शरीर को स्वस्थ और साफ़ रखना"
+            }
+          ]
+        },
+        {
+          "title": "Food and Water",
+          "titleHi": "भोजन और पानी",
+          "topics": [
+            "Balanced Food",
+            "Clean Drinking Water"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know what a balanced meal is",
+              "hi": "संतुलित भोजन क्या है"
+            },
+            {
+              "en": "Drink clean water",
+              "hi": "साफ़ पानी पीना"
+            }
+          ]
+        },
+        {
+          "title": "Our Neighbourhood",
+          "titleHi": "हमारा पड़ोस",
+          "topics": [
+            "Places Around Us",
+            "Community Helpers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name places in our neighbourhood",
+              "hi": "पड़ोस की जगहों के नाम"
+            },
+            {
+              "en": "Know community helpers",
+              "hi": "हमारे सहायक"
+            }
+          ]
+        },
+        {
+          "title": "Plants",
+          "titleHi": "पौधे",
+          "topics": [
+            "Parts of a Plant",
+            "How Plants Grow"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name parts of a plant",
+              "hi": "पौधे के भाग"
+            },
+            {
+              "en": "Know how plants grow",
+              "hi": "पौधे कैसे उगते हैं"
+            }
+          ]
+        },
+        {
+          "title": "Animals",
+          "titleHi": "जानवर",
+          "topics": [
+            "Animal Food",
+            "Animal Homes",
+            "Animal Young Ones"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know what animals eat",
+              "hi": "जानवर क्या खाते हैं"
+            },
+            {
+              "en": "Know animal homes and young ones",
+              "hi": "जानवरों के घर और बच्चे"
+            }
+          ]
+        },
+        {
+          "title": "Weather and Seasons",
+          "titleHi": "मौसम और ऋतुएँ",
+          "topics": [
+            "Sunny, Rainy, Windy",
+            "Seasons of India"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Describe sunny, rainy and windy weather",
+              "hi": "धूप, बारिश और हवा वाला मौसम"
+            },
+            {
+              "en": "Name the seasons of India",
+              "hi": "भारत की ऋतुएँ"
+            }
+          ]
+        },
+        {
+          "title": "Travel and Communication",
+          "titleHi": "यात्रा और संचार",
+          "topics": [
+            "Means of Transport",
+            "Means of Communication"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name means of transport",
+              "hi": "यातायात के साधन"
+            },
+            {
+              "en": "Name means of communication",
+              "hi": "संचार के साधन"
+            }
+          ]
+        },
+        {
+          "title": "Our Country",
+          "titleHi": "हमारा देश",
+          "topics": [
+            "National Symbols",
+            "Festivals of India"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know our national symbols",
+              "hi": "हमारे राष्ट्रीय प्रतीक"
+            },
+            {
+              "en": "Name festivals of India",
+              "hi": "भारत के त्योहार"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "art-health",
+      "name": "Art, Health and Well-being",
+      "nameHi": "कला, स्वास्थ्य और खुशहाली",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        {
+          "title": "Drawing and Craft",
+          "titleHi": "चित्रकारी और शिल्प",
+          "topics": [
+            "Draw a Village",
+            "Paper Boat"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Draw a village scene",
+              "hi": "गाँव का दृश्य बनाना"
+            },
+            {
+              "en": "Make a paper boat",
+              "hi": "कागज़ की नाव बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Music and Dance",
+          "titleHi": "संगीत और नृत्य",
+          "topics": [
+            "Rhythm Games",
+            "Folk Dance Steps"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Play rhythm games",
+              "hi": "ताल वाले खेल"
+            },
+            {
+              "en": "Learn simple folk dance steps",
+              "hi": "लोक नृत्य के आसान कदम"
+            }
+          ]
+        },
+        {
+          "title": "Yoga and Games",
+          "titleHi": "योग और खेल",
+          "topics": [
+            "Breathing Exercises",
+            "Team Games"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Do breathing exercises",
+              "hi": "साँस के व्यायाम"
+            },
+            {
+              "en": "Play team games",
+              "hi": "टीम वाले खेल"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

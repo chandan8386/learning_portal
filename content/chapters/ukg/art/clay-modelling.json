@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Roll between palms to make a ball.",
+      "hi": "हथेलियों के बीच घुमाकर गोला बनाओ।"
+    },
+    {
+      "en": "Roll on the table to make a long snake.",
+      "hi": "मेज़ पर बेलकर लंबा साँप बनाओ।"
+    },
+    {
+      "en": "Wash hands after playing with clay.",
+      "hi": "मिट्टी से खेलने के बाद हाथ धोओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you make a clay apple?",
+        "hi": "मिट्टी का सेब कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Roll red clay into a ball.",
+          "hi": "लाल मिट्टी का गोला बनाओ।"
+        },
+        {
+          "en": "Add a small brown stick and a green leaf on top.",
+          "hi": "ऊपर छोटी भूरी डंडी और हरा पत्ता लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A red clay apple 🍎",
+        "hi": "लाल मिट्टी का सेब 🍎"
+      }
+    },
+    {
+      "problem": {
+        "en": "How do you make a clay snake?",
+        "hi": "मिट्टी का साँप कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Roll the clay on the table into a long rope.",
+          "hi": "मिट्टी को मेज़ पर लंबी रस्सी जैसा बेलो।"
+        },
+        {
+          "en": "Curl it and add two tiny eyes.",
+          "hi": "मोड़ो और दो छोटी आँखें लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A long curly snake 🐍",
+        "hi": "लंबा घुमावदार साँप 🐍"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which shape do we roll for a banana: ball or long shape?",
+        "hi": "केले के लिए कौन-सा आकार बेलें: गोला या लंबा?"
+      },
+      "answer": {
+        "en": "Long shape",
+        "hi": "लंबा आकार"
+      }
+    },
+    {
+      "question": {
+        "en": "What should you do after clay play?",
+        "hi": "मिट्टी से खेलने के बाद क्या करना चाहिए?"
+      },
+      "answer": {
+        "en": "Wash hands",
+        "hi": "हाथ धोने चाहिए"
+      }
+    },
+    {
+      "question": {
+        "en": "Which colour clay for an orange?",
+        "hi": "संतरे के लिए किस रंग की मिट्टी?"
+      },
+      "answer": {
+        "en": "Orange",
+        "hi": "नारंगी"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Clay is soft and we can shape it with our hands. Roll it into a ball to make an apple, or into a long snake!",
+    "hi": "मिट्टी नरम होती है और हाथों से आकार दे सकते हैं। गोला बनाकर सेब बनाओ, या लंबा बेलकर साँप!"
+  }
+}

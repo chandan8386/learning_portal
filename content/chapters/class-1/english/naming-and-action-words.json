@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Naming words: people, places, animals, things.",
+      "hi": "नाम वाले शब्द: लोग, जगहें, जानवर, चीज़ें।"
+    },
+    {
+      "en": "Action words: things we do.",
+      "hi": "काम वाले शब्द: जो काम हम करते हैं।"
+    },
+    {
+      "en": "One and many: one cat, two cats.",
+      "hi": "एक और अनेक: one cat, two cats।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the action word: \"The bird flies.\"",
+        "hi": "काम वाला शब्द ढूँढो: \"The bird flies.\""
+      },
+      "steps": [
+        {
+          "en": "Ask: what does the bird do?",
+          "hi": "पूछो: चिड़िया क्या करती है?"
+        }
+      ],
+      "answer": {
+        "en": "flies",
+        "hi": "flies"
+      }
+    },
+    {
+      "problem": {
+        "en": "Make it many: one pen, three __",
+        "hi": "अनेक बनाओ: one pen, three __"
+      },
+      "steps": [
+        {
+          "en": "For many, we usually add \"s\".",
+          "hi": "अनेक के लिए अक्सर \"s\" जोड़ते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "pens",
+        "hi": "pens"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find the naming word: \"The dog barks.\"",
+        "hi": "नाम वाला शब्द ढूँढो: \"The dog barks.\""
+      },
+      "answer": {
+        "en": "dog",
+        "hi": "dog"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"sing\" a naming word or an action word?",
+        "hi": "\"sing\" नाम वाला शब्द है या काम वाला?"
+      },
+      "answer": {
+        "en": "Action word",
+        "hi": "काम वाला"
+      }
+    },
+    {
+      "question": {
+        "en": "one book, two __",
+        "hi": "one book, two __"
+      },
+      "answer": {
+        "en": "books",
+        "hi": "books"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Naming words are names: boy, tree, Delhi. Action words tell what someone does: run, eat, jump. \"The boy runs.\" – boy is naming, runs is action.",
+    "hi": "नाम वाले शब्द नाम बताते हैं: boy, tree, Delhi। काम वाले शब्द बताते हैं कोई क्या करता है: run, eat, jump। \"The boy runs.\" – boy नाम, runs काम।"
+  }
+}

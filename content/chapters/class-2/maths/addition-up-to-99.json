@@ -1,0 +1,48 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "To add 2-digit numbers, write them one below the other. Add the ones first, then the tens. If the ones add up to 10 or more, carry 1 ten to the tens column.",
+    "hi": "दो अंकों की संख्याएँ जोड़ने के लिए उन्हें एक के नीचे एक लिखो। पहले इकाई जोड़ो, फिर दहाई। अगर इकाई का जोड़ 10 या ज़्यादा हो, तो 1 दहाई हासिल बनकर दहाई वाले कॉलम में जाती है।"
+  },
+  "keyPoints": [
+    { "en": "Always start from the ones column (right side).", "hi": "हमेशा इकाई वाले कॉलम (दाईं ओर) से शुरू करो।" },
+    { "en": "Carry over: 7 + 5 = 12 → write 2, carry 1 ten.", "hi": "हासिल: 7 + 5 = 12 → 2 लिखो, 1 दहाई हासिल।" },
+    { "en": "Check by adding in the other order.", "hi": "क्रम बदलकर जोड़ने से जाँच करो।" }
+  ],
+  "examples": [
+    {
+      "title": { "en": "Without carrying", "hi": "बिना हासिल" },
+      "problem": "34 + 25",
+      "steps": [
+        { "en": "Ones: 4 + 5 = 9", "hi": "इकाई: 4 + 5 = 9" },
+        { "en": "Tens: 3 + 2 = 5", "hi": "दहाई: 3 + 2 = 5" }
+      ],
+      "answer": "59"
+    },
+    {
+      "title": { "en": "With carrying", "hi": "हासिल के साथ" },
+      "problem": "47 + 38",
+      "steps": [
+        { "en": "Ones: 7 + 8 = 15 → write 5, carry 1.", "hi": "इकाई: 7 + 8 = 15 → 5 लिखो, 1 हासिल।" },
+        { "en": "Tens: 4 + 3 + 1 (carried) = 8", "hi": "दहाई: 4 + 3 + 1 (हासिल) = 8" }
+      ],
+      "answer": "85"
+    },
+    {
+      "title": { "en": "Word problem", "hi": "इबारती प्रश्न" },
+      "problem": { "en": "A school has 46 boys and 37 girls in Class 2. How many children in all?", "hi": "कक्षा 2 में 46 लड़के और 37 लड़कियाँ हैं। कुल कितने बच्चे हैं?" },
+      "steps": [
+        { "en": "In all means add: 46 + 37.", "hi": "कुल का मतलब जोड़: 46 + 37।" },
+        { "en": "Ones: 6 + 7 = 13 → write 3, carry 1.", "hi": "इकाई: 6 + 7 = 13 → 3 लिखो, 1 हासिल।" },
+        { "en": "Tens: 4 + 3 + 1 = 8", "hi": "दहाई: 4 + 3 + 1 = 8" }
+      ],
+      "answer": { "en": "83 children", "hi": "83 बच्चे" }
+    }
+  ],
+  "practice": [
+    { "question": "52 + 36 = ?", "answer": "88" },
+    { "question": "29 + 45 = ?", "answer": "74", "solution": [{ "en": "Ones: 9 + 5 = 14 → 4, carry 1", "hi": "इकाई: 9 + 5 = 14 → 4, हासिल 1" }, { "en": "Tens: 2 + 4 + 1 = 7", "hi": "दहाई: 2 + 4 + 1 = 7" }] },
+    { "question": "68 + 17 = ?", "answer": "85" },
+    { "question": { "en": "Raju has ₹35 and his mother gives him ₹48. How much does he have now?", "hi": "राजू के पास ₹35 हैं, माँ ने ₹48 और दिए। अब कितने हैं?" }, "answer": "₹83" }
+  ]
+}

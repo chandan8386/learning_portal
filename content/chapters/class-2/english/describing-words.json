@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Colour words: red, blue, green",
+      "hi": "रंग: red, blue, green"
+    },
+    {
+      "en": "Size words: big, small, tall, short",
+      "hi": "आकार: big, small, tall, short"
+    },
+    {
+      "en": "Opposites: hot–cold, old–new, fast–slow, happy–sad",
+      "hi": "विलोम: hot–cold, old–new, fast–slow, happy–sad"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the describing word: \"I have a new bag.\"",
+        "hi": "विशेषण ढूँढो: \"I have a new bag.\""
+      },
+      "steps": [
+        {
+          "en": "Which word tells us more about the bag?",
+          "hi": "कौन-सा शब्द बैग के बारे में और बताता है?"
+        }
+      ],
+      "answer": {
+        "en": "new",
+        "hi": "new"
+      }
+    },
+    {
+      "problem": {
+        "en": "What is the opposite of \"fast\"?",
+        "hi": "\"fast\" का विलोम क्या है?"
+      },
+      "steps": [
+        {
+          "en": "A tortoise is not fast. It is …",
+          "hi": "कछुआ तेज़ नहीं है। वह है …"
+        }
+      ],
+      "answer": {
+        "en": "slow",
+        "hi": "slow"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find the describing word: \"The elephant is big.\"",
+        "hi": "विशेषण ढूँढो: \"The elephant is big.\""
+      },
+      "answer": {
+        "en": "big",
+        "hi": "big"
+      }
+    },
+    {
+      "question": {
+        "en": "Opposite of \"hot\"?",
+        "hi": "\"hot\" का विलोम?"
+      },
+      "answer": {
+        "en": "cold",
+        "hi": "cold"
+      }
+    },
+    {
+      "question": {
+        "en": "Opposite of \"happy\"?",
+        "hi": "\"happy\" का विलोम?"
+      },
+      "answer": {
+        "en": "sad",
+        "hi": "sad"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Describing words (adjectives) tell us more about a noun: its colour, size, shape or feeling. \"a red ball\", \"a tall tree\", \"a happy girl\". Opposites are words with opposite meanings: big–small.",
+    "hi": "विशेषण (adjective) संज्ञा के बारे में और बताते हैं: रंग, आकार, रूप या भावना। \"a red ball\", \"a tall tree\", \"a happy girl\"। विलोम उलटे अर्थ वाले शब्द हैं: big–small।"
+  }
+}

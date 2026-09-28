@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Primary colours: red, yellow, blue.",
+      "hi": "मूल रंग: लाल, पीला, नीला।"
+    },
+    {
+      "en": "Mix colours to make new ones.",
+      "hi": "रंग मिलाकर नए रंग बनाओ।"
+    },
+    {
+      "en": "Red + yellow = orange; blue + yellow = green; red + blue = purple",
+      "hi": "लाल + पीला = नारंगी; नीला + पीला = हरा; लाल + नीला = बैंगनी"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What colour do you get by mixing blue and yellow?",
+        "hi": "नीला और पीला मिलाने से कौन-सा रंग बनता है?"
+      },
+      "steps": [
+        {
+          "en": "Mix a little blue into yellow and look.",
+          "hi": "पीले में थोड़ा नीला मिलाकर देखो।"
+        }
+      ],
+      "answer": {
+        "en": "Green",
+        "hi": "हरा"
+      }
+    },
+    {
+      "problem": {
+        "en": "How do you draw a person?",
+        "hi": "व्यक्ति कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Circle for the head, oval for the body.",
+          "hi": "सिर के लिए गोला, शरीर के लिए अंडाकार।"
+        },
+        {
+          "en": "Lines for arms and legs, then a face.",
+          "hi": "हाथ-पैर के लिए रेखाएँ, फिर चेहरा।"
+        }
+      ],
+      "answer": {
+        "en": "Circle head + oval body + line arms and legs 🧍",
+        "hi": "गोल सिर + अंडाकार शरीर + रेखाओं वाले हाथ-पैर 🧍"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Red + yellow = ?",
+        "hi": "लाल + पीला = ?"
+      },
+      "answer": {
+        "en": "Orange",
+        "hi": "नारंगी"
+      }
+    },
+    {
+      "question": {
+        "en": "Red + blue = ?",
+        "hi": "लाल + नीला = ?"
+      },
+      "answer": {
+        "en": "Purple",
+        "hi": "बैंगनी"
+      }
+    },
+    {
+      "question": {
+        "en": "Name the three primary colours.",
+        "hi": "तीन मूल रंगों के नाम बताओ।"
+      },
+      "answer": {
+        "en": "Red, yellow, blue",
+        "hi": "लाल, पीला, नीला"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Let us draw our family! Draw each person with a circle face, a body and arms and legs. Then colour clothes, hair and a smiling face.",
+    "hi": "आओ अपना परिवार बनाएँ! हर व्यक्ति को गोल चेहरा, शरीर, हाथ और पैर बनाओ। फिर कपड़े, बाल और मुस्कुराता चेहरा रंगो।"
+  }
+}

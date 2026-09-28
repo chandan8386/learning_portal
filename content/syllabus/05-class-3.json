@@ -1,0 +1,433 @@
+{
+  "slug": "class-3",
+  "name": "Class 3",
+  "nameHi": "कक्षा 3",
+  "order": 5,
+  "stage": "PREPARATORY",
+  "ageRange": "8–9",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Santoor (reference)",
+      "chapters": [
+        {
+          "title": "Reading with Expression",
+          "learningOutcomes": [
+            "Read aloud with the right pauses and expression",
+            "Understand what you read"
+          ]
+        },
+        {
+          "title": "Nouns: Common and Proper",
+          "learningOutcomes": [
+            "Tell common nouns from proper nouns",
+            "Use capital letters for proper nouns"
+          ]
+        },
+        {
+          "title": "Pronouns",
+          "learningOutcomes": [
+            "Use pronouns in place of nouns",
+            "Choose the right pronoun for a person or thing"
+          ]
+        },
+        {
+          "title": "Verbs and Tenses: Present",
+          "learningOutcomes": [
+            "Use verbs in the simple present tense",
+            "Use is, am and are correctly"
+          ]
+        },
+        {
+          "title": "Adjectives",
+          "learningOutcomes": [
+            "Use adjectives to describe people and things",
+            "Add adjectives to make sentences interesting"
+          ]
+        },
+        {
+          "title": "Articles: a, an, the",
+          "learningOutcomes": [
+            "Use a, an and the correctly",
+            "Choose a or an by the first sound"
+          ]
+        },
+        {
+          "title": "Prepositions of Place",
+          "learningOutcomes": [
+            "Use in, on, under, behind and between",
+            "Describe where things are"
+          ]
+        },
+        {
+          "title": "Punctuation",
+          "learningOutcomes": [
+            "Use full stops, commas and question marks",
+            "Use capital letters correctly"
+          ]
+        },
+        {
+          "title": "Poems",
+          "learningOutcomes": [
+            "Recite poems with rhythm",
+            "Find rhyming words and their meaning"
+          ]
+        },
+        {
+          "title": "Stories and Comprehension",
+          "learningOutcomes": [
+            "Read stories and answer questions",
+            "Tell the main idea of a story"
+          ]
+        },
+        {
+          "title": "Writing: Sentences and Short Paragraphs",
+          "learningOutcomes": [
+            "Write clear sentences",
+            "Write a short paragraph on a familiar topic"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Veena (reference)",
+      "chapters": [
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविता का भाव समझना",
+            "लय के साथ कविता पढ़ना"
+          ]
+        },
+        {
+          "title": "Stories",
+          "titleHi": "कहानियाँ",
+          "learningOutcomes": [
+            "कहानी पढ़कर प्रश्नों के उत्तर देना",
+            "कहानी की सीख बताना"
+          ]
+        },
+        {
+          "title": "Noun",
+          "titleHi": "संज्ञा",
+          "learningOutcomes": [
+            "संज्ञा पहचानना",
+            "वाक्यों में संज्ञा का प्रयोग"
+          ]
+        },
+        {
+          "title": "Pronoun",
+          "titleHi": "सर्वनाम",
+          "learningOutcomes": [
+            "सर्वनाम पहचानना",
+            "संज्ञा की जगह सर्वनाम लगाना"
+          ]
+        },
+        {
+          "title": "Verb",
+          "titleHi": "क्रिया",
+          "learningOutcomes": [
+            "क्रिया पहचानना",
+            "क्रिया वाले वाक्य बनाना"
+          ]
+        },
+        {
+          "title": "Gender and Number",
+          "titleHi": "लिंग और वचन",
+          "learningOutcomes": [
+            "लिंग बदलना",
+            "वचन बदलना"
+          ]
+        },
+        {
+          "title": "Synonyms and Antonyms",
+          "titleHi": "पर्यायवाची और विलोम शब्द",
+          "learningOutcomes": [
+            "पर्यायवाची शब्द सीखना",
+            "विलोम शब्द सीखना"
+          ]
+        },
+        {
+          "title": "Picture Description and Letter",
+          "titleHi": "चित्र वर्णन और पत्र",
+          "learningOutcomes": [
+            "चित्र देखकर वर्णन लिखना",
+            "छोटा पत्र लिखना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Maths Mela (reference)",
+      "chapters": [
+        {
+          "title": "Numbers up to 9999",
+          "learningOutcomes": [
+            "Read and write 4-digit numbers",
+            "Compare and order numbers up to 9999"
+          ]
+        },
+        {
+          "title": "Addition",
+          "learningOutcomes": [
+            "Add 3- and 4-digit numbers with carrying",
+            "Solve addition word problems"
+          ]
+        },
+        {
+          "title": "Subtraction",
+          "learningOutcomes": [
+            "Subtract 3- and 4-digit numbers with borrowing",
+            "Check answers by adding"
+          ]
+        },
+        {
+          "title": "Multiplication",
+          "learningOutcomes": [
+            "Multiply using tables and repeated addition",
+            "Multiply a 2-digit number by a 1-digit number"
+          ]
+        },
+        {
+          "title": "Division",
+          "learningOutcomes": [
+            "Divide by sharing and grouping",
+            "Find quotient and remainder"
+          ]
+        },
+        {
+          "title": "Fractions: Half, Quarter, Three-Quarters",
+          "learningOutcomes": [
+            "Understand half, quarter and three-quarters",
+            "Find a fraction of a group"
+          ]
+        },
+        {
+          "title": "Shapes and Designs",
+          "learningOutcomes": [
+            "Identify 2D shapes and simple designs",
+            "Draw shapes on a grid"
+          ]
+        },
+        {
+          "title": "Length, Weight and Capacity",
+          "learningOutcomes": [
+            "Measure length, weight and capacity",
+            "Use standard units"
+          ]
+        },
+        {
+          "title": "Time and Calendar",
+          "learningOutcomes": [
+            "Read time to the nearest 5 minutes",
+            "Read a calendar"
+          ]
+        },
+        {
+          "title": "Money",
+          "learningOutcomes": [
+            "Add and subtract money",
+            "Make simple bills"
+          ]
+        },
+        {
+          "title": "Patterns",
+          "learningOutcomes": [
+            "Find and extend patterns",
+            "Make patterns with numbers and shapes"
+          ]
+        },
+        {
+          "title": "Data Handling",
+          "learningOutcomes": [
+            "Collect data in tables",
+            "Read pictographs"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us (EVS)",
+      "nameHi": "हमारे आस-पास (पर्यावरण)",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        {
+          "title": "Family and Friends",
+          "learningOutcomes": [
+            "Know different kinds of families",
+            "Value friends and relatives"
+          ]
+        },
+        {
+          "title": "Food We Eat",
+          "learningOutcomes": [
+            "Know where our food comes from",
+            "Eat a balanced diet"
+          ]
+        },
+        {
+          "title": "Water",
+          "learningOutcomes": [
+            "Know sources of water",
+            "Save water"
+          ]
+        },
+        {
+          "title": "Shelter",
+          "learningOutcomes": [
+            "Know different kinds of houses",
+            "Know why we need shelter"
+          ]
+        },
+        {
+          "title": "Plants Around Us",
+          "learningOutcomes": [
+            "Identify plants around us",
+            "Know parts of a plant and their uses"
+          ]
+        },
+        {
+          "title": "Animals Around Us",
+          "learningOutcomes": [
+            "Know animals around us",
+            "Know what animals eat and where they live"
+          ]
+        },
+        {
+          "title": "Our Body",
+          "learningOutcomes": [
+            "Know our body parts and their care",
+            "Follow healthy habits"
+          ]
+        },
+        {
+          "title": "Travel and Transport",
+          "learningOutcomes": [
+            "Know means of transport",
+            "Follow travel safety rules"
+          ]
+        },
+        {
+          "title": "Things We Make and Do",
+          "learningOutcomes": [
+            "Know things people make, like pots and cloth",
+            "Respect different kinds of work"
+          ]
+        },
+        {
+          "title": "Maps and Directions",
+          "learningOutcomes": [
+            "Use directions: north, south, east, west",
+            "Read a simple map"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Basics",
+      "nameHi": "कंप्यूटर की जानकारी",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "What is a Computer?",
+          "learningOutcomes": [
+            "Know what a computer is",
+            "Know where computers are used"
+          ]
+        },
+        {
+          "title": "Parts of a Computer",
+          "learningOutcomes": [
+            "Name the parts of a computer",
+            "Know what each part does"
+          ]
+        },
+        {
+          "title": "Using the Mouse and Keyboard",
+          "learningOutcomes": [
+            "Use the mouse to click, double-click and drag",
+            "Type letters and numbers on the keyboard"
+          ]
+        },
+        {
+          "title": "Drawing with Paint",
+          "learningOutcomes": [
+            "Draw shapes with a paint program",
+            "Colour and save a drawing"
+          ]
+        },
+        {
+          "title": "Safe Use of Computers",
+          "learningOutcomes": [
+            "Sit properly at a computer",
+            "Use computers safely"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gk",
+      "name": "General Knowledge",
+      "nameHi": "सामान्य ज्ञान",
+      "icon": "💡",
+      "color": "amber",
+      "chapters": [
+        {
+          "title": "Our India",
+          "learningOutcomes": [
+            "Know India's states, symbols and famous places",
+            "Know our national festivals"
+          ]
+        },
+        {
+          "title": "Animal World",
+          "learningOutcomes": [
+            "Know interesting facts about animals",
+            "Know animal homes and young ones"
+          ]
+        },
+        {
+          "title": "Science Around Us",
+          "learningOutcomes": [
+            "Know simple science in daily life",
+            "Ask why and how questions"
+          ]
+        },
+        {
+          "title": "Sports and Games",
+          "learningOutcomes": [
+            "Know popular sports and famous players",
+            "Value teamwork"
+          ]
+        },
+        {
+          "title": "Good Values",
+          "learningOutcomes": [
+            "Practise honesty, kindness and sharing",
+            "Respect elders and helpers"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Add -s: cat → cats, book → books",
+      "hi": "-s जोड़ो: cat → cats, book → books"
+    },
+    {
+      "en": "Add -es after s, x, ch, sh: bus → buses, box → boxes",
+      "hi": "s, x, ch, sh के बाद -es: bus → buses, box → boxes"
+    },
+    {
+      "en": "Gender pairs: boy–girl, man–woman, king–queen, lion–lioness",
+      "hi": "लिंग जोड़े: boy–girl, man–woman, king–queen, lion–lioness"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the nouns: \"Meena went to the market.\"",
+        "hi": "संज्ञाएँ ढूँढो: \"Meena went to the market.\""
+      },
+      "steps": [
+        {
+          "en": "Meena is a person.",
+          "hi": "Meena एक व्यक्ति है।"
+        },
+        {
+          "en": "market is a place.",
+          "hi": "market एक जगह है।"
+        }
+      ],
+      "answer": {
+        "en": "Meena, market",
+        "hi": "Meena, market"
+      }
+    },
+    {
+      "problem": {
+        "en": "Make many: one watch, two __",
+        "hi": "अनेक बनाओ: one watch, two __"
+      },
+      "steps": [
+        {
+          "en": "watch ends in \"ch\", so add -es.",
+          "hi": "watch का अंत \"ch\" है, तो -es जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "watches",
+        "hi": "watches"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Make many: one dish, three __",
+        "hi": "अनेक बनाओ: one dish, three __"
+      },
+      "answer": {
+        "en": "dishes",
+        "hi": "dishes"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the girl word for \"king\"?",
+        "hi": "\"king\" का लड़की वाला शब्द क्या है?"
+      },
+      "answer": {
+        "en": "queen",
+        "hi": "queen"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the noun: \"The bird sings.\"",
+        "hi": "संज्ञा ढूँढो: \"The bird sings.\""
+      },
+      "answer": {
+        "en": "bird",
+        "hi": "bird"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A noun is a naming word: the name of a person, place, animal or thing. Most nouns become \"many\" by adding -s or -es: box → boxes. Some words change for boys and girls: king → queen.",
+    "hi": "संज्ञा (noun) नाम वाला शब्द है: व्यक्ति, जगह, जानवर या चीज़ का नाम। ज़्यादातर संज्ञाओं में -s या -es जोड़कर अनेक बनाते हैं: box → boxes। कुछ शब्द लड़का-लड़की के लिए बदलते हैं: king → queen।"
+  }
+}

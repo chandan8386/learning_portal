@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Hockey legend: Major Dhyan Chand (National Sports Day, 29 August)",
+      "hi": "हॉकी के जादूगर: मेजर ध्यानचंद (राष्ट्रीय खेल दिवस, 29 अगस्त)"
+    },
+    {
+      "en": "India won the Cricket World Cup in 1983 and 2011.",
+      "hi": "भारत ने 1983 और 2011 में क्रिकेट विश्व कप जीता।"
+    },
+    {
+      "en": "Chess champion: Viswanathan Anand; boxing: Mary Kom",
+      "hi": "शतरंज चैंपियन: विश्वनाथन आनंद; मुक्केबाज़ी: मैरी कॉम"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why is 29 August celebrated as National Sports Day?",
+        "hi": "29 अगस्त राष्ट्रीय खेल दिवस क्यों है?"
+      },
+      "steps": [
+        {
+          "en": "It is the birthday of India's greatest hockey player.",
+          "hi": "यह भारत के महानतम हॉकी खिलाड़ी का जन्मदिन है।"
+        }
+      ],
+      "answer": {
+        "en": "It is Major Dhyan Chand's birthday",
+        "hi": "यह मेजर ध्यानचंद का जन्मदिन है"
+      }
+    },
+    {
+      "problem": {
+        "en": "In which years did India win the Cricket World Cup (50 overs)?",
+        "hi": "भारत ने (50 ओवर) क्रिकेट विश्व कप किन सालों में जीता?"
+      },
+      "steps": [
+        {
+          "en": "First under Kapil Dev, then under M. S. Dhoni.",
+          "hi": "पहले कपिल देव की कप्तानी में, फिर एम. एस. धोनी की।"
+        }
+      ],
+      "answer": {
+        "en": "1983 and 2011",
+        "hi": "1983 और 2011"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Mary Kom is famous for which sport?",
+        "hi": "मैरी कॉम किस खेल के लिए प्रसिद्ध हैं?"
+      },
+      "answer": {
+        "en": "Boxing",
+        "hi": "मुक्केबाज़ी"
+      }
+    },
+    {
+      "question": {
+        "en": "Viswanathan Anand plays which game?",
+        "hi": "विश्वनाथन आनंद कौन-सा खेल खेलते हैं?"
+      },
+      "answer": {
+        "en": "Chess",
+        "hi": "शतरंज"
+      }
+    },
+    {
+      "question": {
+        "en": "Which sport made Dhyan Chand famous?",
+        "hi": "ध्यानचंद किस खेल के लिए प्रसिद्ध हुए?"
+      },
+      "answer": {
+        "en": "Hockey",
+        "hi": "हॉकी"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India has a rich sports history. Hockey brought many Olympic golds. Cricket is hugely popular. Famous events include the Olympics, the Commonwealth Games, the Asian Games and cricket's World Cup.",
+    "hi": "भारत का खेल इतिहास समृद्ध है। हॉकी में कई ओलंपिक स्वर्ण मिले। क्रिकेट बहुत लोकप्रिय है। प्रसिद्ध आयोजन हैं ओलंपिक, राष्ट्रमंडल खेल, एशियाई खेल और क्रिकेट विश्व कप।"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Eyes to see, ears to hear",
+      "hi": "आँखें देखने के लिए, कान सुनने के लिए"
+    },
+    {
+      "en": "Hands to hold, legs to walk",
+      "hi": "हाथ पकड़ने के लिए, पैर चलने के लिए"
+    },
+    {
+      "en": "We have 2 eyes, 2 ears, 1 nose and 1 mouth.",
+      "hi": "हमारी 2 आँखें, 2 कान, 1 नाक और 1 मुँह है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which part do we use to smell a flower 🌸?",
+        "hi": "फूल 🌸 सूँघने के लिए कौन-सा अंग?"
+      },
+      "steps": [
+        {
+          "en": "We smell with the part in the middle of our face.",
+          "hi": "चेहरे के बीच वाले अंग से सूँघते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Nose",
+        "hi": "नाक"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which part do we use to walk?",
+        "hi": "चलने के लिए कौन-सा अंग?"
+      },
+      "steps": [
+        {
+          "en": "We stand and walk on them.",
+          "hi": "इन पर खड़े होकर चलते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Legs",
+        "hi": "पैर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part do we use to hear music?",
+        "hi": "गाना सुनने के लिए कौन-सा अंग?"
+      },
+      "answer": {
+        "en": "Ears",
+        "hi": "कान"
+      }
+    },
+    {
+      "question": {
+        "en": "How many eyes do you have?",
+        "hi": "तुम्हारी कितनी आँखें हैं?"
+      },
+      "answer": "2"
+    },
+    {
+      "question": {
+        "en": "Which part do we use to clap?",
+        "hi": "ताली बजाने के लिए कौन-सा अंग?"
+      },
+      "answer": {
+        "en": "Hands",
+        "hi": "हाथ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Our body has many parts. We see with our eyes 👀, hear with our ears 👂, smell with our nose 👃 and eat with our mouth 👄.",
+    "hi": "हमारे शरीर के कई अंग हैं। आँखों 👀 से देखते हैं, कानों 👂 से सुनते हैं, नाक 👃 से सूँघते हैं और मुँह 👄 से खाते हैं।"
+  }
+}

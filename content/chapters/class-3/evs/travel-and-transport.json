@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Old transport: bullock cart, horse cart, camel",
+      "hi": "पुराने साधन: बैलगाड़ी, तांगा, ऊँट"
+    },
+    {
+      "en": "Cycles and walking cause no pollution.",
+      "hi": "साइकिल और पैदल चलने से प्रदूषण नहीं होता।"
+    },
+    {
+      "en": "Follow road rules: wear a helmet and seat belt.",
+      "hi": "सड़क नियम मानो: हेलमेट और सीट बेल्ट लगाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which animal is used to travel in the desert?",
+        "hi": "रेगिस्तान में यात्रा के लिए कौन-सा जानवर इस्तेमाल होता है?"
+      },
+      "steps": [
+        {
+          "en": "It can walk on sand and go without water for many days.",
+          "hi": "यह रेत पर चल सकता है और कई दिन बिना पानी रह सकता है।"
+        }
+      ],
+      "answer": {
+        "en": "Camel 🐫",
+        "hi": "ऊँट 🐫"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why is cycling good for the environment?",
+        "hi": "साइकिल चलाना पर्यावरण के लिए अच्छा क्यों है?"
+      },
+      "steps": [
+        {
+          "en": "A cycle does not burn petrol or diesel.",
+          "hi": "साइकिल पेट्रोल या डीज़ल नहीं जलाती।"
+        }
+      ],
+      "answer": {
+        "en": "It causes no smoke or pollution",
+        "hi": "इससे धुआँ या प्रदूषण नहीं होता"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which is faster: a train or a bullock cart?",
+        "hi": "कौन तेज़ है: ट्रेन या बैलगाड़ी?"
+      },
+      "answer": {
+        "en": "Train",
+        "hi": "ट्रेन"
+      }
+    },
+    {
+      "question": {
+        "en": "What should you wear while riding a scooter?",
+        "hi": "स्कूटर चलाते समय क्या पहनना चाहिए?"
+      },
+      "answer": {
+        "en": "Helmet",
+        "hi": "हेलमेट"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one old means of transport.",
+        "hi": "एक पुराना यातायात साधन बताओ।"
+      },
+      "answer": {
+        "en": "Bullock cart, horse cart (tonga), palki (any one)",
+        "hi": "बैलगाड़ी, तांगा, पालकी (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "People travel for work, study, holidays and to meet family. Long ago people walked or used animal carts. Today we use cycles, buses, trains, ships and aeroplanes. Faster transport saves time but uses fuel.",
+    "hi": "लोग काम, पढ़ाई, छुट्टी और रिश्तेदारों से मिलने के लिए यात्रा करते हैं। पहले लोग पैदल या पशु-गाड़ी से चलते थे। आज साइकिल, बस, ट्रेन, जहाज़ और हवाई जहाज़ इस्तेमाल होते हैं। तेज़ साधन समय बचाते हैं पर ईंधन खर्च करते हैं।"
+  }
+}

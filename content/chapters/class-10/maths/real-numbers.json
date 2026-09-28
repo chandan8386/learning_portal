@@ -1,0 +1,63 @@
+{
+  "status": "REVIEWED",
+  "intro": "Every composite number can be written as a product of primes in exactly one way (apart from the order). This is the Fundamental Theorem of Arithmetic. We use it to find HCF and LCM, and to prove that numbers like √2 and √3 are irrational.",
+  "keyPoints": [
+    "Fundamental Theorem of Arithmetic: every composite number = product of primes, uniquely.",
+    "HCF = product of the smallest power of each common prime factor.",
+    "LCM = product of the greatest power of each prime factor involved.",
+    "For two positive integers a and b: HCF(a, b) × LCM(a, b) = a × b.",
+    "If p is prime and p divides a², then p divides a. This is used to prove √p is irrational."
+  ],
+  "formulas": ["HCF(a, b) × LCM(a, b) = a × b"],
+  "examples": [
+    {
+      "title": "HCF and LCM by prime factorisation",
+      "problem": "Find the HCF and LCM of 96 and 404, and verify HCF × LCM = product of the numbers.",
+      "steps": [
+        "96 = 2 × 2 × 2 × 2 × 2 × 3 = 2⁵ × 3",
+        "404 = 2 × 2 × 101 = 2² × 101",
+        "HCF = smallest power of common primes = 2² = 4",
+        "LCM = 2⁵ × 3 × 101 = 9696",
+        "Check: 4 × 9696 = 38784 and 96 × 404 = 38784 ✓"
+      ],
+      "answer": "HCF = 4, LCM = 9696"
+    },
+    {
+      "title": "Using HCF × LCM = a × b",
+      "problem": "Given HCF(306, 657) = 9, find LCM(306, 657).",
+      "steps": [
+        "LCM = (306 × 657) ÷ HCF",
+        "= (306 × 657) ÷ 9",
+        "657 ÷ 9 = 73, so LCM = 306 × 73 = 22338"
+      ],
+      "answer": "LCM = 22338"
+    },
+    {
+      "title": "Can a number end with zero?",
+      "problem": "Check whether 6ⁿ can end with the digit 0 for any natural number n.",
+      "steps": [
+        "A number ending in 0 is divisible by 10 = 2 × 5, so its prime factors must include 5.",
+        "6ⁿ = (2 × 3)ⁿ = 2ⁿ × 3ⁿ",
+        "By uniqueness of prime factorisation, 5 is never a prime factor of 6ⁿ."
+      ],
+      "answer": "No, 6ⁿ can never end with 0."
+    },
+    {
+      "title": "Proving irrationality",
+      "problem": "Prove that √3 is irrational.",
+      "steps": [
+        "Assume √3 is rational: √3 = a/b where a, b are co-prime integers, b ≠ 0.",
+        "Then 3b² = a², so 3 divides a², hence 3 divides a. Write a = 3c.",
+        "3b² = 9c² ⇒ b² = 3c², so 3 divides b² and hence 3 divides b.",
+        "So 3 divides both a and b, which contradicts that a and b are co-prime."
+      ],
+      "answer": "Our assumption is wrong, so √3 is irrational."
+    }
+  ],
+  "practice": [
+    { "question": "Express 140 as a product of its prime factors.", "answer": "140 = 2² × 5 × 7" },
+    { "question": "Find the HCF and LCM of 12, 15 and 21.", "answer": "HCF = 3, LCM = 420", "solution": ["12 = 2² × 3, 15 = 3 × 5, 21 = 3 × 7", "HCF = 3", "LCM = 2² × 3 × 5 × 7 = 420"] },
+    { "question": "Find the LCM and HCF of 26 and 91 and verify LCM × HCF = product of the numbers.", "answer": "HCF = 13, LCM = 182", "solution": ["26 = 2 × 13, 91 = 7 × 13", "HCF = 13, LCM = 2 × 7 × 13 = 182", "13 × 182 = 2366 = 26 × 91 ✓"] },
+    { "question": "Prove that 5 − √3 is irrational.", "hint": "Assume it is rational and isolate √3.", "answer": "Assume 5 − √3 = a/b (rational). Then √3 = 5 − a/b = (5b − a)/b, which is rational. This contradicts that √3 is irrational, so 5 − √3 is irrational." }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "REVIEWED",
+  "intro": "Light travels in straight lines. It bounces back from mirrors (reflection) and bends when it passes from one medium to another (refraction). Using the New Cartesian sign convention, one formula works for all spherical mirrors and another for all lenses.",
+  "keyPoints": [
+    "Sign convention: distances are measured from the pole/optical centre; along the incident light is positive, against it is negative; heights above the axis are positive.",
+    "For a spherical mirror, R = 2f.",
+    "Concave mirror and convex lens can form real, inverted images; convex mirror and concave lens always form virtual, erect, diminished images.",
+    "Refractive index n = c/v (speed of light in vacuum ÷ speed in the medium).",
+    "Power of a lens P = 1/f (f in metres), unit dioptre (D). Convex lens: +, concave lens: −."
+  ],
+  "formulas": [
+    "Mirror: 1/v + 1/u = 1/f, m = −v/u",
+    "Lens: 1/v − 1/u = 1/f, m = v/u",
+    "n = c/v",
+    "P = 1/f (f in m)"
+  ],
+  "examples": [
+    {
+      "title": "Concave mirror",
+      "problem": "An object is placed 25 cm in front of a concave mirror of focal length 15 cm. Find the position and nature of the image.",
+      "steps": [
+        "u = −25 cm, f = −15 cm",
+        "1/v = 1/f − 1/u = −1/15 + 1/25 = (−5 + 3)/75 = −2/75",
+        "v = −37.5 cm",
+        "m = −v/u = −(−37.5)/(−25) = −1.5"
+      ],
+      "answer": "Image 37.5 cm in front of the mirror; real, inverted and 1.5 times magnified."
+    },
+    {
+      "title": "Convex lens",
+      "problem": "An object is placed 15 cm from a convex lens of focal length 10 cm. Find the image position and magnification.",
+      "steps": ["u = −15 cm, f = +10 cm", "1/v = 1/f + 1/u = 1/10 − 1/15 = 1/30", "v = +30 cm", "m = v/u = 30/(−15) = −2"],
+      "answer": "Image 30 cm on the other side; real, inverted, twice the size."
+    },
+    {
+      "title": "Power of a lens",
+      "problem": "Find the power of a convex lens of focal length 50 cm.",
+      "steps": ["f = 50 cm = 0.5 m", "P = 1/0.5"],
+      "answer": "P = +2 D"
+    },
+    {
+      "title": "Refractive index",
+      "problem": "The speed of light in glass is 2 × 10⁸ m/s. Find the refractive index of glass. (c = 3 × 10⁸ m/s)",
+      "steps": ["n = c/v = (3 × 10⁸)/(2 × 10⁸)"],
+      "answer": "n = 1.5"
+    }
+  ],
+  "practice": [
+    { "question": "A spherical mirror has a radius of curvature of 20 cm. Find its focal length.", "answer": "10 cm" },
+    { "question": "Find the power of a concave lens of focal length 25 cm.", "answer": "−4 D", "solution": ["f = −0.25 m ⇒ P = 1/(−0.25) = −4 D"] },
+    { "question": "An object is 10 cm in front of a convex mirror of focal length 15 cm. Find the image position.", "answer": "v = +6 cm (behind the mirror); virtual, erect, m = 0.6", "solution": ["1/v = 1/f − 1/u = 1/15 + 1/10 = 5/30 ⇒ v = 6 cm", "m = −v/u = −6/(−10) = 0.6"] }
+  ]
+}

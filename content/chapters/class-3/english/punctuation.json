@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Capital letters: start of a sentence, names, and the word \"I\".",
+      "hi": "बड़े अक्षर: वाक्य की शुरुआत, नाम और \"I\"।"
+    },
+    {
+      "en": "Commas in a list: apples, bananas and grapes.",
+      "hi": "सूची में अल्पविराम: apples, bananas and grapes।"
+    },
+    {
+      "en": "! for surprise, joy or fear: Wow! Help!",
+      "hi": "! आश्चर्य, ख़ुशी या डर के लिए: Wow! Help!"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Punctuate: \"what is your name\"",
+        "hi": "विराम चिह्न लगाओ: \"what is your name\""
+      },
+      "steps": [
+        {
+          "en": "Start with a capital: What.",
+          "hi": "बड़े अक्षर से शुरू करो: What।"
+        },
+        {
+          "en": "It asks something → end with ?.",
+          "hi": "यह कुछ पूछ रहा है → ? लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "What is your name?",
+        "hi": "What is your name?"
+      }
+    },
+    {
+      "problem": {
+        "en": "Punctuate: \"i bought pens pencils and erasers\"",
+        "hi": "विराम चिह्न लगाओ: \"i bought pens pencils and erasers\""
+      },
+      "steps": [
+        {
+          "en": "Capital I at the start.",
+          "hi": "शुरू में बड़ा I।"
+        },
+        {
+          "en": "Comma between list items; full stop at the end.",
+          "hi": "सूची की चीज़ों में अल्पविराम; अंत में पूर्ण विराम।"
+        }
+      ],
+      "answer": {
+        "en": "I bought pens, pencils and erasers.",
+        "hi": "I bought pens, pencils and erasers."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which mark ends \"How old are you\"?",
+        "hi": "\"How old are you\" के अंत में कौन-सा चिह्न?"
+      },
+      "answer": {
+        "en": "?",
+        "hi": "?"
+      }
+    },
+    {
+      "question": {
+        "en": "Which mark ends \"What a beautiful flower\"?",
+        "hi": "\"What a beautiful flower\" के अंत में कौन-सा चिह्न?"
+      },
+      "answer": {
+        "en": "!",
+        "hi": "!"
+      }
+    },
+    {
+      "question": {
+        "en": "Punctuate: \"we went to the zoo\"",
+        "hi": "विराम चिह्न लगाओ: \"we went to the zoo\""
+      },
+      "answer": {
+        "en": "We went to the zoo.",
+        "hi": "We went to the zoo."
+      }
+    }
+  ],
+  "intro": {
+    "en": "Punctuation marks help us read correctly. A full stop (.) ends a sentence, a question mark (?) ends a question, a comma (,) separates items in a list, and an exclamation mark (!) shows strong feeling.",
+    "hi": "विराम चिह्न सही पढ़ने में मदद करते हैं। पूर्ण विराम (.) वाक्य ख़त्म करता है, प्रश्नवाचक चिह्न (?) प्रश्न ख़त्म करता है, अल्पविराम (,) सूची की चीज़ों को अलग करता है, और विस्मयादिबोधक (!) तेज़ भावना दिखाता है।"
+  }
+}

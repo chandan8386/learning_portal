@@ -1,0 +1,59 @@
+{
+  "status": "REVIEWED",
+  "intro": "Two linear equations in x and y can be solved together to find the values that satisfy both. Graphically each equation is a straight line; the solution is where the lines meet. We solve algebraically by substitution or elimination.",
+  "keyPoints": [
+    "For a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0:",
+    "a₁/a₂ ≠ b₁/b₂ ⇒ lines intersect, exactly one solution (consistent).",
+    "a₁/a₂ = b₁/b₂ = c₁/c₂ ⇒ lines coincide, infinitely many solutions (consistent).",
+    "a₁/a₂ = b₁/b₂ ≠ c₁/c₂ ⇒ lines are parallel, no solution (inconsistent).",
+    "Substitution: express one variable from one equation and put it in the other.",
+    "Elimination: make the coefficients of one variable equal, then add or subtract."
+  ],
+  "examples": [
+    {
+      "title": "Elimination",
+      "problem": "Solve x + y = 14 and x − y = 4.",
+      "steps": [
+        "Add the equations: 2x = 18 ⇒ x = 9",
+        "Put x = 9 in x + y = 14: y = 5"
+      ],
+      "answer": "x = 9, y = 5"
+    },
+    {
+      "title": "Substitution",
+      "problem": "Solve 7x − 15y = 2 and x + 2y = 3.",
+      "steps": [
+        "From the second equation: x = 3 − 2y",
+        "Substitute: 7(3 − 2y) − 15y = 2 ⇒ 21 − 29y = 2 ⇒ y = 19/29",
+        "x = 3 − 2(19/29) = (87 − 38)/29 = 49/29"
+      ],
+      "answer": "x = 49/29, y = 19/29"
+    },
+    {
+      "title": "Word problem",
+      "problem": "5 pencils and 7 pens cost ₹50, while 7 pencils and 5 pens cost ₹46. Find the cost of one pencil and one pen.",
+      "steps": [
+        "Let a pencil cost ₹x and a pen ₹y: 5x + 7y = 50 and 7x + 5y = 46",
+        "Add: 12x + 12y = 96 ⇒ x + y = 8",
+        "Subtract (second − first): 2x − 2y = −4 ⇒ x − y = −2",
+        "Add these: 2x = 6 ⇒ x = 3, so y = 5",
+        "Check: 5(3) + 7(5) = 50 ✓ and 7(3) + 5(5) = 46 ✓"
+      ],
+      "answer": "Pencil ₹3, pen ₹5"
+    },
+    {
+      "title": "Checking consistency",
+      "problem": "How many solutions do 2x + 3y = 9 and 4x + 6y = 18 have?",
+      "steps": [
+        "a₁/a₂ = 2/4 = 1/2, b₁/b₂ = 3/6 = 1/2, c₁/c₂ = 9/18 = 1/2",
+        "All three ratios are equal, so the lines coincide."
+      ],
+      "answer": "Infinitely many solutions."
+    }
+  ],
+  "practice": [
+    { "question": "Solve 2x + y = 7 and x − y = 2.", "answer": "x = 3, y = 1", "solution": ["Add: 3x = 9 ⇒ x = 3", "3 − y = 2 ⇒ y = 1"] },
+    { "question": "Is the pair 3x + 2y = 5 and 2x − 3y = 7 consistent?", "answer": "Yes, it has a unique solution because 3/2 ≠ 2/(−3)." },
+    { "question": "The sum of the ages of a father and son is 50 years. The father is 4 times as old as the son. Find their ages.", "answer": "Son 10 years, father 40 years", "solution": ["f + s = 50 and f = 4s", "4s + s = 50 ⇒ s = 10, f = 40"] }
+  ]
+}

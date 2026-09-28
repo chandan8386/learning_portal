@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Pause a little at a comma (,) and a little longer at a full stop (.).",
+      "hi": "अल्पविराम (,) पर थोड़ा रुको, पूर्ण विराम (.) पर थोड़ा ज़्यादा।"
+    },
+    {
+      "en": "Raise your voice at the end of a question (?).",
+      "hi": "प्रश्न (?) के अंत में आवाज़ ऊपर करो।"
+    },
+    {
+      "en": "Show feeling at an exclamation mark (!).",
+      "hi": "विस्मयादिबोधक (!) पर भावना दिखाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How will you read: \"Where is my bag?\"",
+        "hi": "कैसे पढ़ोगे: \"Where is my bag?\""
+      },
+      "steps": [
+        {
+          "en": "It ends with a question mark.",
+          "hi": "यह प्रश्नवाचक चिह्न पर ख़त्म होता है।"
+        },
+        {
+          "en": "Raise your voice at \"bag?\"",
+          "hi": "\"bag?\" पर आवाज़ ऊपर करो।"
+        }
+      ],
+      "answer": {
+        "en": "Like a question, voice going up at the end",
+        "hi": "प्रश्न की तरह, अंत में आवाज़ ऊपर"
+      }
+    },
+    {
+      "problem": {
+        "en": "How will you read: \"Hurray! We won the match!\"",
+        "hi": "कैसे पढ़ोगे: \"Hurray! We won the match!\""
+      },
+      "steps": [
+        {
+          "en": "The exclamation marks show great joy.",
+          "hi": "विस्मयादिबोधक चिह्न बहुत ख़ुशी दिखाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Loudly and happily",
+        "hi": "ज़ोर से और ख़ुशी से"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where do you pause longer: at a comma or a full stop?",
+        "hi": "कहाँ ज़्यादा रुकते हो: अल्पविराम पर या पूर्ण विराम पर?"
+      },
+      "answer": {
+        "en": "At a full stop",
+        "hi": "पूर्ण विराम पर"
+      }
+    },
+    {
+      "question": {
+        "en": "What feeling does \"Oh no! I dropped my ice cream!\" show?",
+        "hi": "\"Oh no! I dropped my ice cream!\" कौन-सी भावना दिखाता है?"
+      },
+      "answer": {
+        "en": "Sadness / disappointment",
+        "hi": "दुख / निराशा"
+      }
+    },
+    {
+      "question": {
+        "en": "Which mark tells you to read as a question?",
+        "hi": "कौन-सा चिह्न बताता है कि प्रश्न की तरह पढ़ो?"
+      },
+      "answer": {
+        "en": "Question mark (?)",
+        "hi": "प्रश्नवाचक चिह्न (?)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Reading with expression means reading the way people speak: pausing at commas and full stops, raising your voice for questions and sounding excited for exclamations.",
+    "hi": "भाव के साथ पढ़ने का मतलब है वैसे पढ़ना जैसे लोग बोलते हैं: अल्पविराम और पूर्ण विराम पर रुकना, प्रश्न पर आवाज़ ऊपर करना और विस्मयादिबोधक पर उत्साह से बोलना।"
+  }
+}

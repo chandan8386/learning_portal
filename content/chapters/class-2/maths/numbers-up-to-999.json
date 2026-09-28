@@ -1,0 +1,44 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "After 99 comes 100. Three-digit numbers have hundreds, tens and ones. 347 means 3 hundreds, 4 tens and 7 ones.",
+    "hi": "99 के बाद 100 आता है। तीन अंकों की संख्या में सैकड़ा, दहाई और इकाई होते हैं। 347 का मतलब 3 सैकड़ा, 4 दहाई और 7 इकाई।"
+  },
+  "keyPoints": [
+    { "en": "10 ones = 1 ten; 10 tens = 1 hundred.", "hi": "10 इकाई = 1 दहाई; 10 दहाई = 1 सैकड़ा।" },
+    { "en": "Expanded form: 347 = 300 + 40 + 7.", "hi": "विस्तारित रूप: 347 = 300 + 40 + 7।" },
+    { "en": "The smallest 3-digit number is 100, the biggest is 999.", "hi": "सबसे छोटी तीन अंकों की संख्या 100 है, सबसे बड़ी 999।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Write 582 in expanded form.", "hi": "582 को विस्तारित रूप में लिखो।" },
+      "steps": [
+        { "en": "5 hundreds = 500", "hi": "5 सैकड़ा = 500" },
+        { "en": "8 tens = 80", "hi": "8 दहाई = 80" },
+        { "en": "2 ones = 2", "hi": "2 इकाई = 2" }
+      ],
+      "answer": "582 = 500 + 80 + 2"
+    },
+    {
+      "problem": { "en": "Which is bigger: 409 or 490?", "hi": "कौन बड़ा है: 409 या 490?" },
+      "steps": [
+        { "en": "Hundreds are the same (4).", "hi": "सैकड़े बराबर हैं (4)।" },
+        { "en": "Tens: 0 and 9. 9 tens is more.", "hi": "दहाई: 0 और 9। 9 दहाई ज़्यादा है।" }
+      ],
+      "answer": "490 > 409"
+    },
+    {
+      "problem": { "en": "Write the number: 6 hundreds, 0 tens, 5 ones.", "hi": "संख्या लिखो: 6 सैकड़ा, 0 दहाई, 5 इकाई।" },
+      "steps": [
+        { "en": "600 + 0 + 5", "hi": "600 + 0 + 5" }
+      ],
+      "answer": "605"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many hundreds are in 700?", "hi": "700 में कितने सैकड़े हैं?" }, "answer": "7" },
+    { "question": { "en": "Write 900 + 30 + 1 as a number.", "hi": "900 + 30 + 1 को संख्या में लिखो।" }, "answer": "931" },
+    { "question": { "en": "What comes just after 399?", "hi": "399 के ठीक बाद क्या आता है?" }, "answer": "400" },
+    { "question": { "en": "Put > or <: 256 __ 265", "hi": "> या < लगाओ: 256 __ 265" }, "answer": "256 < 265" }
+  ]
+}

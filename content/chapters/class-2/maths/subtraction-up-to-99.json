@@ -1,0 +1,49 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "To subtract, write the bigger number on top. Subtract the ones first, then the tens. If the top ones digit is smaller, borrow 1 ten (10 ones) from the tens column.",
+    "hi": "घटाने के लिए बड़ी संख्या ऊपर लिखो। पहले इकाई घटाओ, फिर दहाई। अगर ऊपर का इकाई अंक छोटा हो, तो दहाई से 1 दहाई (10 इकाई) उधार लो।"
+  },
+  "keyPoints": [
+    { "en": "Start from the ones column.", "hi": "इकाई वाले कॉलम से शुरू करो।" },
+    { "en": "Borrowing: 1 ten becomes 10 ones.", "hi": "उधार: 1 दहाई = 10 इकाई।" },
+    { "en": "Check: answer + number taken away = starting number.", "hi": "जाँच: उत्तर + घटाई गई संख्या = शुरू वाली संख्या।" }
+  ],
+  "examples": [
+    {
+      "title": { "en": "Without borrowing", "hi": "बिना उधार" },
+      "problem": "78 − 35",
+      "steps": [
+        { "en": "Ones: 8 − 5 = 3", "hi": "इकाई: 8 − 5 = 3" },
+        { "en": "Tens: 7 − 3 = 4", "hi": "दहाई: 7 − 3 = 4" }
+      ],
+      "answer": "43"
+    },
+    {
+      "title": { "en": "With borrowing", "hi": "उधार के साथ" },
+      "problem": "62 − 27",
+      "steps": [
+        { "en": "Ones: 2 is less than 7, so borrow 1 ten. 12 − 7 = 5.", "hi": "इकाई: 2, 7 से छोटा है, इसलिए 1 दहाई उधार लो। 12 − 7 = 5।" },
+        { "en": "Tens: 6 − 1 (borrowed) = 5, then 5 − 2 = 3.", "hi": "दहाई: 6 − 1 (उधार) = 5, फिर 5 − 2 = 3।" },
+        { "en": "Check: 35 + 27 = 62 ✓", "hi": "जाँच: 35 + 27 = 62 ✓" }
+      ],
+      "answer": "35"
+    },
+    {
+      "title": { "en": "Word problem", "hi": "इबारती प्रश्न" },
+      "problem": { "en": "A shopkeeper had 90 eggs. He sold 46. How many are left?", "hi": "दुकानदार के पास 90 अंडे थे। उसने 46 बेच दिए। कितने बचे?" },
+      "steps": [
+        { "en": "Left means subtract: 90 − 46.", "hi": "बचे का मतलब घटाव: 90 − 46।" },
+        { "en": "Ones: borrow 1 ten, 10 − 6 = 4.", "hi": "इकाई: 1 दहाई उधार, 10 − 6 = 4।" },
+        { "en": "Tens: 8 − 4 = 4", "hi": "दहाई: 8 − 4 = 4" }
+      ],
+      "answer": { "en": "44 eggs", "hi": "44 अंडे" }
+    }
+  ],
+  "practice": [
+    { "question": "57 − 24 = ?", "answer": "33" },
+    { "question": "81 − 36 = ?", "answer": "45", "solution": [{ "en": "Ones: 11 − 6 = 5 (borrowed)", "hi": "इकाई: 11 − 6 = 5 (उधार लेकर)" }, { "en": "Tens: 7 − 3 = 4", "hi": "दहाई: 7 − 3 = 4" }] },
+    { "question": "70 − 18 = ?", "answer": "52" },
+    { "question": { "en": "Meera had 64 beads and used 29. How many are left?", "hi": "मीरा के पास 64 मोती थे, 29 इस्तेमाल किए। कितने बचे?" }, "answer": "35" }
+  ]
+}

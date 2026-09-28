@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Statement: The sun is hot.",
+      "hi": "कथन: The sun is hot."
+    },
+    {
+      "en": "Question: Is the sun hot?",
+      "hi": "प्रश्न: Is the sun hot?"
+    },
+    {
+      "en": "Command: Close the door. Exclamation: What a hot day!",
+      "hi": "आदेश: Close the door. विस्मयादिबोधक: What a hot day!"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What kind of sentence is \"Please pass the salt.\"?",
+        "hi": "\"Please pass the salt.\" किस तरह का वाक्य है?"
+      },
+      "steps": [
+        {
+          "en": "It asks someone politely to do something.",
+          "hi": "यह किसी से विनम्रता से कुछ करने को कहता है।"
+        }
+      ],
+      "answer": {
+        "en": "Command (request)",
+        "hi": "आदेश (अनुरोध)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Change into a question: \"Ravi can swim.\"",
+        "hi": "प्रश्न में बदलो: \"Ravi can swim.\""
+      },
+      "steps": [
+        {
+          "en": "Move \"can\" to the front and add \"?\".",
+          "hi": "\"can\" को आगे लाओ और \"?\" लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "Can Ravi swim?",
+        "hi": "Can Ravi swim?"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What kind of sentence is \"What a lovely painting!\"?",
+        "hi": "\"What a lovely painting!\" किस तरह का वाक्य है?"
+      },
+      "answer": {
+        "en": "Exclamation",
+        "hi": "विस्मयादिबोधक"
+      }
+    },
+    {
+      "question": {
+        "en": "Change into a question: \"She is your sister.\"",
+        "hi": "प्रश्न में बदलो: \"She is your sister.\""
+      },
+      "answer": {
+        "en": "Is she your sister?",
+        "hi": "Is she your sister?"
+      }
+    },
+    {
+      "question": {
+        "en": "What mark ends a statement?",
+        "hi": "कथन के अंत में कौन-सा चिह्न?"
+      },
+      "answer": {
+        "en": "Full stop (.)",
+        "hi": "पूर्ण विराम (.)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "There are four kinds of sentences: statements tell something (.), questions ask something (?), commands or requests tell someone to do something (. or !), and exclamations show strong feeling (!).",
+    "hi": "वाक्य चार तरह के होते हैं: कथन कुछ बताता है (.), प्रश्न कुछ पूछता है (?), आदेश या अनुरोध किसी से कुछ करवाता है (. या !), और विस्मयादिबोधक तेज़ भावना दिखाता है (!)।"
+  }
+}

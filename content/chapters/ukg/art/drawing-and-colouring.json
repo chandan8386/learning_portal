@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Draw big so the picture fills the page.",
+      "hi": "बड़ा बनाओ ताकि चित्र पूरे पेज पर आए।"
+    },
+    {
+      "en": "Use light colours first, dark colours last.",
+      "hi": "पहले हल्के रंग, आख़िर में गहरे रंग।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you draw a tree?",
+        "hi": "पेड़ कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Draw a tall rectangle for the trunk.",
+          "hi": "तने के लिए लंबा आयत बनाओ।"
+        },
+        {
+          "en": "Draw a big cloud shape on top for leaves.",
+          "hi": "ऊपर पत्तों के लिए बादल जैसा आकार बनाओ।"
+        }
+      ],
+      "answer": {
+        "en": "Brown trunk, green leaves 🌳",
+        "hi": "भूरा तना, हरे पत्ते 🌳"
+      }
+    },
+    {
+      "problem": {
+        "en": "How do you draw a fish?",
+        "hi": "मछली कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Draw an oval for the body.",
+          "hi": "शरीर के लिए अंडाकार बनाओ।"
+        },
+        {
+          "en": "Add a triangle tail and a dot for the eye.",
+          "hi": "त्रिभुज की पूँछ और आँख के लिए बिंदु जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "Oval + triangle + dot = fish 🐟",
+        "hi": "अंडाकार + त्रिभुज + बिंदु = मछली 🐟"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which colour for a tree trunk?",
+        "hi": "पेड़ के तने में कौन-सा रंग?"
+      },
+      "answer": {
+        "en": "Brown",
+        "hi": "भूरा"
+      }
+    },
+    {
+      "question": {
+        "en": "Which shape makes a fish's tail?",
+        "hi": "मछली की पूँछ किस आकृति से बनती है?"
+      },
+      "answer": {
+        "en": "Triangle",
+        "hi": "त्रिभुज"
+      }
+    },
+    {
+      "question": {
+        "en": "Where does a fish live?",
+        "hi": "मछली कहाँ रहती है?"
+      },
+      "answer": {
+        "en": "In water",
+        "hi": "पानी में"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Let us draw a tree and a fish! We start with simple shapes, add details, then colour neatly.",
+    "hi": "आओ पेड़ और मछली बनाएँ! आसान आकृतियों से शुरू करो, फिर बारीकियाँ जोड़ो, फिर साफ़ रंग भरो।"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Common: boy, country, festival, day",
+      "hi": "Common: boy, country, festival, day"
+    },
+    {
+      "en": "Proper: Arjun, India, Diwali, Monday",
+      "hi": "Proper: Arjun, India, Diwali, Monday"
+    },
+    {
+      "en": "Days, months, festivals and names of people and places are proper nouns.",
+      "hi": "दिन, महीने, त्योहार और लोगों-जगहों के नाम proper noun हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Sort: river, Yamuna, city, Jaipur",
+        "hi": "छाँटो: river, Yamuna, city, Jaipur"
+      },
+      "steps": [
+        {
+          "en": "river and city are general names → common.",
+          "hi": "river और city सामान्य नाम → common।"
+        },
+        {
+          "en": "Yamuna and Jaipur are special names → proper.",
+          "hi": "Yamuna और Jaipur ख़ास नाम → proper।"
+        }
+      ],
+      "answer": {
+        "en": "Common: river, city. Proper: Yamuna, Jaipur.",
+        "hi": "Common: river, city। Proper: Yamuna, Jaipur।"
+      }
+    },
+    {
+      "problem": {
+        "en": "Correct the sentence: \"we visited agra in june.\"",
+        "hi": "वाक्य ठीक करो: \"we visited agra in june.\""
+      },
+      "steps": [
+        {
+          "en": "Start the sentence with a capital: We.",
+          "hi": "वाक्य बड़े अक्षर से शुरू करो: We।"
+        },
+        {
+          "en": "agra and june are proper nouns → Agra, June.",
+          "hi": "agra और june proper noun हैं → Agra, June।"
+        }
+      ],
+      "answer": {
+        "en": "We visited Agra in June.",
+        "hi": "We visited Agra in June."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is \"teacher\" common or proper?",
+        "hi": "\"teacher\" common है या proper?"
+      },
+      "answer": {
+        "en": "Common",
+        "hi": "Common"
+      }
+    },
+    {
+      "question": {
+        "en": "Give a proper noun for \"festival\".",
+        "hi": "\"festival\" के लिए एक proper noun बताओ।"
+      },
+      "answer": {
+        "en": "Holi, Diwali, Eid, Christmas (any one)",
+        "hi": "Holi, Diwali, Eid, Christmas (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Correct: \"my friend lives in pune.\"",
+        "hi": "ठीक करो: \"my friend lives in pune.\""
+      },
+      "answer": {
+        "en": "My friend lives in Pune.",
+        "hi": "My friend lives in Pune."
+      }
+    }
+  ],
+  "intro": {
+    "en": "A common noun is a general name: girl, city, river. A proper noun is the special name of one person, place or thing: Priya, Mumbai, Ganga. Proper nouns always begin with a capital letter.",
+    "hi": "जातिवाचक संज्ञा (common noun) सामान्य नाम है: girl, city, river। व्यक्तिवाचक संज्ञा (proper noun) किसी एक व्यक्ति, जगह या चीज़ का ख़ास नाम है: Priya, Mumbai, Ganga। Proper noun हमेशा बड़े अक्षर से शुरू होती है।"
+  }
+}

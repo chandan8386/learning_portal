@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Imagery: words that create pictures in the mind.",
+      "hi": "बिंब: मन में चित्र बनाने वाले शब्द।"
+    },
+    {
+      "en": "Repetition makes a poem musical.",
+      "hi": "दोहराव कविता को संगीतमय बनाता है।"
+    },
+    {
+      "en": "Rhyme scheme: pattern of rhyming lines (aabb, abab).",
+      "hi": "तुक योजना: तुक वाली पंक्तियों का पैटर्न (aabb, abab)।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "\"The silver moon sails through the sky like a boat on a quiet sea.\" What picture does this create?",
+        "hi": "\"The silver moon sails through the sky like a boat on a quiet sea.\" यह कौन-सा चित्र बनाता है?"
+      },
+      "steps": [
+        {
+          "en": "The moon is compared to a boat.",
+          "hi": "चाँद की तुलना नाव से की गई है।"
+        },
+        {
+          "en": "The sky is compared to a calm sea.",
+          "hi": "आसमान की तुलना शांत समुद्र से।"
+        }
+      ],
+      "answer": {
+        "en": "The moon moving gently across the night sky like a boat on calm water",
+        "hi": "रात के आसमान में शांत पानी पर नाव जैसा धीरे चलता चाँद"
+      }
+    },
+    {
+      "problem": {
+        "en": "Find the rhyme scheme: \"The cat sat (a) / upon a mat (a) / the dog ran by (b) / beneath the sky (b)\"",
+        "hi": "तुक योजना बताओ: \"The cat sat (a) / upon a mat (a) / the dog ran by (b) / beneath the sky (b)\""
+      },
+      "steps": [
+        {
+          "en": "Lines 1–2 rhyme, lines 3–4 rhyme.",
+          "hi": "पंक्तियाँ 1–2 और 3–4 आपस में तुक करती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "aabb",
+        "hi": "aabb"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What are words that create pictures in the mind called?",
+        "hi": "मन में चित्र बनाने वाले शब्दों को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Imagery",
+        "hi": "बिंब (imagery)"
+      }
+    },
+    {
+      "question": {
+        "en": "Give a word that rhymes with \"sea\".",
+        "hi": "\"sea\" से तुक वाला शब्द।"
+      },
+      "answer": {
+        "en": "tree, free, bee (any one)",
+        "hi": "tree, free, bee (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "What is a group of lines in a poem called?",
+        "hi": "कविता की पंक्तियों का समूह?"
+      },
+      "answer": {
+        "en": "Stanza",
+        "hi": "छंद (stanza)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Poets use rhyme, rhythm and imagery (word pictures) to make us see, hear and feel things. Some poems tell a story; others describe nature or feelings.",
+    "hi": "कवि तुक, लय और बिंब (शब्द-चित्र) से हमें चीज़ें देखने, सुनने और महसूस कराने में मदद करते हैं। कुछ कविताएँ कहानी बताती हैं; कुछ प्रकृति या भावनाओं का वर्णन करती हैं।"
+  }
+}

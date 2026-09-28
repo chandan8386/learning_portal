@@ -1,0 +1,88 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "There are 26 letters from A to Z.",
+      "hi": "A से Z तक 26 अक्षर हैं।"
+    },
+    {
+      "en": "Capital letters stand tall on the line.",
+      "hi": "बड़े अक्षर लाइन पर सीधे खड़े होते हैं।"
+    },
+    {
+      "en": "Names start with a capital letter.",
+      "hi": "नाम बड़े अक्षर से शुरू होते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What letter comes between P and R?",
+        "hi": "P और R के बीच कौन-सा अक्षर है?"
+      },
+      "steps": [
+        {
+          "en": "Sing: O, P, Q, R.",
+          "hi": "गाओ: O, P, Q, R।"
+        }
+      ],
+      "answer": {
+        "en": "Q",
+        "hi": "Q"
+      }
+    },
+    {
+      "problem": {
+        "en": "Write the first letter of the name \"Mohan\".",
+        "hi": "\"Mohan\" नाम का पहला अक्षर लिखो।"
+      },
+      "steps": [
+        {
+          "en": "M-o-h-a-n. The first letter is M.",
+          "hi": "M-o-h-a-n। पहला अक्षर M है।"
+        },
+        {
+          "en": "Names start with a capital, so write big M.",
+          "hi": "नाम बड़े अक्षर से शुरू होता है, तो बड़ा M लिखो।"
+        }
+      ],
+      "answer": {
+        "en": "M",
+        "hi": "M"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many letters are there from A to Z?",
+        "hi": "A से Z तक कितने अक्षर हैं?"
+      },
+      "answer": "26"
+    },
+    {
+      "question": {
+        "en": "What comes after J?",
+        "hi": "J के बाद क्या आता है?"
+      },
+      "answer": {
+        "en": "K",
+        "hi": "K"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the last letter?",
+        "hi": "आख़िरी अक्षर कौन-सा है?"
+      },
+      "answer": {
+        "en": "Z",
+        "hi": "Z"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Capital letters are big letters: A, B, C … Z. There are 26 letters in English. We use a capital letter at the start of a name, like Riya.",
+    "hi": "बड़े अक्षर (कैपिटल) हैं: A, B, C … Z। अंग्रेज़ी में 26 अक्षर होते हैं। नाम की शुरुआत बड़े अक्षर से करते हैं, जैसे Riya।"
+  }
+}

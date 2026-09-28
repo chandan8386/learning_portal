@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Draw big things first (hills, huts), then small details.",
+      "hi": "पहले बड़ी चीज़ें बनाओ (पहाड़, झोपड़ी), फिर बारीकियाँ।"
+    },
+    {
+      "en": "Fold paper along straight lines and press the folds well.",
+      "hi": "कागज़ सीधी लाइन पर मोड़ो और मोड़ अच्छे से दबाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you draw a hut?",
+        "hi": "झोपड़ी कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Draw a square for the walls.",
+          "hi": "दीवारों के लिए वर्ग बनाओ।"
+        },
+        {
+          "en": "Draw a big triangle roof and colour it like straw.",
+          "hi": "बड़ी त्रिभुज छत बनाकर भूसे जैसा रंग भरो।"
+        }
+      ],
+      "answer": {
+        "en": "Square walls + triangle straw roof 🛖",
+        "hi": "वर्ग दीवारें + त्रिभुज भूसे की छत 🛖"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which paper is best for a boat that floats longer: newspaper or glossy paper?",
+        "hi": "देर तक तैरने वाली नाव के लिए कौन-सा कागज़ अच्छा: अख़बार या चिकना कागज़?"
+      },
+      "steps": [
+        {
+          "en": "Newspaper soaks up water quickly. Glossy paper keeps water out longer.",
+          "hi": "अख़बार जल्दी पानी सोखता है। चिकना कागज़ देर तक पानी रोकता है।"
+        }
+      ],
+      "answer": {
+        "en": "Glossy paper",
+        "hi": "चिकना कागज़"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which shape is the roof of a hut?",
+        "hi": "झोपड़ी की छत किस आकार की है?"
+      },
+      "answer": {
+        "en": "Triangle",
+        "hi": "त्रिभुज"
+      }
+    },
+    {
+      "question": {
+        "en": "What colour are fields of crops?",
+        "hi": "फ़सल के खेत किस रंग के होते हैं?"
+      },
+      "answer": {
+        "en": "Green (or yellow when ripe)",
+        "hi": "हरे (पकने पर पीले)"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one thing you can see in a village.",
+        "hi": "गाँव में दिखने वाली एक चीज़ बताओ।"
+      },
+      "answer": {
+        "en": "Well, hut, field, cow, bullock cart (any one)",
+        "hi": "कुआँ, झोपड़ी, खेत, गाय, बैलगाड़ी (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Let us draw a village scene with huts, trees, a well and fields, and fold a paper boat that can float!",
+    "hi": "आओ गाँव का दृश्य बनाएँ: झोपड़ियाँ, पेड़, कुआँ और खेत; और कागज़ की नाव मोड़ें जो तैर सके!"
+  }
+}

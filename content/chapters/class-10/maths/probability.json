@@ -1,0 +1,37 @@
+{
+  "status": "REVIEWED",
+  "intro": "Probability measures how likely an event is. When all outcomes are equally likely, the probability of an event is the number of favourable outcomes divided by the total number of outcomes. It is always between 0 and 1.",
+  "keyPoints": [
+    "0 ≤ P(E) ≤ 1.",
+    "P(sure event) = 1, P(impossible event) = 0.",
+    "P(not E) = 1 − P(E).",
+    "A die has 6 outcomes; a deck has 52 cards (4 suits of 13; 12 face cards)."
+  ],
+  "formulas": ["P(E) = number of favourable outcomes / total number of outcomes", "P(E) + P(not E) = 1"],
+  "examples": [
+    {
+      "title": "Rolling a die",
+      "problem": "A die is thrown once. Find the probability of getting an even number.",
+      "steps": ["Outcomes: 1, 2, 3, 4, 5, 6 (6 in all)", "Even: 2, 4, 6 (3 outcomes)", "P = 3/6"],
+      "answer": "1/2"
+    },
+    {
+      "title": "Playing cards",
+      "problem": "One card is drawn from a well-shuffled deck of 52 cards. Find the probability that it is (i) a king (ii) a red face card.",
+      "steps": ["There are 4 kings: P = 4/52 = 1/13", "Red face cards: J, Q, K of hearts and diamonds = 6: P = 6/52 = 3/26"],
+      "answer": "(i) 1/13 (ii) 3/26"
+    },
+    {
+      "title": "Two dice",
+      "problem": "Two dice are thrown together. Find the probability that the sum is 8.",
+      "steps": ["Total outcomes = 6 × 6 = 36", "Sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes"],
+      "answer": "5/36"
+    }
+  ],
+  "practice": [
+    { "question": "A die is thrown. Find the probability of getting a prime number.", "answer": "1/2", "solution": ["Primes: 2, 3, 5 ⇒ 3/6"] },
+    { "question": "If P(E) = 0.05, find P(not E).", "answer": "0.95" },
+    { "question": "A bag has 3 red and 5 black balls. One ball is drawn. Find the probability that it is not red.", "answer": "5/8" },
+    { "question": "A letter is chosen at random from the word MATHEMATICS. Find the probability that it is a vowel.", "answer": "4/11", "solution": ["11 letters; vowels A, E, A, I = 4"] }
+  ]
+}

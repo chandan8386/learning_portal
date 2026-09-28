@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Face the rising sun: East is in front, West behind, North on your left, South on your right.",
+      "hi": "उगते सूरज की ओर मुँह करो: पूर्व सामने, पश्चिम पीछे, उत्तर बाएँ, दक्षिण दाएँ।"
+    },
+    {
+      "en": "On a map: North up, South down, East right, West left.",
+      "hi": "नक़्शे पर: उत्तर ऊपर, दक्षिण नीचे, पूर्व दाएँ, पश्चिम बाएँ।"
+    },
+    {
+      "en": "Maps use symbols: blue for water, green for parks.",
+      "hi": "नक़्शे में चिह्न: पानी के लिए नीला, पार्क के लिए हरा।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In the morning you face the sun. Which direction is behind you?",
+        "hi": "सुबह तुम सूरज की ओर मुँह करके खड़े हो। तुम्हारे पीछे कौन-सी दिशा है?"
+      },
+      "steps": [
+        {
+          "en": "Morning sun is in the East, so you face East.",
+          "hi": "सुबह का सूरज पूर्व में है, तो तुम पूर्व की ओर हो।"
+        },
+        {
+          "en": "Opposite of East is West.",
+          "hi": "पूर्व का उल्टा पश्चिम।"
+        }
+      ],
+      "answer": {
+        "en": "West",
+        "hi": "पश्चिम"
+      }
+    },
+    {
+      "problem": {
+        "en": "On a map, the school is above the park. In which direction is the school from the park?",
+        "hi": "नक़्शे पर स्कूल पार्क के ऊपर है। पार्क से स्कूल किस दिशा में है?"
+      },
+      "steps": [
+        {
+          "en": "On a map, up is North.",
+          "hi": "नक़्शे पर ऊपर उत्तर है।"
+        }
+      ],
+      "answer": {
+        "en": "North",
+        "hi": "उत्तर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where does the sun set?",
+        "hi": "सूरज कहाँ डूबता है?"
+      },
+      "answer": {
+        "en": "West",
+        "hi": "पश्चिम"
+      }
+    },
+    {
+      "question": {
+        "en": "On a map, which side is East?",
+        "hi": "नक़्शे पर पूर्व किस ओर होता है?"
+      },
+      "answer": {
+        "en": "Right",
+        "hi": "दाईं ओर"
+      }
+    },
+    {
+      "question": {
+        "en": "What colour shows water on a map?",
+        "hi": "नक़्शे पर पानी किस रंग से दिखाते हैं?"
+      },
+      "answer": {
+        "en": "Blue",
+        "hi": "नीला"
+      }
+    }
+  ],
+  "intro": {
+    "en": "There are four main directions: North, South, East and West. The sun rises in the East and sets in the West. A map is a drawing of a place seen from above; on most maps North is at the top.",
+    "hi": "चार मुख्य दिशाएँ हैं: उत्तर, दक्षिण, पूर्व और पश्चिम। सूरज पूर्व में उगता है और पश्चिम में डूबता है। नक़्शा ऊपर से देखी गई जगह का चित्र है; ज़्यादातर नक़्शों में उत्तर ऊपर होता है।"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Remove the quotation marks and add \"that\".",
+      "hi": "उद्धरण चिह्न हटाओ और \"that\" जोड़ो।"
+    },
+    {
+      "en": "Change pronouns: I → he/she, my → his/her.",
+      "hi": "सर्वनाम बदलो: I → he/she, my → his/her।"
+    },
+    {
+      "en": "If the reporting verb is past (said), move the tense back: am → was, is → was, will → would.",
+      "hi": "Reporting verb past (said) हो तो tense पीछे: am → was, is → was, will → would।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Change to indirect: Meena said, \"I am tired.\"",
+        "hi": "Indirect में बदलो: Meena said, \"I am tired.\""
+      },
+      "steps": [
+        {
+          "en": "Add \"that\"; I → she (Meena).",
+          "hi": "\"that\" जोड़ो; I → she (Meena)।"
+        },
+        {
+          "en": "am → was (said is past).",
+          "hi": "am → was (said past है)।"
+        }
+      ],
+      "answer": {
+        "en": "Meena said that she was tired.",
+        "hi": "Meena said that she was tired."
+      }
+    },
+    {
+      "problem": {
+        "en": "Change to indirect: The boy said, \"I will go home.\"",
+        "hi": "Indirect में बदलो: The boy said, \"I will go home.\""
+      },
+      "steps": [
+        {
+          "en": "I → he; will → would.",
+          "hi": "I → he; will → would।"
+        }
+      ],
+      "answer": {
+        "en": "The boy said that he would go home.",
+        "hi": "The boy said that he would go home."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Change to indirect: Aman said, \"I like cricket.\"",
+        "hi": "Indirect में बदलो: Aman said, \"I like cricket.\""
+      },
+      "answer": {
+        "en": "Aman said that he liked cricket.",
+        "hi": "Aman said that he liked cricket."
+      }
+    },
+    {
+      "question": {
+        "en": "In indirect speech, what word usually joins the two parts?",
+        "hi": "Indirect speech में दोनों हिस्से कौन-सा शब्द जोड़ता है?"
+      },
+      "answer": {
+        "en": "that",
+        "hi": "that"
+      }
+    },
+    {
+      "question": {
+        "en": "Change to indirect: Priya said, \"My dog is sick.\"",
+        "hi": "Indirect में बदलो: Priya said, \"My dog is sick.\""
+      },
+      "answer": {
+        "en": "Priya said that her dog was sick.",
+        "hi": "Priya said that her dog was sick."
+      }
+    }
+  ],
+  "intro": {
+    "en": "Direct speech gives the exact words inside quotation marks: Ravi said, \"I am hungry.\" Indirect (reported) speech tells what was said without quotes: Ravi said that he was hungry.",
+    "hi": "Direct speech सटीक शब्द उद्धरण चिह्नों में देती है: Ravi said, \"I am hungry.\" Indirect (reported) speech बिना उद्धरण बताती है क्या कहा: Ravi said that he was hungry।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Fastest: cheetah; largest: blue whale; tallest: giraffe",
+      "hi": "सबसे तेज़: चीता; सबसे बड़ा: नीली व्हेल; सबसे ऊँचा: जिराफ़"
+    },
+    {
+      "en": "Homes: lion – den, bee – hive, horse – stable, spider – web",
+      "hi": "घर: शेर – माँद, मधुमक्खी – छत्ता, घोड़ा – अस्तबल, मकड़ी – जाला"
+    },
+    {
+      "en": "Young ones: lion – cub, horse – foal, frog – tadpole",
+      "hi": "बच्चे: शेर – शावक, घोड़ा – बछेड़ा, मेंढक – टैडपोल"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which animal is called the \"ship of the desert\"?",
+        "hi": "किसे \"रेगिस्तान का जहाज़\" कहते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It carries people and goods across hot sandy deserts.",
+          "hi": "यह गर्म रेतीले रेगिस्तान में लोगों और सामान को ले जाता है।"
+        }
+      ],
+      "answer": {
+        "en": "Camel",
+        "hi": "ऊँट"
+      }
+    },
+    {
+      "problem": {
+        "en": "Where does a horse live?",
+        "hi": "घोड़ा कहाँ रहता है?"
+      },
+      "steps": [
+        {
+          "en": "It is a special house for horses on farms.",
+          "hi": "यह खेतों पर घोड़ों का ख़ास घर है।"
+        }
+      ],
+      "answer": {
+        "en": "Stable",
+        "hi": "अस्तबल"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which is the largest animal?",
+        "hi": "सबसे बड़ा जानवर कौन-सा है?"
+      },
+      "answer": {
+        "en": "Blue whale",
+        "hi": "नीली व्हेल"
+      }
+    },
+    {
+      "question": {
+        "en": "What is a baby frog called?",
+        "hi": "मेंढक के बच्चे को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Tadpole",
+        "hi": "टैडपोल"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is the tallest animal?",
+        "hi": "सबसे ऊँचा जानवर कौन-सा है?"
+      },
+      "answer": {
+        "en": "Giraffe",
+        "hi": "जिराफ़"
+      }
+    }
+  ],
+  "intro": {
+    "en": "The animal world is full of wonders. The cheetah is the fastest land animal, the blue whale is the largest animal, and the giraffe is the tallest. Many animals have special homes and babies with special names.",
+    "hi": "जानवरों की दुनिया अद्भुत है। चीता सबसे तेज़ ज़मीनी जानवर है, नीली व्हेल सबसे बड़ा जानवर और जिराफ़ सबसे ऊँचा। कई जानवरों के ख़ास घर और बच्चों के ख़ास नाम होते हैं।"
+  }
+}

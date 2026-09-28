@@ -1,0 +1,506 @@
+{
+  "slug": "lkg",
+  "name": "LKG",
+  "nameHi": "एल.के.जी.",
+  "order": 1,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "4–5",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "chapters": [
+        {
+          "title": "Capital Letters A to Z",
+          "titleHi": "बड़े अक्षर A से Z",
+          "topics": [
+            "A to I",
+            "J to R",
+            "S to Z"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recognise and write capital letters A to Z",
+              "hi": "बड़े अक्षर A से Z पहचानना और लिखना"
+            },
+            {
+              "en": "Say the letter names in order",
+              "hi": "अक्षरों के नाम क्रम से बोलना"
+            }
+          ]
+        },
+        {
+          "title": "Small Letters a to z",
+          "titleHi": "छोटे अक्षर a से z",
+          "topics": [
+            "a to i",
+            "j to r",
+            "s to z"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recognise and write small letters a to z",
+              "hi": "छोटे अक्षर a से z पहचानना और लिखना"
+            },
+            {
+              "en": "Match capital and small letters",
+              "hi": "बड़े और छोटे अक्षर मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Phonics Sounds",
+          "titleHi": "ध्वनियाँ (फ़ोनिक्स)",
+          "topics": [
+            "Sounds s a t p",
+            "Sounds i n m d",
+            "Sounds g o c k"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Say the sounds of letters",
+              "hi": "अक्षरों की ध्वनियाँ बोलना"
+            },
+            {
+              "en": "Hear sounds in words",
+              "hi": "शब्दों में ध्वनियाँ सुनना"
+            }
+          ]
+        },
+        {
+          "title": "Beginning Sounds",
+          "titleHi": "शुरुआती ध्वनि",
+          "topics": [
+            "Which Letter Starts the Word?",
+            "Match Picture to Letter"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Find the first sound of a word",
+              "hi": "शब्द की पहली ध्वनि पहचानना"
+            },
+            {
+              "en": "Match pictures to letters",
+              "hi": "चित्र को अक्षर से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Rhymes and Stories",
+          "titleHi": "कविताएँ और कहानियाँ",
+          "topics": [
+            "Baa Baa Black Sheep",
+            "The Hare and the Tortoise"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recite rhymes",
+              "hi": "कविताएँ सुनाना"
+            },
+            {
+              "en": "Listen to stories and answer questions",
+              "hi": "कहानी सुनकर सवालों के जवाब देना"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "chapters": [
+        {
+          "title": "All Vowels (Swar)",
+          "titleHi": "सभी स्वर (अ से अः)",
+          "topics": [
+            {
+              "title": "a to uu",
+              "titleHi": "अ से ऊ"
+            },
+            {
+              "title": "ri to ah",
+              "titleHi": "ऋ से अः"
+            }
+          ],
+          "learningOutcomes": [
+            "सभी स्वर अ से अः पहचानना",
+            "स्वर लिखना"
+          ]
+        },
+        {
+          "title": "Consonants ka to nga",
+          "titleHi": "व्यंजन क से ङ",
+          "topics": [
+            {
+              "title": "ka kha ga",
+              "titleHi": "क ख ग"
+            },
+            {
+              "title": "gha nga",
+              "titleHi": "घ ङ"
+            }
+          ],
+          "learningOutcomes": [
+            "व्यंजन क से ङ पहचानना",
+            "हर व्यंजन से एक शब्द बोलना"
+          ]
+        },
+        {
+          "title": "Consonants cha to nya",
+          "titleHi": "व्यंजन च से ञ",
+          "topics": [
+            {
+              "title": "cha chha ja",
+              "titleHi": "च छ ज"
+            },
+            {
+              "title": "jha nya",
+              "titleHi": "झ ञ"
+            }
+          ],
+          "learningOutcomes": [
+            "व्यंजन च से ञ पहचानना",
+            "हर व्यंजन से एक शब्द बोलना"
+          ]
+        },
+        {
+          "title": "Consonants ta to na",
+          "titleHi": "व्यंजन ट से ण",
+          "topics": [
+            {
+              "title": "Ta Tha Da",
+              "titleHi": "ट ठ ड"
+            },
+            {
+              "title": "Dha Na",
+              "titleHi": "ढ ण"
+            }
+          ],
+          "learningOutcomes": [
+            "व्यंजन ट से ण पहचानना",
+            "हर व्यंजन से एक शब्द बोलना"
+          ]
+        },
+        {
+          "title": "Balgeet",
+          "titleHi": "बालगीत",
+          "topics": [
+            {
+              "title": "Aloo Kachaloo",
+              "titleHi": "आलू कचालू"
+            },
+            {
+              "title": "Nani Teri Morni",
+              "titleHi": "नानी तेरी मोरनी"
+            }
+          ],
+          "learningOutcomes": [
+            "बालगीत गाना",
+            "गीत के शब्द याद रखना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "numbers",
+      "name": "Numbers",
+      "nameHi": "गिनती",
+      "icon": "🔢",
+      "color": "emerald",
+      "chapters": [
+        {
+          "title": "Counting 1 to 20",
+          "titleHi": "1 से 20 तक गिनती",
+          "topics": [
+            "Count 1 to 10",
+            "Count 11 to 20",
+            "Write Numbers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Count and write 1 to 20",
+              "hi": "1 से 20 तक गिनना और लिखना"
+            },
+            {
+              "en": "Count objects correctly",
+              "hi": "चीज़ें सही गिनना"
+            }
+          ]
+        },
+        {
+          "title": "Counting 21 to 50",
+          "titleHi": "21 से 50 तक गिनती",
+          "topics": [
+            "Count 21 to 30",
+            "Count 31 to 50"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Count and write 21 to 50",
+              "hi": "21 से 50 तक गिनना और लिखना"
+            },
+            {
+              "en": "Read numbers aloud",
+              "hi": "संख्याएँ पढ़ना"
+            }
+          ]
+        },
+        {
+          "title": "Before, After and Between",
+          "titleHi": "पहले, बाद और बीच",
+          "topics": [
+            "What Comes After?",
+            "What Comes Before?",
+            "What Comes Between?"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tell the number before, after and between",
+              "hi": "पहले, बाद और बीच की संख्या बताना"
+            },
+            {
+              "en": "Put numbers in order",
+              "hi": "संख्याओं को क्रम में लगाना"
+            }
+          ]
+        },
+        {
+          "title": "More and Less",
+          "titleHi": "ज़्यादा और कम",
+          "topics": [
+            "Which Group Has More?",
+            "Which Group Has Less?"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Compare two groups",
+              "hi": "दो समूहों की तुलना करना"
+            },
+            {
+              "en": "Use the words more and less",
+              "hi": "ज़्यादा और कम शब्दों का प्रयोग"
+            }
+          ]
+        },
+        {
+          "title": "Shapes and Patterns",
+          "titleHi": "आकृतियाँ और पैटर्न",
+          "topics": [
+            "Circle Square Triangle Rectangle",
+            "Complete the Pattern"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know four basic shapes",
+              "hi": "चार आकृतियाँ पहचानना"
+            },
+            {
+              "en": "Complete simple patterns",
+              "hi": "आसान पैटर्न पूरा करना"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "my-world",
+      "name": "My World (EVS)",
+      "nameHi": "मेरी दुनिया",
+      "icon": "🌍",
+      "color": "lime",
+      "chapters": [
+        {
+          "title": "My Senses",
+          "titleHi": "मेरी इंद्रियाँ",
+          "topics": [
+            "Eyes to See",
+            "Ears to Hear",
+            "Nose Tongue and Skin"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know the five senses",
+              "hi": "पाँच इंद्रियों को जानना"
+            },
+            {
+              "en": "Tell which body part we use to see, hear, smell, taste and touch",
+              "hi": "देखने, सुनने, सूँघने, चखने और छूने वाले अंग बताना"
+            }
+          ]
+        },
+        {
+          "title": "Food We Eat",
+          "titleHi": "हमारा भोजन",
+          "topics": [
+            "Healthy Food",
+            "Junk Food"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tell healthy food from junk food",
+              "hi": "स्वस्थ और जंक भोजन में फ़र्क़ करना"
+            },
+            {
+              "en": "Know why we need food",
+              "hi": "भोजन क्यों ज़रूरी है"
+            }
+          ]
+        },
+        {
+          "title": "Wild and Farm Animals",
+          "titleHi": "जंगली और पालतू जानवर",
+          "topics": [
+            "Wild Animals",
+            "Farm Animals",
+            "Animal Sounds"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name wild and farm animals",
+              "hi": "जंगली और पालतू जानवरों के नाम"
+            },
+            {
+              "en": "Match animals to their sounds",
+              "hi": "जानवरों को उनकी आवाज़ से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Means of Transport",
+          "titleHi": "यातायात के साधन",
+          "topics": [
+            "Land Transport",
+            "Water and Air Transport"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name land, water and air transport",
+              "hi": "थल, जल और वायु यातायात के साधन"
+            },
+            {
+              "en": "Know road safety basics",
+              "hi": "सड़क सुरक्षा की बातें"
+            }
+          ]
+        },
+        {
+          "title": "Seasons",
+          "titleHi": "मौसम",
+          "topics": [
+            "Summer",
+            "Rainy Season",
+            "Winter"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name the seasons",
+              "hi": "ऋतुओं के नाम"
+            },
+            {
+              "en": "Know what we wear in each season",
+              "hi": "हर ऋतु में क्या पहनते हैं"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rhymes-stories",
+      "name": "Rhymes and Stories",
+      "nameHi": "कविताएँ और कहानियाँ",
+      "icon": "🎵",
+      "color": "pink",
+      "chapters": [
+        {
+          "title": "Rhymes",
+          "titleHi": "कविताएँ",
+          "topics": [
+            "Rain Rain Go Away",
+            "Humpty Dumpty",
+            "Hickory Dickory Dock"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recite rhymes with actions",
+              "hi": "हाव-भाव से कविता सुनाना"
+            },
+            {
+              "en": "Enjoy rhythm and rhyme",
+              "hi": "लय और तुक का मज़ा लेना"
+            }
+          ]
+        },
+        {
+          "title": "Moral Stories",
+          "titleHi": "नैतिक कहानियाँ",
+          "topics": [
+            "The Greedy Dog",
+            "The Ant and the Grasshopper"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Listen to moral stories",
+              "hi": "नैतिक कहानियाँ सुनना"
+            },
+            {
+              "en": "Tell the lesson of a story",
+              "hi": "कहानी की सीख बताना"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "art",
+      "name": "Art and Craft",
+      "nameHi": "कला और शिल्प",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        {
+          "title": "Drawing with Shapes",
+          "titleHi": "आकृतियों से चित्र",
+          "topics": [
+            "Draw a House",
+            "Draw a Sun"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Draw pictures using shapes",
+              "hi": "आकृतियों से चित्र बनाना"
+            },
+            {
+              "en": "Colour neatly",
+              "hi": "साफ़ रंग भरना"
+            }
+          ]
+        },
+        {
+          "title": "Paper Craft",
+          "titleHi": "कागज़ शिल्प",
+          "topics": [
+            "Paper Tearing",
+            "Paper Folding Fan"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tear and fold paper",
+              "hi": "कागज़ फाड़ना और मोड़ना"
+            },
+            {
+              "en": "Make a simple paper fan",
+              "hi": "कागज़ का पंखा बनाना"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

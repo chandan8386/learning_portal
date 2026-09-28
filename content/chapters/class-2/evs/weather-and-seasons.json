@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Sunny ☀️, rainy 🌧️, cloudy ☁️, windy 🌬️",
+      "hi": "धूप ☀️, बारिश 🌧️, बादल ☁️, तेज़ हवा 🌬️"
+    },
+    {
+      "en": "The monsoon brings rain in June–September.",
+      "hi": "मानसून जून–सितंबर में बारिश लाता है।"
+    },
+    {
+      "en": "In spring flowers bloom.",
+      "hi": "बसंत में फूल खिलते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "The sky is full of dark clouds and it is raining. What is the weather?",
+        "hi": "आसमान काले बादलों से भरा है और बारिश हो रही है। मौसम कैसा है?"
+      },
+      "steps": [
+        {
+          "en": "Water is falling from the clouds.",
+          "hi": "बादलों से पानी गिर रहा है।"
+        }
+      ],
+      "answer": {
+        "en": "Rainy",
+        "hi": "बरसाती"
+      }
+    },
+    {
+      "problem": {
+        "en": "In which season do we fly kites and feel cool breeze with flowers blooming?",
+        "hi": "किस ऋतु में फूल खिलते हैं और ठंडी हवा में पतंग उड़ाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It comes after winter.",
+          "hi": "यह सर्दी के बाद आती है।"
+        }
+      ],
+      "answer": {
+        "en": "Spring (Basant)",
+        "hi": "बसंत"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which months bring the monsoon rain?",
+        "hi": "मानसून की बारिश किन महीनों में आती है?"
+      },
+      "answer": {
+        "en": "June to September",
+        "hi": "जून से सितंबर"
+      }
+    },
+    {
+      "question": {
+        "en": "What do we need on a sunny summer day?",
+        "hi": "गर्मी की धूप वाले दिन क्या चाहिए?"
+      },
+      "answer": {
+        "en": "A cap and plenty of water",
+        "hi": "टोपी और ख़ूब पानी"
+      }
+    },
+    {
+      "question": {
+        "en": "Is weather the same every day?",
+        "hi": "क्या मौसम हर दिन एक जैसा रहता है?"
+      },
+      "answer": {
+        "en": "No, it changes",
+        "hi": "नहीं, बदलता रहता है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Weather is what the sky and air are like today: sunny, rainy, cloudy or windy. Over the year, India has summer, the rainy season (monsoon), autumn, winter and spring.",
+    "hi": "मौसम बताता है कि आज आसमान और हवा कैसी है: धूप, बारिश, बादल या तेज़ हवा। पूरे साल में भारत में गर्मी, बरसात (मानसून), शरद, सर्दी और बसंत ऋतुएँ होती हैं।"
+  }
+}

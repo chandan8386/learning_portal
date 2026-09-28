@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-amber-50/40 text-slate-800 antialiased;
+}
+
+:focus-visible {
+  @apply outline outline-4 outline-offset-2 outline-sky-500;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 m = 100 cm; 1 km = 1000 m",
+      "hi": "1 m = 100 cm; 1 km = 1000 m"
+    },
+    {
+      "en": "1 kg = 1000 g",
+      "hi": "1 kg = 1000 g"
+    },
+    {
+      "en": "1 L = 1000 mL",
+      "hi": "1 L = 1000 mL"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "A cloth is 2 m long. How many centimetres is that?",
+        "hi": "एक कपड़ा 2 m लंबा है। कितने सेंटीमीटर?"
+      },
+      "steps": [
+        {
+          "en": "1 m = 100 cm.",
+          "hi": "1 m = 100 cm।"
+        },
+        {
+          "en": "2 × 100 = 200",
+          "hi": "2 × 100 = 200"
+        }
+      ],
+      "answer": "200 cm"
+    },
+    {
+      "problem": {
+        "en": "Mother buys 2 kg 500 g of potatoes and 1 kg 250 g of onions. What is the total weight?",
+        "hi": "माँ 2 kg 500 g आलू और 1 kg 250 g प्याज़ ख़रीदती हैं। कुल वज़न?"
+      },
+      "steps": [
+        {
+          "en": "kg: 2 + 1 = 3 kg.",
+          "hi": "kg: 2 + 1 = 3 kg।"
+        },
+        {
+          "en": "g: 500 + 250 = 750 g.",
+          "hi": "g: 500 + 250 = 750 g।"
+        }
+      ],
+      "answer": "3 kg 750 g"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many grams are in 3 kg?",
+        "hi": "3 kg में कितने ग्राम?"
+      },
+      "answer": "3000 g"
+    },
+    {
+      "question": {
+        "en": "Which unit to measure water in a bucket: L or km?",
+        "hi": "बाल्टी के पानी के लिए कौन-सी इकाई: L या km?"
+      },
+      "answer": {
+        "en": "L (litres)",
+        "hi": "L (लीटर)"
+      }
+    },
+    {
+      "question": {
+        "en": "A bottle holds 1 L. How many 250 mL glasses can it fill?",
+        "hi": "एक बोतल में 1 L आता है। 250 mL के कितने गिलास भरेगी?"
+      },
+      "answer": "4"
+    }
+  ],
+  "intro": {
+    "en": "Length is measured in centimetres (cm), metres (m) and kilometres (km). Weight is measured in grams (g) and kilograms (kg). Capacity (how much liquid) is measured in millilitres (mL) and litres (L).",
+    "hi": "लंबाई सेंटीमीटर (cm), मीटर (m) और किलोमीटर (km) में नापते हैं। वज़न ग्राम (g) और किलोग्राम (kg) में। धारिता (कितना तरल) मिलीलीटर (mL) और लीटर (L) में।"
+  }
+}

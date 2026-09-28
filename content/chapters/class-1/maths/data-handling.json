@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Data handling means collecting and sorting information. We can sort things into groups and count them using tally marks: |||| with a line across makes 5.",
+    "hi": "आँकड़ों का मतलब है जानकारी इकट्ठा करना और छाँटना। हम चीज़ों को समूहों में बाँटकर डंडियों (टैली) से गिन सकते हैं: चार डंडियों पर एक तिरछी लकीर = 5।"
+  },
+  "keyPoints": [
+    { "en": "Sort things by colour, shape or kind.", "hi": "चीज़ों को रंग, आकार या प्रकार से छाँटो।" },
+    { "en": "Tally marks: | = 1, || = 2, ||| = 3, |||| = 4, and a bundle of 5 has a line across.", "hi": "टैली: | = 1, || = 2, ||| = 3, |||| = 4, और 5 के बंडल पर तिरछी लकीर।" },
+    { "en": "A picture graph shows counts using pictures.", "hi": "चित्र आलेख चित्रों से गिनती दिखाता है।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Sort and count: 🍎🍌🍎🍎🍌", "hi": "छाँटो और गिनो: 🍎🍌🍎🍎🍌" },
+      "steps": [
+        { "en": "Put apples together: 🍎🍎🍎 = 3.", "hi": "सेब एक साथ रखो: 🍎🍎🍎 = 3।" },
+        { "en": "Put bananas together: 🍌🍌 = 2.", "hi": "केले एक साथ रखो: 🍌🍌 = 2।" }
+      ],
+      "answer": { "en": "3 apples and 2 bananas; there are more apples.", "hi": "3 सेब और 2 केले; सेब ज़्यादा हैं।" }
+    },
+    {
+      "problem": { "en": "In class, 7 children like mango and 4 like orange. Show 7 with tally marks.", "hi": "कक्षा में 7 बच्चों को आम और 4 को संतरा पसंद है। 7 को टैली से दिखाओ।" },
+      "steps": [
+        { "en": "Make one bundle of 5 (four lines and one line across).", "hi": "5 का एक बंडल बनाओ (चार डंडियाँ और एक तिरछी)।" },
+        { "en": "Add 2 more lines: 5 + 2 = 7.", "hi": "2 डंडियाँ और: 5 + 2 = 7।" }
+      ],
+      "answer": { "en": "One bundle of 5 and ||", "hi": "5 का एक बंडल और ||" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many does |||| show?", "hi": "|||| कितना दिखाता है?" }, "answer": "4" },
+    { "question": { "en": "In a group: 🐶🐱🐶🐶🐱🐶. How many dogs?", "hi": "समूह में: 🐶🐱🐶🐶🐱🐶। कितने कुत्ते हैं?" }, "answer": "4" },
+    { "question": { "en": "In the same group, are there more dogs or cats?", "hi": "उसी समूह में कुत्ते ज़्यादा हैं या बिल्लियाँ?" }, "answer": { "en": "Dogs (4 dogs, 2 cats)", "hi": "कुत्ते (4 कुत्ते, 2 बिल्लियाँ)" } }
+  ]
+}

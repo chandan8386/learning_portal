@@ -1,0 +1,47 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Subtraction means taking away. If you have 5 laddoos and eat 2, you have 3 left. We write it as 5 − 2 = 3.",
+    "hi": "घटाव का मतलब है कम करना या निकालना। तुम्हारे पास 5 लड्डू हैं और तुमने 2 खा लिए, तो 3 बचे। इसे 5 − 2 = 3 लिखते हैं।"
+  },
+  "keyPoints": [
+    { "en": "The sign − means 'take away'.", "hi": "− का चिह्न मतलब 'निकालो' या 'घटाओ'।" },
+    { "en": "Taking away 0 leaves the number the same: 6 − 0 = 6.", "hi": "0 घटाने से संख्या वही रहती है: 6 − 0 = 6।" },
+    { "en": "Taking away everything leaves 0: 4 − 4 = 0.", "hi": "सब निकाल दो तो 0 बचता है: 4 − 4 = 0।" },
+    { "en": "On a number line, subtraction means jumping backwards.", "hi": "संख्या रेखा पर घटाने का मतलब पीछे कूदना।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "There are 8 balloons. 3 balloons burst. How many are left?", "hi": "8 गुब्बारे हैं। 3 फूट गए। कितने बचे?" },
+      "steps": [
+        { "en": "Start at 8.", "hi": "8 से शुरू करो।" },
+        { "en": "Count back 3: 7, 6, 5.", "hi": "3 पीछे गिनो: 7, 6, 5।" },
+        { "en": "8 − 3 = 5", "hi": "8 − 3 = 5" }
+      ],
+      "answer": { "en": "5 balloons are left.", "hi": "5 गुब्बारे बचे।" }
+    },
+    {
+      "problem": { "en": "Sonu had 6 marbles. He gave 2 to his sister. How many does he have now?", "hi": "सोनू के पास 6 कंचे थे। उसने 2 बहन को दे दिए। अब उसके पास कितने हैं?" },
+      "steps": [
+        { "en": "Giving away means subtract.", "hi": "दे देने का मतलब घटाना।" },
+        { "en": "6 − 2: count back 2 from 6: 5, 4.", "hi": "6 − 2: 6 से 2 पीछे गिनो: 5, 4।" }
+      ],
+      "answer": { "en": "Sonu has 4 marbles.", "hi": "सोनू के पास 4 कंचे हैं।" }
+    },
+    {
+      "problem": { "en": "Find 9 − 9.", "hi": "9 − 9 निकालो।" },
+      "steps": [
+        { "en": "We take away all 9.", "hi": "हमने सारे 9 निकाल दिए।" },
+        { "en": "Nothing is left.", "hi": "कुछ नहीं बचा।" }
+      ],
+      "answer": "9 − 9 = 0"
+    }
+  ],
+  "practice": [
+    { "question": "7 − 2 = ?", "answer": "5" },
+    { "question": "5 − 5 = ?", "answer": "0" },
+    { "question": "9 − 4 = ?", "answer": "5" },
+    { "question": { "en": "There were 6 birds. 1 flew away. How many are left?", "hi": "6 चिड़ियाँ थीं। 1 उड़ गई। कितनी बचीं?" }, "answer": "5", "solution": ["6 − 1 = 5"] },
+    { "question": { "en": "Anu had 7 stickers and used 3. How many are left?", "hi": "अनु के पास 7 स्टिकर थे, 3 इस्तेमाल किए। कितने बचे?" }, "answer": "4", "solution": ["7 − 3 = 4"] }
+  ]
+}

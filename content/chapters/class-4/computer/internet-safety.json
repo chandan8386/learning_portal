@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Personal details: full name, address, school, phone, photos",
+      "hi": "निजी जानकारी: पूरा नाम, पता, स्कूल, फ़ोन, फ़ोटो"
+    },
+    {
+      "en": "A strong password mixes letters, numbers and symbols.",
+      "hi": "मज़बूत पासवर्ड में अक्षर, अंक और चिह्न मिले होते हैं।"
+    },
+    {
+      "en": "Cyberbullying is being mean online — report it, don't reply.",
+      "hi": "साइबर बुलिंग = ऑनलाइन परेशान करना — शिकायत करो, जवाब मत दो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which password is stronger: \"riya123\" or \"R!ya#2016pk\"?",
+        "hi": "कौन-सा पासवर्ड मज़बूत है: \"riya123\" या \"R!ya#2016pk\"?"
+      },
+      "steps": [
+        {
+          "en": "The second mixes capitals, symbols and numbers and is longer.",
+          "hi": "दूसरे में बड़े अक्षर, चिह्न और अंक हैं और लंबा है।"
+        }
+      ],
+      "answer": {
+        "en": "R!ya#2016pk",
+        "hi": "R!ya#2016pk"
+      }
+    },
+    {
+      "problem": {
+        "en": "A message says \"You won a free phone! Click here.\" What should you do?",
+        "hi": "संदेश आता है \"तुमने मुफ़्त फ़ोन जीता! यहाँ क्लिक करो।\" क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Unknown prize links are usually tricks.",
+          "hi": "अनजान इनाम वाले लिंक अक्सर धोखा होते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Don't click; tell a parent and delete it",
+        "hi": "क्लिक मत करो; माता-पिता को बताओ और मिटा दो"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Should you meet an online friend alone?",
+        "hi": "क्या ऑनलाइन दोस्त से अकेले मिलना चाहिए?"
+      },
+      "answer": {
+        "en": "No, never",
+        "hi": "नहीं, कभी नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Someone sends you mean messages. What do you do?",
+        "hi": "कोई बुरे संदेश भेजता है। क्या करोगे?"
+      },
+      "answer": {
+        "en": "Don't reply; tell a trusted adult and block/report",
+        "hi": "जवाब मत दो; भरोसेमंद बड़े को बताओ और ब्लॉक/रिपोर्ट करो"
+      }
+    },
+    {
+      "question": {
+        "en": "Is your home address safe to post online?",
+        "hi": "क्या घर का पता ऑनलाइन डालना सुरक्षित है?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    }
+  ],
+  "intro": {
+    "en": "The internet is useful for learning, but we must be safe. Never share personal details, use strong passwords, don't click unknown links, and tell a trusted adult if anything online feels wrong. Be kind online too.",
+    "hi": "इंटरनेट सीखने के लिए उपयोगी है, पर सुरक्षित रहना ज़रूरी है। निजी जानकारी कभी मत बताओ, मज़बूत पासवर्ड रखो, अनजान लिंक पर क्लिक मत करो, और ऑनलाइन कुछ ग़लत लगे तो किसी भरोसेमंद बड़े को बताओ। ऑनलाइन भी दयालु रहो।"
+  }
+}

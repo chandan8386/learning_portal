@@ -1,0 +1,46 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Every 2-digit number is made of tens and ones. 58 means 5 tens and 8 ones. We can also write the number in words: fifty-eight.",
+    "hi": "हर दो अंकों की संख्या दहाई और इकाई से बनती है। 58 का मतलब 5 दहाई और 8 इकाई। इसे शब्दों में भी लिखते हैं: अट्ठावन।"
+  },
+  "keyPoints": [
+    { "en": "The left digit shows tens, the right digit shows ones.", "hi": "बायाँ अंक दहाई बताता है, दायाँ अंक इकाई।" },
+    { "en": "To compare, look at tens first; if tens are equal, compare ones.", "hi": "तुलना में पहले दहाई देखो; दहाई बराबर हों तो इकाई देखो।" },
+    { "en": "> means greater than, < means less than, = means equal to.", "hi": "> मतलब बड़ा, < मतलब छोटा, = मतलब बराबर।" },
+    { "en": "Ascending order: smallest to biggest. Descending order: biggest to smallest.", "hi": "आरोही क्रम: छोटे से बड़ा। अवरोही क्रम: बड़े से छोटा।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Write 76 in tens and ones and in words.", "hi": "76 को दहाई-इकाई में और शब्दों में लिखो।" },
+      "steps": [
+        { "en": "7 is in the tens place: 7 tens = 70.", "hi": "7 दहाई के स्थान पर है: 7 दहाई = 70।" },
+        { "en": "6 is in the ones place: 6 ones = 6.", "hi": "6 इकाई के स्थान पर है: 6 इकाई = 6।" },
+        { "en": "70 + 6 = 76", "hi": "70 + 6 = 76" }
+      ],
+      "answer": { "en": "7 tens 6 ones; seventy-six", "hi": "7 दहाई 6 इकाई; छिहत्तर" }
+    },
+    {
+      "problem": { "en": "Put > or <: 45 __ 54", "hi": "> या < लगाओ: 45 __ 54" },
+      "steps": [
+        { "en": "Tens: 4 and 5. 4 tens is less than 5 tens.", "hi": "दहाई: 4 और 5। 4 दहाई, 5 दहाई से कम है।" }
+      ],
+      "answer": "45 < 54"
+    },
+    {
+      "problem": { "en": "Arrange in ascending order: 62, 26, 60, 29", "hi": "आरोही क्रम में लगाओ: 62, 26, 60, 29" },
+      "steps": [
+        { "en": "Numbers with 2 tens: 26 and 29. 26 < 29.", "hi": "2 दहाई वाली संख्याएँ: 26 और 29। 26 < 29।" },
+        { "en": "Numbers with 6 tens: 60 and 62. 60 < 62.", "hi": "6 दहाई वाली संख्याएँ: 60 और 62। 60 < 62।" }
+      ],
+      "answer": "26, 29, 60, 62"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many tens are in 90?", "hi": "90 में कितनी दहाई हैं?" }, "answer": "9" },
+    { "question": { "en": "Write the number: 3 tens and 9 ones.", "hi": "संख्या लिखो: 3 दहाई और 9 इकाई।" }, "answer": "39" },
+    { "question": { "en": "Put > or <: 81 __ 18", "hi": "> या < लगाओ: 81 __ 18" }, "answer": "81 > 18" },
+    { "question": { "en": "What comes between 69 and 71?", "hi": "69 और 71 के बीच क्या आता है?" }, "answer": "70" },
+    { "question": { "en": "Arrange in descending order: 33, 53, 35", "hi": "अवरोही क्रम में लगाओ: 33, 53, 35" }, "answer": "53, 35, 33" }
+  ]
+}

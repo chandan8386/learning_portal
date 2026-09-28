@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Every person is different and special.",
+      "hi": "हर इंसान अलग और ख़ास है।"
+    },
+    {
+      "en": "Body parts: head, hands, legs, eyes, ears, nose, mouth",
+      "hi": "शरीर के अंग: सिर, हाथ, पैर, आँखें, कान, नाक, मुँह"
+    },
+    {
+      "en": "Take care of your body: bathe, eat well, sleep on time.",
+      "hi": "शरीर का ध्यान रखो: नहाओ, अच्छा खाओ, समय पर सोओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which body part helps you write?",
+        "hi": "लिखने में कौन-सा अंग मदद करता है?"
+      },
+      "steps": [
+        {
+          "en": "We hold a pencil with it.",
+          "hi": "इससे पेंसिल पकड़ते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Hand (fingers)",
+        "hi": "हाथ (उंगलियाँ)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Tell one thing you like and one you do not like.",
+        "hi": "एक चीज़ जो तुम्हें पसंद है और एक जो नहीं।"
+      },
+      "steps": [
+        {
+          "en": "Think about food, games or colours.",
+          "hi": "खाने, खेल या रंगों के बारे में सोचो।"
+        }
+      ],
+      "answer": {
+        "en": "I like mangoes. I do not like bitter gourd.",
+        "hi": "मुझे आम पसंद है। मुझे करेला पसंद नहीं।"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which body part do we use to kick a ball?",
+        "hi": "गेंद को लात मारने में कौन-सा अंग?"
+      },
+      "answer": {
+        "en": "Legs (feet)",
+        "hi": "पैर"
+      }
+    },
+    {
+      "question": {
+        "en": "How many fingers are on one hand?",
+        "hi": "एक हाथ में कितनी उंगलियाँ?"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "Why should we sleep on time?",
+        "hi": "समय पर क्यों सोना चाहिए?"
+      },
+      "answer": {
+        "en": "To rest and stay healthy",
+        "hi": "आराम और अच्छी सेहत के लिए"
+      }
+    }
+  ],
+  "intro": {
+    "en": "I am special. I have a name, a face, a body and things I like. My body helps me see, hear, walk and play.",
+    "hi": "मैं ख़ास हूँ। मेरा नाम है, चेहरा है, शरीर है और मेरी पसंद की चीज़ें हैं। मेरा शरीर देखने, सुनने, चलने और खेलने में मदद करता है।"
+  }
+}

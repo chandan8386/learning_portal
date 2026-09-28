@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Food from plants: grains, pulses, fruits, vegetables, oil",
+      "hi": "पौधों से: अनाज, दालें, फल, सब्ज़ियाँ, तेल"
+    },
+    {
+      "en": "Food from animals: milk, eggs, meat, fish, honey",
+      "hi": "जानवरों से: दूध, अंडे, मांस, मछली, शहद"
+    },
+    {
+      "en": "Ways of cooking: boiling, frying, roasting, steaming",
+      "hi": "पकाने के तरीक़े: उबालना, तलना, भूनना, भाप में पकाना"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How is idli cooked?",
+        "hi": "इडली कैसे पकती है?"
+      },
+      "steps": [
+        {
+          "en": "The batter is kept in a special stand over boiling water.",
+          "hi": "घोल को उबलते पानी के ऊपर ख़ास स्टैंड में रखते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "By steaming",
+        "hi": "भाप में"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why should we cover cooked food?",
+        "hi": "पके खाने को ढककर क्यों रखना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Flies and dust carry germs.",
+          "hi": "मक्खियाँ और धूल कीटाणु लाती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "To keep flies, dust and germs away",
+        "hi": "मक्खी, धूल और कीटाणुओं से बचाने के लिए"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is a papad fried or steamed?",
+        "hi": "पापड़ तला जाता है या भाप में पकता है?"
+      },
+      "answer": {
+        "en": "Fried (or roasted)",
+        "hi": "तला (या भूना)"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one food from animals.",
+        "hi": "जानवरों से मिलने वाला एक भोजन बताओ।"
+      },
+      "answer": {
+        "en": "Milk, egg, honey, fish (any one)",
+        "hi": "दूध, अंडा, शहद, मछली (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Which food is popular in South India: dosa or makki ki roti?",
+        "hi": "दक्षिण भारत में कौन-सा खाना प्रसिद्ध है: डोसा या मक्के की रोटी?"
+      },
+      "answer": {
+        "en": "Dosa",
+        "hi": "डोसा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We eat different foods in different parts of India: rice and fish in Bengal, roti and sarson ka saag in Punjab, idli and dosa in the South. Food comes from plants and animals and must be cooked and eaten safely.",
+    "hi": "भारत के अलग-अलग हिस्सों में अलग खाना: बंगाल में चावल-मछली, पंजाब में रोटी और सरसों का साग, दक्षिण में इडली-डोसा। भोजन पौधों और जानवरों से आता है, और इसे साफ़-सुथरे ढंग से पकाना और खाना चाहिए।"
+  }
+}

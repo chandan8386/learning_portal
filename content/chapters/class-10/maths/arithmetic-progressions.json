@@ -1,0 +1,37 @@
+{
+  "status": "REVIEWED",
+  "intro": "An arithmetic progression (AP) is a list of numbers in which each term is obtained by adding a fixed number, the common difference d, to the previous term. For example 2, 7, 12, 17, … is an AP with d = 5.",
+  "keyPoints": [
+    "d = a₂ − a₁ = a₃ − a₂ = … (d can be positive, negative or zero).",
+    "nth term: aₙ = a + (n − 1)d",
+    "Sum of first n terms: Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l), where l is the last term.",
+    "Sum of first n natural numbers = n(n + 1)/2"
+  ],
+  "formulas": ["aₙ = a + (n − 1)d", "Sₙ = n/2 [2a + (n − 1)d]", "Sₙ = n/2 (a + l)"],
+  "examples": [
+    {
+      "title": "nth term",
+      "problem": "Find the 10th term of the AP 2, 7, 12, …",
+      "steps": ["a = 2, d = 7 − 2 = 5", "a₁₀ = 2 + (10 − 1) × 5 = 2 + 45"],
+      "answer": "a₁₀ = 47"
+    },
+    {
+      "title": "Which term?",
+      "problem": "Which term of the AP 21, 18, 15, … is −81?",
+      "steps": ["a = 21, d = −3", "21 + (n − 1)(−3) = −81", "(n − 1)(−3) = −102 ⇒ n − 1 = 34"],
+      "answer": "n = 35, so −81 is the 35th term."
+    },
+    {
+      "title": "Sum of terms",
+      "problem": "Find the sum of the first 22 terms of the AP 8, 3, −2, …",
+      "steps": ["a = 8, d = −5, n = 22", "S₂₂ = 22/2 [2 × 8 + 21 × (−5)] = 11 [16 − 105]", "= 11 × (−89)"],
+      "answer": "S₂₂ = −979"
+    }
+  ],
+  "practice": [
+    { "question": "Find the 30th term of the AP 10, 7, 4, …", "answer": "−77", "solution": ["a₃₀ = 10 + 29 × (−3) = 10 − 87 = −77"] },
+    { "question": "How many two-digit numbers are divisible by 3?", "answer": "30", "solution": ["AP: 12, 15, …, 99 with d = 3", "99 = 12 + (n − 1)3 ⇒ n = 30"] },
+    { "question": "Find the sum of the first 15 multiples of 8.", "answer": "960", "solution": ["8 + 16 + … + 120 = 15/2 (8 + 120) = 15 × 64 = 960"] },
+    { "question": "In an AP, a = 5 and a₈ = 26. Find d.", "answer": "d = 3", "solution": ["5 + 7d = 26 ⇒ d = 3"] }
+  ]
+}

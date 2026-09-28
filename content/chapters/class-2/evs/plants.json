@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Roots take water from the soil.",
+      "hi": "जड़ें मिट्टी से पानी लेती हैं।"
+    },
+    {
+      "en": "The stem carries water to the leaves.",
+      "hi": "तना पानी को पत्तों तक पहुँचाता है।"
+    },
+    {
+      "en": "Leaves make food using sunlight.",
+      "hi": "पत्ते धूप से भोजन बनाते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Put in order: plant, seed, sprout",
+        "hi": "क्रम में लगाओ: पौधा, बीज, अंकुर"
+      },
+      "steps": [
+        {
+          "en": "It starts as a seed.",
+          "hi": "शुरुआत बीज से होती है।"
+        },
+        {
+          "en": "The seed sprouts, then grows into a plant.",
+          "hi": "बीज से अंकुर निकलता है, फिर पौधा बनता है।"
+        }
+      ],
+      "answer": {
+        "en": "Seed → sprout → plant",
+        "hi": "बीज → अंकुर → पौधा"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which part of the plant do we eat in a carrot?",
+        "hi": "गाजर में हम पौधे का कौन-सा भाग खाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "A carrot grows under the soil.",
+          "hi": "गाजर मिट्टी के नीचे उगती है।"
+        }
+      ],
+      "answer": {
+        "en": "Root",
+        "hi": "जड़"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part makes food for the plant?",
+        "hi": "पौधे का भोजन कौन-सा भाग बनाता है?"
+      },
+      "answer": {
+        "en": "Leaves",
+        "hi": "पत्ते"
+      }
+    },
+    {
+      "question": {
+        "en": "Which part of spinach do we eat?",
+        "hi": "पालक का कौन-सा भाग खाते हैं?"
+      },
+      "answer": {
+        "en": "Leaves",
+        "hi": "पत्ते"
+      }
+    },
+    {
+      "question": {
+        "en": "What does a seed need to grow?",
+        "hi": "बीज को उगने के लिए क्या चाहिए?"
+      },
+      "answer": {
+        "en": "Soil, water, air and sunlight",
+        "hi": "मिट्टी, पानी, हवा और धूप"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A plant has roots, a stem, leaves, flowers, fruits and seeds. A seed grows into a new plant when it gets soil, water, air and sunlight.",
+    "hi": "पौधे की जड़, तना, पत्ते, फूल, फल और बीज होते हैं। बीज को मिट्टी, पानी, हवा और धूप मिले तो वह नया पौधा बनता है।"
+  }
+}

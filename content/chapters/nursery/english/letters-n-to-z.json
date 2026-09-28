@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "N O P Q R S T U V W X Y Z",
+      "hi": "N O P Q R S T U V W X Y Z"
+    },
+    {
+      "en": "P-Parrot, R-Rabbit, S-Sun, T-Tiger, U-Umbrella, V-Van, W-Watch, Y-Yak",
+      "hi": "P-Parrot, R-Rabbit, S-Sun, T-Tiger, U-Umbrella, V-Van, W-Watch, Y-Yak"
+    },
+    {
+      "en": "Z is the last letter.",
+      "hi": "Z आख़िरी अक्षर है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which letter does Sun ☀️ start with?",
+        "hi": "Sun ☀️ किस अक्षर से शुरू होता है?"
+      },
+      "steps": [
+        {
+          "en": "Say it slowly: S-u-n.",
+          "hi": "धीरे बोलो: S-u-n।"
+        },
+        {
+          "en": "The first sound is \"sss\".",
+          "hi": "पहली ध्वनि \"स\" है।"
+        }
+      ],
+      "answer": {
+        "en": "S",
+        "hi": "S"
+      }
+    },
+    {
+      "problem": {
+        "en": "What comes before Z?",
+        "hi": "Z से पहले क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "Sing: W, X, Y, Z.",
+          "hi": "गाओ: W, X, Y, Z।"
+        }
+      ],
+      "answer": {
+        "en": "Y",
+        "hi": "Y"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which letter does Tiger 🐯 start with?",
+        "hi": "Tiger 🐯 किस अक्षर से शुरू होता है?"
+      },
+      "answer": {
+        "en": "T",
+        "hi": "T"
+      }
+    },
+    {
+      "question": {
+        "en": "U is for …?",
+        "hi": "U से …?"
+      },
+      "answer": {
+        "en": "Umbrella ☂️",
+        "hi": "Umbrella ☂️"
+      }
+    },
+    {
+      "question": {
+        "en": "What comes after N?",
+        "hi": "N के बाद क्या आता है?"
+      },
+      "answer": {
+        "en": "O",
+        "hi": "O"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Now we learn the letters N to Z. N is for Nest 🪺, O is for Orange 🍊, Z is for Zebra 🦓.",
+    "hi": "अब N से Z तक के अक्षर सीखते हैं। N से Nest 🪺, O से Orange 🍊, Z से Zebra 🦓।"
+  }
+}

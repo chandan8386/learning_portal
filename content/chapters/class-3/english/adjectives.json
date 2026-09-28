@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Adjectives usually come before the noun: a tall tree.",
+      "hi": "विशेषण अक्सर संज्ञा से पहले आता है: a tall tree।"
+    },
+    {
+      "en": "They can also come after \"is/are\": The tree is tall.",
+      "hi": "\"is/are\" के बाद भी आ सकता है: The tree is tall।"
+    },
+    {
+      "en": "Adjectives make writing interesting.",
+      "hi": "विशेषण लेखन को रोचक बनाते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the adjectives: \"Three little kittens slept on a soft mat.\"",
+        "hi": "विशेषण ढूँढो: \"Three little kittens slept on a soft mat.\""
+      },
+      "steps": [
+        {
+          "en": "How many kittens? three. What kind of kittens? little.",
+          "hi": "कितने kittens? three। कैसे kittens? little।"
+        },
+        {
+          "en": "What kind of mat? soft.",
+          "hi": "कैसी mat? soft।"
+        }
+      ],
+      "answer": {
+        "en": "Three, little, soft",
+        "hi": "Three, little, soft"
+      }
+    },
+    {
+      "problem": {
+        "en": "Add an adjective: \"I ate a __ mango.\"",
+        "hi": "विशेषण जोड़ो: \"I ate a __ mango.\""
+      },
+      "steps": [
+        {
+          "en": "Think of how the mango tasted or looked.",
+          "hi": "सोचो आम का स्वाद या रूप कैसा था।"
+        }
+      ],
+      "answer": {
+        "en": "I ate a sweet mango. (juicy, yellow also work)",
+        "hi": "I ate a sweet mango. (juicy, yellow भी सही)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find the adjective: \"The old man walked slowly.\"",
+        "hi": "विशेषण ढूँढो: \"The old man walked slowly.\""
+      },
+      "answer": {
+        "en": "old",
+        "hi": "old"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the adjective: \"The sky is blue.\"",
+        "hi": "विशेषण ढूँढो: \"The sky is blue.\""
+      },
+      "answer": {
+        "en": "blue",
+        "hi": "blue"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is an adjective: run, happy, table?",
+        "hi": "कौन-सा विशेषण है: run, happy, table?"
+      },
+      "answer": {
+        "en": "happy",
+        "hi": "happy"
+      }
+    }
+  ],
+  "intro": {
+    "en": "An adjective describes a noun. It can tell colour (red), size (huge), number (three), shape (round) or quality (brave). \"The brave soldier\" — brave is the adjective.",
+    "hi": "विशेषण (adjective) संज्ञा के बारे में बताता है। यह रंग (red), आकार (huge), संख्या (three), रूप (round) या गुण (brave) बता सकता है। \"The brave soldier\" में brave विशेषण है।"
+  }
+}

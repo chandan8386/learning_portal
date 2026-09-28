@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Herbivores eat plants; carnivores eat animals; omnivores eat both.",
+      "hi": "शाकाहारी पौधे खाते हैं; मांसाहारी जानवर खाते हैं; सर्वाहारी दोनों।"
+    },
+    {
+      "en": "Amphibians live on land and in water: frog.",
+      "hi": "उभयचर ज़मीन और पानी दोनों में रहते हैं: मेंढक।"
+    },
+    {
+      "en": "Some animals lay eggs (hen), some give birth to young ones (cow).",
+      "hi": "कुछ जानवर अंडे देते हैं (मुर्गी), कुछ बच्चे को जन्म देते हैं (गाय)।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How does a snake move?",
+        "hi": "साँप कैसे चलता है?"
+      },
+      "steps": [
+        {
+          "en": "A snake has no legs.",
+          "hi": "साँप के पैर नहीं होते।"
+        }
+      ],
+      "answer": {
+        "en": "It crawls (slithers)",
+        "hi": "रेंगकर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is a bear a herbivore, carnivore or omnivore?",
+        "hi": "भालू शाकाहारी, मांसाहारी या सर्वाहारी है?"
+      },
+      "steps": [
+        {
+          "en": "A bear eats honey, fruits and also fish.",
+          "hi": "भालू शहद, फल और मछली भी खाता है।"
+        }
+      ],
+      "answer": {
+        "en": "Omnivore",
+        "hi": "सर्वाहारी"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which animal hops: kangaroo or cow?",
+        "hi": "कौन फुदकता है: कंगारू या गाय?"
+      },
+      "answer": {
+        "en": "Kangaroo",
+        "hi": "कंगारू"
+      }
+    },
+    {
+      "question": {
+        "en": "Does a duck lay eggs or give birth?",
+        "hi": "बत्तख अंडे देती है या बच्चे को जन्म?"
+      },
+      "answer": {
+        "en": "Lays eggs",
+        "hi": "अंडे देती है"
+      }
+    },
+    {
+      "question": {
+        "en": "Name an animal that lives both on land and in water.",
+        "hi": "ज़मीन और पानी दोनों में रहने वाला जानवर बताओ।"
+      },
+      "answer": {
+        "en": "Frog",
+        "hi": "मेंढक"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Animals live on land, in water, in the air, or both on land and in water (frog). They eat plants, other animals or both, and they move by walking, flying, swimming, crawling or hopping.",
+    "hi": "जानवर ज़मीन, पानी, हवा में, या ज़मीन और पानी दोनों में (मेंढक) रहते हैं। वे पौधे, दूसरे जानवर या दोनों खाते हैं, और चलकर, उड़कर, तैरकर, रेंगकर या फुदककर चलते हैं।"
+  }
+}

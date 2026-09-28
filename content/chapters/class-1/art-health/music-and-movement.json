@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Clap on each beat.",
+      "hi": "हर ताल पर ताली बजाओ।"
+    },
+    {
+      "en": "Loud and soft, fast and slow.",
+      "hi": "तेज़ और धीमा, जल्दी और धीरे।"
+    },
+    {
+      "en": "Musical instruments: dholak, tabla, flute, harmonium",
+      "hi": "वाद्य यंत्र: ढोलक, तबला, बाँसुरी, हारमोनियम"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which instrument do we blow into?",
+        "hi": "किस वाद्य यंत्र को फूँककर बजाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It is a long hollow stick with holes.",
+          "hi": "यह छेदों वाली लंबी खोखली नली है।"
+        }
+      ],
+      "answer": {
+        "en": "Flute (bansuri)",
+        "hi": "बाँसुरी"
+      }
+    },
+    {
+      "problem": {
+        "en": "Clap this pattern: clap, clap, pause. How many claps before the pause?",
+        "hi": "यह पैटर्न बजाओ: ताली, ताली, रुको। रुकने से पहले कितनी तालियाँ?"
+      },
+      "steps": [
+        {
+          "en": "Count the claps: 1, 2.",
+          "hi": "तालियाँ गिनो: 1, 2।"
+        }
+      ],
+      "answer": "2"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which instrument do we play with our hands: tabla or flute?",
+        "hi": "किसे हाथों से बजाते हैं: तबला या बाँसुरी?"
+      },
+      "answer": {
+        "en": "Tabla",
+        "hi": "तबला"
+      }
+    },
+    {
+      "question": {
+        "en": "Is a lullaby loud or soft?",
+        "hi": "लोरी तेज़ होती है या धीमी?"
+      },
+      "answer": {
+        "en": "Soft",
+        "hi": "धीमी"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one musical instrument.",
+        "hi": "एक वाद्य यंत्र का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Dholak, tabla, flute, harmonium (any one)",
+        "hi": "ढोलक, तबला, बाँसुरी, हारमोनियम (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Music has a beat, like a heartbeat. We can clap, tap and move to the beat. Action songs make us move our whole body.",
+    "hi": "संगीत की एक ताल होती है, दिल की धड़कन जैसी। हम ताल पर ताली बजा सकते हैं, थपथपा सकते हैं और हिल-डुल सकते हैं। हाव-भाव वाले गीतों में पूरा शरीर हिलाते हैं।"
+  }
+}

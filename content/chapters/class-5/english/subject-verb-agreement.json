@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Singular: is, was, has, verb + s",
+      "hi": "एकवचन: is, was, has, verb + s"
+    },
+    {
+      "en": "Plural: are, were, have, verb (no s)",
+      "hi": "बहुवचन: are, were, have, verb (बिना s)"
+    },
+    {
+      "en": "Each, every, everyone take a singular verb.",
+      "hi": "Each, every, everyone के साथ एकवचन क्रिया।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Choose: \"The box of pencils (is/are) on the desk.\"",
+        "hi": "चुनो: \"The box of pencils (is/are) on the desk.\""
+      },
+      "steps": [
+        {
+          "en": "The real subject is \"box\" (one), not \"pencils\".",
+          "hi": "असली कर्ता \"box\" (एक) है, \"pencils\" नहीं।"
+        }
+      ],
+      "answer": {
+        "en": "is",
+        "hi": "is"
+      }
+    },
+    {
+      "problem": {
+        "en": "Choose: \"Every student (has/have) a library card.\"",
+        "hi": "चुनो: \"Every student (has/have) a library card.\""
+      },
+      "steps": [
+        {
+          "en": "\"Every\" makes the subject singular.",
+          "hi": "\"Every\" से कर्ता एकवचन होता है।"
+        }
+      ],
+      "answer": {
+        "en": "has",
+        "hi": "has"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Choose: \"My friends (was/were) late.\"",
+        "hi": "चुनो: \"My friends (was/were) late.\""
+      },
+      "answer": {
+        "en": "were",
+        "hi": "were"
+      }
+    },
+    {
+      "question": {
+        "en": "Choose: \"She (don't/doesn't) like milk.\"",
+        "hi": "चुनो: \"She (don't/doesn't) like milk.\""
+      },
+      "answer": {
+        "en": "doesn't",
+        "hi": "doesn't"
+      }
+    },
+    {
+      "question": {
+        "en": "Choose: \"The birds (sing/sings) every morning.\"",
+        "hi": "चुनो: \"The birds (sing/sings) every morning.\""
+      },
+      "answer": {
+        "en": "sing",
+        "hi": "sing"
+      }
+    }
+  ],
+  "intro": {
+    "en": "The verb must agree with its subject. A singular subject takes a singular verb (The boy runs); a plural subject takes a plural verb (The boys run).",
+    "hi": "क्रिया अपने कर्ता से मेल खानी चाहिए। एकवचन कर्ता के साथ एकवचन क्रिया (The boy runs); बहुवचन कर्ता के साथ बहुवचन क्रिया (The boys run)।"
+  }
+}

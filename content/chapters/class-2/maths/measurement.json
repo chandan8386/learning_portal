@@ -1,0 +1,33 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We measure length in centimetres (cm) and metres (m), weight in kilograms (kg), and liquids in litres (L). 1 metre = 100 centimetres.",
+    "hi": "लंबाई सेंटीमीटर (से.मी.) और मीटर (मी.) में, वज़न किलोग्राम (कि.ग्रा.) में और तरल लीटर (ली.) में नापते हैं। 1 मीटर = 100 सेंटीमीटर।"
+  },
+  "keyPoints": [
+    { "en": "Small lengths (pencil, book): cm. Big lengths (room, cloth): m.", "hi": "छोटी लंबाई (पेंसिल, किताब): से.मी.। बड़ी लंबाई (कमरा, कपड़ा): मी.।" },
+    { "en": "1 m = 100 cm", "hi": "1 मी. = 100 से.मी." },
+    { "en": "We can add and subtract measurements like numbers, keeping the unit.", "hi": "नाप को संख्याओं की तरह जोड़-घटा सकते हैं, इकाई साथ लिखो।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "A ribbon is 45 cm long. Another is 30 cm long. What is their total length?", "hi": "एक रिबन 45 से.मी. और दूसरा 30 से.मी. लंबा है। कुल लंबाई कितनी?" },
+      "steps": [
+        { "en": "Add: 45 + 30 = 75", "hi": "जोड़ो: 45 + 30 = 75" }
+      ],
+      "answer": "75 cm"
+    },
+    {
+      "problem": { "en": "A bag of rice weighs 10 kg. Mother uses 3 kg. How much is left?", "hi": "चावल की बोरी 10 कि.ग्रा. की है। माँ ने 3 कि.ग्रा. इस्तेमाल किए। कितने बचे?" },
+      "steps": [
+        { "en": "Subtract: 10 − 3 = 7", "hi": "घटाओ: 10 − 3 = 7" }
+      ],
+      "answer": "7 kg"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Which unit for the length of a pencil: cm or m?", "hi": "पेंसिल की लंबाई किसमें नापें: से.मी. या मी.?" }, "answer": "cm" },
+    { "question": { "en": "How many cm make 1 m?", "hi": "1 मी. में कितने से.मी. होते हैं?" }, "answer": "100" },
+    { "question": { "en": "A bucket has 12 L of water. 5 L is used. How much is left?", "hi": "बाल्टी में 12 ली. पानी है। 5 ली. इस्तेमाल हुआ। कितना बचा?" }, "answer": "7 L" }
+  ]
+}

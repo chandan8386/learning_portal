@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "How (manner): slowly, loudly, carefully",
+      "hi": "कैसे: slowly, loudly, carefully"
+    },
+    {
+      "en": "When (time): now, yesterday, soon",
+      "hi": "कब: now, yesterday, soon"
+    },
+    {
+      "en": "Where (place): here, there, outside, upstairs",
+      "hi": "कहाँ: here, there, outside, upstairs"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the adverb: \"The tortoise walked slowly.\"",
+        "hi": "adverb ढूँढो: \"The tortoise walked slowly.\""
+      },
+      "steps": [
+        {
+          "en": "How did the tortoise walk?",
+          "hi": "कछुआ कैसे चला?"
+        }
+      ],
+      "answer": {
+        "en": "slowly (manner)",
+        "hi": "slowly (कैसे)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Make an adverb from \"careful\" and use it.",
+        "hi": "\"careful\" से adverb बनाकर वाक्य में लगाओ।"
+      },
+      "steps": [
+        {
+          "en": "Add -ly: careful → carefully.",
+          "hi": "-ly जोड़ो: careful → carefully।"
+        }
+      ],
+      "answer": {
+        "en": "Carry the glass carefully.",
+        "hi": "Carry the glass carefully."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find the adverb: \"We will go tomorrow.\"",
+        "hi": "adverb ढूँढो: \"We will go tomorrow.\""
+      },
+      "answer": {
+        "en": "tomorrow (time)",
+        "hi": "tomorrow (कब)"
+      }
+    },
+    {
+      "question": {
+        "en": "Adverb of \"happy\"?",
+        "hi": "\"happy\" का adverb?"
+      },
+      "answer": {
+        "en": "happily",
+        "hi": "happily"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the adverb: \"The children are playing outside.\"",
+        "hi": "adverb ढूँढो: \"The children are playing outside.\""
+      },
+      "answer": {
+        "en": "outside (place)",
+        "hi": "outside (कहाँ)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "An adverb tells more about a verb: how (slowly), when (today), or where (outside). Many adverbs of manner end in -ly: quick → quickly.",
+    "hi": "क्रिया-विशेषण (adverb) क्रिया के बारे में और बताता है: कैसे (slowly), कब (today), या कहाँ (outside)। ढंग बताने वाले कई adverbs -ly पर ख़त्म होते हैं: quick → quickly।"
+  }
+}

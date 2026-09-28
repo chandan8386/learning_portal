@@ -1,0 +1,39 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We add bigger numbers column by column: ones, then tens, then hundreds, then thousands. When a column adds up to 10 or more, we carry to the next column.",
+    "hi": "बड़ी संख्याएँ कॉलम-दर-कॉलम जोड़ते हैं: इकाई, फिर दहाई, फिर सैकड़ा, फिर हज़ार। जब किसी कॉलम का जोड़ 10 या ज़्यादा हो, तो हासिल अगले कॉलम में जाता है।"
+  },
+  "keyPoints": [
+    { "en": "Write the numbers so that ones are under ones, tens under tens.", "hi": "संख्याएँ ऐसे लिखो कि इकाई के नीचे इकाई, दहाई के नीचे दहाई हो।" },
+    { "en": "Carry 1 to the next column when the sum is 10 or more.", "hi": "जोड़ 10 या ज़्यादा हो तो अगले कॉलम में 1 हासिल ले जाओ।" },
+    { "en": "Estimate first: 298 + 405 is about 300 + 400 = 700.", "hi": "पहले अनुमान लगाओ: 298 + 405 लगभग 300 + 400 = 700।" }
+  ],
+  "examples": [
+    {
+      "problem": "356 + 278",
+      "steps": [
+        { "en": "Ones: 6 + 8 = 14 → write 4, carry 1.", "hi": "इकाई: 6 + 8 = 14 → 4 लिखो, 1 हासिल।" },
+        { "en": "Tens: 5 + 7 + 1 = 13 → write 3, carry 1.", "hi": "दहाई: 5 + 7 + 1 = 13 → 3 लिखो, 1 हासिल।" },
+        { "en": "Hundreds: 3 + 2 + 1 = 6", "hi": "सैकड़ा: 3 + 2 + 1 = 6" }
+      ],
+      "answer": "634"
+    },
+    {
+      "problem": { "en": "A library had 2,145 books. It bought 1,378 more. How many books now?", "hi": "पुस्तकालय में 2,145 किताबें थीं। 1,378 और ख़रीदीं। अब कितनी किताबें हैं?" },
+      "steps": [
+        { "en": "Ones: 5 + 8 = 13 → 3, carry 1.", "hi": "इकाई: 5 + 8 = 13 → 3, हासिल 1।" },
+        { "en": "Tens: 4 + 7 + 1 = 12 → 2, carry 1.", "hi": "दहाई: 4 + 7 + 1 = 12 → 2, हासिल 1।" },
+        { "en": "Hundreds: 1 + 3 + 1 = 5", "hi": "सैकड़ा: 1 + 3 + 1 = 5" },
+        { "en": "Thousands: 2 + 1 = 3", "hi": "हज़ार: 2 + 1 = 3" }
+      ],
+      "answer": { "en": "3,523 books", "hi": "3,523 किताबें" }
+    }
+  ],
+  "practice": [
+    { "question": "432 + 257 = ?", "answer": "689" },
+    { "question": "589 + 146 = ?", "answer": "735" },
+    { "question": "3,408 + 1,596 = ?", "answer": "5,004" },
+    { "question": { "en": "A farmer picked 675 mangoes on Monday and 548 on Tuesday. How many in all?", "hi": "किसान ने सोमवार को 675 और मंगलवार को 548 आम तोड़े। कुल कितने?" }, "answer": "1,223" }
+  ]
+}

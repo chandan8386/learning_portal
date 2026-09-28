@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Kitchen – cooking; bedroom – sleeping; bathroom – bathing",
+      "hi": "रसोई – खाना बनाना; शयनकक्ष – सोना; स्नानघर – नहाना"
+    },
+    {
+      "en": "Kinds of houses: pucca (bricks), kutcha (mud), houseboat, tent, igloo",
+      "hi": "घरों के प्रकार: पक्का (ईंट), कच्चा (मिट्टी), हाउसबोट, तंबू, इग्लू"
+    },
+    {
+      "en": "Keep your house clean.",
+      "hi": "घर साफ़ रखो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In which room do we cook food?",
+        "hi": "किस कमरे में खाना बनाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It has a stove and utensils.",
+          "hi": "इसमें चूल्हा और बर्तन होते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Kitchen",
+        "hi": "रसोई"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which house is made of ice?",
+        "hi": "कौन-सा घर बर्फ़ से बनता है?"
+      },
+      "steps": [
+        {
+          "en": "It is found in very cold snowy places.",
+          "hi": "यह बहुत ठंडी बर्फ़ीली जगहों पर होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Igloo",
+        "hi": "इग्लू"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where do we sleep?",
+        "hi": "हम कहाँ सोते हैं?"
+      },
+      "answer": {
+        "en": "Bedroom",
+        "hi": "शयनकक्ष"
+      }
+    },
+    {
+      "question": {
+        "en": "A house made of mud is called?",
+        "hi": "मिट्टी से बना घर क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Kutcha house",
+        "hi": "कच्चा घर"
+      }
+    },
+    {
+      "question": {
+        "en": "A house that floats on water is called?",
+        "hi": "पानी पर तैरने वाला घर क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Houseboat",
+        "hi": "हाउसबोट"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A house keeps us safe from sun, rain and cold. It has rooms: a kitchen to cook, a bedroom to sleep, a bathroom to bathe. Houses can be made of bricks, mud, wood or ice (igloo)!",
+    "hi": "घर हमें धूप, बारिश और ठंड से बचाता है। इसमें कमरे होते हैं: खाना बनाने के लिए रसोई, सोने के लिए शयनकक्ष, नहाने के लिए स्नानघर। घर ईंट, मिट्टी, लकड़ी या बर्फ़ (इग्लू) से बनते हैं!"
+  }
+}

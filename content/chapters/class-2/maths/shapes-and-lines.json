@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Lines can be straight or curved. Shapes are made of lines. A shape made of straight lines has sides and corners. We can count them to name the shape.",
+    "hi": "रेखाएँ सीधी या घुमावदार हो सकती हैं। आकृतियाँ रेखाओं से बनती हैं। सीधी रेखाओं से बनी आकृति की भुजाएँ और कोने होते हैं। इन्हें गिनकर आकृति का नाम बता सकते हैं।"
+  },
+  "keyPoints": [
+    { "en": "Straight lines: standing (vertical), sleeping (horizontal), slanting.", "hi": "सीधी रेखाएँ: खड़ी, सोई (पड़ी) और तिरछी।" },
+    { "en": "Triangle: 3 sides, 3 corners. Square and rectangle: 4 sides, 4 corners.", "hi": "त्रिभुज: 3 भुजाएँ, 3 कोने। वर्ग और आयत: 4 भुजाएँ, 4 कोने।" },
+    { "en": "A circle has a curved line and no corners.", "hi": "वृत्त की रेखा घुमावदार होती है और कोई कोना नहीं होता।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "A shape has 4 sides and all sides are equal. Name it.", "hi": "एक आकृति की 4 भुजाएँ हैं और सब बराबर हैं। नाम बताओ।" },
+      "steps": [
+        { "en": "4 sides means square or rectangle.", "hi": "4 भुजाएँ मतलब वर्ग या आयत।" },
+        { "en": "All sides equal means square.", "hi": "सब भुजाएँ बराबर मतलब वर्ग।" }
+      ],
+      "answer": { "en": "Square", "hi": "वर्ग" }
+    },
+    {
+      "problem": { "en": "How many corners do 2 triangles have altogether?", "hi": "2 त्रिभुजों के कुल कितने कोने होते हैं?" },
+      "steps": [
+        { "en": "One triangle has 3 corners.", "hi": "एक त्रिभुज के 3 कोने होते हैं।" },
+        { "en": "3 + 3 = 6", "hi": "3 + 3 = 6" }
+      ],
+      "answer": { "en": "6 corners", "hi": "6 कोने" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Is the edge of a bangle straight or curved?", "hi": "चूड़ी का किनारा सीधा है या घुमावदार?" }, "answer": { "en": "Curved", "hi": "घुमावदार" } },
+    { "question": { "en": "How many sides does a rectangle have?", "hi": "आयत की कितनी भुजाएँ होती हैं?" }, "answer": "4" },
+    { "question": { "en": "Which shape has 3 corners?", "hi": "किस आकृति के 3 कोने होते हैं?" }, "answer": { "en": "Triangle", "hi": "त्रिभुज" } }
+  ]
+}

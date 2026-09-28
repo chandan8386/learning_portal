@@ -1,0 +1,77 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Line up the places before adding.",
+      "hi": "जोड़ने से पहले स्थान एक सीध में रखो।"
+    },
+    {
+      "en": "Check subtraction by adding: answer + smaller = bigger.",
+      "hi": "घटाव की जाँच जोड़कर: उत्तर + छोटी = बड़ी।"
+    },
+    {
+      "en": "Estimate: 4,896 + 2,105 ≈ 5,000 + 2,000 = 7,000.",
+      "hi": "अनुमान: 4,896 + 2,105 ≈ 5,000 + 2,000 = 7,000।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "23,467 + 18,758",
+        "hi": "23,467 + 18,758"
+      },
+      "steps": [
+        {
+          "en": "Ones: 7 + 8 = 15 → 5 carry 1; tens: 6 + 5 + 1 = 12 → 2 carry 1.",
+          "hi": "इकाई: 7 + 8 = 15 → 5 हासिल 1; दहाई: 6 + 5 + 1 = 12 → 2 हासिल 1।"
+        },
+        {
+          "en": "Hundreds: 4 + 7 + 1 = 12 → 2 carry 1; thousands: 3 + 8 + 1 = 12 → 2 carry 1; ten-thousands: 2 + 1 + 1 = 4.",
+          "hi": "सैकड़ा: 4 + 7 + 1 = 12 → 2 हासिल 1; हज़ार: 3 + 8 + 1 = 12 → 2 हासिल 1; दस हज़ार: 2 + 1 + 1 = 4।"
+        }
+      ],
+      "answer": "42,225"
+    },
+    {
+      "problem": {
+        "en": "A school had 12,500 books. 3,275 were given away. How many are left?",
+        "hi": "एक स्कूल में 12,500 किताबें थीं। 3,275 दे दी गईं। कितनी बचीं?"
+      },
+      "steps": [
+        {
+          "en": "12,500 − 3,275",
+          "hi": "12,500 − 3,275"
+        },
+        {
+          "en": "Check: 9,225 + 3,275 = 12,500 ✓",
+          "hi": "जाँच: 9,225 + 3,275 = 12,500 ✓"
+        }
+      ],
+      "answer": {
+        "en": "9,225 books",
+        "hi": "9,225 किताबें"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": "35,209 + 14,690 = ?",
+      "answer": "49,899"
+    },
+    {
+      "question": "50,000 − 23,456 = ?",
+      "answer": "26,544"
+    },
+    {
+      "question": {
+        "en": "Estimate 6,912 + 3,089 to the nearest thousand.",
+        "hi": "6,912 + 3,089 का निकटतम हज़ार तक अनुमान।"
+      },
+      "answer": "7,000 + 3,000 = 10,000"
+    }
+  ],
+  "intro": {
+    "en": "We add and subtract large numbers column by column, carrying and borrowing as needed. Estimating first (rounding) helps us check if the answer makes sense.",
+    "hi": "बड़ी संख्याएँ कॉलम-दर-कॉलम जोड़ते-घटाते हैं, ज़रूरत पर हासिल और उधार लेते हैं। पहले अनुमान (पूर्णांकन) से पता चलता है कि उत्तर सही लगता है या नहीं।"
+  }
+}

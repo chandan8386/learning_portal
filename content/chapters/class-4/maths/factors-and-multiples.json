@@ -1,0 +1,78 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 is a factor of every number; every number is a factor of itself.",
+      "hi": "1 हर संख्या का गुणनखंड है; हर संख्या अपना गुणनखंड है।"
+    },
+    {
+      "en": "Primes: 2, 3, 5, 7, 11, 13 … (2 is the only even prime)",
+      "hi": "अभाज्य: 2, 3, 5, 7, 11, 13 … (2 अकेली सम अभाज्य)"
+    },
+    {
+      "en": "Composite numbers have more than two factors: 4, 6, 8, 9. 1 is neither.",
+      "hi": "भाज्य संख्याओं के दो से ज़्यादा गुणनखंड: 4, 6, 8, 9। 1 न अभाज्य न भाज्य।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find all factors of 18.",
+        "hi": "18 के सभी गुणनखंड निकालो।"
+      },
+      "steps": [
+        {
+          "en": "Find pairs that multiply to 18: 1 × 18, 2 × 9, 3 × 6.",
+          "hi": "18 बनाने वाले जोड़े: 1 × 18, 2 × 9, 3 × 6।"
+        }
+      ],
+      "answer": "1, 2, 3, 6, 9, 18"
+    },
+    {
+      "problem": {
+        "en": "Is 21 prime or composite?",
+        "hi": "21 अभाज्य है या भाज्य?"
+      },
+      "steps": [
+        {
+          "en": "21 = 3 × 7, so it has factors other than 1 and 21.",
+          "hi": "21 = 3 × 7, तो 1 और 21 के अलावा भी गुणनखंड हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Composite",
+        "hi": "भाज्य"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Write the first five multiples of 6.",
+        "hi": "6 के पहले पाँच गुणज लिखो।"
+      },
+      "answer": "6, 12, 18, 24, 30"
+    },
+    {
+      "question": {
+        "en": "List the factors of 20.",
+        "hi": "20 के गुणनखंड बताओ।"
+      },
+      "answer": "1, 2, 4, 5, 10, 20"
+    },
+    {
+      "question": {
+        "en": "Is 29 prime?",
+        "hi": "क्या 29 अभाज्य है?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Factors of a number divide it exactly: factors of 12 are 1, 2, 3, 4, 6, 12. Multiples are what we get by multiplying: multiples of 4 are 4, 8, 12, 16 … A prime number has exactly two factors (1 and itself).",
+    "hi": "किसी संख्या के गुणनखंड उसे पूरा-पूरा बाँटते हैं: 12 के गुणनखंड 1, 2, 3, 4, 6, 12। गुणज गुणा करके मिलते हैं: 4 के गुणज 4, 8, 12, 16 …। अभाज्य संख्या के ठीक दो गुणनखंड होते हैं (1 और वह ख़ुद)।"
+  }
+}

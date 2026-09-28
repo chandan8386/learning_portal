@@ -1,0 +1,80 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm",
+      "hi": "1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm"
+    },
+    {
+      "en": "1 kg = 1000 g; 1 L = 1000 mL",
+      "hi": "1 kg = 1000 g; 1 L = 1000 mL"
+    },
+    {
+      "en": "Add and subtract units separately, then convert if needed.",
+      "hi": "इकाइयाँ अलग-अलग जोड़ो-घटाओ, फिर ज़रूरत हो तो बदलो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Convert 3 km 250 m into metres.",
+        "hi": "3 km 250 m को मीटर में बदलो।"
+      },
+      "steps": [
+        {
+          "en": "3 km = 3 × 1000 = 3000 m.",
+          "hi": "3 km = 3 × 1000 = 3000 m।"
+        },
+        {
+          "en": "3000 + 250 = 3250",
+          "hi": "3000 + 250 = 3250"
+        }
+      ],
+      "answer": "3250 m"
+    },
+    {
+      "problem": {
+        "en": "A jug has 2 L 400 mL of juice. 1 L 750 mL is drunk. How much is left?",
+        "hi": "जग में 2 L 400 mL जूस है। 1 L 750 mL पी लिया। कितना बचा?"
+      },
+      "steps": [
+        {
+          "en": "Change to mL: 2400 − 1750.",
+          "hi": "mL में बदलो: 2400 − 1750।"
+        },
+        {
+          "en": "2400 − 1750 = 650",
+          "hi": "2400 − 1750 = 650"
+        }
+      ],
+      "answer": "650 mL"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many mL in 5 L?",
+        "hi": "5 L में कितने mL?"
+      },
+      "answer": "5000 mL"
+    },
+    {
+      "question": {
+        "en": "Convert 4500 g into kg and g.",
+        "hi": "4500 g को kg और g में बदलो।"
+      },
+      "answer": "4 kg 500 g"
+    },
+    {
+      "question": {
+        "en": "How many cm in 2 m 35 cm?",
+        "hi": "2 m 35 cm में कितने cm?"
+      },
+      "answer": "235 cm"
+    }
+  ],
+  "intro": {
+    "en": "We convert between bigger and smaller units. To change a bigger unit to a smaller one, multiply; to change smaller to bigger, divide.",
+    "hi": "बड़ी और छोटी इकाइयों में बदलते हैं। बड़ी से छोटी में गुणा करो; छोटी से बड़ी में भाग।"
+  }
+}

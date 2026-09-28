@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "A stanza is a group of lines in a poem.",
+      "hi": "छंद (stanza) कविता की पंक्तियों का समूह है।"
+    },
+    {
+      "en": "Rhyming words have the same ending sound: rain–train.",
+      "hi": "तुक वाले शब्दों की अंत ध्वनि एक होती है: rain–train।"
+    },
+    {
+      "en": "Ask: what is the poem about and how does the poet feel?",
+      "hi": "पूछो: कविता किस बारे में है और कवि कैसा महसूस करता है?"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "\"The rain falls down, on field and town.\" Find the rhyming words.",
+        "hi": "\"The rain falls down, on field and town.\" तुक वाले शब्द ढूँढो।"
+      },
+      "steps": [
+        {
+          "en": "Look at the ends of the two parts: down, town.",
+          "hi": "दोनों हिस्सों के अंत देखो: down, town।"
+        }
+      ],
+      "answer": {
+        "en": "down – town",
+        "hi": "down – town"
+      }
+    },
+    {
+      "problem": {
+        "en": "A poem says: \"I love my garden green, the prettiest I have seen.\" How does the poet feel?",
+        "hi": "कविता कहती है: \"I love my garden green, the prettiest I have seen.\" कवि कैसा महसूस करता है?"
+      },
+      "steps": [
+        {
+          "en": "\"love\" and \"prettiest\" are happy, proud words.",
+          "hi": "\"love\" और \"prettiest\" ख़ुशी और गर्व वाले शब्द हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Happy and proud of the garden",
+        "hi": "बगीचे पर ख़ुश और गर्वित"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is a group of lines in a poem called?",
+        "hi": "कविता की पंक्तियों के समूह को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "A stanza",
+        "hi": "छंद (stanza)"
+      }
+    },
+    {
+      "question": {
+        "en": "Give a word that rhymes with \"cake\".",
+        "hi": "\"cake\" से तुक वाला शब्द बताओ।"
+      },
+      "answer": {
+        "en": "lake, make, bake (any one)",
+        "hi": "lake, make, bake (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Give a word that rhymes with \"night\".",
+        "hi": "\"night\" से तुक वाला शब्द बताओ।"
+      },
+      "answer": {
+        "en": "light, kite, bright (any one)",
+        "hi": "light, kite, bright (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A poem expresses feelings and pictures in a few words. It has lines and stanzas (groups of lines), rhythm and often rhyming words. We read a poem to enjoy its sound and understand its meaning.",
+    "hi": "कविता कम शब्दों में भावनाएँ और चित्र दिखाती है। इसमें पंक्तियाँ और छंद (पंक्तियों के समूह), लय और अक्सर तुक वाले शब्द होते हैं। कविता का आनंद लेने और अर्थ समझने के लिए पढ़ते हैं।"
+  }
+}

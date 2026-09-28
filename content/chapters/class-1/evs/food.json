@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "From plants: rice, wheat, dal, fruits, vegetables",
+      "hi": "पौधों से: चावल, गेहूँ, दाल, फल, सब्ज़ियाँ"
+    },
+    {
+      "en": "From animals: milk, eggs, honey",
+      "hi": "जानवरों से: दूध, अंडे, शहद"
+    },
+    {
+      "en": "Do not waste food.",
+      "hi": "खाना बर्बाद मत करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where does honey come from?",
+        "hi": "शहद कहाँ से आता है?"
+      },
+      "steps": [
+        {
+          "en": "Bees collect nectar from flowers and make it.",
+          "hi": "मधुमक्खियाँ फूलों से रस लेकर बनाती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "From honeybees 🐝",
+        "hi": "मधुमक्खियों से 🐝"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is roti made from a plant or an animal?",
+        "hi": "रोटी पौधे से बनती है या जानवर से?"
+      },
+      "steps": [
+        {
+          "en": "Roti is made from wheat flour. Wheat is a plant.",
+          "hi": "रोटी गेहूँ के आटे से बनती है। गेहूँ एक पौधा है।"
+        }
+      ],
+      "answer": {
+        "en": "Plant (wheat)",
+        "hi": "पौधा (गेहूँ)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which animal gives us milk?",
+        "hi": "कौन-सा जानवर दूध देता है?"
+      },
+      "answer": {
+        "en": "Cow, buffalo or goat",
+        "hi": "गाय, भैंस या बकरी"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one food from plants.",
+        "hi": "पौधों से मिलने वाला एक भोजन बताओ।"
+      },
+      "answer": {
+        "en": "Rice, dal, apple, potato (any one)",
+        "hi": "चावल, दाल, सेब, आलू (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we leave food on our plate?",
+        "hi": "क्या थाली में खाना छोड़ना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We get food from plants and animals. Rice, wheat, fruits and vegetables come from plants. Milk, eggs and honey come from animals. Healthy food makes us strong.",
+    "hi": "भोजन पौधों और जानवरों से मिलता है। चावल, गेहूँ, फल और सब्ज़ियाँ पौधों से। दूध, अंडे और शहद जानवरों से। स्वस्थ भोजन हमें मज़बूत बनाता है।"
+  }
+}

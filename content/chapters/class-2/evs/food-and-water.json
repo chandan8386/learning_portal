@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Energy foods: rice, roti, potato",
+      "hi": "ऊर्जा देने वाले: चावल, रोटी, आलू"
+    },
+    {
+      "en": "Body-building foods: dal, milk, paneer, eggs",
+      "hi": "शरीर बनाने वाले: दाल, दूध, पनीर, अंडे"
+    },
+    {
+      "en": "Protective foods: fruits and green vegetables",
+      "hi": "रक्षा करने वाले: फल और हरी सब्ज़ियाँ"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is dal an energy food or a body-building food?",
+        "hi": "दाल ऊर्जा देने वाला भोजन है या शरीर बनाने वाला?"
+      },
+      "steps": [
+        {
+          "en": "Dal has protein, which helps us grow.",
+          "hi": "दाल में प्रोटीन है, जो बढ़ने में मदद करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Body-building food",
+        "hi": "शरीर बनाने वाला"
+      }
+    },
+    {
+      "problem": {
+        "en": "How can we make water safe to drink?",
+        "hi": "पानी पीने लायक़ कैसे बनाएँ?"
+      },
+      "steps": [
+        {
+          "en": "Germs in water can make us ill.",
+          "hi": "पानी के कीटाणु बीमार कर सकते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Boil it or use a filter",
+        "hi": "उबालकर या फ़िल्टर से"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is spinach a protective food?",
+        "hi": "क्या पालक रक्षा करने वाला भोजन है?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one energy food.",
+        "hi": "एक ऊर्जा देने वाला भोजन बताओ।"
+      },
+      "answer": {
+        "en": "Rice, roti or potato",
+        "hi": "चावल, रोटी या आलू"
+      }
+    },
+    {
+      "question": {
+        "en": "Why should we cover drinking water?",
+        "hi": "पीने का पानी ढककर क्यों रखना चाहिए?"
+      },
+      "answer": {
+        "en": "To keep dust and germs out",
+        "hi": "धूल और कीटाणुओं से बचाने के लिए"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A balanced meal has different kinds of food: energy food (rice, roti), body-building food (dal, milk, eggs) and protective food (fruits, vegetables). We must drink clean water, boiled or filtered.",
+    "hi": "संतुलित भोजन में अलग-अलग तरह का खाना होता है: ऊर्जा देने वाला (चावल, रोटी), शरीर बनाने वाला (दाल, दूध, अंडे) और रक्षा करने वाला (फल, सब्ज़ियाँ)। हमें साफ़ पानी पीना चाहिए, उबला या फ़िल्टर किया हुआ।"
+  }
+}

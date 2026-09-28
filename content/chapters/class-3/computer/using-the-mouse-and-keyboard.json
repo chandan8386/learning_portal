@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Click: press the left button once. Double-click: press twice quickly.",
+      "hi": "क्लिक: बायाँ बटन एक बार। डबल-क्लिक: जल्दी दो बार।"
+    },
+    {
+      "en": "Drag: hold the left button and move the mouse.",
+      "hi": "ड्रैग: बायाँ बटन दबाए रखकर माउस हिलाओ।"
+    },
+    {
+      "en": "Space bar – gap; Enter – new line; Backspace – delete the letter on the left",
+      "hi": "Space bar – जगह; Enter – नई लाइन; Backspace – बाईं ओर का अक्षर मिटाओ"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you open a folder on the desktop?",
+        "hi": "डेस्कटॉप पर फ़ोल्डर कैसे खोलते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Point to the folder with the mouse.",
+          "hi": "माउस से फ़ोल्डर पर पॉइंटर ले जाओ।"
+        },
+        {
+          "en": "Press the left button twice quickly.",
+          "hi": "बायाँ बटन जल्दी दो बार दबाओ।"
+        }
+      ],
+      "answer": {
+        "en": "Double-click it",
+        "hi": "डबल-क्लिक करके"
+      }
+    },
+    {
+      "problem": {
+        "en": "You typed \"catt\". Which key removes the extra t?",
+        "hi": "तुमने \"catt\" टाइप किया। अतिरिक्त t कौन-सी कुंजी मिटाएगी?"
+      },
+      "steps": [
+        {
+          "en": "The cursor is after the last t.",
+          "hi": "कर्सर आख़िरी t के बाद है।"
+        }
+      ],
+      "answer": {
+        "en": "Backspace",
+        "hi": "Backspace"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which key makes a space between words?",
+        "hi": "शब्दों के बीच जगह कौन-सी कुंजी बनाती है?"
+      },
+      "answer": {
+        "en": "Space bar",
+        "hi": "Space bar"
+      }
+    },
+    {
+      "question": {
+        "en": "Which key starts a new line?",
+        "hi": "नई लाइन कौन-सी कुंजी शुरू करती है?"
+      },
+      "answer": {
+        "en": "Enter",
+        "hi": "Enter"
+      }
+    },
+    {
+      "question": {
+        "en": "Holding the button and moving the mouse is called?",
+        "hi": "बटन दबाए रखकर माउस हिलाना क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Drag",
+        "hi": "ड्रैग"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A mouse has a left button, a right button and a scroll wheel. We click, double-click and drag with it. A keyboard has letter keys, number keys and special keys like Enter, Space bar and Backspace.",
+    "hi": "माउस में बायाँ बटन, दायाँ बटन और स्क्रॉल व्हील होता है। इससे क्लिक, डबल-क्लिक और ड्रैग करते हैं। कीबोर्ड में अक्षर, अंक और ख़ास कुंजियाँ जैसे Enter, Space bar और Backspace होती हैं।"
+  }
+}

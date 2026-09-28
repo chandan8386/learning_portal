@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "People: mother, teacher, Aman",
+      "hi": "लोग: mother, teacher, Aman"
+    },
+    {
+      "en": "Places: park, school, market",
+      "hi": "जगहें: park, school, market"
+    },
+    {
+      "en": "Animals and things: dog, ball, chair",
+      "hi": "जानवर और चीज़ें: dog, ball, chair"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the naming word: \"The cat is sleeping.\"",
+        "hi": "नाम वाला शब्द ढूँढो: \"The cat is sleeping.\""
+      },
+      "steps": [
+        {
+          "en": "Ask: who or what is sleeping?",
+          "hi": "पूछो: कौन सो रहा है?"
+        }
+      ],
+      "answer": {
+        "en": "cat",
+        "hi": "cat"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is \"park\" a person, place or thing?",
+        "hi": "\"park\" व्यक्ति है, जगह या चीज़?"
+      },
+      "steps": [
+        {
+          "en": "We go to a park to play. It is somewhere we go.",
+          "hi": "पार्क में खेलने जाते हैं। यह एक जगह है।"
+        }
+      ],
+      "answer": {
+        "en": "Place",
+        "hi": "जगह"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Find the naming word: \"The ball is red.\"",
+        "hi": "नाम वाला शब्द ढूँढो: \"The ball is red.\""
+      },
+      "answer": {
+        "en": "ball",
+        "hi": "ball"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"teacher\" a person or a thing?",
+        "hi": "\"teacher\" व्यक्ति है या चीज़?"
+      },
+      "answer": {
+        "en": "Person",
+        "hi": "व्यक्ति"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one thing in your classroom.",
+        "hi": "कक्षा की एक चीज़ का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Desk, board, chair, book (any one)",
+        "hi": "desk, board, chair, book (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Naming words tell the names of people, places, animals and things. Riya, school, cow and pencil are naming words.",
+    "hi": "नाम वाले शब्द लोगों, जगहों, जानवरों और चीज़ों के नाम बताते हैं। Riya, school, cow और pencil नाम वाले शब्द हैं।"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Circle, square, triangle, rectangle",
+      "hi": "गोला, वर्ग, त्रिभुज, आयत"
+    },
+    {
+      "en": "A rectangle has 2 long sides and 2 short sides.",
+      "hi": "आयत की 2 लंबी और 2 छोटी भुजाएँ होती हैं।"
+    },
+    {
+      "en": "In a pattern, find what repeats.",
+      "hi": "पैटर्न में देखो क्या दोहरा रहा है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What comes next? 🔺⚪🔺⚪🔺 __",
+        "hi": "आगे क्या आएगा? 🔺⚪🔺⚪🔺 __"
+      },
+      "steps": [
+        {
+          "en": "The pattern is triangle, circle, triangle, circle.",
+          "hi": "पैटर्न है त्रिभुज, गोला, त्रिभुज, गोला।"
+        }
+      ],
+      "answer": "⚪"
+    },
+    {
+      "problem": {
+        "en": "A door is which shape?",
+        "hi": "दरवाज़ा किस आकार का है?"
+      },
+      "steps": [
+        {
+          "en": "It has 4 sides, 2 long and 2 short.",
+          "hi": "इसकी 4 भुजाएँ हैं, 2 लंबी और 2 छोटी।"
+        }
+      ],
+      "answer": {
+        "en": "Rectangle",
+        "hi": "आयत"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What comes next? 🍎🍎🍌🍎🍎🍌🍎🍎 __",
+        "hi": "आगे क्या आएगा? 🍎🍎🍌🍎🍎🍌🍎🍎 __"
+      },
+      "answer": "🍌"
+    },
+    {
+      "question": {
+        "en": "How many sides does a rectangle have?",
+        "hi": "आयत की कितनी भुजाएँ होती हैं?"
+      },
+      "answer": "4"
+    },
+    {
+      "question": {
+        "en": "Which shape is a clock 🕒?",
+        "hi": "घड़ी 🕒 किस आकार की है?"
+      },
+      "answer": {
+        "en": "Circle",
+        "hi": "गोला"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A rectangle is like a door: 4 sides, and the opposite sides are equal. A pattern repeats: 🔴🔵🔴🔵.",
+    "hi": "आयत दरवाज़े जैसा है: 4 भुजाएँ, आमने-सामने की भुजाएँ बराबर। पैटर्न दोहराता है: 🔴🔵🔴🔵।"
+  }
+}

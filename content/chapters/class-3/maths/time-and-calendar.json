@@ -1,0 +1,89 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 hour = 60 minutes; 1 day = 24 hours",
+      "hi": "1 घंटा = 60 मिनट; 1 दिन = 24 घंटे"
+    },
+    {
+      "en": "1 week = 7 days; 1 year = 12 months = 365 days (366 in a leap year)",
+      "hi": "1 हफ़्ता = 7 दिन; 1 साल = 12 महीने = 365 दिन (लीप वर्ष में 366)"
+    },
+    {
+      "en": "30 days: April, June, September, November. February has 28 or 29.",
+      "hi": "30 दिन: अप्रैल, जून, सितंबर, नवंबर। फ़रवरी में 28 या 29।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "The short hand is just past 3 and the long hand is on 4. What time is it?",
+        "hi": "छोटी सुई 3 के थोड़ा आगे और बड़ी सुई 4 पर है। क्या समय है?"
+      },
+      "steps": [
+        {
+          "en": "Hour: 3.",
+          "hi": "घंटा: 3।"
+        },
+        {
+          "en": "Long hand on 4 → 4 × 5 = 20 minutes.",
+          "hi": "बड़ी सुई 4 पर → 4 × 5 = 20 मिनट।"
+        }
+      ],
+      "answer": {
+        "en": "3:20",
+        "hi": "3:20 (तीन बजकर बीस मिनट)"
+      }
+    },
+    {
+      "problem": {
+        "en": "If today is Monday, 5 March, what day and date is it after one week?",
+        "hi": "आज सोमवार, 5 मार्च है तो एक हफ़्ते बाद कौन-सा दिन और तारीख़?"
+      },
+      "steps": [
+        {
+          "en": "One week = 7 days, and the day repeats.",
+          "hi": "एक हफ़्ता = 7 दिन, और दिन दोहराता है।"
+        },
+        {
+          "en": "5 + 7 = 12",
+          "hi": "5 + 7 = 12"
+        }
+      ],
+      "answer": {
+        "en": "Monday, 12 March",
+        "hi": "सोमवार, 12 मार्च"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many minutes are in 2 hours?",
+        "hi": "2 घंटे में कितने मिनट?"
+      },
+      "answer": "120"
+    },
+    {
+      "question": {
+        "en": "How many days does June have?",
+        "hi": "जून में कितने दिन होते हैं?"
+      },
+      "answer": "30"
+    },
+    {
+      "question": {
+        "en": "The long hand is on 6. How many minutes past the hour?",
+        "hi": "बड़ी सुई 6 पर है। घंटे के बाद कितने मिनट?"
+      },
+      "answer": {
+        "en": "30 (half past)",
+        "hi": "30 (साढ़े)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A clock shows hours and minutes. The short hand shows the hour, the long hand shows minutes; each number on the clock is 5 minutes for the long hand. A calendar shows days, weeks and months of the year.",
+    "hi": "घड़ी घंटे और मिनट दिखाती है। छोटी सुई घंटा, बड़ी सुई मिनट दिखाती है; बड़ी सुई के लिए घड़ी का हर अंक 5 मिनट है। कैलेंडर साल के दिन, हफ़्ते और महीने दिखाता है।"
+  }
+}

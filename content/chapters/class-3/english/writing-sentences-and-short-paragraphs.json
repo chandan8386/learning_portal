@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Topic sentence tells what the paragraph is about.",
+      "hi": "मुख्य वाक्य बताता है कि अनुच्छेद किस बारे में है।"
+    },
+    {
+      "en": "Details: use adjectives and facts.",
+      "hi": "बातें: विशेषण और तथ्य इस्तेमाल करो।"
+    },
+    {
+      "en": "Closing sentence ends with a feeling or summary.",
+      "hi": "समापन वाक्य भावना या सार पर ख़त्म होता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write a short paragraph on \"My Pet\".",
+        "hi": "\"My Pet\" पर छोटा अनुच्छेद लिखो।"
+      },
+      "steps": [
+        {
+          "en": "Topic sentence: I have a pet dog named Bruno.",
+          "hi": "मुख्य वाक्य: I have a pet dog named Bruno."
+        },
+        {
+          "en": "Details: colour, food, what he does.",
+          "hi": "बातें: रंग, खाना, वह क्या करता है।"
+        },
+        {
+          "en": "Closing: how you feel.",
+          "hi": "समापन: तुम कैसा महसूस करते हो।"
+        }
+      ],
+      "answer": {
+        "en": "I have a pet dog named Bruno. He is brown and white. He eats rice and milk. He plays with me every evening. I love Bruno very much.",
+        "hi": "I have a pet dog named Bruno. He is brown and white. He eats rice and milk. He plays with me every evening. I love Bruno very much."
+      }
+    },
+    {
+      "problem": {
+        "en": "Make a better sentence: \"I saw a bird.\"",
+        "hi": "बेहतर वाक्य बनाओ: \"I saw a bird.\""
+      },
+      "steps": [
+        {
+          "en": "Add where and what kind.",
+          "hi": "कहाँ और कैसा जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "I saw a small green parrot on the mango tree.",
+        "hi": "I saw a small green parrot on the mango tree."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is a paragraph?",
+        "hi": "अनुच्छेद क्या है?"
+      },
+      "answer": {
+        "en": "A group of sentences about one topic",
+        "hi": "एक विषय पर वाक्यों का समूह"
+      }
+    },
+    {
+      "question": {
+        "en": "Write a topic sentence for \"My School\".",
+        "hi": "\"My School\" के लिए मुख्य वाक्य लिखो।"
+      },
+      "answer": {
+        "en": "Example: My school is the best place to learn and play.",
+        "hi": "उदाहरण: My school is the best place to learn and play."
+      }
+    },
+    {
+      "question": {
+        "en": "What should the last sentence of a paragraph do?",
+        "hi": "अनुच्छेद का आख़िरी वाक्य क्या करे?"
+      },
+      "answer": {
+        "en": "Close the topic with a feeling or summary",
+        "hi": "भावना या सार से विषय समाप्त करे"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A paragraph is a group of sentences about one topic. It starts with a topic sentence, gives 3–4 details, and ends with a closing sentence.",
+    "hi": "अनुच्छेद (paragraph) एक विषय पर वाक्यों का समूह है। यह मुख्य वाक्य से शुरू होता है, 3–4 बातें बताता है, और एक समापन वाक्य पर ख़त्म होता है।"
+  }
+}

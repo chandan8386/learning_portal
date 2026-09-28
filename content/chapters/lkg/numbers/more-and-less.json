@@ -1,0 +1,82 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Count both groups first.",
+      "hi": "पहले दोनों समूह गिनो।"
+    },
+    {
+      "en": "The bigger number is more.",
+      "hi": "बड़ी संख्या ज़्यादा है।"
+    },
+    {
+      "en": "If both are the same, they are equal.",
+      "hi": "दोनों बराबर हों तो बराबर हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which is more: 🐤🐤🐤🐤🐤🐤 or 🐤🐤🐤🐤?",
+        "hi": "कौन ज़्यादा है: 🐤🐤🐤🐤🐤🐤 या 🐤🐤🐤🐤?"
+      },
+      "steps": [
+        {
+          "en": "Count: 6 and 4.",
+          "hi": "गिनो: 6 और 4।"
+        },
+        {
+          "en": "6 is bigger than 4.",
+          "hi": "6, 4 से बड़ा है।"
+        }
+      ],
+      "answer": {
+        "en": "🐤🐤🐤🐤🐤🐤 (6)",
+        "hi": "🐤🐤🐤🐤🐤🐤 (6)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which number is less: 12 or 21?",
+        "hi": "कौन-सी संख्या कम है: 12 या 21?"
+      },
+      "steps": [
+        {
+          "en": "12 comes before 21 when we count.",
+          "hi": "गिनते समय 12, 21 से पहले आता है।"
+        }
+      ],
+      "answer": "12"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which is more: 8 or 5?",
+        "hi": "कौन ज़्यादा है: 8 या 5?"
+      },
+      "answer": "8"
+    },
+    {
+      "question": {
+        "en": "Which is less: 30 or 13?",
+        "hi": "कौन कम है: 30 या 13?"
+      },
+      "answer": "13"
+    },
+    {
+      "question": {
+        "en": "🍎🍎🍎 and 🍌🍌🍌: more, less or equal?",
+        "hi": "🍎🍎🍎 और 🍌🍌🍌: ज़्यादा, कम या बराबर?"
+      },
+      "answer": {
+        "en": "Equal (3 and 3)",
+        "hi": "बराबर (3 और 3)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "When we compare two groups, the one with more things has a bigger number. 5 is more than 3, and 3 is less than 5.",
+    "hi": "दो समूहों की तुलना करें तो जिसमें ज़्यादा चीज़ें हैं उसकी संख्या बड़ी होती है। 5, 3 से ज़्यादा है और 3, 5 से कम।"
+  }
+}

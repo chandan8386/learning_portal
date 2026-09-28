@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "in – inside; on – on top, touching",
+      "hi": "in – अंदर; on – ऊपर, छूते हुए"
+    },
+    {
+      "en": "under – below; behind – at the back; in front of – ahead",
+      "hi": "under – नीचे; behind – पीछे; in front of – आगे"
+    },
+    {
+      "en": "between – in the middle of two things",
+      "hi": "between – दो चीज़ों के बीच"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "The ball is below the chair. Fill in: \"The ball is __ the chair.\"",
+        "hi": "गेंद कुर्सी के नीचे है। भरो: \"The ball is __ the chair.\""
+      },
+      "steps": [
+        {
+          "en": "Below means under.",
+          "hi": "नीचे मतलब under।"
+        }
+      ],
+      "answer": {
+        "en": "under",
+        "hi": "under"
+      }
+    },
+    {
+      "problem": {
+        "en": "Rohan sits with Asha on his left and Sam on his right. Fill in: \"Rohan sits __ Asha and Sam.\"",
+        "hi": "रोहन के बाईं ओर आशा और दाईं ओर सैम है। भरो: \"Rohan sits __ Asha and Sam.\""
+      },
+      "steps": [
+        {
+          "en": "Rohan is in the middle of two people.",
+          "hi": "रोहन दो लोगों के बीच में है।"
+        }
+      ],
+      "answer": {
+        "en": "between",
+        "hi": "between"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"The fish are __ the bowl.\"",
+        "hi": "भरो: \"The fish are __ the bowl.\""
+      },
+      "answer": {
+        "en": "in",
+        "hi": "in"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"The clock is __ the wall.\"",
+        "hi": "भरो: \"The clock is __ the wall.\""
+      },
+      "answer": {
+        "en": "on",
+        "hi": "on"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"The car is __ the house (at the back).\"",
+        "hi": "भरो: \"The car is __ the house (पीछे)।\""
+      },
+      "answer": {
+        "en": "behind",
+        "hi": "behind"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Prepositions of place tell us where something is: in, on, under, behind, in front of, between, near. \"The cat is under the table.\"",
+    "hi": "स्थान बताने वाले prepositions बताते हैं कि कोई चीज़ कहाँ है: in, on, under, behind, in front of, between, near। \"The cat is under the table.\""
+  }
+}

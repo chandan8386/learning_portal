@@ -1,0 +1,43 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Decimals are another way to write fractions with denominators 10, 100, 1000. 0.5 means 5 tenths (5/10). In money, ₹12.50 means 12 rupees and 50 paise.",
+    "hi": "दशमलव, 10, 100, 1000 हर वाली भिन्न लिखने का दूसरा तरीक़ा है। 0.5 मतलब 5 दशांश (5/10)। पैसों में ₹12.50 मतलब 12 रुपये 50 पैसे।"
+  },
+  "keyPoints": [
+    { "en": "0.1 = 1/10 (tenth), 0.01 = 1/100 (hundredth).", "hi": "0.1 = 1/10 (दशांश), 0.01 = 1/100 (शतांश)।" },
+    { "en": "Line up the decimal points before adding or subtracting.", "hi": "जोड़ने-घटाने से पहले दशमलव बिंदु एक सीध में रखो।" },
+    { "en": "Adding zeros at the end does not change the value: 0.5 = 0.50.", "hi": "आख़िर में शून्य लगाने से मान नहीं बदलता: 0.5 = 0.50।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Write 7/10 and 25/100 as decimals.", "hi": "7/10 और 25/100 को दशमलव में लिखो।" },
+      "steps": [
+        { "en": "7/10 = 7 tenths = 0.7", "hi": "7/10 = 7 दशांश = 0.7" },
+        { "en": "25/100 = 25 hundredths = 0.25", "hi": "25/100 = 25 शतांश = 0.25" }
+      ],
+      "answer": "0.7 and 0.25"
+    },
+    {
+      "problem": { "en": "Add 3.45 + 2.3.", "hi": "जोड़ो: 3.45 + 2.3" },
+      "steps": [
+        { "en": "Write 2.3 as 2.30 so both have two decimal places.", "hi": "2.3 को 2.30 लिखो ताकि दोनों में दशमलव के बाद दो अंक हों।" },
+        { "en": "3.45 + 2.30 = 5.75", "hi": "3.45 + 2.30 = 5.75" }
+      ],
+      "answer": "5.75"
+    },
+    {
+      "problem": { "en": "A pen costs ₹15.75 and a notebook ₹32.50. You pay ₹50. How much change do you get?", "hi": "पेन ₹15.75 और कॉपी ₹32.50 की है। तुमने ₹50 दिए। कितने वापस मिलेंगे?" },
+      "steps": [
+        { "en": "Total cost: 15.75 + 32.50 = 48.25", "hi": "कुल दाम: 15.75 + 32.50 = 48.25" },
+        { "en": "Change: 50.00 − 48.25 = 1.75", "hi": "वापसी: 50.00 − 48.25 = 1.75" }
+      ],
+      "answer": "₹1.75"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Write 3/100 as a decimal.", "hi": "3/100 को दशमलव में लिखो।" }, "answer": "0.03" },
+    { "question": "6.4 − 2.15 = ?", "answer": "4.25", "solution": ["6.40 − 2.15 = 4.25"] },
+    { "question": { "en": "Which is bigger: 0.7 or 0.65?", "hi": "कौन बड़ा है: 0.7 या 0.65?" }, "answer": "0.7", "solution": ["0.70 > 0.65"] }
+  ]
+}

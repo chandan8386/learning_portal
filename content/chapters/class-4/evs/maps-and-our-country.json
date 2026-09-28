@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Himalayas in the north; Indian Ocean in the south",
+      "hi": "उत्तर में हिमालय; दक्षिण में हिंद महासागर"
+    },
+    {
+      "en": "Arabian Sea in the west; Bay of Bengal in the east",
+      "hi": "पश्चिम में अरब सागर; पूर्व में बंगाल की खाड़ी"
+    },
+    {
+      "en": "Map symbols and a key help us read maps.",
+      "hi": "नक़्शे के चिह्न और कुंजी पढ़ने में मदद करते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which sea is on the west of India?",
+        "hi": "भारत के पश्चिम में कौन-सा सागर है?"
+      },
+      "steps": [
+        {
+          "en": "Mumbai and Goa are on this coast.",
+          "hi": "मुंबई और गोवा इसी तट पर हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Arabian Sea",
+        "hi": "अरब सागर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which neighbouring country is an island?",
+        "hi": "कौन-सा पड़ोसी देश द्वीप है?"
+      },
+      "steps": [
+        {
+          "en": "It lies to the south, across the sea from Tamil Nadu.",
+          "hi": "यह दक्षिण में, तमिलनाडु से समुद्र पार है।"
+        }
+      ],
+      "answer": {
+        "en": "Sri Lanka",
+        "hi": "श्रीलंका"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which mountains are in the north of India?",
+        "hi": "भारत के उत्तर में कौन-से पर्वत हैं?"
+      },
+      "answer": {
+        "en": "The Himalayas",
+        "hi": "हिमालय"
+      }
+    },
+    {
+      "question": {
+        "en": "How many states does India have?",
+        "hi": "भारत में कितने राज्य हैं?"
+      },
+      "answer": "28"
+    },
+    {
+      "question": {
+        "en": "Name one neighbour of India.",
+        "hi": "भारत का एक पड़ोसी देश बताओ।"
+      },
+      "answer": {
+        "en": "Nepal, China, Pakistan, Bangladesh, Bhutan, Myanmar or Sri Lanka",
+        "hi": "नेपाल, चीन, पाकिस्तान, बांग्लादेश, भूटान, म्यांमार या श्रीलंका"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India is a big country in South Asia with 28 states and 8 union territories. A political map shows states and capitals. India's neighbours are Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and, across the sea, Sri Lanka.",
+    "hi": "भारत दक्षिण एशिया का एक बड़ा देश है जिसमें 28 राज्य और 8 केंद्र शासित प्रदेश हैं। राजनीतिक नक़्शा राज्य और राजधानियाँ दिखाता है। भारत के पड़ोसी हैं पाकिस्तान, चीन, नेपाल, भूटान, बांग्लादेश, म्यांमार और समुद्र पार श्रीलंका।"
+  }
+}

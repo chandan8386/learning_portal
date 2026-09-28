@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Start with a capital letter.",
+      "hi": "बड़े अक्षर से शुरू करो।"
+    },
+    {
+      "en": "End with a full stop.",
+      "hi": "पूर्ण विराम पर ख़त्म करो।"
+    },
+    {
+      "en": "Leave a space between words.",
+      "hi": "शब्दों के बीच जगह छोड़ो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Read and answer: \"The hen is red.\" What colour is the hen?",
+        "hi": "पढ़ो और बताओ: \"The hen is red.\" मुर्गी का रंग क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Read the words: The / hen / is / red.",
+          "hi": "शब्द पढ़ो: The / hen / is / red।"
+        }
+      ],
+      "answer": {
+        "en": "Red",
+        "hi": "लाल"
+      }
+    },
+    {
+      "problem": {
+        "en": "Put in order: run / I / can",
+        "hi": "क्रम में लगाओ: run / I / can"
+      },
+      "steps": [
+        {
+          "en": "Start with \"I\" (who). Then \"can\", then \"run\".",
+          "hi": "\"I\" से शुरू करो (कौन)। फिर \"can\", फिर \"run\"।"
+        }
+      ],
+      "answer": {
+        "en": "I can run.",
+        "hi": "I can run."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Read: \"The pig is big.\" Is the pig big or small?",
+        "hi": "पढ़ो: \"The pig is big.\" सूअर बड़ा है या छोटा?"
+      },
+      "answer": {
+        "en": "Big",
+        "hi": "बड़ा"
+      }
+    },
+    {
+      "question": {
+        "en": "Put in order: is / This / pen / a",
+        "hi": "क्रम में लगाओ: is / This / pen / a"
+      },
+      "answer": {
+        "en": "This is a pen.",
+        "hi": "This is a pen."
+      }
+    },
+    {
+      "question": {
+        "en": "What mark comes at the end of a sentence?",
+        "hi": "वाक्य के अंत में कौन-सा चिह्न आता है?"
+      },
+      "answer": {
+        "en": "Full stop (.)",
+        "hi": "पूर्ण विराम (.)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A sentence is a group of words that makes sense. It starts with a capital letter and ends with a full stop: \"The sun is hot.\"",
+    "hi": "वाक्य शब्दों का ऐसा समूह है जिसका अर्थ निकले। यह बड़े अक्षर से शुरू होता है और पूर्ण विराम (.) पर ख़त्म: \"The sun is hot.\""
+  }
+}

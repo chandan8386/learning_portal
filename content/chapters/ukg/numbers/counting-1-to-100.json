@@ -1,0 +1,72 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Count in tens: 10, 20, 30 … 100",
+      "hi": "दस-दस करके: 10, 20, 30 … 100"
+    },
+    {
+      "en": "100 is ten tens.",
+      "hi": "100 = दस दहाई।"
+    },
+    {
+      "en": "The number after 99 is 100.",
+      "hi": "99 के बाद 100 आता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What comes after 69?",
+        "hi": "69 के बाद क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "After 9 ones, the tens go up: 6 tens → 7 tens.",
+          "hi": "9 इकाई के बाद दहाई बढ़ती है: 6 → 7।"
+        }
+      ],
+      "answer": "70"
+    },
+    {
+      "problem": {
+        "en": "Count in tens from 40 to 80.",
+        "hi": "40 से 80 तक दस-दस गिनो।"
+      },
+      "steps": [
+        {
+          "en": "Add one ten each time.",
+          "hi": "हर बार एक दहाई जोड़ो।"
+        }
+      ],
+      "answer": "40, 50, 60, 70, 80"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What comes after 99?",
+        "hi": "99 के बाद क्या आता है?"
+      },
+      "answer": "100"
+    },
+    {
+      "question": {
+        "en": "Fill in: 57, 58, __, 60",
+        "hi": "भरो: 57, 58, __, 60"
+      },
+      "answer": "59"
+    },
+    {
+      "question": {
+        "en": "How many tens make 100?",
+        "hi": "कितनी दहाई से 100 बनता है?"
+      },
+      "answer": "10"
+    }
+  ],
+  "intro": {
+    "en": "We can count up to 100! Every time the ones reach 9, the tens go up: 19 → 20, 49 → 50, 99 → 100.",
+    "hi": "हम 100 तक गिन सकते हैं! जब इकाई 9 तक पहुँचती है, दहाई बढ़ जाती है: 19 → 20, 49 → 50, 99 → 100।"
+  }
+}

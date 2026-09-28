@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "-at family: cat, bat, rat, mat",
+      "hi": "-at परिवार: cat, bat, rat, mat"
+    },
+    {
+      "en": "-en family: hen, pen, ten, men",
+      "hi": "-en परिवार: hen, pen, ten, men"
+    },
+    {
+      "en": "-ig family: pig, big, dig, wig",
+      "hi": "-ig परिवार: pig, big, dig, wig"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Make a word with -ug: b + ug",
+        "hi": "-ug से शब्द बनाओ: b + ug"
+      },
+      "steps": [
+        {
+          "en": "Blend b-u-g.",
+          "hi": "b-u-g मिलाओ।"
+        }
+      ],
+      "answer": {
+        "en": "bug 🐛",
+        "hi": "bug 🐛"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which word is in the -op family: top or tap?",
+        "hi": "-op परिवार में कौन है: top या tap?"
+      },
+      "steps": [
+        {
+          "en": "top ends with \"op\"; tap ends with \"ap\".",
+          "hi": "top का अंत \"op\", tap का \"ap\"।"
+        }
+      ],
+      "answer": {
+        "en": "top",
+        "hi": "top"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Write the word for 🐖 (p _ g).",
+        "hi": "🐖 का शब्द लिखो (p _ g)।"
+      },
+      "answer": {
+        "en": "pig",
+        "hi": "pig"
+      }
+    },
+    {
+      "question": {
+        "en": "Add a letter: _en (a bird that lays eggs)",
+        "hi": "अक्षर जोड़ो: _en (अंडे देने वाला पक्षी)"
+      },
+      "answer": {
+        "en": "hen",
+        "hi": "hen"
+      }
+    },
+    {
+      "question": {
+        "en": "Which word rhymes with \"sun\": fun or fan?",
+        "hi": "\"sun\" की तुक किससे: fun या fan?"
+      },
+      "answer": {
+        "en": "fun",
+        "hi": "fun"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Many small words have three letters: consonant, vowel, consonant. Words that end the same belong to one family: cat, bat, mat, hat.",
+    "hi": "कई छोटे शब्दों में तीन अक्षर होते हैं: व्यंजन, स्वर, व्यंजन। एक जैसे अंत वाले शब्द एक परिवार के होते हैं: cat, bat, mat, hat।"
+  }
+}

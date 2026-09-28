@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Potter – clay pots (on a wheel)",
+      "hi": "कुम्हार – मिट्टी के बर्तन (चाक पर)"
+    },
+    {
+      "en": "Weaver – cloth; tailor – stitches clothes",
+      "hi": "जुलाहा – कपड़ा; दर्ज़ी – कपड़े सिलता है"
+    },
+    {
+      "en": "Carpenter – wood; blacksmith – iron tools",
+      "hi": "बढ़ई – लकड़ी; लोहार – लोहे के औज़ार"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who makes a matka (clay pot)?",
+        "hi": "मटका कौन बनाता है?"
+      },
+      "steps": [
+        {
+          "en": "The clay is shaped on a spinning wheel and baked.",
+          "hi": "मिट्टी को घूमते चाक पर आकार देकर पकाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Potter",
+        "hi": "कुम्हार"
+      }
+    },
+    {
+      "problem": {
+        "en": "Put in order how cotton becomes a shirt: weaving, spinning thread, stitching, picking cotton.",
+        "hi": "कपास से कमीज़ बनने का क्रम लगाओ: बुनाई, धागा कातना, सिलाई, कपास चुनना।"
+      },
+      "steps": [
+        {
+          "en": "First we get cotton from the plant, then make thread.",
+          "hi": "पहले पौधे से कपास, फिर धागा।"
+        },
+        {
+          "en": "Thread is woven into cloth, then the tailor stitches it.",
+          "hi": "धागे से कपड़ा बुनते हैं, फिर दर्ज़ी सिलता है।"
+        }
+      ],
+      "answer": {
+        "en": "Picking cotton → spinning thread → weaving → stitching",
+        "hi": "कपास चुनना → धागा कातना → बुनाई → सिलाई"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who makes tables and chairs from wood?",
+        "hi": "लकड़ी से मेज़-कुर्सी कौन बनाता है?"
+      },
+      "answer": {
+        "en": "Carpenter",
+        "hi": "बढ़ई"
+      }
+    },
+    {
+      "question": {
+        "en": "Who makes iron tools?",
+        "hi": "लोहे के औज़ार कौन बनाता है?"
+      },
+      "answer": {
+        "en": "Blacksmith",
+        "hi": "लोहार"
+      }
+    },
+    {
+      "question": {
+        "en": "Is any work too small to respect?",
+        "hi": "क्या कोई काम सम्मान के लायक़ न होने जितना छोटा है?"
+      },
+      "answer": {
+        "en": "No, all work deserves respect",
+        "hi": "नहीं, हर काम सम्मान के लायक़ है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "People make useful things with their skills: potters make pots from clay, weavers make cloth on looms, carpenters make furniture from wood. Every kind of work is important and deserves respect.",
+    "hi": "लोग अपने हुनर से उपयोगी चीज़ें बनाते हैं: कुम्हार मिट्टी से बर्तन, जुलाहा करघे पर कपड़ा, बढ़ई लकड़ी से फ़र्नीचर। हर काम ज़रूरी है और सम्मान के लायक़ है।"
+  }
+}

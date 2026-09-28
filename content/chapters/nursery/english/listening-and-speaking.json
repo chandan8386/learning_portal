@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Say \"Good morning\" when you meet your teacher.",
+      "hi": "टीचर से मिलो तो \"Good morning\" कहो।"
+    },
+    {
+      "en": "Listen quietly when someone is talking.",
+      "hi": "जब कोई बोले तो चुपचाप सुनो।"
+    },
+    {
+      "en": "Say \"Thank you\" when someone helps you.",
+      "hi": "कोई मदद करे तो \"Thank you\" कहो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you tell someone your name?",
+        "hi": "किसी को अपना नाम कैसे बताओगे?"
+      },
+      "steps": [
+        {
+          "en": "Start with \"My name is\".",
+          "hi": "\"My name is\" से शुरू करो।"
+        },
+        {
+          "en": "Then say your name.",
+          "hi": "फिर अपना नाम बोलो।"
+        }
+      ],
+      "answer": {
+        "en": "\"My name is Aarav.\"",
+        "hi": "\"My name is Aarav.\""
+      }
+    },
+    {
+      "problem": {
+        "en": "Teacher says \"Stand up\". What will you do?",
+        "hi": "टीचर कहती हैं \"Stand up\"। तुम क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "\"Stand up\" means get up from your seat.",
+          "hi": "\"Stand up\" का मतलब अपनी जगह से खड़े होना।"
+        }
+      ],
+      "answer": {
+        "en": "I will stand up.",
+        "hi": "मैं खड़ा हो जाऊँगा।"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What do you say in the morning to your teacher?",
+        "hi": "सुबह टीचर से क्या कहते हो?"
+      },
+      "answer": {
+        "en": "Good morning",
+        "hi": "Good morning"
+      }
+    },
+    {
+      "question": {
+        "en": "What do you say when a friend gives you a toy?",
+        "hi": "दोस्त खिलौना दे तो क्या कहते हो?"
+      },
+      "answer": {
+        "en": "Thank you",
+        "hi": "Thank you"
+      }
+    },
+    {
+      "question": {
+        "en": "Teacher says \"Sit down\". What will you do?",
+        "hi": "टीचर कहती हैं \"Sit down\"। तुम क्या करोगे?"
+      },
+      "answer": {
+        "en": "Sit on my seat",
+        "hi": "अपनी जगह पर बैठ जाऊँगा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We listen with our ears and speak with our mouth. When we meet someone we say \"Hello!\" and tell our name: \"My name is Riya.\"",
+    "hi": "हम कानों से सुनते हैं और मुँह से बोलते हैं। किसी से मिलें तो \"Hello!\" कहते हैं और अपना नाम बताते हैं: \"My name is Riya.\""
+  }
+}

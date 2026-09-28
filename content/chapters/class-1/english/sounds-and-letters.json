@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Short vowel sounds: a (ant), e (egg), i (ink), o (ox), u (up)",
+      "hi": "छोटे स्वर: a (ant), e (egg), i (ink), o (ox), u (up)"
+    },
+    {
+      "en": "Consonant sounds: b (bat), m (man), s (sun), t (top)",
+      "hi": "व्यंजन ध्वनियाँ: b (bat), m (man), s (sun), t (top)"
+    },
+    {
+      "en": "Every capital has a small partner.",
+      "hi": "हर बड़े अक्षर का छोटा साथी है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the first sound in \"egg\" 🥚?",
+        "hi": "\"egg\" 🥚 की पहली ध्वनि क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Say it slowly: e-gg.",
+          "hi": "धीरे बोलो: e-gg।"
+        }
+      ],
+      "answer": {
+        "en": "e",
+        "hi": "e"
+      }
+    },
+    {
+      "problem": {
+        "en": "Match the partners: R and __",
+        "hi": "साथी मिलाओ: R और __"
+      },
+      "steps": [
+        {
+          "en": "Find the small letter that makes the same sound \"r\".",
+          "hi": "वही \"र\" ध्वनि वाला छोटा अक्षर ढूँढो।"
+        }
+      ],
+      "answer": {
+        "en": "r",
+        "hi": "r"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "First sound in \"umbrella\"?",
+        "hi": "\"umbrella\" की पहली ध्वनि?"
+      },
+      "answer": {
+        "en": "u",
+        "hi": "u"
+      }
+    },
+    {
+      "question": {
+        "en": "Small partner of H?",
+        "hi": "H का छोटा साथी?"
+      },
+      "answer": {
+        "en": "h",
+        "hi": "h"
+      }
+    },
+    {
+      "question": {
+        "en": "Which letter starts \"man\"?",
+        "hi": "\"man\" किस अक्षर से शुरू होता है?"
+      },
+      "answer": {
+        "en": "m",
+        "hi": "m"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Each letter has a sound. When we know the sounds we can read. Capital letters and small letters are partners: A–a, B–b.",
+    "hi": "हर अक्षर की ध्वनि होती है। ध्वनियाँ जानें तो पढ़ सकते हैं। बड़े और छोटे अक्षर साथी हैं: A–a, B–b।"
+  }
+}

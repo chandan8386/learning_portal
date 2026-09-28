@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Small family: parents and children.",
+      "hi": "छोटा परिवार: माता-पिता और बच्चे।"
+    },
+    {
+      "en": "Big (joint) family: grandparents, uncles, aunts and cousins too.",
+      "hi": "बड़ा (संयुक्त) परिवार: दादा-दादी, चाचा-चाची और भाई-बहन भी।"
+    },
+    {
+      "en": "Everyone shares the work at home.",
+      "hi": "घर के काम सब मिलकर करते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who is your father's brother?",
+        "hi": "पापा के भाई कौन हैं?"
+      },
+      "steps": [
+        {
+          "en": "In Hindi we call father's brother \"Chacha\".",
+          "hi": "पापा के भाई को चाचा कहते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Chacha (uncle)",
+        "hi": "चाचा"
+      }
+    },
+    {
+      "problem": {
+        "en": "In a family tree, who is at the top?",
+        "hi": "परिवार के पेड़ में सबसे ऊपर कौन होता है?"
+      },
+      "steps": [
+        {
+          "en": "The oldest members are at the top.",
+          "hi": "सबसे बड़े सदस्य सबसे ऊपर।"
+        }
+      ],
+      "answer": {
+        "en": "Grandparents",
+        "hi": "दादा-दादी"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who is your mother's brother?",
+        "hi": "माँ के भाई कौन हैं?"
+      },
+      "answer": {
+        "en": "Mama",
+        "hi": "मामा"
+      }
+    },
+    {
+      "question": {
+        "en": "A family with grandparents living together is called?",
+        "hi": "दादा-दादी के साथ रहने वाला परिवार क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "Joint family",
+        "hi": "संयुक्त परिवार"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one job you do at home.",
+        "hi": "घर में तुम एक कौन-सा काम करते हो?"
+      },
+      "answer": {
+        "en": "Setting the table, watering plants, tidying toys (any one)",
+        "hi": "मेज़ लगाना, पौधों को पानी देना, खिलौने रखना (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A family lives together and cares for each other. Some families are small, some are big with grandparents, uncles and aunts. A family tree shows how family members are related.",
+    "hi": "परिवार साथ रहता है और एक-दूसरे का ध्यान रखता है। कुछ परिवार छोटे होते हैं, कुछ बड़े जिनमें दादा-दादी, चाचा-चाची होते हैं। परिवार का पेड़ दिखाता है कि सदस्य आपस में कैसे जुड़े हैं।"
+  }
+}

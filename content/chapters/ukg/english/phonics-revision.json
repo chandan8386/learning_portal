@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Say each sound, then say them faster together.",
+      "hi": "हर ध्वनि बोलो, फिर उन्हें जल्दी-जल्दी मिलाकर बोलो।"
+    },
+    {
+      "en": "Vowels: a, e, i, o, u. Every word needs one.",
+      "hi": "स्वर: a, e, i, o, u। हर शब्द में एक चाहिए।"
+    },
+    {
+      "en": "Other letters are consonants.",
+      "hi": "बाक़ी अक्षर व्यंजन हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Blend: d-o-g",
+        "hi": "मिलाओ: d-o-g"
+      },
+      "steps": [
+        {
+          "en": "Say \"d\", \"o\", \"g\".",
+          "hi": "\"d\", \"o\", \"g\" बोलो।"
+        },
+        {
+          "en": "Say them fast: dog.",
+          "hi": "जल्दी बोलो: dog।"
+        }
+      ],
+      "answer": {
+        "en": "dog 🐶",
+        "hi": "dog 🐶"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which letters are vowels in \"sun\"?",
+        "hi": "\"sun\" में स्वर कौन-सा है?"
+      },
+      "steps": [
+        {
+          "en": "s-u-n: u is a vowel.",
+          "hi": "s-u-n: u स्वर है।"
+        }
+      ],
+      "answer": {
+        "en": "u",
+        "hi": "u"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Blend: p-e-n",
+        "hi": "मिलाओ: p-e-n"
+      },
+      "answer": {
+        "en": "pen",
+        "hi": "pen"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"b\" a vowel or a consonant?",
+        "hi": "\"b\" स्वर है या व्यंजन?"
+      },
+      "answer": {
+        "en": "Consonant",
+        "hi": "व्यंजन"
+      }
+    },
+    {
+      "question": {
+        "en": "Blend: h-a-t",
+        "hi": "मिलाओ: h-a-t"
+      },
+      "answer": {
+        "en": "hat",
+        "hi": "hat"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We know the sounds of all letters. Now we blend sounds together to read words: c-a-t makes \"cat\".",
+    "hi": "हमें सब अक्षरों की ध्वनियाँ आती हैं। अब ध्वनियों को मिलाकर शब्द पढ़ते हैं: c-a-t से \"cat\"।"
+  }
+}

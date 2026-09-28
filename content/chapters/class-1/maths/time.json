@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Time tells us when things happen. We wake up in the morning, eat lunch in the afternoon and sleep at night. A week has 7 days.",
+    "hi": "समय बताता है कि काम कब होते हैं। हम सुबह उठते हैं, दोपहर में खाना खाते हैं और रात को सोते हैं। एक हफ़्ते में 7 दिन होते हैं।"
+  },
+  "keyPoints": [
+    { "en": "Parts of the day: morning, afternoon, evening, night.", "hi": "दिन के हिस्से: सुबह, दोपहर, शाम, रात।" },
+    { "en": "Days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.", "hi": "हफ़्ते के दिन: सोमवार, मंगलवार, बुधवार, गुरुवार, शुक्रवार, शनिवार, रविवार।" },
+    { "en": "Earlier means before; later means after.", "hi": "पहले = बीता हुआ; बाद में = आगे आने वाला।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Which day comes after Monday?", "hi": "सोमवार के बाद कौन-सा दिन आता है?" },
+      "steps": [
+        { "en": "Say the days in order: Monday, Tuesday …", "hi": "दिनों को क्रम से बोलो: सोमवार, मंगलवार …" }
+      ],
+      "answer": { "en": "Tuesday", "hi": "मंगलवार" }
+    },
+    {
+      "problem": { "en": "Put in order: go to school, wake up, brush teeth.", "hi": "क्रम में लगाओ: स्कूल जाना, उठना, दाँत साफ़ करना।" },
+      "steps": [
+        { "en": "First we wake up.", "hi": "सबसे पहले हम उठते हैं।" },
+        { "en": "Then we brush our teeth.", "hi": "फिर दाँत साफ़ करते हैं।" },
+        { "en": "Then we go to school.", "hi": "फिर स्कूल जाते हैं।" }
+      ],
+      "answer": { "en": "Wake up → brush teeth → go to school", "hi": "उठना → दाँत साफ़ करना → स्कूल जाना" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "When do we see the stars: morning or night?", "hi": "तारे कब दिखते हैं: सुबह या रात?" }, "answer": { "en": "Night", "hi": "रात" } },
+    { "question": { "en": "Which day comes before Sunday?", "hi": "रविवार से पहले कौन-सा दिन आता है?" }, "answer": { "en": "Saturday", "hi": "शनिवार" } },
+    { "question": { "en": "How many days are in a week?", "hi": "एक हफ़्ते में कितने दिन होते हैं?" }, "answer": "7" }
+  ]
+}

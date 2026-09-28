@@ -1,0 +1,38 @@
+{
+  "status": "REVIEWED",
+  "intro": "Acids taste sour and turn blue litmus red; bases taste bitter, feel soapy and turn red litmus blue. An acid and a base react to form a salt and water. The pH scale (0 to 14) tells us how acidic or basic a solution is.",
+  "keyPoints": [
+    "pH < 7: acidic; pH = 7: neutral; pH > 7: basic. Lower pH means more H⁺ ions.",
+    "Acid + base → salt + water (neutralisation).",
+    "Acid + metal → salt + hydrogen gas (burns with a pop sound).",
+    "Acid + metal carbonate/hydrogencarbonate → salt + carbon dioxide + water (CO₂ turns lime water milky).",
+    "Important salts: baking soda NaHCO₃, washing soda Na₂CO₃·10H₂O, bleaching powder CaOCl₂, plaster of Paris CaSO₄·½H₂O.",
+    "Tooth decay starts when the pH in the mouth falls below 5.5."
+  ],
+  "examples": [
+    {
+      "title": "Neutralisation",
+      "problem": "Write the reaction between hydrochloric acid and sodium hydroxide.",
+      "steps": ["Acid + base → salt + water"],
+      "answer": "HCl + NaOH → NaCl + H₂O"
+    },
+    {
+      "title": "Acid and metal carbonate",
+      "problem": "What happens when dilute HCl is added to sodium carbonate? How can you test the gas?",
+      "steps": ["Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂", "Pass the gas through lime water: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O, which turns it milky."],
+      "answer": "Carbon dioxide is released; it turns lime water milky."
+    },
+    {
+      "title": "Reading pH",
+      "problem": "Solutions A, B, C, D, E have pH 4, 1, 11, 7 and 9. Which is (i) neutral (ii) strongly alkaline (iii) strongly acidic?",
+      "steps": ["pH 7 is neutral.", "The highest pH, 11, is the most alkaline.", "The lowest pH, 1, is the most acidic."],
+      "answer": "(i) D (ii) C (iii) B"
+    }
+  ],
+  "practice": [
+    { "question": "Which has more H⁺ ions: a solution of pH 6 or pH 8?", "answer": "pH 6" },
+    { "question": "Name the salt formed when HCl reacts with KOH.", "answer": "Potassium chloride (KCl)" },
+    { "question": "Why is an antacid like milk of magnesia taken for acidity?", "answer": "It is a mild base (Mg(OH)₂) that neutralises the excess acid in the stomach." },
+    { "question": "Write the chemical formula of washing soda.", "answer": "Na₂CO₃·10H₂O" }
+  ]
+}

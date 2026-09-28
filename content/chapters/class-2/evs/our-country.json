@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "National anthem: Jana Gana Mana",
+      "hi": "राष्ट्रगान: जन गण मन"
+    },
+    {
+      "en": "National fruit: mango; national tree: banyan",
+      "hi": "राष्ट्रीय फल: आम; राष्ट्रीय वृक्ष: बरगद"
+    },
+    {
+      "en": "Ashoka Chakra has 24 spokes.",
+      "hi": "अशोक चक्र में 24 तीलियाँ हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What are the three colours of our flag, from top to bottom?",
+        "hi": "हमारे झंडे के तीन रंग ऊपर से नीचे कौन-से हैं?"
+      },
+      "steps": [
+        {
+          "en": "Top: saffron. Middle: white. Bottom: green.",
+          "hi": "ऊपर: केसरिया। बीच में: सफ़ेद। नीचे: हरा।"
+        }
+      ],
+      "answer": {
+        "en": "Saffron, white, green",
+        "hi": "केसरिया, सफ़ेद, हरा"
+      }
+    },
+    {
+      "problem": {
+        "en": "What is our national flower?",
+        "hi": "हमारा राष्ट्रीय फूल कौन-सा है?"
+      },
+      "steps": [
+        {
+          "en": "It grows in ponds and is pink or white.",
+          "hi": "यह तालाब में उगता है, गुलाबी या सफ़ेद होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Lotus 🪷",
+        "hi": "कमल 🪷"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many spokes are in the Ashoka Chakra?",
+        "hi": "अशोक चक्र में कितनी तीलियाँ हैं?"
+      },
+      "answer": "24"
+    },
+    {
+      "question": {
+        "en": "What is our national anthem?",
+        "hi": "हमारा राष्ट्रगान क्या है?"
+      },
+      "answer": {
+        "en": "Jana Gana Mana",
+        "hi": "जन गण मन"
+      }
+    },
+    {
+      "question": {
+        "en": "What is our national fruit?",
+        "hi": "हमारा राष्ट्रीय फल कौन-सा है?"
+      },
+      "answer": {
+        "en": "Mango",
+        "hi": "आम"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Our country is India. Our national flag is the Tiranga (saffron, white, green with the blue Ashoka Chakra). Our national animal is the tiger, national bird the peacock and national flower the lotus.",
+    "hi": "हमारा देश भारत है। हमारा राष्ट्रीय ध्वज तिरंगा है (केसरिया, सफ़ेद, हरा और नीला अशोक चक्र)। राष्ट्रीय पशु बाघ, राष्ट्रीय पक्षी मोर और राष्ट्रीय फूल कमल है।"
+  }
+}

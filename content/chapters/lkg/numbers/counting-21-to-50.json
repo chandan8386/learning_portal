@@ -1,0 +1,75 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "21 = 20 and 1, 35 = 30 and 5",
+      "hi": "21 = 20 और 1, 35 = 30 और 5"
+    },
+    {
+      "en": "After 29 comes 30; after 39 comes 40.",
+      "hi": "29 के बाद 30; 39 के बाद 40।"
+    },
+    {
+      "en": "Count in tens: 10, 20, 30, 40, 50",
+      "hi": "दस-दस करके: 10, 20, 30, 40, 50"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What comes after 29?",
+        "hi": "29 के बाद क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "After 9 in the ones place, the tens go up by one.",
+          "hi": "इकाई में 9 के बाद दहाई एक बढ़ती है।"
+        }
+      ],
+      "answer": "30"
+    },
+    {
+      "problem": {
+        "en": "Read this number: 44",
+        "hi": "यह संख्या पढ़ो: 44"
+      },
+      "steps": [
+        {
+          "en": "4 tens is forty, 4 ones is four.",
+          "hi": "4 दहाई = चालीस, 4 इकाई = चार।"
+        }
+      ],
+      "answer": {
+        "en": "forty-four",
+        "hi": "चवालीस (forty-four)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What comes after 39?",
+        "hi": "39 के बाद क्या आता है?"
+      },
+      "answer": "40"
+    },
+    {
+      "question": {
+        "en": "30 and 2 make?",
+        "hi": "30 और 2 मिलकर?"
+      },
+      "answer": "32"
+    },
+    {
+      "question": {
+        "en": "Fill in: 46, 47, __, 49",
+        "hi": "भरो: 46, 47, __, 49"
+      },
+      "answer": "48"
+    }
+  ],
+  "intro": {
+    "en": "After 20 we count 21, 22 … up to 50. The tens go 20, 30, 40, 50 and the ones go 1 to 9 again.",
+    "hi": "20 के बाद 21, 22 … 50 तक गिनते हैं। दहाई 20, 30, 40, 50 चलती है और इकाई फिर से 1 से 9।"
+  }
+}

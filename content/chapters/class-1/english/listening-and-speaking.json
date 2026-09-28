@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Introduce yourself: \"My name is … I am six years old. I study in Class 1.\"",
+      "hi": "परिचय: \"My name is … I am six years old. I study in Class 1.\""
+    },
+    {
+      "en": "Polite words: please, thank you, sorry, excuse me",
+      "hi": "विनम्र शब्द: please, thank you, sorry, excuse me"
+    },
+    {
+      "en": "Wait for your turn to speak.",
+      "hi": "बोलने के लिए अपनी बारी का इंतज़ार करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Introduce yourself in two sentences.",
+        "hi": "दो वाक्यों में अपना परिचय दो।"
+      },
+      "steps": [
+        {
+          "en": "Say your name.",
+          "hi": "अपना नाम बताओ।"
+        },
+        {
+          "en": "Say your class or age.",
+          "hi": "अपनी कक्षा या उम्र बताओ।"
+        }
+      ],
+      "answer": {
+        "en": "My name is Kabir. I study in Class 1.",
+        "hi": "My name is Kabir. I study in Class 1."
+      }
+    },
+    {
+      "problem": {
+        "en": "You want to pass but someone is in the way. What do you say?",
+        "hi": "तुम्हें निकलना है पर कोई रास्ते में है। क्या कहोगे?"
+      },
+      "steps": [
+        {
+          "en": "We use a polite word to ask for space.",
+          "hi": "जगह माँगने के लिए विनम्र शब्द कहते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Excuse me, please.",
+        "hi": "Excuse me, please."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What do you say when you want a pencil from a friend?",
+        "hi": "दोस्त से पेंसिल माँगनी हो तो क्या कहोगे?"
+      },
+      "answer": {
+        "en": "Can I have your pencil, please?",
+        "hi": "Can I have your pencil, please?"
+      }
+    },
+    {
+      "question": {
+        "en": "Teacher says \"Open your book and read page 5.\" How many things must you do?",
+        "hi": "टीचर कहती हैं \"Open your book and read page 5.\" कितने काम करने हैं?"
+      },
+      "answer": {
+        "en": "2 (open the book, read page 5)",
+        "hi": "2 (किताब खोलो, पेज 5 पढ़ो)"
+      }
+    },
+    {
+      "question": {
+        "en": "What do you say if you are late to class?",
+        "hi": "कक्षा में देर से पहुँचो तो क्या कहोगे?"
+      },
+      "answer": {
+        "en": "Sorry, I am late. May I come in?",
+        "hi": "Sorry, I am late. May I come in?"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good speakers speak clearly and good listeners listen carefully. We can introduce ourselves, talk about a picture and use polite words.",
+    "hi": "अच्छा वक्ता साफ़ बोलता है और अच्छा श्रोता ध्यान से सुनता है। हम अपना परिचय दे सकते हैं, चित्र के बारे में बोल सकते हैं और विनम्र शब्द इस्तेमाल कर सकते हैं।"
+  }
+}

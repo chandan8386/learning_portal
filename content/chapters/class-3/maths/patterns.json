@@ -1,0 +1,79 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Find the rule by looking at the difference between numbers.",
+      "hi": "संख्याओं के अंतर से नियम ढूँढो।"
+    },
+    {
+      "en": "Even numbers: 2, 4, 6, 8 …; odd numbers: 1, 3, 5, 7 …",
+      "hi": "सम संख्याएँ: 2, 4, 6, 8 …; विषम: 1, 3, 5, 7 …"
+    },
+    {
+      "en": "Patterns can be in rangoli, tiles and borders.",
+      "hi": "पैटर्न रंगोली, टाइलों और बॉर्डर में होते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the next two numbers: 3, 7, 11, 15, __, __",
+        "hi": "अगली दो संख्याएँ: 3, 7, 11, 15, __, __"
+      },
+      "steps": [
+        {
+          "en": "7 − 3 = 4, 11 − 7 = 4: the rule is \"add 4\".",
+          "hi": "7 − 3 = 4, 11 − 7 = 4: नियम \"4 जोड़ो\"।"
+        },
+        {
+          "en": "15 + 4 = 19, 19 + 4 = 23",
+          "hi": "15 + 4 = 19, 19 + 4 = 23"
+        }
+      ],
+      "answer": "19, 23"
+    },
+    {
+      "problem": {
+        "en": "Find the next number: 2, 4, 8, 16, __",
+        "hi": "अगली संख्या: 2, 4, 8, 16, __"
+      },
+      "steps": [
+        {
+          "en": "Each number is double the one before.",
+          "hi": "हर संख्या पिछली की दोगुनी है।"
+        }
+      ],
+      "answer": "32"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Next number: 50, 45, 40, 35, __",
+        "hi": "अगली संख्या: 50, 45, 40, 35, __"
+      },
+      "answer": "30"
+    },
+    {
+      "question": {
+        "en": "Is 27 even or odd?",
+        "hi": "27 सम है या विषम?"
+      },
+      "answer": {
+        "en": "Odd",
+        "hi": "विषम"
+      }
+    },
+    {
+      "question": {
+        "en": "Next number: 1, 3, 6, 10, __ (add 2, then 3, then 4 …)",
+        "hi": "अगली संख्या: 1, 3, 6, 10, __ (2, फिर 3, फिर 4 … जोड़ो)"
+      },
+      "answer": "15"
+    }
+  ],
+  "intro": {
+    "en": "A pattern follows a rule. Number patterns can go up or down by the same amount (5, 10, 15 …), or double (2, 4, 8, 16 …). Shape patterns repeat a group of shapes.",
+    "hi": "पैटर्न एक नियम पर चलता है। संख्या पैटर्न एक जितना बढ़ या घट सकते हैं (5, 10, 15 …), या दोगुने हो सकते हैं (2, 4, 8, 16 …)। आकृति पैटर्न आकृतियों का एक समूह दोहराते हैं।"
+  }
+}

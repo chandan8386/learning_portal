@@ -1,0 +1,76 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Equivalent: multiply or divide top and bottom by the same number.",
+      "hi": "तुल्य: ऊपर-नीचे एक ही संख्या से गुणा या भाग।"
+    },
+    {
+      "en": "Compare like fractions: bigger numerator is bigger.",
+      "hi": "समान हर वाली की तुलना: बड़ा अंश बड़ी भिन्न।"
+    },
+    {
+      "en": "Fraction of a number: 3/4 of 20 = (20 ÷ 4) × 3 = 15.",
+      "hi": "संख्या की भिन्न: 20 का 3/4 = (20 ÷ 4) × 3 = 15।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find 2/5 of 35.",
+        "hi": "35 का 2/5 निकालो।"
+      },
+      "steps": [
+        {
+          "en": "35 ÷ 5 = 7 (one fifth).",
+          "hi": "35 ÷ 5 = 7 (एक पाँचवाँ)।"
+        },
+        {
+          "en": "7 × 2 = 14",
+          "hi": "7 × 2 = 14"
+        }
+      ],
+      "answer": "14"
+    },
+    {
+      "problem": {
+        "en": "Add 3/8 + 2/8.",
+        "hi": "जोड़ो: 3/8 + 2/8।"
+      },
+      "steps": [
+        {
+          "en": "Same denominator, add numerators: 3 + 2 = 5.",
+          "hi": "हर एक जैसे, अंश जोड़ो: 3 + 2 = 5।"
+        }
+      ],
+      "answer": "5/8"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Write a fraction equivalent to 3/4 with denominator 12.",
+        "hi": "3/4 की तुल्य भिन्न जिसका हर 12 हो।"
+      },
+      "answer": "9/12"
+    },
+    {
+      "question": {
+        "en": "Which is bigger: 5/9 or 7/9?",
+        "hi": "कौन बड़ा: 5/9 या 7/9?"
+      },
+      "answer": "7/9"
+    },
+    {
+      "question": {
+        "en": "Find 1/3 of 27.",
+        "hi": "27 का 1/3।"
+      },
+      "answer": "9"
+    }
+  ],
+  "intro": {
+    "en": "A fraction has a numerator (parts taken) and a denominator (equal parts in the whole). Equivalent fractions show the same amount: 1/2 = 2/4 = 3/6. Fractions with the same denominator are added by adding numerators.",
+    "hi": "भिन्न में अंश (लिए गए हिस्से) और हर (कुल बराबर हिस्से) होते हैं। तुल्य भिन्न समान मात्रा दिखाती हैं: 1/2 = 2/4 = 3/6। समान हर वाली भिन्नों में अंश जोड़ते हैं।"
+  }
+}

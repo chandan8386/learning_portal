@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "We eat different plant parts: roots (carrot), stems (potato), leaves (spinach), flowers (cauliflower), seeds (peas).",
+      "hi": "हम पौधे के अलग भाग खाते हैं: जड़ (गाजर), तना (आलू), पत्ते (पालक), फूल (फूलगोभी), बीज (मटर)।"
+    },
+    {
+      "en": "Preserving: drying, salting, making pickles, refrigerating",
+      "hi": "संरक्षण: सुखाना, नमक लगाना, अचार बनाना, फ़्रिज में रखना"
+    },
+    {
+      "en": "Farmers grow our food; we must not waste it.",
+      "hi": "किसान हमारा खाना उगाते हैं; इसे बर्बाद मत करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which part of the plant is cauliflower?",
+        "hi": "फूलगोभी पौधे का कौन-सा भाग है?"
+      },
+      "steps": [
+        {
+          "en": "The name gives a clue: cauli-FLOWER.",
+          "hi": "नाम में सुराग है: फूल-गोभी।"
+        }
+      ],
+      "answer": {
+        "en": "Flower",
+        "hi": "फूल"
+      }
+    },
+    {
+      "problem": {
+        "en": "How is mango preserved to eat all year?",
+        "hi": "आम को पूरे साल खाने के लिए कैसे संरक्षित करते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Mango pieces are mixed with salt, oil and spices.",
+          "hi": "आम के टुकड़ों में नमक, तेल और मसाले मिलाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "By making pickle (achaar)",
+        "hi": "अचार बनाकर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part of the plant is a potato?",
+        "hi": "आलू पौधे का कौन-सा भाग है?"
+      },
+      "answer": {
+        "en": "Stem (underground)",
+        "hi": "तना (ज़मीन के नीचे)"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one food from animals.",
+        "hi": "जानवरों से मिलने वाला एक भोजन।"
+      },
+      "answer": {
+        "en": "Milk, egg, honey, fish (any one)",
+        "hi": "दूध, अंडा, शहद, मछली (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one way to preserve food.",
+        "hi": "भोजन संरक्षित करने का एक तरीक़ा।"
+      },
+      "answer": {
+        "en": "Drying, pickling, refrigerating (any one)",
+        "hi": "सुखाना, अचार, फ़्रिज (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Food gives us energy and helps us grow. It comes from plants (grains, pulses, fruits, vegetables, spices) and animals (milk, eggs, meat, fish, honey). Some food is eaten raw, some is cooked, and some is preserved for later.",
+    "hi": "भोजन हमें ऊर्जा देता है और बढ़ने में मदद करता है। यह पौधों (अनाज, दालें, फल, सब्ज़ियाँ, मसाले) और जानवरों (दूध, अंडे, मांस, मछली, शहद) से आता है। कुछ खाना कच्चा खाते हैं, कुछ पकाकर, और कुछ बाद के लिए संरक्षित करते हैं।"
+  }
+}

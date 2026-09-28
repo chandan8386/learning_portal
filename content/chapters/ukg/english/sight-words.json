@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Sight words: the, a, is, I, can, see, this, that, my, go",
+      "hi": "पहचान वाले शब्द: the, a, is, I, can, see, this, that, my, go"
+    },
+    {
+      "en": "\"I\" is always a capital letter.",
+      "hi": "\"I\" हमेशा बड़ा अक्षर होता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Read: \"I can see a cat.\"",
+        "hi": "पढ़ो: \"I can see a cat.\""
+      },
+      "steps": [
+        {
+          "en": "Read each sight word: I, can, see, a.",
+          "hi": "हर पहचान शब्द पढ़ो: I, can, see, a।"
+        },
+        {
+          "en": "Blend the last word: c-a-t.",
+          "hi": "आख़िरी शब्द मिलाओ: c-a-t।"
+        }
+      ],
+      "answer": {
+        "en": "I can see a cat. (मैं एक बिल्ली देख सकता हूँ।)",
+        "hi": "I can see a cat. (मैं एक बिल्ली देख सकता हूँ।)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"This __ my bag.\" (is / am)",
+        "hi": "भरो: \"This __ my bag.\" (is / am)"
+      },
+      "steps": [
+        {
+          "en": "For \"this\" we use \"is\".",
+          "hi": "\"this\" के साथ \"is\" लगता है।"
+        }
+      ],
+      "answer": {
+        "en": "This is my bag.",
+        "hi": "This is my bag."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"__ can run.\" (I / a)",
+        "hi": "भरो: \"__ can run.\" (I / a)"
+      },
+      "answer": {
+        "en": "I",
+        "hi": "I"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"I __ a dog.\" (see / the)",
+        "hi": "भरो: \"I __ a dog.\" (see / the)"
+      },
+      "answer": {
+        "en": "see",
+        "hi": "see"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"I\" written small or capital?",
+        "hi": "\"I\" छोटा लिखते हैं या बड़ा?"
+      },
+      "answer": {
+        "en": "Capital",
+        "hi": "बड़ा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Some words we see again and again, like \"the\", \"is\", \"I\", \"a\", \"can\", \"see\". We learn to read them quickly by sight.",
+    "hi": "कुछ शब्द बार-बार आते हैं, जैसे \"the\", \"is\", \"I\", \"a\", \"can\", \"see\"। इन्हें देखते ही पढ़ना सीखते हैं।"
+  }
+}

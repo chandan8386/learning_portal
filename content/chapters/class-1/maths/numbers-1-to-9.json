@@ -1,0 +1,47 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We count things one by one: 1, 2, 3, 4, 5, 6, 7, 8, 9. The last number we say tells us how many things there are.",
+    "hi": "हम चीज़ें एक-एक करके गिनते हैं: 1, 2, 3, 4, 5, 6, 7, 8, 9। आख़िरी संख्या बताती है कि कुल कितनी चीज़ें हैं।"
+  },
+  "keyPoints": [
+    { "en": "Touch each object once while counting.", "hi": "गिनते समय हर चीज़ को एक ही बार छुओ।" },
+    { "en": "The last number you say is the total.", "hi": "जो आख़िरी संख्या बोलते हो, वही कुल गिनती है।" },
+    { "en": "Numbers go up by one: 5 comes after 4, 6 comes after 5.", "hi": "संख्याएँ एक-एक बढ़ती हैं: 4 के बाद 5, 5 के बाद 6।" },
+    { "en": "A bigger number means more things.", "hi": "बड़ी संख्या का मतलब ज़्यादा चीज़ें।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Count the apples: 🍎🍎🍎🍎🍎", "hi": "सेब गिनो: 🍎🍎🍎🍎🍎" },
+      "steps": [
+        { "en": "Touch each apple and count: 1, 2, 3, 4, 5.", "hi": "हर सेब छूकर गिनो: 1, 2, 3, 4, 5।" },
+        { "en": "The last number is 5.", "hi": "आख़िरी संख्या 5 है।" }
+      ],
+      "answer": { "en": "There are 5 apples.", "hi": "5 सेब हैं।" }
+    },
+    {
+      "problem": { "en": "Which is more: 🐤🐤🐤 or 🐤🐤🐤🐤🐤🐤🐤?", "hi": "कौन ज़्यादा है: 🐤🐤🐤 या 🐤🐤🐤🐤🐤🐤🐤?" },
+      "steps": [
+        { "en": "Count the first group: 3 chicks.", "hi": "पहला समूह गिनो: 3 चूज़े।" },
+        { "en": "Count the second group: 7 chicks.", "hi": "दूसरा समूह गिनो: 7 चूज़े।" },
+        { "en": "7 is bigger than 3.", "hi": "7, 3 से बड़ा है।" }
+      ],
+      "answer": { "en": "The second group (7 chicks) has more.", "hi": "दूसरे समूह में (7 चूज़े) ज़्यादा हैं।" }
+    },
+    {
+      "problem": { "en": "What number comes just after 6?", "hi": "6 के ठीक बाद कौन-सी संख्या आती है?" },
+      "steps": [
+        { "en": "Count forward from 6.", "hi": "6 से आगे गिनो।" },
+        { "en": "6, then 7.", "hi": "6, फिर 7।" }
+      ],
+      "answer": { "en": "7", "hi": "7" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Count the stars: ⭐⭐⭐⭐", "hi": "तारे गिनो: ⭐⭐⭐⭐" }, "answer": "4" },
+    { "question": { "en": "Count the balloons: 🎈🎈🎈🎈🎈🎈🎈🎈", "hi": "गुब्बारे गिनो: 🎈🎈🎈🎈🎈🎈🎈🎈" }, "answer": "8" },
+    { "question": { "en": "What comes just before 9?", "hi": "9 से ठीक पहले क्या आता है?" }, "answer": "8" },
+    { "question": { "en": "Which is bigger: 2 or 6?", "hi": "कौन बड़ा है: 2 या 6?" }, "answer": "6" },
+    { "question": { "en": "Fill in the gap: 3, 4, __, 6", "hi": "खाली जगह भरो: 3, 4, __, 6" }, "answer": "5" }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Bhangra – Punjab; Garba – Gujarat; Bihu – Assam",
+      "hi": "भांगड़ा – पंजाब; गरबा – गुजरात; बिहू – असम"
+    },
+    {
+      "en": "Keep the beat with claps and steps.",
+      "hi": "ताली और क़दमों से ताल पकड़ो।"
+    },
+    {
+      "en": "Dance in a circle holding hands in Garba.",
+      "hi": "गरबा में हाथ पकड़कर गोल घेरे में नाचते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which dance is done with sticks (dandiya) in Gujarat?",
+        "hi": "गुजरात में डंडियों के साथ कौन-सा नृत्य होता है?"
+      },
+      "steps": [
+        {
+          "en": "It is danced during Navratri.",
+          "hi": "यह नवरात्रि में होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Garba / Dandiya",
+        "hi": "गरबा / डांडिया"
+      }
+    },
+    {
+      "problem": {
+        "en": "Clap-clap-stamp, clap-clap-stamp. What comes next?",
+        "hi": "ताली-ताली-पैर, ताली-ताली-पैर। आगे क्या?"
+      },
+      "steps": [
+        {
+          "en": "The pattern repeats: clap, clap, stamp.",
+          "hi": "पैटर्न दोहराता है: ताली, ताली, पैर।"
+        }
+      ],
+      "answer": {
+        "en": "clap",
+        "hi": "ताली"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Bhangra comes from which state?",
+        "hi": "भांगड़ा किस राज्य का है?"
+      },
+      "answer": {
+        "en": "Punjab",
+        "hi": "पंजाब"
+      }
+    },
+    {
+      "question": {
+        "en": "Bihu is a dance of which state?",
+        "hi": "बिहू किस राज्य का नृत्य है?"
+      },
+      "answer": {
+        "en": "Assam",
+        "hi": "असम"
+      }
+    },
+    {
+      "question": {
+        "en": "Which instrument is used in Bhangra?",
+        "hi": "भांगड़ा में कौन-सा वाद्य यंत्र बजता है?"
+      },
+      "answer": {
+        "en": "Dhol",
+        "hi": "ढोल"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Music and dance are ways to show happiness. India has many folk dances: Bhangra (Punjab), Garba (Gujarat), Bihu (Assam). Rhythm games help us keep the beat.",
+    "hi": "संगीत और नृत्य ख़ुशी दिखाने के तरीक़े हैं। भारत में बहुत लोक नृत्य हैं: भांगड़ा (पंजाब), गरबा (गुजरात), बिहू (असम)। ताल वाले खेल ताल पकड़ना सिखाते हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Say the word slowly and stretch the first sound.",
+      "hi": "शब्द धीरे बोलो और पहली ध्वनि खींचो।"
+    },
+    {
+      "en": "Match the sound to its letter.",
+      "hi": "ध्वनि को उसके अक्षर से मिलाओ।"
+    },
+    {
+      "en": "Words with the same first sound: sun, sock, seven.",
+      "hi": "एक जैसी पहली ध्वनि वाले शब्द: sun, sock, seven।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the first sound in \"bus\" 🚌?",
+        "hi": "\"bus\" 🚌 की पहली ध्वनि क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Say \"b-b-bus\".",
+          "hi": "बोलो \"ब-ब-bus\"।"
+        }
+      ],
+      "answer": {
+        "en": "b",
+        "hi": "b"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which word starts like \"rat\": ring or pen?",
+        "hi": "\"rat\" जैसी शुरुआत किसकी है: ring या pen?"
+      },
+      "steps": [
+        {
+          "en": "rat starts with \"r\". ring starts with \"r\", pen with \"p\".",
+          "hi": "rat \"र\" से शुरू होता है। ring \"र\" से, pen \"प\" से।"
+        }
+      ],
+      "answer": {
+        "en": "ring",
+        "hi": "ring"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "First sound in \"goat\" 🐐?",
+        "hi": "\"goat\" 🐐 की पहली ध्वनि?"
+      },
+      "answer": {
+        "en": "g",
+        "hi": "g"
+      }
+    },
+    {
+      "question": {
+        "en": "First sound in \"nest\"?",
+        "hi": "\"nest\" की पहली ध्वनि?"
+      },
+      "answer": {
+        "en": "n",
+        "hi": "n"
+      }
+    },
+    {
+      "question": {
+        "en": "Which word starts with \"d\": dog or cat?",
+        "hi": "कौन-सा शब्द \"d\" से शुरू होता है: dog या cat?"
+      },
+      "answer": {
+        "en": "dog",
+        "hi": "dog"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Every word starts with a sound. \"Fish\" starts with \"f\", \"Moon\" starts with \"m\". Listen to the first sound and find the letter.",
+    "hi": "हर शब्द एक ध्वनि से शुरू होता है। \"Fish\" की शुरुआत \"फ़\" से, \"Moon\" की \"म\" से। पहली ध्वनि सुनो और अक्षर ढूँढो।"
+  }
+}

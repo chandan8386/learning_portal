@@ -1,0 +1,38 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Multiplication is quick repeated addition. 3 bags with 4 mangoes each: 4 + 4 + 4 = 12, or 3 × 4 = 12.",
+    "hi": "गुणा, बार-बार जोड़ने का छोटा तरीक़ा है। 3 थैलों में 4-4 आम: 4 + 4 + 4 = 12, यानी 3 × 4 = 12।"
+  },
+  "keyPoints": [
+    { "en": "× means 'groups of'. 3 × 4 = 3 groups of 4.", "hi": "× का मतलब 'के समूह'। 3 × 4 = 4 के 3 समूह।" },
+    { "en": "Order does not matter: 3 × 4 = 4 × 3.", "hi": "क्रम बदलने से उत्तर नहीं बदलता: 3 × 4 = 4 × 3।" },
+    { "en": "Any number × 1 = the same number; any number × 0 = 0.", "hi": "कोई भी संख्या × 1 = वही संख्या; कोई भी संख्या × 0 = 0।" },
+    { "en": "To multiply by 10, put a 0 at the end: 7 × 10 = 70.", "hi": "10 से गुणा करने के लिए आख़िर में 0 लगाओ: 7 × 10 = 70।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "There are 5 plates with 3 laddoos on each. How many laddoos in all?", "hi": "5 प्लेटों में 3-3 लड्डू हैं। कुल कितने लड्डू?" },
+      "steps": [
+        { "en": "Repeated addition: 3 + 3 + 3 + 3 + 3 = 15", "hi": "बार-बार जोड़: 3 + 3 + 3 + 3 + 3 = 15" },
+        { "en": "Multiplication: 5 × 3 = 15", "hi": "गुणा: 5 × 3 = 15" }
+      ],
+      "answer": { "en": "15 laddoos", "hi": "15 लड्डू" }
+    },
+    {
+      "problem": { "en": "Find 23 × 4.", "hi": "23 × 4 निकालो।" },
+      "steps": [
+        { "en": "Break 23 into 20 + 3.", "hi": "23 को 20 + 3 में तोड़ो।" },
+        { "en": "20 × 4 = 80 and 3 × 4 = 12.", "hi": "20 × 4 = 80 और 3 × 4 = 12।" },
+        { "en": "80 + 12 = 92", "hi": "80 + 12 = 92" }
+      ],
+      "answer": "92"
+    }
+  ],
+  "practice": [
+    { "question": "6 × 7 = ?", "answer": "42" },
+    { "question": "9 × 0 = ?", "answer": "0" },
+    { "question": "15 × 3 = ?", "answer": "45", "solution": ["10 × 3 = 30, 5 × 3 = 15, 30 + 15 = 45"] },
+    { "question": { "en": "A bus has 8 rows with 4 seats in each. How many seats?", "hi": "बस में 8 पंक्तियाँ हैं, हर पंक्ति में 4 सीटें। कुल कितनी सीटें?" }, "answer": "32" }
+  ]
+}

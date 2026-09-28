@@ -1,0 +1,540 @@
+{
+  "slug": "class-7",
+  "name": "Class 7",
+  "nameHi": "कक्षा 7",
+  "order": 9,
+  "stage": "MIDDLE",
+  "ageRange": "12–13",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Poorvi (reference)",
+      "chapters": [
+        {
+          "title": "Prose and Poetry: Learning Together",
+          "learningOutcomes": [
+            "Read texts about learning together",
+            "Discuss teamwork and curiosity"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Wit and Wisdom",
+          "learningOutcomes": [
+            "Read witty stories and poems",
+            "Understand humour and wisdom"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Values and Dispositions",
+          "learningOutcomes": [
+            "Read texts on values",
+            "Reflect on honesty and empathy"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Travel and Adventure",
+          "learningOutcomes": [
+            "Read travel and adventure texts",
+            "Describe places and journeys"
+          ]
+        },
+        {
+          "title": "Grammar: Tenses and Their Use",
+          "learningOutcomes": [
+            "Use all tenses correctly",
+            "Tell the difference between similar tenses"
+          ]
+        },
+        {
+          "title": "Grammar: Active and Passive Voice",
+          "learningOutcomes": [
+            "Change sentences from active to passive voice",
+            "Know when to use passive"
+          ]
+        },
+        {
+          "title": "Grammar: Direct and Indirect Speech",
+          "learningOutcomes": [
+            "Change statements, questions and commands to reported speech",
+            "Use tense changes in reported speech"
+          ]
+        },
+        {
+          "title": "Grammar: Clauses",
+          "learningOutcomes": [
+            "Identify main and subordinate clauses",
+            "Combine sentences using clauses"
+          ]
+        },
+        {
+          "title": "Writing: Formal and Informal Letters",
+          "learningOutcomes": [
+            "Write formal and informal letters",
+            "Use the correct format"
+          ]
+        },
+        {
+          "title": "Writing: Story and Report",
+          "learningOutcomes": [
+            "Write stories and reports",
+            "Organise ideas with a clear beginning, middle and end"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Malhar (reference)",
+      "chapters": [
+        {
+          "title": "Prose Lessons",
+          "titleHi": "गद्य पाठ",
+          "learningOutcomes": [
+            "गद्य पाठ समझना",
+            "लेखक का संदेश बताना"
+          ]
+        },
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविता का भाव और शिल्प",
+            "कविता की पंक्तियों की व्याख्या"
+          ]
+        },
+        {
+          "title": "Samas",
+          "titleHi": "समास",
+          "learningOutcomes": [
+            "समास के भेद",
+            "समास-विग्रह करना"
+          ]
+        },
+        {
+          "title": "Kinds of Sentences",
+          "titleHi": "वाक्य के भेद",
+          "learningOutcomes": [
+            "अर्थ के आधार पर वाक्य के भेद",
+            "वाक्य बदलना"
+          ]
+        },
+        {
+          "title": "Avyay",
+          "titleHi": "अव्यय",
+          "learningOutcomes": [
+            "अव्यय के भेद",
+            "वाक्य में अव्यय पहचानना"
+          ]
+        },
+        {
+          "title": "Vachya",
+          "titleHi": "वाच्य",
+          "learningOutcomes": [
+            "कर्तृवाच्य और कर्मवाच्य",
+            "वाच्य बदलना"
+          ]
+        },
+        {
+          "title": "Idioms and Proverbs",
+          "titleHi": "मुहावरे और लोकोक्तियाँ",
+          "learningOutcomes": [
+            "मुहावरे और लोकोक्तियाँ",
+            "अर्थ और प्रयोग"
+          ]
+        },
+        {
+          "title": "Essay, Letter and Notice Writing",
+          "titleHi": "निबंध, पत्र और सूचना लेखन",
+          "learningOutcomes": [
+            "निबंध, पत्र और सूचना लेखन",
+            "सही प्रारूप का प्रयोग"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➗",
+      "color": "emerald",
+      "book": "NCERT Ganita Prakash (reference)",
+      "chapters": [
+        {
+          "title": "Integers",
+          "learningOutcomes": [
+            "Add, subtract, multiply and divide integers",
+            "Use properties of integers"
+          ]
+        },
+        {
+          "title": "Fractions and Decimals",
+          "learningOutcomes": [
+            "Multiply and divide fractions and decimals",
+            "Solve word problems"
+          ]
+        },
+        {
+          "title": "Data Handling",
+          "learningOutcomes": [
+            "Find mean, median and mode",
+            "Read bar graphs and understand chance"
+          ]
+        },
+        {
+          "title": "Simple Equations",
+          "learningOutcomes": [
+            "Form and solve simple equations",
+            "Use equations in word problems"
+          ]
+        },
+        {
+          "title": "Lines and Angles",
+          "learningOutcomes": [
+            "Know pairs of angles",
+            "Find angles made by a transversal"
+          ]
+        },
+        {
+          "title": "Triangles and Their Properties",
+          "learningOutcomes": [
+            "Know properties of triangles",
+            "Use the angle sum and Pythagoras property"
+          ]
+        },
+        {
+          "title": "Congruence of Triangles",
+          "learningOutcomes": [
+            "Use SSS, SAS, ASA and RHS congruence",
+            "Prove triangles congruent"
+          ]
+        },
+        {
+          "title": "Comparing Quantities: Ratio and Percentage",
+          "learningOutcomes": [
+            "Use ratios and percentages",
+            "Find profit, loss and simple interest"
+          ]
+        },
+        {
+          "title": "Rational Numbers",
+          "learningOutcomes": [
+            "Represent rational numbers on a number line",
+            "Add and subtract rational numbers"
+          ]
+        },
+        {
+          "title": "Perimeter and Area",
+          "learningOutcomes": [
+            "Find area of parallelograms, triangles and circles",
+            "Solve area problems"
+          ]
+        },
+        {
+          "title": "Algebraic Expressions",
+          "learningOutcomes": [
+            "Form algebraic expressions",
+            "Add and subtract like terms"
+          ]
+        },
+        {
+          "title": "Exponents and Powers",
+          "learningOutcomes": [
+            "Use laws of exponents",
+            "Write large numbers in standard form"
+          ]
+        },
+        {
+          "title": "Symmetry",
+          "learningOutcomes": [
+            "Find lines of symmetry and rotational symmetry",
+            "Know the order of rotation"
+          ]
+        },
+        {
+          "title": "Visualising Solid Shapes",
+          "learningOutcomes": [
+            "Know faces, edges and vertices of solids",
+            "Draw nets and views of solids"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "nameHi": "विज्ञान",
+      "icon": "🔬",
+      "color": "teal",
+      "book": "NCERT Curiosity (reference)",
+      "chapters": [
+        {
+          "title": "Nutrition in Plants",
+          "learningOutcomes": [
+            "Know photosynthesis",
+            "Know other modes of nutrition in plants"
+          ]
+        },
+        {
+          "title": "Nutrition in Animals",
+          "learningOutcomes": [
+            "Know how humans and animals digest food",
+            "Know the human digestive system"
+          ]
+        },
+        {
+          "title": "Heat and Temperature",
+          "learningOutcomes": [
+            "Measure temperature",
+            "Know conduction, convection and radiation"
+          ]
+        },
+        {
+          "title": "Acids, Bases and Salts",
+          "learningOutcomes": [
+            "Tell acids from bases using indicators",
+            "Know neutralisation in daily life"
+          ]
+        },
+        {
+          "title": "Physical and Chemical Changes",
+          "learningOutcomes": [
+            "Tell physical from chemical changes",
+            "Know rusting and crystallisation"
+          ]
+        },
+        {
+          "title": "Respiration in Organisms",
+          "learningOutcomes": [
+            "Know aerobic and anaerobic respiration",
+            "Know breathing in humans and animals"
+          ]
+        },
+        {
+          "title": "Transportation in Animals and Plants",
+          "learningOutcomes": [
+            "Know blood circulation and excretion",
+            "Know how water moves in plants"
+          ]
+        },
+        {
+          "title": "Reproduction in Plants",
+          "learningOutcomes": [
+            "Know how plants reproduce",
+            "Know pollination and seed dispersal"
+          ]
+        },
+        {
+          "title": "Motion and Time",
+          "learningOutcomes": [
+            "Measure speed and time",
+            "Read distance-time graphs"
+          ]
+        },
+        {
+          "title": "Electric Current and Its Effects",
+          "learningOutcomes": [
+            "Know the heating and magnetic effects of current",
+            "Draw circuit symbols"
+          ]
+        },
+        {
+          "title": "Light",
+          "learningOutcomes": [
+            "Know how mirrors and lenses form images",
+            "Know that white light has colours"
+          ]
+        },
+        {
+          "title": "Forests and Wastewater Management",
+          "learningOutcomes": [
+            "Know why forests matter",
+            "Know how wastewater is treated"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "nameHi": "सामाजिक विज्ञान",
+      "icon": "🗺️",
+      "color": "amber",
+      "book": "NCERT Exploring Society: India and Beyond (reference)",
+      "chapters": [
+        {
+          "title": "Environment and Its Components",
+          "learningOutcomes": [
+            "Know natural and human-made environment",
+            "Know ecosystems"
+          ]
+        },
+        {
+          "title": "Inside Our Earth",
+          "learningOutcomes": [
+            "Know the Earth's layers and rocks",
+            "Know earthquakes and volcanoes"
+          ]
+        },
+        {
+          "title": "Air and Water",
+          "learningOutcomes": [
+            "Know the atmosphere and weather",
+            "Know the water cycle and ocean currents"
+          ]
+        },
+        {
+          "title": "Natural Vegetation and Wildlife",
+          "learningOutcomes": [
+            "Know types of forests and wildlife",
+            "Know how to conserve them"
+          ]
+        },
+        {
+          "title": "Kingdoms and Dynasties of Medieval India",
+          "learningOutcomes": [
+            "Know medieval kingdoms and rulers",
+            "Read historical sources"
+          ]
+        },
+        {
+          "title": "Towns, Traders and Craftspersons",
+          "learningOutcomes": [
+            "Know medieval towns and trade",
+            "Know crafts and traders"
+          ]
+        },
+        {
+          "title": "Devotional Paths",
+          "learningOutcomes": [
+            "Know the Bhakti and Sufi movements",
+            "Know saints and their teachings"
+          ]
+        },
+        {
+          "title": "Equality in Democracy",
+          "learningOutcomes": [
+            "Know equality in a democracy",
+            "Know how the Constitution ensures equality"
+          ]
+        },
+        {
+          "title": "State Government",
+          "learningOutcomes": [
+            "Know the state legislature and government",
+            "Know the role of the Chief Minister and MLAs"
+          ]
+        },
+        {
+          "title": "Markets Around Us",
+          "learningOutcomes": [
+            "Know how markets work",
+            "Know the chain of buying and selling"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sanskrit",
+      "name": "Sanskrit",
+      "nameHi": "संस्कृत",
+      "icon": "🕉️",
+      "color": "rose",
+      "chapters": [
+        {
+          "title": "Shabd Roop",
+          "titleHi": "शब्द रूप",
+          "learningOutcomes": [
+            "शब्द रूप दोहराना",
+            "नए शब्द रूप सीखना"
+          ]
+        },
+        {
+          "title": "Dhatu Roop: Lakar",
+          "titleHi": "धातु रूप: लकार",
+          "learningOutcomes": [
+            "लट्, लङ्, लृट् और लोट् लकार",
+            "धातु रूपों का प्रयोग"
+          ]
+        },
+        {
+          "title": "Sandhi",
+          "titleHi": "संधि",
+          "learningOutcomes": [
+            "स्वर संधि",
+            "संधि-विच्छेद"
+          ]
+        },
+        {
+          "title": "Karak and Vibhakti",
+          "titleHi": "कारक और विभक्ति",
+          "learningOutcomes": [
+            "कारक और विभक्ति",
+            "वाक्य में सही विभक्ति"
+          ]
+        },
+        {
+          "title": "Stories and Subhashitani",
+          "titleHi": "कथाएँ और सुभाषितानि",
+          "learningOutcomes": [
+            "कथाएँ पढ़ना",
+            "सुभाषित कंठस्थ करना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Science",
+      "nameHi": "कंप्यूटर विज्ञान",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Networks and the Internet",
+          "learningOutcomes": [
+            "Know types of networks",
+            "Know how the internet works"
+          ]
+        },
+        {
+          "title": "Spreadsheet Formulas",
+          "learningOutcomes": [
+            "Use formulas and functions",
+            "Make charts from data"
+          ]
+        },
+        {
+          "title": "Programming with Scratch",
+          "learningOutcomes": [
+            "Make games in Scratch",
+            "Use variables and conditions"
+          ]
+        },
+        {
+          "title": "Introduction to HTML",
+          "learningOutcomes": [
+            "Make a web page with HTML tags",
+            "Add headings, lists and links"
+          ]
+        },
+        {
+          "title": "Online Safety and Ethics",
+          "learningOutcomes": [
+            "Know online ethics and copyright",
+            "Stay safe from online fraud"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "World Environment Day: 5 June",
+      "hi": "विश्व पर्यावरण दिवस: 5 जून"
+    },
+    {
+      "en": "Project Tiger (1973) protects tigers.",
+      "hi": "प्रोजेक्ट टाइगर (1973) बाघों की रक्षा करता है।"
+    },
+    {
+      "en": "The Chipko movement saved trees by hugging them.",
+      "hi": "चिपको आंदोलन में पेड़ों से लिपटकर उन्हें बचाया गया।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What was the Chipko movement?",
+        "hi": "चिपको आंदोलन क्या था?"
+      },
+      "steps": [
+        {
+          "en": "\"Chipko\" means \"to hug/stick\".",
+          "hi": "\"चिपको\" मतलब \"लिपटना\"।"
+        },
+        {
+          "en": "Village women in Uttarakhand hugged trees to stop them being cut.",
+          "hi": "उत्तराखंड की गाँव की महिलाएँ पेड़ कटने से रोकने के लिए उनसे लिपट गईं।"
+        }
+      ],
+      "answer": {
+        "en": "A movement where people hugged trees to save them from being cut",
+        "hi": "एक आंदोलन जिसमें लोग पेड़ बचाने के लिए उनसे लिपट गए"
+      }
+    },
+    {
+      "problem": {
+        "en": "Give two ways to reduce air pollution.",
+        "hi": "हवा का प्रदूषण कम करने के दो तरीक़े।"
+      },
+      "steps": [
+        {
+          "en": "Think of smoke from vehicles and burning waste.",
+          "hi": "गाड़ियों और कचरा जलाने के धुएँ के बारे में सोचो।"
+        }
+      ],
+      "answer": {
+        "en": "Walk or cycle short distances; don't burn waste (also plant trees)",
+        "hi": "छोटी दूरी पैदल या साइकिल; कचरा मत जलाओ (पेड़ भी लगाओ)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "When is World Environment Day?",
+        "hi": "विश्व पर्यावरण दिवस कब है?"
+      },
+      "answer": {
+        "en": "5 June",
+        "hi": "5 जून"
+      }
+    },
+    {
+      "question": {
+        "en": "Which project protects tigers in India?",
+        "hi": "भारत में बाघों की रक्षा कौन-सा प्रोजेक्ट करता है?"
+      },
+      "answer": {
+        "en": "Project Tiger",
+        "hi": "प्रोजेक्ट टाइगर"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one way to save electricity.",
+        "hi": "बिजली बचाने का एक तरीक़ा।"
+      },
+      "answer": {
+        "en": "Switch off lights and fans when not in use",
+        "hi": "ज़रूरत न हो तो बत्ती-पंखा बंद करो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Our environment includes air, water, soil, plants and animals. Pollution harms it, and cutting trees destroys animal homes. We protect it by planting trees, saving energy and water, and not littering.",
+    "hi": "हमारे पर्यावरण में हवा, पानी, मिट्टी, पौधे और जानवर शामिल हैं। प्रदूषण इसे नुक़सान पहुँचाता है, और पेड़ काटने से जानवरों के घर उजड़ते हैं। पेड़ लगाकर, ऊर्जा और पानी बचाकर, और कचरा न फैलाकर हम इसकी रक्षा करते हैं।"
+  }
+}

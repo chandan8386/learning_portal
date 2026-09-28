@@ -1,0 +1,85 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Bold (Ctrl+B), Italic (Ctrl+I), Underline (Ctrl+U)",
+      "hi": "बोल्ड (Ctrl+B), इटैलिक (Ctrl+I), अंडरलाइन (Ctrl+U)"
+    },
+    {
+      "en": "Save (Ctrl+S); Undo (Ctrl+Z)",
+      "hi": "सेव (Ctrl+S); अंडू (Ctrl+Z)"
+    },
+    {
+      "en": "Select text first, then apply formatting.",
+      "hi": "पहले टेक्स्ट चुनो, फिर फ़ॉर्मेटिंग लगाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you make the title \"My School\" bold?",
+        "hi": "शीर्षक \"My School\" को बोल्ड कैसे करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Select the words by dragging over them.",
+          "hi": "शब्दों पर ड्रैग करके उन्हें चुनो।"
+        },
+        {
+          "en": "Press Ctrl+B or click the B button.",
+          "hi": "Ctrl+B दबाओ या B बटन पर क्लिक करो।"
+        }
+      ],
+      "answer": {
+        "en": "Select it, then Ctrl+B",
+        "hi": "चुनो, फिर Ctrl+B"
+      }
+    },
+    {
+      "problem": {
+        "en": "You deleted a paragraph by mistake. How do you get it back?",
+        "hi": "ग़लती से एक अनुच्छेद मिट गया। वापस कैसे लाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Undo reverses the last action.",
+          "hi": "अंडू आख़िरी काम उलट देता है।"
+        }
+      ],
+      "answer": {
+        "en": "Press Ctrl+Z (Undo)",
+        "hi": "Ctrl+Z (अंडू) दबाओ"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Shortcut to save a document?",
+        "hi": "दस्तावेज़ सेव करने का शॉर्टकट?"
+      },
+      "answer": "Ctrl+S"
+    },
+    {
+      "question": {
+        "en": "Which button puts text in the middle of the page?",
+        "hi": "टेक्स्ट को पेज के बीच में कौन-सा बटन लाता है?"
+      },
+      "answer": {
+        "en": "Center align",
+        "hi": "Center align (मध्य संरेखण)"
+      }
+    },
+    {
+      "question": {
+        "en": "Shortcut for italic?",
+        "hi": "इटैलिक का शॉर्टकट?"
+      },
+      "answer": "Ctrl+I"
+    }
+  ],
+  "intro": {
+    "en": "A word processor (like MS Word, Google Docs or LibreOffice Writer) lets us type, edit, format and save documents. We can change font, size and colour, make text bold, italic or underlined, and align it.",
+    "hi": "वर्ड प्रोसेसर (जैसे MS Word, Google Docs या LibreOffice Writer) से दस्तावेज़ टाइप, संपादित, सजा और सेव कर सकते हैं। फ़ॉन्ट, आकार और रंग बदल सकते हैं, टेक्स्ट बोल्ड, इटैलिक या अंडरलाइन कर सकते हैं, और संरेखित कर सकते हैं।"
+  }
+}

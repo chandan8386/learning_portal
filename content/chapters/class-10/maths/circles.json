@@ -1,0 +1,40 @@
+{
+  "status": "REVIEWED",
+  "intro": "A tangent to a circle is a line that touches the circle at exactly one point. At the point of contact, the tangent is perpendicular to the radius. From a point outside a circle we can draw exactly two tangents, and they are equal in length.",
+  "keyPoints": [
+    "There is exactly one tangent at any point on a circle.",
+    "Tangent ⟂ radius at the point of contact.",
+    "No tangent can be drawn from a point inside the circle; two tangents can be drawn from a point outside.",
+    "Lengths of the two tangents from an external point are equal.",
+    "If the angle between two tangents is θ, the angle they subtend at the centre is 180° − θ."
+  ],
+  "formulas": ["Tangent length from P: PT = √(OP² − r²)"],
+  "examples": [
+    {
+      "title": "Finding the radius",
+      "problem": "The length of a tangent from a point Q to a circle is 24 cm and Q is 25 cm from the centre. Find the radius.",
+      "steps": ["OT ⟂ QT, so △OTQ is right-angled at T.", "r² = OQ² − QT² = 625 − 576 = 49"],
+      "answer": "r = 7 cm"
+    },
+    {
+      "title": "Angle at the centre",
+      "problem": "PA and PB are tangents from P to a circle with centre O. If ∠APB = 80°, find ∠AOB.",
+      "steps": [
+        "∠OAP = ∠OBP = 90° (tangent ⟂ radius).",
+        "In quadrilateral OAPB: 90° + 90° + 80° + ∠AOB = 360°"
+      ],
+      "answer": "∠AOB = 100°"
+    },
+    {
+      "title": "Tangent length",
+      "problem": "Find the length of the tangent from a point 13 cm from the centre of a circle of radius 5 cm.",
+      "steps": ["PT = √(13² − 5²) = √(169 − 25) = √144"],
+      "answer": "12 cm"
+    }
+  ],
+  "practice": [
+    { "question": "A point is 5 cm from the centre of a circle of radius 3 cm. Find the tangent length.", "answer": "4 cm" },
+    { "question": "The angle between two tangents from an external point is 70°. Find the angle they subtend at the centre.", "answer": "110°" },
+    { "question": "How many tangents can a circle have at one point on it?", "answer": "Exactly one" }
+  ]
+}

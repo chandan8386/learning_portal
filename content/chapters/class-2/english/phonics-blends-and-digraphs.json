@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Blends: bl, cl, fl, gr, st, tr (both sounds heard)",
+      "hi": "मिश्रण: bl, cl, fl, gr, st, tr (दोनों ध्वनियाँ सुनाई देती हैं)"
+    },
+    {
+      "en": "Digraphs: sh (ship), ch (chair), th (thumb), wh (whale)",
+      "hi": "डाइग्राफ़: sh (ship), ch (chair), th (thumb), wh (whale)"
+    },
+    {
+      "en": "Long vowels: a_e (cake), ee (tree), oa (boat)",
+      "hi": "लंबे स्वर: a_e (cake), ee (tree), oa (boat)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which two letters start \"flag\"?",
+        "hi": "\"flag\" किन दो अक्षरों से शुरू होता है?"
+      },
+      "steps": [
+        {
+          "en": "Say it slowly: f-l-ag.",
+          "hi": "धीरे बोलो: f-l-ag।"
+        }
+      ],
+      "answer": {
+        "en": "fl",
+        "hi": "fl"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: __ip (a big boat)",
+        "hi": "भरो: __ip (बड़ी नाव)"
+      },
+      "steps": [
+        {
+          "en": "A big boat is a ship. It starts with \"sh\".",
+          "hi": "बड़ी नाव ship है। यह \"sh\" से शुरू होता है।"
+        }
+      ],
+      "answer": {
+        "en": "ship (sh)",
+        "hi": "ship (sh)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: __air (something you sit on)",
+        "hi": "भरो: __air (जिस पर बैठते हैं)"
+      },
+      "answer": {
+        "en": "chair (ch)",
+        "hi": "chair (ch)"
+      }
+    },
+    {
+      "question": {
+        "en": "Which blend starts \"tree\"?",
+        "hi": "\"tree\" किस मिश्रण से शुरू होता है?"
+      },
+      "answer": {
+        "en": "tr",
+        "hi": "tr"
+      }
+    },
+    {
+      "question": {
+        "en": "Which word has a long \"ee\" sound: bee or bed?",
+        "hi": "किस शब्द में लंबी \"ee\" ध्वनि है: bee या bed?"
+      },
+      "answer": {
+        "en": "bee",
+        "hi": "bee"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Sometimes two letters work together. In a blend like \"bl\" we hear both sounds: b-l-ack → black. In a digraph like \"sh\" two letters make one new sound: sh-ip → ship.",
+    "hi": "कभी-कभी दो अक्षर साथ काम करते हैं। \"bl\" जैसे मिश्रण में दोनों ध्वनियाँ सुनाई देती हैं: b-l-ack → black। \"sh\" जैसे डाइग्राफ़ में दो अक्षर मिलकर एक नई ध्वनि बनाते हैं: sh-ip → ship।"
+  }
+}

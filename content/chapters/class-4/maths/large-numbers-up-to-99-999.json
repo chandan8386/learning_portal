@@ -1,0 +1,79 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Smallest 5-digit number: 10,000; largest: 99,999",
+      "hi": "सबसे छोटी 5 अंकों की संख्या: 10,000; सबसे बड़ी: 99,999"
+    },
+    {
+      "en": "Place value = digit × value of its place.",
+      "hi": "स्थानीय मान = अंक × स्थान का मान।"
+    },
+    {
+      "en": "Rounding to the nearest ten: 5 or more goes up.",
+      "hi": "निकटतम दहाई तक पूर्णांकन: 5 या ज़्यादा हो तो ऊपर।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write 60,482 in expanded form and words.",
+        "hi": "60,482 को विस्तारित रूप और शब्दों में लिखो।"
+      },
+      "steps": [
+        {
+          "en": "60,000 + 0 + 400 + 80 + 2",
+          "hi": "60,000 + 0 + 400 + 80 + 2"
+        },
+        {
+          "en": "Words: sixty thousand four hundred eighty-two.",
+          "hi": "शब्दों में: साठ हज़ार चार सौ बयासी।"
+        }
+      ],
+      "answer": {
+        "en": "60,000 + 400 + 80 + 2; sixty thousand four hundred eighty-two",
+        "hi": "60,000 + 400 + 80 + 2; साठ हज़ार चार सौ बयासी"
+      }
+    },
+    {
+      "problem": {
+        "en": "Round 3,467 to the nearest hundred.",
+        "hi": "3,467 को निकटतम सैकड़े तक पूर्णांकित करो।"
+      },
+      "steps": [
+        {
+          "en": "Look at the tens digit: 6 (5 or more), so round up.",
+          "hi": "दहाई का अंक देखो: 6 (5 या ज़्यादा), तो ऊपर।"
+        }
+      ],
+      "answer": "3,500"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Place value of 8 in 58,213?",
+        "hi": "58,213 में 8 का स्थानीय मान?"
+      },
+      "answer": "8,000"
+    },
+    {
+      "question": {
+        "en": "Largest 5-digit number using 3, 0, 7, 1, 9 (each once)?",
+        "hi": "3, 0, 7, 1, 9 से सबसे बड़ी 5 अंकों की संख्या (हर अंक एक बार)?"
+      },
+      "answer": "97,310"
+    },
+    {
+      "question": {
+        "en": "Round 742 to the nearest ten.",
+        "hi": "742 को निकटतम दहाई तक पूर्णांकित करो।"
+      },
+      "answer": "740"
+    }
+  ],
+  "intro": {
+    "en": "Five-digit numbers have a ten-thousands place. 47,305 = 4 ten-thousands, 7 thousands, 3 hundreds, 0 tens and 5 ones. In the Indian system we put a comma after the thousands: 47,305.",
+    "hi": "पाँच अंकों की संख्या में दस हज़ार का स्थान होता है। 47,305 = 4 दस हज़ार, 7 हज़ार, 3 सैकड़े, 0 दहाई और 5 इकाई। भारतीय पद्धति में हज़ार के बाद अल्पविराम लगाते हैं: 47,305।"
+  }
+}

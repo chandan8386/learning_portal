@@ -1,0 +1,79 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Tally:",
+      "hi": "|| with a line across = 5 || टैली: |||| पर तिरछी लकीर = 5"
+    },
+    {
+      "en": "Pictograph key: e.g. 🙂 = 2 children",
+      "hi": "चित्रालेख की कुंजी: जैसे 🙂 = 2 बच्चे"
+    },
+    {
+      "en": "Read the key before counting.",
+      "hi": "गिनने से पहले कुंजी पढ़ो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Key: 🍎 = 5 students. Apple row: 🍎🍎🍎🍎. How many students like apples?",
+        "hi": "कुंजी: 🍎 = 5 छात्र। सेब की पंक्ति: 🍎🍎🍎🍎। कितने छात्रों को सेब पसंद हैं?"
+      },
+      "steps": [
+        {
+          "en": "4 pictures, each = 5.",
+          "hi": "4 चित्र, हर एक = 5।"
+        },
+        {
+          "en": "4 × 5 = 20",
+          "hi": "4 × 5 = 20"
+        }
+      ],
+      "answer": {
+        "en": "20 students",
+        "hi": "20 छात्र"
+      }
+    },
+    {
+      "problem": {
+        "en": "Tally for mango: two bundles of 5 and",
+        "hi": "|. How many? || आम की टैली: 5 के दो बंडल और |||। कितने?"
+      },
+      "steps": [
+        {
+          "en": "5 + 5 = 10, plus 3 = 13",
+          "hi": "5 + 5 = 10, और 3 = 13"
+        }
+      ],
+      "answer": "13"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Key: ⭐ = 10. How much is ⭐⭐⭐?",
+        "hi": "कुंजी: ⭐ = 10। ⭐⭐⭐ कितना है?"
+      },
+      "answer": "30"
+    },
+    {
+      "question": {
+        "en": "How many does one bundle of tally marks show?",
+        "hi": "टैली का एक बंडल कितना दिखाता है?"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "Banana: 12 children, grapes: 8 children. How many more like bananas?",
+        "hi": "केला: 12 बच्चे, अंगूर: 8 बच्चे। केले को कितने ज़्यादा पसंद करते हैं?"
+      },
+      "answer": "4"
+    }
+  ],
+  "intro": {
+    "en": "Data is information we collect, like how many children like each fruit. We can show it in a table using tally marks, or in a pictograph where each picture stands for some number of things.",
+    "hi": "डेटा (आँकड़े) वह जानकारी है जो हम इकट्ठा करते हैं, जैसे कितने बच्चों को कौन-सा फल पसंद है। इसे टैली के साथ तालिका में या चित्रालेख में दिखा सकते हैं जहाँ हर चित्र कुछ चीज़ों को दर्शाता है।"
+  }
+}

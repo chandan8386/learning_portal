@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Regular: jump → jumped, play → played, cry → cried",
+      "hi": "Regular: jump → jumped, play → played, cry → cried"
+    },
+    {
+      "en": "Irregular: go → went, see → saw, write → wrote, run → ran",
+      "hi": "Irregular: go → went, see → saw, write → wrote, run → ran"
+    },
+    {
+      "en": "Time words: yesterday, last week, ago",
+      "hi": "समय वाले शब्द: yesterday, last week, ago"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Change to past: \"She writes a letter.\"",
+        "hi": "भूतकाल में बदलो: \"She writes a letter.\""
+      },
+      "steps": [
+        {
+          "en": "write is irregular: write → wrote.",
+          "hi": "write irregular है: write → wrote।"
+        }
+      ],
+      "answer": {
+        "en": "She wrote a letter.",
+        "hi": "She wrote a letter."
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in with \"stop\": \"The bus __ at the signal.\" (past)",
+        "hi": "\"stop\" से भरो (भूतकाल): \"The bus __ at the signal.\""
+      },
+      "steps": [
+        {
+          "en": "Short verb ending in one vowel + consonant: double the last letter, then -ed.",
+          "hi": "एक स्वर + व्यंजन पर ख़त्म होने वाली छोटी क्रिया: आख़िरी अक्षर दोगुना करके -ed।"
+        }
+      ],
+      "answer": {
+        "en": "stopped",
+        "hi": "stopped"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Past of \"go\"?",
+        "hi": "\"go\" का past?"
+      },
+      "answer": {
+        "en": "went",
+        "hi": "went"
+      }
+    },
+    {
+      "question": {
+        "en": "Past of \"cry\"?",
+        "hi": "\"cry\" का past?"
+      },
+      "answer": {
+        "en": "cried",
+        "hi": "cried"
+      }
+    },
+    {
+      "question": {
+        "en": "Change to past: \"We eat mangoes.\"",
+        "hi": "भूतकाल में बदलो: \"We eat mangoes.\""
+      },
+      "answer": {
+        "en": "We ate mangoes.",
+        "hi": "We ate mangoes."
+      }
+    }
+  ],
+  "intro": {
+    "en": "The simple past tense tells about actions that happened and finished in the past: \"I played yesterday.\" Regular verbs add -ed (walk → walked). Irregular verbs change form (go → went, eat → ate).",
+    "hi": "Simple past tense बीते समय में हुए और पूरे हो चुके कामों के बारे में बताता है: \"I played yesterday.\" Regular क्रियाओं में -ed लगता है (walk → walked)। Irregular क्रियाओं का रूप बदलता है (go → went, eat → ate)।"
+  }
+}

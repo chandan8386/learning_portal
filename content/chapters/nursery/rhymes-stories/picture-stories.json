@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "A story has a beginning, middle and end.",
+      "hi": "कहानी की शुरुआत, बीच और अंत होता है।"
+    },
+    {
+      "en": "Stories teach us good lessons.",
+      "hi": "कहानियाँ हमें अच्छी सीख देती हैं।"
+    },
+    {
+      "en": "Look at the pictures to guess what happens.",
+      "hi": "चित्र देखकर अंदाज़ा लगाओ कि क्या होगा।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why did the crow put pebbles in the pot?",
+        "hi": "कौए ने घड़े में कंकड़ क्यों डाले?"
+      },
+      "steps": [
+        {
+          "en": "The water was at the bottom and the crow could not reach it.",
+          "hi": "पानी नीचे था और कौआ पहुँच नहीं पा रहा था।"
+        },
+        {
+          "en": "Pebbles pushed the water up.",
+          "hi": "कंकड़ों ने पानी को ऊपर कर दिया।"
+        }
+      ],
+      "answer": {
+        "en": "To bring the water up so it could drink",
+        "hi": "पानी ऊपर लाने के लिए ताकि पी सके"
+      }
+    },
+    {
+      "problem": {
+        "en": "In \"The Lion and the Mouse\", how did the mouse help the lion?",
+        "hi": "\"शेर और चूहा\" में चूहे ने शेर की मदद कैसे की?"
+      },
+      "steps": [
+        {
+          "en": "The lion was caught in a net.",
+          "hi": "शेर जाल में फँस गया था।"
+        },
+        {
+          "en": "The mouse cut the net with its teeth.",
+          "hi": "चूहे ने दाँतों से जाल काट दिया।"
+        }
+      ],
+      "answer": {
+        "en": "It cut the net and set the lion free.",
+        "hi": "जाल काटकर शेर को आज़ाद किया।"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What lesson does \"The Thirsty Crow\" teach?",
+        "hi": "\"प्यासा कौआ\" क्या सीख देती है?"
+      },
+      "answer": {
+        "en": "Think and never give up",
+        "hi": "सोचो और कभी हार मत मानो"
+      }
+    },
+    {
+      "question": {
+        "en": "Can a small friend help a big friend?",
+        "hi": "क्या छोटा दोस्त बड़े दोस्त की मदद कर सकता है?"
+      },
+      "answer": {
+        "en": "Yes, like the mouse helped the lion",
+        "hi": "हाँ, जैसे चूहे ने शेर की मदद की"
+      }
+    },
+    {
+      "question": {
+        "en": "What was the crow looking for?",
+        "hi": "कौआ क्या ढूँढ रहा था?"
+      },
+      "answer": {
+        "en": "Water",
+        "hi": "पानी"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Stories take us to new places. In \"The Thirsty Crow\", a crow drops pebbles into a pot until the water comes up. Clever crow!",
+    "hi": "कहानियाँ हमें नई जगहों पर ले जाती हैं। \"प्यासा कौआ\" में कौआ घड़े में कंकड़ डालता है जब तक पानी ऊपर न आ जाए। चतुर कौआ!"
+  }
+}

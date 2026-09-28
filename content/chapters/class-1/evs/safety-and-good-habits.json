@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Bathe daily, cut nails, wash hands before eating.",
+      "hi": "रोज़ नहाओ, नाख़ून काटो, खाने से पहले हाथ धोओ।"
+    },
+    {
+      "en": "Walk on the footpath and cross at the zebra crossing.",
+      "hi": "फ़ुटपाथ पर चलो और ज़ेबरा क्रॉसिंग पर सड़क पार करो।"
+    },
+    {
+      "en": "Good touch feels safe; bad touch feels wrong. Say NO, run away, tell an adult.",
+      "hi": "अच्छा स्पर्श सुरक्षित लगता है; बुरा स्पर्श ग़लत। ना कहो, भागो, किसी बड़े को बताओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why should we cut our nails?",
+        "hi": "नाख़ून क्यों काटने चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Dirt and germs hide under long nails.",
+          "hi": "लंबे नाख़ूनों के नीचे गंदगी और कीटाणु छिपते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "To keep germs away and stay healthy",
+        "hi": "कीटाणु दूर रखने और स्वस्थ रहने के लिए"
+      }
+    },
+    {
+      "problem": {
+        "en": "Someone touches you and you feel uncomfortable. What should you do?",
+        "hi": "कोई तुम्हें छूता है और तुम्हें अच्छा नहीं लगता। क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Say NO loudly.",
+          "hi": "ज़ोर से \"ना\" कहो।"
+        },
+        {
+          "en": "Go away and tell your parents or teacher.",
+          "hi": "दूर जाओ और माता-पिता या टीचर को बताओ।"
+        }
+      ],
+      "answer": {
+        "en": "Say NO, go away and tell a trusted adult",
+        "hi": "ना कहो, दूर जाओ और किसी भरोसेमंद बड़े को बताओ"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where should we walk on a busy road?",
+        "hi": "व्यस्त सड़क पर कहाँ चलना चाहिए?"
+      },
+      "answer": {
+        "en": "On the footpath",
+        "hi": "फ़ुटपाथ पर"
+      }
+    },
+    {
+      "question": {
+        "en": "When should we wash our hands?",
+        "hi": "हाथ कब धोने चाहिए?"
+      },
+      "answer": {
+        "en": "Before eating and after the toilet",
+        "hi": "खाने से पहले और शौचालय के बाद"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we keep a secret if someone touches us badly?",
+        "hi": "कोई बुरा स्पर्श करे तो क्या उसे राज़ रखना चाहिए?"
+      },
+      "answer": {
+        "en": "No, always tell a trusted adult",
+        "hi": "नहीं, हमेशा किसी भरोसेमंद बड़े को बताओ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good habits keep us clean and healthy, and safety rules keep us from getting hurt. Our body is ours: if anyone touches us in a way that feels wrong, we say NO and tell a trusted adult.",
+    "hi": "अच्छी आदतें हमें साफ़ और स्वस्थ रखती हैं, और सुरक्षा के नियम चोट से बचाते हैं। हमारा शरीर हमारा है: अगर कोई ऐसे छुए जो ग़लत लगे, तो \"ना\" कहो और किसी भरोसेमंद बड़े को बताओ।"
+  }
+}

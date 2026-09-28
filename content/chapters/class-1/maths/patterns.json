@@ -1,0 +1,34 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "A pattern is something that repeats in the same way. 🔴🔵🔴🔵🔴🔵 — red, blue, red, blue. If we know the rule, we can say what comes next.",
+    "hi": "पैटर्न वह है जो एक ही तरह से दोहराता है। 🔴🔵🔴🔵🔴🔵 — लाल, नीला, लाल, नीला। नियम पता हो तो बता सकते हैं कि आगे क्या आएगा।"
+  },
+  "keyPoints": [
+    { "en": "Find the part that repeats.", "hi": "वह हिस्सा ढूँढो जो दोहराता है।" },
+    { "en": "Number patterns can go up by the same amount: 2, 4, 6, 8 (add 2 each time).", "hi": "संख्या पैटर्न एक जितना बढ़ सकते हैं: 2, 4, 6, 8 (हर बार 2 जोड़ो)।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "What comes next? ⭐🌙⭐🌙⭐ __", "hi": "आगे क्या आएगा? ⭐🌙⭐🌙⭐ __" },
+      "steps": [
+        { "en": "The repeating part is ⭐🌙.", "hi": "दोहराने वाला हिस्सा ⭐🌙 है।" },
+        { "en": "After ⭐ comes 🌙.", "hi": "⭐ के बाद 🌙 आता है।" }
+      ],
+      "answer": "🌙"
+    },
+    {
+      "problem": { "en": "What comes next? 1, 3, 5, 7, __", "hi": "आगे क्या आएगा? 1, 3, 5, 7, __" },
+      "steps": [
+        { "en": "From 1 to 3 we add 2. From 3 to 5 we add 2.", "hi": "1 से 3 में 2 जुड़ा। 3 से 5 में 2 जुड़ा।" },
+        { "en": "The rule is 'add 2'. 7 + 2 = 9.", "hi": "नियम है '2 जोड़ो'। 7 + 2 = 9।" }
+      ],
+      "answer": "9"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "What comes next? 🍎🍌🍌🍎🍌🍌🍎 __", "hi": "आगे क्या आएगा? 🍎🍌🍌🍎🍌🍌🍎 __" }, "answer": "🍌" },
+    { "question": { "en": "What comes next? 10, 20, 30, __", "hi": "आगे क्या आएगा? 10, 20, 30, __" }, "answer": "40" },
+    { "question": { "en": "What comes next? 5, 4, 3, __", "hi": "आगे क्या आएगा? 5, 4, 3, __" }, "hint": { "en": "The numbers are getting smaller.", "hi": "संख्याएँ छोटी हो रही हैं।" }, "answer": "2" }
+  ]
+}

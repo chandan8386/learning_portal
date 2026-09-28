@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "a b c d e f g h i j k l m n o p q r s t u v w x y z",
+      "hi": "a b c d e f g h i j k l m n o p q r s t u v w x y z"
+    },
+    {
+      "en": "Some small letters look like their capital: c–C, o–O, s–S.",
+      "hi": "कुछ छोटे अक्षर बड़े जैसे दिखते हैं: c–C, o–O, s–S।"
+    },
+    {
+      "en": "b and d look alike; b has the belly on the right.",
+      "hi": "b और d मिलते-जुलते हैं; b का पेट दाईं ओर होता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the small letter for G?",
+        "hi": "G का छोटा अक्षर क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Find G in the capital row, then look below.",
+          "hi": "बड़े अक्षरों में G ढूँढो, फिर नीचे देखो।"
+        }
+      ],
+      "answer": {
+        "en": "g",
+        "hi": "g"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is this b or d: the circle is on the right of the stick?",
+        "hi": "यह b है या d: गोला डंडे के दाईं ओर है?"
+      },
+      "steps": [
+        {
+          "en": "b = bat then ball: stick first, then circle.",
+          "hi": "b = पहले डंडा, फिर गोला।"
+        }
+      ],
+      "answer": {
+        "en": "b",
+        "hi": "b"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the capital of e?",
+        "hi": "e का बड़ा अक्षर क्या है?"
+      },
+      "answer": {
+        "en": "E",
+        "hi": "E"
+      }
+    },
+    {
+      "question": {
+        "en": "Which small letter looks like its capital: m or o?",
+        "hi": "कौन-सा छोटा अक्षर अपने बड़े जैसा दिखता है: m या o?"
+      },
+      "answer": {
+        "en": "o",
+        "hi": "o"
+      }
+    },
+    {
+      "question": {
+        "en": "What comes after small p?",
+        "hi": "छोटे p के बाद क्या आता है?"
+      },
+      "answer": {
+        "en": "q",
+        "hi": "q"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Every capital letter has a small letter partner: A–a, B–b, C–c. We use small letters in most words.",
+    "hi": "हर बड़े अक्षर का एक छोटा साथी है: A–a, B–b, C–c। ज़्यादातर शब्द छोटे अक्षरों में लिखते हैं।"
+  }
+}

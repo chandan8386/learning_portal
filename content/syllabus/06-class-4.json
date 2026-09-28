@@ -1,0 +1,440 @@
+{
+  "slug": "class-4",
+  "name": "Class 4",
+  "nameHi": "कक्षा 4",
+  "order": 6,
+  "stage": "PREPARATORY",
+  "ageRange": "9–10",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Santoor (reference)",
+      "chapters": [
+        {
+          "title": "Reading Comprehension",
+          "learningOutcomes": [
+            "Read passages and answer questions",
+            "Find the main idea and details"
+          ]
+        },
+        {
+          "title": "Kinds of Nouns",
+          "learningOutcomes": [
+            "Identify common, proper, collective and material nouns",
+            "Use nouns correctly in sentences"
+          ]
+        },
+        {
+          "title": "Pronouns and Possessives",
+          "learningOutcomes": [
+            "Use personal and possessive pronouns",
+            "Use my, mine, your, yours correctly"
+          ]
+        },
+        {
+          "title": "Simple Past Tense",
+          "learningOutcomes": [
+            "Use the simple past tense",
+            "Change present to past"
+          ]
+        },
+        {
+          "title": "Adjectives: Degrees of Comparison",
+          "learningOutcomes": [
+            "Use positive, comparative and superlative forms",
+            "Compare people and things"
+          ]
+        },
+        {
+          "title": "Adverbs",
+          "learningOutcomes": [
+            "Use adverbs of manner, place and time",
+            "Describe how, where and when"
+          ]
+        },
+        {
+          "title": "Conjunctions",
+          "learningOutcomes": [
+            "Join sentences with and, but, or, because",
+            "Make longer sentences"
+          ]
+        },
+        {
+          "title": "Sentence Types",
+          "learningOutcomes": [
+            "Identify statements, questions, commands and exclamations",
+            "Use the right punctuation for each"
+          ]
+        },
+        {
+          "title": "Poems",
+          "learningOutcomes": [
+            "Enjoy and recite poems",
+            "Explain the meaning of lines"
+          ]
+        },
+        {
+          "title": "Stories",
+          "learningOutcomes": [
+            "Read stories and describe characters",
+            "Retell a story in your own words"
+          ]
+        },
+        {
+          "title": "Writing: Paragraph and Notice",
+          "learningOutcomes": [
+            "Write a paragraph with a clear topic",
+            "Write a school notice"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Veena (reference)",
+      "chapters": [
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविता का भाव समझना",
+            "कविता सुनाना"
+          ]
+        },
+        {
+          "title": "Stories",
+          "titleHi": "कहानियाँ",
+          "learningOutcomes": [
+            "कहानी का सार बताना",
+            "कहानी पर प्रश्नों के उत्तर"
+          ]
+        },
+        {
+          "title": "Kinds of Nouns",
+          "titleHi": "संज्ञा के भेद",
+          "learningOutcomes": [
+            "संज्ञा के भेद पहचानना",
+            "व्यक्तिवाचक, जातिवाचक, भाववाचक संज्ञा"
+          ]
+        },
+        {
+          "title": "Adjective",
+          "titleHi": "विशेषण",
+          "learningOutcomes": [
+            "विशेषण पहचानना",
+            "विशेषण से वाक्य सुंदर बनाना"
+          ]
+        },
+        {
+          "title": "Tense",
+          "titleHi": "काल",
+          "learningOutcomes": [
+            "वर्तमान, भूत और भविष्य काल पहचानना",
+            "काल बदलकर वाक्य लिखना"
+          ]
+        },
+        {
+          "title": "Idioms",
+          "titleHi": "मुहावरे",
+          "learningOutcomes": [
+            "आसान मुहावरों के अर्थ",
+            "मुहावरों का वाक्य में प्रयोग"
+          ]
+        },
+        {
+          "title": "One Word Substitution",
+          "titleHi": "अनेक शब्दों के लिए एक शब्द",
+          "learningOutcomes": [
+            "अनेक शब्दों के लिए एक शब्द",
+            "शब्द-भंडार बढ़ाना"
+          ]
+        },
+        {
+          "title": "Essay and Letter",
+          "titleHi": "निबंध और पत्र",
+          "learningOutcomes": [
+            "छोटा निबंध लिखना",
+            "अनौपचारिक पत्र लिखना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Maths Mela (reference)",
+      "chapters": [
+        {
+          "title": "Large Numbers up to 99,999",
+          "learningOutcomes": [
+            "Read and write numbers up to 99,999",
+            "Use place value and expanded form"
+          ]
+        },
+        {
+          "title": "Addition and Subtraction",
+          "learningOutcomes": [
+            "Add and subtract 5-digit numbers",
+            "Solve word problems"
+          ]
+        },
+        {
+          "title": "Multiplication",
+          "learningOutcomes": [
+            "Multiply by 2- and 3-digit numbers",
+            "Multiply by 10, 100 and 1000"
+          ]
+        },
+        {
+          "title": "Division",
+          "learningOutcomes": [
+            "Divide using long division",
+            "Check division with multiplication"
+          ]
+        },
+        {
+          "title": "Factors and Multiples",
+          "learningOutcomes": [
+            "Find factors and multiples",
+            "Know prime and composite numbers"
+          ]
+        },
+        {
+          "title": "Fractions",
+          "learningOutcomes": [
+            "Compare and add like fractions",
+            "Find equivalent fractions"
+          ]
+        },
+        {
+          "title": "Geometry: Lines, Angles, Circles",
+          "learningOutcomes": [
+            "Identify lines, rays and angles",
+            "Know parts of a circle"
+          ]
+        },
+        {
+          "title": "Perimeter and Area",
+          "learningOutcomes": [
+            "Find perimeter of shapes",
+            "Find area by counting squares"
+          ]
+        },
+        {
+          "title": "Measurement",
+          "learningOutcomes": [
+            "Convert between cm, m and km",
+            "Convert between g and kg, mL and L"
+          ]
+        },
+        {
+          "title": "Time",
+          "learningOutcomes": [
+            "Read time in 12-hour and 24-hour format",
+            "Find time taken"
+          ]
+        },
+        {
+          "title": "Money",
+          "learningOutcomes": [
+            "Convert rupees and paise",
+            "Solve money word problems"
+          ]
+        },
+        {
+          "title": "Patterns and Symmetry",
+          "learningOutcomes": [
+            "Complete number and shape patterns",
+            "Identify lines of symmetry"
+          ]
+        },
+        {
+          "title": "Data Handling",
+          "learningOutcomes": [
+            "Read and draw bar graphs",
+            "Interpret data from tables"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us (EVS)",
+      "nameHi": "हमारे आस-पास (पर्यावरण)",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        {
+          "title": "Our Body and Teeth",
+          "learningOutcomes": [
+            "Know how to care for our body and teeth",
+            "Know milk teeth and permanent teeth"
+          ]
+        },
+        {
+          "title": "Food and Its Sources",
+          "learningOutcomes": [
+            "Know food from plants and animals",
+            "Know how food is cooked and stored"
+          ]
+        },
+        {
+          "title": "Water: Sources and Conservation",
+          "learningOutcomes": [
+            "Know sources of water",
+            "Conserve water at home and school"
+          ]
+        },
+        {
+          "title": "Houses in Different Regions",
+          "learningOutcomes": [
+            "Know houses in hot, cold and rainy regions",
+            "Know materials used for houses"
+          ]
+        },
+        {
+          "title": "Plants and Their Uses",
+          "learningOutcomes": [
+            "Know uses of plants",
+            "Know how seeds spread"
+          ]
+        },
+        {
+          "title": "Animals and Their Behaviour",
+          "learningOutcomes": [
+            "Observe animal behaviour",
+            "Know animals that live in groups"
+          ]
+        },
+        {
+          "title": "Families and Occupations",
+          "learningOutcomes": [
+            "Know different occupations",
+            "Respect all kinds of work"
+          ]
+        },
+        {
+          "title": "Maps and Our Country",
+          "learningOutcomes": [
+            "Read a map of India",
+            "Know states and neighbouring countries"
+          ]
+        },
+        {
+          "title": "Travel and Communication",
+          "learningOutcomes": [
+            "Know modern means of travel and communication",
+            "Know how letters and messages reach us"
+          ]
+        },
+        {
+          "title": "Clean Environment",
+          "learningOutcomes": [
+            "Keep surroundings clean",
+            "Reduce, reuse and recycle waste"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Basics",
+      "nameHi": "कंप्यूटर की जानकारी",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Computer as a Machine",
+          "learningOutcomes": [
+            "Know the computer as a machine",
+            "Know what IPO (input, process, output) means"
+          ]
+        },
+        {
+          "title": "Input and Output Devices",
+          "learningOutcomes": [
+            "Name input and output devices",
+            "Know storage devices"
+          ]
+        },
+        {
+          "title": "Typing Practice",
+          "learningOutcomes": [
+            "Use correct finger positions",
+            "Type words and sentences"
+          ]
+        },
+        {
+          "title": "Word Processing Basics",
+          "learningOutcomes": [
+            "Type, edit and save a document",
+            "Change font size and style"
+          ]
+        },
+        {
+          "title": "Internet Safety",
+          "learningOutcomes": [
+            "Know safe internet habits",
+            "Never share personal information online"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gk",
+      "name": "General Knowledge",
+      "nameHi": "सामान्य ज्ञान",
+      "icon": "💡",
+      "color": "amber",
+      "chapters": [
+        {
+          "title": "States and Capitals",
+          "learningOutcomes": [
+            "Name Indian states and their capitals",
+            "Locate them on a map"
+          ]
+        },
+        {
+          "title": "Great Indians",
+          "learningOutcomes": [
+            "Know about great Indians",
+            "Learn from their lives"
+          ]
+        },
+        {
+          "title": "Inventions",
+          "learningOutcomes": [
+            "Know important inventions and inventors",
+            "Know how inventions help us"
+          ]
+        },
+        {
+          "title": "Environment",
+          "learningOutcomes": [
+            "Know about pollution and wildlife",
+            "Protect the environment"
+          ]
+        },
+        {
+          "title": "Sports",
+          "learningOutcomes": [
+            "Know major sports and tournaments",
+            "Know famous Indian sportspersons"
+          ]
+        }
+      ]
+    }
+  ]
+}

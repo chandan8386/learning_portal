@@ -1,0 +1,45 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Position words tell us WHERE something is. The cat is ON the table. The ball is UNDER the chair. The bird is ABOVE the tree.",
+    "hi": "स्थिति वाले शब्द बताते हैं कि कोई चीज़ कहाँ है। बिल्ली मेज़ के ऊपर है। गेंद कुर्सी के नीचे है। चिड़िया पेड़ के ऊपर उड़ रही है।"
+  },
+  "keyPoints": [
+    { "en": "Above / Below: higher or lower than something.", "hi": "ऊपर / नीचे: किसी चीज़ से ऊँचा या नीचा।" },
+    { "en": "Inside / Outside: in a box or out of a box.", "hi": "अंदर / बाहर: डिब्बे के अंदर या बाहर।" },
+    { "en": "Near / Far: close to us or away from us.", "hi": "पास / दूर: हमारे नज़दीक या हमसे दूर।" },
+    { "en": "Left / Right: the side of our left hand or right hand.", "hi": "बाएँ / दाएँ: हमारे बाएँ हाथ या दाएँ हाथ की तरफ़।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "A cat is sitting on a box. Is the cat above or below the box?", "hi": "एक बिल्ली डिब्बे पर बैठी है। बिल्ली डिब्बे के ऊपर है या नीचे?" },
+      "steps": [
+        { "en": "Look where the cat is sitting.", "hi": "देखो बिल्ली कहाँ बैठी है।" },
+        { "en": "The cat is on top of the box, so it is higher than the box.", "hi": "बिल्ली डिब्बे के ऊपर बैठी है, यानी डिब्बे से ऊँची है।" }
+      ],
+      "answer": { "en": "The cat is ABOVE the box.", "hi": "बिल्ली डिब्बे के ऊपर है।" }
+    },
+    {
+      "problem": { "en": "Riya put her pencil in her pencil box. Where is the pencil?", "hi": "रिया ने पेंसिल अपने पेंसिल-बॉक्स में रख दी। पेंसिल कहाँ है?" },
+      "steps": [
+        { "en": "The pencil went into the box.", "hi": "पेंसिल डिब्बे में चली गई।" },
+        { "en": "Things in a box are inside it.", "hi": "डिब्बे में रखी चीज़ डिब्बे के अंदर होती है।" }
+      ],
+      "answer": { "en": "The pencil is INSIDE the pencil box.", "hi": "पेंसिल पेंसिल-बॉक्स के अंदर है।" }
+    },
+    {
+      "problem": { "en": "Your school bag is next to you. The moon is in the sky. Which one is far?", "hi": "तुम्हारा स्कूल बैग तुम्हारे पास रखा है। चाँद आसमान में है। कौन दूर है?" },
+      "steps": [
+        { "en": "You can touch your bag, so it is near.", "hi": "बैग को तुम छू सकते हो, इसलिए वह पास है।" },
+        { "en": "You cannot touch the moon. It is very far away.", "hi": "चाँद को नहीं छू सकते। वह बहुत दूर है।" }
+      ],
+      "answer": { "en": "The moon is FAR.", "hi": "चाँद दूर है।" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "The shoes are under the bed. Are the shoes above or below the bed?", "hi": "जूते पलंग के नीचे हैं। जूते पलंग के ऊपर हैं या नीचे?" }, "answer": { "en": "Below", "hi": "नीचे" } },
+    { "question": { "en": "Fish live in water. Are fish inside or outside the water?", "hi": "मछली पानी में रहती है। मछली पानी के अंदर है या बाहर?" }, "answer": { "en": "Inside", "hi": "अंदर" } },
+    { "question": { "en": "The fan is on the ceiling. Is the fan above or below your head?", "hi": "पंखा छत पर लगा है। पंखा तुम्हारे सिर के ऊपर है या नीचे?" }, "answer": { "en": "Above", "hi": "ऊपर" } },
+    { "question": { "en": "Which hand do you usually eat with?", "hi": "तुम आमतौर पर किस हाथ से खाना खाते हो?" }, "hint": { "en": "Most children eat with this hand.", "hi": "ज़्यादातर बच्चे इसी हाथ से खाते हैं।" }, "answer": { "en": "Right hand", "hi": "दायाँ हाथ" } }
+  ]
+}

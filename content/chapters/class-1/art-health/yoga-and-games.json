@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Do yoga on an empty stomach, slowly.",
+      "hi": "योग ख़ाली पेट और धीरे-धीरे करो।"
+    },
+    {
+      "en": "Tadasana: stand tall, stretch arms up, rise on toes.",
+      "hi": "ताड़ासन: सीधे खड़े हो, हाथ ऊपर तानो, पंजों पर उठो।"
+    },
+    {
+      "en": "Play fair and take turns.",
+      "hi": "ईमानदारी से खेलो और बारी-बारी खेलो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you do Tadasana?",
+        "hi": "ताड़ासन कैसे करते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Stand straight with feet together.",
+          "hi": "पैर मिलाकर सीधे खड़े हो।"
+        },
+        {
+          "en": "Raise both arms up and stretch, rising on your toes.",
+          "hi": "दोनों हाथ ऊपर उठाकर तानो और पंजों पर उठो।"
+        }
+      ],
+      "answer": {
+        "en": "Stand tall like a palm tree 🌴",
+        "hi": "ताड़ के पेड़ जैसे सीधे खड़े हो 🌴"
+      }
+    },
+    {
+      "problem": {
+        "en": "Your friend falls during a race. What do you do?",
+        "hi": "दौड़ में दोस्त गिर जाता है। तुम क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "A good player helps others.",
+          "hi": "अच्छा खिलाड़ी दूसरों की मदद करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Stop and help the friend up",
+        "hi": "रुककर दोस्त को उठाओ"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Should we do yoga right after a big meal?",
+        "hi": "क्या भरपेट खाने के तुरंत बाद योग करना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one outdoor game.",
+        "hi": "बाहर का एक खेल बताओ।"
+      },
+      "answer": {
+        "en": "Kho-kho, kabaddi, cricket, football (any one)",
+        "hi": "खो-खो, कबड्डी, क्रिकेट, फ़ुटबॉल (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "What does Tadasana look like?",
+        "hi": "ताड़ासन किसके जैसा दिखता है?"
+      },
+      "answer": {
+        "en": "A tall palm tree",
+        "hi": "ऊँचा ताड़ का पेड़"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Yoga and games keep our body strong and our mind happy. Simple asanas like Tadasana (palm tree pose) help us stand tall. Outdoor games teach teamwork.",
+    "hi": "योग और खेल शरीर को मज़बूत और मन को ख़ुश रखते हैं। ताड़ासन जैसे आसान आसन सीधा खड़ा होना सिखाते हैं। बाहर के खेल मिलकर खेलना सिखाते हैं।"
+  }
+}

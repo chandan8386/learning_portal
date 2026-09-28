@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Who? What are they doing? Where?",
+      "hi": "कौन? क्या कर रहा है? कहाँ?"
+    },
+    {
+      "en": "Use describing words to make sentences interesting.",
+      "hi": "वाक्य रोचक बनाने के लिए विशेषण लगाओ।"
+    },
+    {
+      "en": "Read your sentences again to check.",
+      "hi": "जाँचने के लिए वाक्य दोबारा पढ़ो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write a sentence about a picture: a boy flying a kite in a park.",
+        "hi": "चित्र पर वाक्य लिखो: पार्क में पतंग उड़ाता लड़का।"
+      },
+      "steps": [
+        {
+          "en": "Who? A boy. What? Flying a kite. Where? In the park.",
+          "hi": "कौन? एक लड़का। क्या? पतंग उड़ा रहा है। कहाँ? पार्क में।"
+        }
+      ],
+      "answer": {
+        "en": "A boy is flying a kite in the park.",
+        "hi": "A boy is flying a kite in the park."
+      }
+    },
+    {
+      "problem": {
+        "en": "Make it more interesting: \"The girl has a ball.\"",
+        "hi": "रोचक बनाओ: \"The girl has a ball.\""
+      },
+      "steps": [
+        {
+          "en": "Add a describing word for the ball.",
+          "hi": "गेंद के लिए विशेषण जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "The girl has a big red ball.",
+        "hi": "The girl has a big red ball."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Correct: \"my name is anu\"",
+        "hi": "ठीक करो: \"my name is anu\""
+      },
+      "answer": {
+        "en": "My name is Anu.",
+        "hi": "My name is Anu."
+      }
+    },
+    {
+      "question": {
+        "en": "Write one sentence about your school.",
+        "hi": "अपने स्कूल के बारे में एक वाक्य लिखो।"
+      },
+      "answer": {
+        "en": "Example: My school is big and clean.",
+        "hi": "उदाहरण: My school is big and clean."
+      }
+    },
+    {
+      "question": {
+        "en": "What three questions help describe a picture?",
+        "hi": "चित्र का वर्णन करने में कौन-से तीन प्रश्न मदद करते हैं?"
+      },
+      "answer": {
+        "en": "Who? What? Where?",
+        "hi": "कौन? क्या? कहाँ?"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good writing uses complete sentences. Start with a capital letter, leave spaces between words and end with a full stop. To describe a picture, say who is there, what they are doing and where.",
+    "hi": "अच्छे लेखन में पूरे वाक्य होते हैं। बड़े अक्षर से शुरू करो, शब्दों के बीच जगह छोड़ो और पूर्ण विराम लगाओ। चित्र का वर्णन करते समय बताओ कौन है, क्या कर रहा है और कहाँ।"
+  }
+}

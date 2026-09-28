@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Standing line: top to bottom.",
+      "hi": "खड़ी रेखा: ऊपर से नीचे।"
+    },
+    {
+      "en": "Sleeping line: left to right.",
+      "hi": "पड़ी रेखा: बाएँ से दाएँ।"
+    },
+    {
+      "en": "Hold the crayon gently with three fingers.",
+      "hi": "क्रेयॉन को तीन उंगलियों से हल्के पकड़ो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which line is in the letter I?",
+        "hi": "I अक्षर में कौन-सी रेखा है?"
+      },
+      "steps": [
+        {
+          "en": "Look at I: it goes straight down.",
+          "hi": "I को देखो: वह सीधा नीचे जाता है।"
+        }
+      ],
+      "answer": {
+        "en": "A standing line",
+        "hi": "खड़ी रेखा"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which shape has only a curve and no corners?",
+        "hi": "किस आकार में सिर्फ़ घुमाव है, कोई कोना नहीं?"
+      },
+      "steps": [
+        {
+          "en": "A circle goes round and round.",
+          "hi": "गोला घूम-घूम कर बनता है।"
+        }
+      ],
+      "answer": {
+        "en": "A circle ○",
+        "hi": "गोला ○"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where does a standing line start: top or bottom?",
+        "hi": "खड़ी रेखा कहाँ से शुरू होती है: ऊपर या नीचे?"
+      },
+      "answer": {
+        "en": "Top",
+        "hi": "ऊपर"
+      }
+    },
+    {
+      "question": {
+        "en": "Is — a standing or sleeping line?",
+        "hi": "— खड़ी रेखा है या पड़ी?"
+      },
+      "answer": {
+        "en": "Sleeping line",
+        "hi": "पड़ी रेखा"
+      }
+    },
+    {
+      "question": {
+        "en": "Which letter is just a circle?",
+        "hi": "कौन-सा अक्षर सिर्फ़ गोला है?"
+      },
+      "answer": {
+        "en": "O",
+        "hi": "O"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Before writing letters, we practise lines. A standing line goes top to bottom |. A sleeping line goes left to right —. A curve is round like a smile.",
+    "hi": "अक्षर लिखने से पहले रेखाएँ बनाते हैं। खड़ी रेखा ऊपर से नीचे | । पड़ी रेखा बाएँ से दाएँ — । घुमाव मुस्कान जैसा गोल होता है।"
+  }
+}

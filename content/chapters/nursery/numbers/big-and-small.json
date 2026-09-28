@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Big and small: size",
+      "hi": "बड़ा और छोटा: आकार"
+    },
+    {
+      "en": "Tall and short: height",
+      "hi": "ऊँचा और नाटा: ऊँचाई"
+    },
+    {
+      "en": "More and less: how many",
+      "hi": "ज़्यादा और कम: कितने"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which is bigger: a bus 🚌 or a cycle 🚲?",
+        "hi": "कौन बड़ा है: बस 🚌 या साइकिल 🚲?"
+      },
+      "steps": [
+        {
+          "en": "A bus carries many people. A cycle carries one.",
+          "hi": "बस में बहुत लोग बैठते हैं, साइकिल पर एक।"
+        }
+      ],
+      "answer": {
+        "en": "The bus",
+        "hi": "बस"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which has more: 🍬🍬🍬🍬 or 🍬🍬?",
+        "hi": "कहाँ ज़्यादा हैं: 🍬🍬🍬🍬 या 🍬🍬?"
+      },
+      "steps": [
+        {
+          "en": "Count: 4 and 2.",
+          "hi": "गिनो: 4 और 2।"
+        }
+      ],
+      "answer": {
+        "en": "🍬🍬🍬🍬 (4)",
+        "hi": "🍬🍬🍬🍬 (4)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which is smaller: an ant 🐜 or a dog 🐕?",
+        "hi": "कौन छोटा है: चींटी 🐜 या कुत्ता 🐕?"
+      },
+      "answer": {
+        "en": "Ant",
+        "hi": "चींटी"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is taller: a tree 🌳 or a flower 🌷?",
+        "hi": "कौन ऊँचा है: पेड़ 🌳 या फूल 🌷?"
+      },
+      "answer": {
+        "en": "Tree",
+        "hi": "पेड़"
+      }
+    },
+    {
+      "question": {
+        "en": "Which has less: 🍎 or 🍎🍎🍎?",
+        "hi": "कहाँ कम है: 🍎 या 🍎🍎🍎?"
+      },
+      "answer": "🍎 (1)"
+    }
+  ],
+  "intro": {
+    "en": "Some things are big and some are small. An elephant 🐘 is big, a mouse 🐭 is small. A giraffe is tall, a rabbit is short.",
+    "hi": "कुछ चीज़ें बड़ी होती हैं और कुछ छोटी। हाथी 🐘 बड़ा है, चूहा 🐭 छोटा। जिराफ़ ऊँचा है, खरगोश नाटा।"
+  }
+}

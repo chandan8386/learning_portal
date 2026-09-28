@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Countable: many/few; uncountable: much/little",
+      "hi": "गिनने योग्य: many/few; न गिनने योग्य: much/little"
+    },
+    {
+      "en": "Reflexive: myself, yourself, himself, herself, itself, ourselves, themselves",
+      "hi": "Reflexive: myself, yourself, himself, herself, itself, ourselves, themselves"
+    },
+    {
+      "en": "this/these (near), that/those (far)",
+      "hi": "this/these (पास), that/those (दूर)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in: \"How __ sugar do you need?\" (many/much)",
+        "hi": "भरो: \"How __ sugar do you need?\" (many/much)"
+      },
+      "steps": [
+        {
+          "en": "Sugar cannot be counted one by one → uncountable.",
+          "hi": "चीनी एक-एक गिनी नहीं जाती → uncountable।"
+        }
+      ],
+      "answer": {
+        "en": "much",
+        "hi": "much"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"She hurt __ while playing.\"",
+        "hi": "भरो: \"She hurt __ while playing.\""
+      },
+      "steps": [
+        {
+          "en": "The action comes back to the same person (she).",
+          "hi": "काम उसी व्यक्ति (she) पर लौटता है।"
+        }
+      ],
+      "answer": {
+        "en": "herself",
+        "hi": "herself"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"__ shoes over there are mine.\" (These/Those)",
+        "hi": "भरो: \"__ shoes over there are mine.\" (These/Those)"
+      },
+      "answer": {
+        "en": "Those",
+        "hi": "Those"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"furniture\" countable or uncountable?",
+        "hi": "\"furniture\" countable है या uncountable?"
+      },
+      "answer": {
+        "en": "Uncountable",
+        "hi": "Uncountable"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"We made the cake __.\"",
+        "hi": "भरो: \"We made the cake __.\""
+      },
+      "answer": {
+        "en": "ourselves",
+        "hi": "ourselves"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Nouns name things (proper, common, collective, material, abstract). Nouns can be countable (apples) or uncountable (water). Pronouns replace nouns: personal (he), possessive (hers), reflexive (himself) and demonstrative (this, those).",
+    "hi": "संज्ञा चीज़ों के नाम हैं (proper, common, collective, material, abstract)। संज्ञा गिनने योग्य (apples) या न गिनने योग्य (water) हो सकती है। सर्वनाम संज्ञा की जगह आते हैं: personal (he), possessive (hers), reflexive (himself) और demonstrative (this, those)।"
+  }
+}

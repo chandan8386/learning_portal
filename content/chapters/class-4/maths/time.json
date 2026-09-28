@@ -1,0 +1,82 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "a.m. = midnight to noon; p.m. = noon to midnight",
+      "hi": "a.m. = आधी रात से दोपहर; p.m. = दोपहर से आधी रात"
+    },
+    {
+      "en": "24-hour: add 12 to p.m. hours: 3:00 p.m. = 15:00",
+      "hi": "24-घंटे: p.m. के घंटों में 12 जोड़ो: 3:00 p.m. = 15:00"
+    },
+    {
+      "en": "1 hour = 60 min; 1 min = 60 s",
+      "hi": "1 घंटा = 60 मिनट; 1 मिनट = 60 सेकंड"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write 7:45 p.m. in 24-hour time.",
+        "hi": "7:45 p.m. को 24-घंटे के समय में लिखो।"
+      },
+      "steps": [
+        {
+          "en": "p.m. → add 12 to the hour: 7 + 12 = 19.",
+          "hi": "p.m. → घंटे में 12 जोड़ो: 7 + 12 = 19।"
+        }
+      ],
+      "answer": "19:45"
+    },
+    {
+      "problem": {
+        "en": "A film starts at 2:30 p.m. and ends at 5:10 p.m. How long is it?",
+        "hi": "फ़िल्म 2:30 p.m. पर शुरू होकर 5:10 p.m. पर ख़त्म होती है। कितनी लंबी है?"
+      },
+      "steps": [
+        {
+          "en": "2:30 → 4:30 is 2 hours.",
+          "hi": "2:30 → 4:30 = 2 घंटे।"
+        },
+        {
+          "en": "4:30 → 5:10 is 40 minutes.",
+          "hi": "4:30 → 5:10 = 40 मिनट।"
+        }
+      ],
+      "answer": {
+        "en": "2 hours 40 minutes",
+        "hi": "2 घंटे 40 मिनट"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Write 21:15 in 12-hour time.",
+        "hi": "21:15 को 12-घंटे में लिखो।"
+      },
+      "answer": "9:15 p.m."
+    },
+    {
+      "question": {
+        "en": "How many minutes in 3 hours?",
+        "hi": "3 घंटे में कितने मिनट?"
+      },
+      "answer": "180"
+    },
+    {
+      "question": {
+        "en": "School starts at 8:00 a.m. and ends at 1:30 p.m. How long?",
+        "hi": "स्कूल 8:00 a.m. से 1:30 p.m. तक। कितना समय?"
+      },
+      "answer": {
+        "en": "5 hours 30 minutes",
+        "hi": "5 घंटे 30 मिनट"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Time can be written in the 12-hour clock (with a.m. and p.m.) or the 24-hour clock (00:00 to 23:59). We can find how long something lasts by counting forward from the start time.",
+    "hi": "समय 12-घंटे की घड़ी (a.m. और p.m. के साथ) या 24-घंटे की घड़ी (00:00 से 23:59) में लिखा जाता है। किसी काम में कितना समय लगा, यह शुरुआत से आगे गिनकर निकालते हैं।"
+  }
+}

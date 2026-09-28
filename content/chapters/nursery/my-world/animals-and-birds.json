@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Pet animals: dog, cat, cow, goat",
+      "hi": "पालतू जानवर: कुत्ता, बिल्ली, गाय, बकरी"
+    },
+    {
+      "en": "Birds: parrot, crow, sparrow, peacock",
+      "hi": "पक्षी: तोता, कौआ, गौरैया, मोर"
+    },
+    {
+      "en": "The peacock is our national bird.",
+      "hi": "मोर हमारा राष्ट्रीय पक्षी है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which animal gives us milk?",
+        "hi": "कौन-सा जानवर हमें दूध देता है?"
+      },
+      "steps": [
+        {
+          "en": "It says \"moo\" and eats grass.",
+          "hi": "यह \"बाँ\" बोलती है और घास खाती है।"
+        }
+      ],
+      "answer": {
+        "en": "Cow 🐄",
+        "hi": "गाय 🐄"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which bird is green and can talk?",
+        "hi": "कौन-सा पक्षी हरा है और बोल सकता है?"
+      },
+      "steps": [
+        {
+          "en": "It has a red beak and loves chillies.",
+          "hi": "इसकी चोंच लाल है और इसे मिर्च पसंद है।"
+        }
+      ],
+      "answer": {
+        "en": "Parrot 🦜",
+        "hi": "तोता 🦜"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which animal says \"meow\"?",
+        "hi": "कौन-सा जानवर \"म्याऊँ\" बोलता है?"
+      },
+      "answer": {
+        "en": "Cat 🐱",
+        "hi": "बिल्ली 🐱"
+      }
+    },
+    {
+      "question": {
+        "en": "What do birds use to fly?",
+        "hi": "पक्षी किससे उड़ते हैं?"
+      },
+      "answer": {
+        "en": "Wings",
+        "hi": "पंख"
+      }
+    },
+    {
+      "question": {
+        "en": "What is our national bird?",
+        "hi": "हमारा राष्ट्रीय पक्षी कौन-सा है?"
+      },
+      "answer": {
+        "en": "Peacock 🦚",
+        "hi": "मोर 🦚"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Animals and birds live around us. A dog barks \"bhow bhow\", a cat says \"meow\", a cow says \"moo\". Birds have wings and can fly.",
+    "hi": "हमारे आस-पास जानवर और पक्षी रहते हैं। कुत्ता \"भौं-भौं\" करता है, बिल्ली \"म्याऊँ\", गाय \"बाँ\"। पक्षियों के पंख होते हैं और वे उड़ सकते हैं।"
+  }
+}

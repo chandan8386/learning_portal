@@ -1,0 +1,48 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Addition means putting things together. If you have 2 balls and get 3 more, you now have 5 balls. We write it as 2 + 3 = 5.",
+    "hi": "जोड़ का मतलब है चीज़ों को मिलाना। तुम्हारे पास 2 गेंद हैं और 3 और मिल गईं, तो अब 5 गेंद हो गईं। इसे 2 + 3 = 5 लिखते हैं।"
+  },
+  "keyPoints": [
+    { "en": "The sign + means 'add' or 'put together'.", "hi": "+ का चिह्न मतलब 'जोड़ो' या 'मिलाओ'।" },
+    { "en": "The sign = means 'is the same as'.", "hi": "= का चिह्न मतलब 'बराबर है'।" },
+    { "en": "Adding 0 keeps the number the same: 4 + 0 = 4.", "hi": "0 जोड़ने से संख्या वही रहती है: 4 + 0 = 4।" },
+    { "en": "Order does not matter: 3 + 2 = 2 + 3 = 5.", "hi": "क्रम बदलने से जवाब नहीं बदलता: 3 + 2 = 2 + 3 = 5।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Meena has 4 pencils. Her father gives her 3 more. How many pencils does she have now?", "hi": "मीना के पास 4 पेंसिल हैं। पापा ने 3 और दीं। अब उसके पास कितनी पेंसिल हैं?" },
+      "steps": [
+        { "en": "Start with 4.", "hi": "4 से शुरू करो।" },
+        { "en": "Count 3 more: 5, 6, 7.", "hi": "3 आगे गिनो: 5, 6, 7।" },
+        { "en": "4 + 3 = 7", "hi": "4 + 3 = 7" }
+      ],
+      "answer": { "en": "Meena has 7 pencils.", "hi": "मीना के पास 7 पेंसिल हैं।" }
+    },
+    {
+      "problem": { "en": "Use the number line to find 5 + 4.", "hi": "संख्या रेखा से 5 + 4 निकालो।" },
+      "steps": [
+        { "en": "Put your finger on 5.", "hi": "उंगली 5 पर रखो।" },
+        { "en": "Jump 4 steps forward: 6, 7, 8, 9.", "hi": "4 कदम आगे कूदो: 6, 7, 8, 9।" }
+      ],
+      "answer": "5 + 4 = 9"
+    },
+    {
+      "problem": { "en": "There are 2 red birds and 6 blue birds on a tree. How many birds in all?", "hi": "पेड़ पर 2 लाल और 6 नीली चिड़ियाँ हैं। कुल कितनी चिड़ियाँ हैं?" },
+      "steps": [
+        { "en": "Start with the bigger number, 6.", "hi": "बड़ी संख्या 6 से शुरू करो।" },
+        { "en": "Count 2 more: 7, 8.", "hi": "2 आगे गिनो: 7, 8।" },
+        { "en": "6 + 2 = 8", "hi": "6 + 2 = 8" }
+      ],
+      "answer": { "en": "8 birds in all.", "hi": "कुल 8 चिड़ियाँ।" }
+    }
+  ],
+  "practice": [
+    { "question": "3 + 3 = ?", "answer": "6" },
+    { "question": "5 + 2 = ?", "answer": "7" },
+    { "question": "7 + 0 = ?", "answer": "7" },
+    { "question": { "en": "Ali has 1 toy car. He gets 4 more. How many toy cars now?", "hi": "अली के पास 1 खिलौना कार है। उसे 4 और मिलीं। अब कितनी कारें हैं?" }, "answer": "5", "solution": ["1 + 4 = 5"] },
+    { "question": { "en": "4 cats and 4 dogs. How many animals?", "hi": "4 बिल्लियाँ और 4 कुत्ते। कुल कितने जानवर?" }, "answer": "8", "solution": ["4 + 4 = 8"] }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "11 to 20: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty",
+      "hi": "11 से 20: ग्यारह, बारह, तेरह, चौदह, पंद्रह, सोलह, सत्रह, अठारह, उन्नीस, बीस"
+    },
+    {
+      "en": "10 fingers + 5 more = 15.",
+      "hi": "10 उंगलियाँ + 5 और = 15।"
+    },
+    {
+      "en": "20 = two tens.",
+      "hi": "20 = दो दहाई।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Count: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+        "hi": "गिनो: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+      },
+      "steps": [
+        {
+          "en": "Count 10 first, then 11, 12.",
+          "hi": "पहले 10 गिनो, फिर 11, 12।"
+        }
+      ],
+      "answer": "12"
+    },
+    {
+      "problem": {
+        "en": "What comes after 15?",
+        "hi": "15 के बाद क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "Count on: 14, 15, 16.",
+          "hi": "आगे गिनो: 14, 15, 16।"
+        }
+      ],
+      "answer": "16"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What comes after 19?",
+        "hi": "19 के बाद क्या आता है?"
+      },
+      "answer": "20"
+    },
+    {
+      "question": {
+        "en": "10 and 3 more make?",
+        "hi": "10 और 3 मिलकर?"
+      },
+      "answer": "13"
+    },
+    {
+      "question": {
+        "en": "What comes before 18?",
+        "hi": "18 से पहले क्या आता है?"
+      },
+      "answer": "17"
+    }
+  ],
+  "intro": {
+    "en": "We can count up to 20. After 10 come 11, 12, 13 … 20. 11 is 10 and 1 more.",
+    "hi": "हम 20 तक गिन सकते हैं। 10 के बाद 11, 12, 13 … 20 आते हैं। 11 = 10 और 1 ज़्यादा।"
+  }
+}

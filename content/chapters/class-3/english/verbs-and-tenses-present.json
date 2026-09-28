@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "I / you / we / they + verb: I play, they play.",
+      "hi": "I / you / we / they + क्रिया: I play, they play।"
+    },
+    {
+      "en": "he / she / it + verb + s/es: he plays, she watches.",
+      "hi": "he / she / it + क्रिया + s/es: he plays, she watches।"
+    },
+    {
+      "en": "Add -es after s, sh, ch, x, o: go → goes, wash → washes.",
+      "hi": "s, sh, ch, x, o के बाद -es: go → goes, wash → washes।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in with the right form of \"eat\": \"Ravi __ an apple every day.\"",
+        "hi": "\"eat\" का सही रूप भरो: \"Ravi __ an apple every day.\""
+      },
+      "steps": [
+        {
+          "en": "Ravi is one person (he) → add -s.",
+          "hi": "Ravi एक व्यक्ति (he) → -s जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "eats",
+        "hi": "eats"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in with \"go\": \"My sister __ to dance class.\"",
+        "hi": "\"go\" से भरो: \"My sister __ to dance class.\""
+      },
+      "steps": [
+        {
+          "en": "One person (she); \"go\" ends in o → add -es.",
+          "hi": "एक व्यक्ति (she); \"go\" का अंत o → -es।"
+        }
+      ],
+      "answer": {
+        "en": "goes",
+        "hi": "goes"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in with \"play\": \"They __ cricket in the evening.\"",
+        "hi": "\"play\" से भरो: \"They __ cricket in the evening.\""
+      },
+      "answer": {
+        "en": "play",
+        "hi": "play"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in with \"catch\": \"The cat __ mice.\"",
+        "hi": "\"catch\" से भरो: \"The cat __ mice.\""
+      },
+      "answer": {
+        "en": "catches",
+        "hi": "catches"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the verb: \"Birds fly in the sky.\"",
+        "hi": "क्रिया ढूँढो: \"Birds fly in the sky.\""
+      },
+      "answer": {
+        "en": "fly",
+        "hi": "fly"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A verb is an action word. The simple present tense tells what happens every day or always: \"I walk to school.\" With he, she, it or one person we add -s or -es: \"She walks to school.\"",
+    "hi": "क्रिया (verb) काम वाला शब्द है। Simple present tense रोज़ होने वाली या हमेशा की बात बताता है: \"I walk to school.\" He, she, it या एक व्यक्ति के साथ -s या -es लगाते हैं: \"She walks to school.\""
+  }
+}

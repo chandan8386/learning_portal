@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Solid (ice) → liquid (water) → gas (steam)",
+      "hi": "ठोस (बर्फ़) → तरल (पानी) → गैस (भाप)"
+    },
+    {
+      "en": "Magnets attract iron, not wood or plastic.",
+      "hi": "चुंबक लोहे को खींचता है, लकड़ी या प्लास्टिक को नहीं।"
+    },
+    {
+      "en": "We see our shadow when light is blocked.",
+      "hi": "रोशनी रुकने पर परछाई बनती है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Will a magnet pick up a steel pin or a rubber?",
+        "hi": "चुंबक स्टील की पिन उठाएगा या रबड़?"
+      },
+      "steps": [
+        {
+          "en": "Magnets attract iron and steel.",
+          "hi": "चुंबक लोहे और स्टील को खींचता है।"
+        }
+      ],
+      "answer": {
+        "en": "The steel pin",
+        "hi": "स्टील की पिन"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why does a wet cloth dry in the sun?",
+        "hi": "धूप में गीला कपड़ा क्यों सूखता है?"
+      },
+      "steps": [
+        {
+          "en": "Heat changes the water in the cloth into vapour.",
+          "hi": "गर्मी कपड़े के पानी को भाप में बदल देती है।"
+        }
+      ],
+      "answer": {
+        "en": "The water evaporates",
+        "hi": "पानी वाष्पित हो जाता है"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What does water become when frozen?",
+        "hi": "जमने पर पानी क्या बनता है?"
+      },
+      "answer": {
+        "en": "Ice",
+        "hi": "बर्फ़"
+      }
+    },
+    {
+      "question": {
+        "en": "When is your shadow longest: noon or evening?",
+        "hi": "परछाई कब सबसे लंबी होती है: दोपहर या शाम?"
+      },
+      "answer": {
+        "en": "Evening",
+        "hi": "शाम"
+      }
+    },
+    {
+      "question": {
+        "en": "Does a magnet attract a wooden spoon?",
+        "hi": "क्या चुंबक लकड़ी के चम्मच को खींचता है?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Science is all around us. Ice melts into water when heated, and water turns into steam when boiled. Magnets pull iron things. Plants grow towards light. Asking \"why?\" is how scientists learn.",
+    "hi": "विज्ञान हमारे चारों ओर है। गर्म करने पर बर्फ़ पिघलकर पानी बनती है, और उबालने पर पानी भाप बनता है। चुंबक लोहे की चीज़ें खींचता है। पौधे रोशनी की ओर बढ़ते हैं। \"क्यों?\" पूछना ही वैज्ञानिकों के सीखने का तरीक़ा है।"
+  }
+}

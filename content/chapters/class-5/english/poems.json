@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Simile: like / as … as",
+      "hi": "Simile: like / as … as"
+    },
+    {
+      "en": "Metaphor: direct comparison without like/as",
+      "hi": "Metaphor: like/as के बिना सीधी तुलना"
+    },
+    {
+      "en": "Personification: things act like people",
+      "hi": "Personification: चीज़ें इंसानों जैसा काम करती हैं"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Name the figure of speech: \"Her smile was as bright as the sun.\"",
+        "hi": "अलंकार बताओ: \"Her smile was as bright as the sun.\""
+      },
+      "steps": [
+        {
+          "en": "It uses \"as … as\" to compare.",
+          "hi": "यह \"as … as\" से तुलना करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Simile",
+        "hi": "Simile (उपमा)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Name the figure of speech: \"The trees danced in the storm.\"",
+        "hi": "अलंकार बताओ: \"The trees danced in the storm.\""
+      },
+      "steps": [
+        {
+          "en": "Trees cannot really dance; they are given a human action.",
+          "hi": "पेड़ सच में नहीं नाचते; उन्हें इंसानी काम दिया गया।"
+        }
+      ],
+      "answer": {
+        "en": "Personification",
+        "hi": "Personification (मानवीकरण)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name: \"The classroom was a zoo.\"",
+        "hi": "बताओ: \"The classroom was a zoo.\""
+      },
+      "answer": {
+        "en": "Metaphor",
+        "hi": "Metaphor (रूपक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Complete the simile: \"as busy as a __\"",
+        "hi": "simile पूरी करो: \"as busy as a __\""
+      },
+      "answer": {
+        "en": "bee",
+        "hi": "bee"
+      }
+    },
+    {
+      "question": {
+        "en": "Name: \"The stars winked at me.\"",
+        "hi": "बताओ: \"The stars winked at me.\""
+      },
+      "answer": {
+        "en": "Personification",
+        "hi": "Personification"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Poets use figures of speech. A simile compares using \"like\" or \"as\" (as brave as a lion). A metaphor says one thing is another (Time is money). Personification gives human qualities to things (The wind whispered).",
+    "hi": "कवि अलंकारों का प्रयोग करते हैं। Simile \"like\" या \"as\" से तुलना करता है (as brave as a lion)। Metaphor कहता है कि एक चीज़ दूसरी है (Time is money)। Personification चीज़ों को इंसानी गुण देता है (The wind whispered)।"
+  }
+}

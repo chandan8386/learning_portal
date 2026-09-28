@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Sit straight with feet flat on the floor.",
+      "hi": "पैर ज़मीन पर रखकर सीधे बैठो।"
+    },
+    {
+      "en": "Rest your eyes every 20 minutes.",
+      "hi": "हर 20 मिनट में आँखों को आराम दो।"
+    },
+    {
+      "en": "Tell a parent or teacher if something online makes you uncomfortable.",
+      "hi": "ऑनलाइन कुछ अजीब लगे तो माता-पिता या टीचर को बताओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "A game asks for your home address. What should you do?",
+        "hi": "एक गेम तुम्हारे घर का पता माँगता है। क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Personal details should not be shared online.",
+          "hi": "निजी जानकारी ऑनलाइन नहीं बतानी चाहिए।"
+        }
+      ],
+      "answer": {
+        "en": "Do not type it; ask a parent",
+        "hi": "मत लिखो; माता-पिता से पूछो"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why should we not eat near the computer?",
+        "hi": "कंप्यूटर के पास क्यों नहीं खाना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Crumbs and drinks can fall into the keyboard.",
+          "hi": "टुकड़े और पेय कीबोर्ड में गिर सकते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Food and liquids can damage it",
+        "hi": "खाना और तरल इसे ख़राब कर सकते हैं"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Should you touch plugs with wet hands?",
+        "hi": "क्या गीले हाथों से प्लग छूना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "How far should the screen be from your eyes?",
+        "hi": "स्क्रीन आँखों से कितनी दूर हो?"
+      },
+      "answer": {
+        "en": "About an arm's length",
+        "hi": "लगभग हाथ भर"
+      }
+    },
+    {
+      "question": {
+        "en": "Should you share your password with a friend?",
+        "hi": "क्या दोस्त को पासवर्ड बताना चाहिए?"
+      },
+      "answer": {
+        "en": "No, passwords are secret",
+        "hi": "नहीं, पासवर्ड गुप्त होते हैं"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Use the computer safely: sit straight, keep the screen at eye level and an arm's length away, take breaks, and never touch wires with wet hands. Online, never share your name, address or passwords with strangers.",
+    "hi": "कंप्यूटर सुरक्षित इस्तेमाल करो: सीधे बैठो, स्क्रीन आँखों के सामने और हाथ भर दूर रखो, बीच-बीच में आराम करो, और गीले हाथों से तार मत छुओ। ऑनलाइन कभी अजनबियों को नाम, पता या पासवर्ड मत बताओ।"
+  }
+}

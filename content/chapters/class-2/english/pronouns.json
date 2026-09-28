@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "He – for a boy or man; She – for a girl or woman",
+      "hi": "He – लड़के या आदमी के लिए; She – लड़की या औरत के लिए"
+    },
+    {
+      "en": "It – for an animal or thing",
+      "hi": "It – जानवर या चीज़ के लिए"
+    },
+    {
+      "en": "I, we (ourselves); you; they (many people or things)",
+      "hi": "I, we (हम ख़ुद); you; they (कई लोग या चीज़ें)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Replace the noun: \"Sita is my sister. Sita is five.\"",
+        "hi": "संज्ञा बदलो: \"Sita is my sister. Sita is five.\""
+      },
+      "steps": [
+        {
+          "en": "Sita is a girl, so use \"She\".",
+          "hi": "Sita लड़की है, तो \"She\" लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "Sita is my sister. She is five.",
+        "hi": "Sita is my sister. She is five."
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"The kite is red. __ is flying high.\"",
+        "hi": "भरो: \"The kite is red. __ is flying high.\""
+      },
+      "steps": [
+        {
+          "en": "A kite is a thing, so use \"It\".",
+          "hi": "पतंग एक चीज़ है, तो \"It\"।"
+        }
+      ],
+      "answer": {
+        "en": "It",
+        "hi": "It"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"Rahul and Asha are friends. __ play together.\"",
+        "hi": "भरो: \"Rahul and Asha are friends. __ play together.\""
+      },
+      "answer": {
+        "en": "They",
+        "hi": "They"
+      }
+    },
+    {
+      "question": {
+        "en": "Which pronoun for your grandfather: he or she?",
+        "hi": "दादाजी के लिए कौन-सा सर्वनाम: he या she?"
+      },
+      "answer": {
+        "en": "he",
+        "hi": "he"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"My friends and I like cricket. __ play every Sunday.\"",
+        "hi": "भरो: \"My friends and I like cricket. __ play every Sunday.\""
+      },
+      "answer": {
+        "en": "We",
+        "hi": "We"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Pronouns take the place of nouns so we don't repeat names. \"Ravi is kind. Ravi helps me.\" becomes \"Ravi is kind. He helps me.\"",
+    "hi": "सर्वनाम (pronoun) संज्ञा की जगह आते हैं ताकि नाम बार-बार न दोहराएँ। \"Ravi is kind. Ravi helps me.\" बन जाता है \"Ravi is kind. He helps me.\""
+  }
+}

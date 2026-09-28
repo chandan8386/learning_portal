@@ -1,0 +1,433 @@
+{
+  "slug": "class-5",
+  "name": "Class 5",
+  "nameHi": "कक्षा 5",
+  "order": 7,
+  "stage": "PREPARATORY",
+  "ageRange": "10–11",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Santoor (reference)",
+      "chapters": [
+        {
+          "title": "Reading Comprehension",
+          "learningOutcomes": [
+            "Read passages and infer meaning",
+            "Answer questions in full sentences"
+          ]
+        },
+        {
+          "title": "Nouns and Pronouns Revision",
+          "learningOutcomes": [
+            "Revise kinds of nouns and pronouns",
+            "Use them correctly in writing"
+          ]
+        },
+        {
+          "title": "Tenses: Present, Past, Future",
+          "learningOutcomes": [
+            "Use present, past and future tenses",
+            "Choose the right tense"
+          ]
+        },
+        {
+          "title": "Subject-Verb Agreement",
+          "learningOutcomes": [
+            "Make the verb agree with the subject",
+            "Use singular and plural verbs"
+          ]
+        },
+        {
+          "title": "Adverbs and Prepositions",
+          "learningOutcomes": [
+            "Use adverbs and prepositions correctly",
+            "Tell adverbs from prepositions"
+          ]
+        },
+        {
+          "title": "Direct and Indirect Speech (Introduction)",
+          "learningOutcomes": [
+            "Change simple sentences from direct to indirect speech",
+            "Use reporting verbs"
+          ]
+        },
+        {
+          "title": "Active and Passive (Introduction)",
+          "learningOutcomes": [
+            "Tell active from passive voice",
+            "Change simple sentences to passive"
+          ]
+        },
+        {
+          "title": "Poems",
+          "learningOutcomes": [
+            "Understand and appreciate poems",
+            "Find figures of speech like similes"
+          ]
+        },
+        {
+          "title": "Stories and Plays",
+          "learningOutcomes": [
+            "Read stories and short plays",
+            "Discuss characters and themes"
+          ]
+        },
+        {
+          "title": "Writing: Letter, Story, Diary",
+          "learningOutcomes": [
+            "Write informal letters",
+            "Write stories and diary entries"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Veena (reference)",
+      "chapters": [
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविता का भाव और संदेश समझना",
+            "कविता सुनाना"
+          ]
+        },
+        {
+          "title": "Stories and Lessons",
+          "titleHi": "कहानियाँ और पाठ",
+          "learningOutcomes": [
+            "पाठ पढ़कर प्रश्नों के उत्तर",
+            "पाठ की सीख बताना"
+          ]
+        },
+        {
+          "title": "Sandhi (Introduction)",
+          "titleHi": "संधि (परिचय)",
+          "learningOutcomes": [
+            "संधि का परिचय",
+            "आसान संधि पहचानना"
+          ]
+        },
+        {
+          "title": "Kinds of Pronouns",
+          "titleHi": "सर्वनाम के भेद",
+          "learningOutcomes": [
+            "सर्वनाम के भेद",
+            "वाक्यों में सही सर्वनाम"
+          ]
+        },
+        {
+          "title": "Kinds of Verbs",
+          "titleHi": "क्रिया के भेद",
+          "learningOutcomes": [
+            "क्रिया के भेद: सकर्मक और अकर्मक",
+            "क्रिया पहचानना"
+          ]
+        },
+        {
+          "title": "Prefix and Suffix",
+          "titleHi": "उपसर्ग और प्रत्यय",
+          "learningOutcomes": [
+            "उपसर्ग और प्रत्यय से शब्द बनाना",
+            "नए शब्द सीखना"
+          ]
+        },
+        {
+          "title": "Idioms and Proverbs",
+          "titleHi": "मुहावरे और लोकोक्तियाँ",
+          "learningOutcomes": [
+            "मुहावरे और लोकोक्तियाँ",
+            "उनका सही प्रयोग"
+          ]
+        },
+        {
+          "title": "Essay, Letter and Story Writing",
+          "titleHi": "निबंध, पत्र और कहानी लेखन",
+          "learningOutcomes": [
+            "निबंध, पत्र और कहानी लिखना",
+            "विचारों को क्रम से लिखना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Maths Mela (reference)",
+      "chapters": [
+        {
+          "title": "Large Numbers up to Lakhs",
+          "learningOutcomes": [
+            "Read and write numbers in lakhs",
+            "Use the Indian and international systems"
+          ]
+        },
+        {
+          "title": "Operations on Large Numbers",
+          "learningOutcomes": [
+            "Add, subtract, multiply and divide large numbers",
+            "Solve multi-step word problems"
+          ]
+        },
+        {
+          "title": "Factors, Multiples, HCF and LCM",
+          "learningOutcomes": [
+            "Find factors and multiples",
+            "Find HCF and LCM"
+          ]
+        },
+        {
+          "title": "Fractions",
+          "learningOutcomes": [
+            "Add and subtract unlike fractions",
+            "Compare fractions"
+          ]
+        },
+        {
+          "title": "Decimals",
+          "learningOutcomes": [
+            "Read and write decimals",
+            "Add and subtract decimals"
+          ]
+        },
+        {
+          "title": "Angles and Their Measurement",
+          "learningOutcomes": [
+            "Measure angles with a protractor",
+            "Name acute, right and obtuse angles"
+          ]
+        },
+        {
+          "title": "Triangles and Circles",
+          "learningOutcomes": [
+            "Classify triangles",
+            "Know radius and diameter of a circle"
+          ]
+        },
+        {
+          "title": "Perimeter, Area and Volume",
+          "learningOutcomes": [
+            "Find perimeter and area of rectangles",
+            "Find volume by counting cubes"
+          ]
+        },
+        {
+          "title": "Measurement Conversions",
+          "learningOutcomes": [
+            "Convert units of length, weight and capacity",
+            "Use conversions in word problems"
+          ]
+        },
+        {
+          "title": "Time and Temperature",
+          "learningOutcomes": [
+            "Convert time units",
+            "Read temperature in degrees Celsius"
+          ]
+        },
+        {
+          "title": "Money and Profit-Loss (Basic)",
+          "learningOutcomes": [
+            "Find profit and loss",
+            "Make bills with rupees and paise"
+          ]
+        },
+        {
+          "title": "Patterns",
+          "learningOutcomes": [
+            "Find rules in number patterns",
+            "Make magic squares"
+          ]
+        },
+        {
+          "title": "Data Handling: Bar Graphs",
+          "learningOutcomes": [
+            "Draw and read bar graphs",
+            "Answer questions from data"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us (EVS)",
+      "nameHi": "हमारे आस-पास (पर्यावरण)",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        {
+          "title": "Our Senses and Animals",
+          "learningOutcomes": [
+            "Know how animals use their senses",
+            "Compare animal and human senses"
+          ]
+        },
+        {
+          "title": "Food: Growing and Preserving",
+          "learningOutcomes": [
+            "Know how food is grown",
+            "Know ways to preserve food"
+          ]
+        },
+        {
+          "title": "Water: Sources and Scarcity",
+          "learningOutcomes": [
+            "Know sources of water and why it is scarce",
+            "Share and save water"
+          ]
+        },
+        {
+          "title": "Shelter and Environment",
+          "learningOutcomes": [
+            "Know how shelter changes with environment",
+            "Know how people adapt"
+          ]
+        },
+        {
+          "title": "Forests and Tribal Life",
+          "learningOutcomes": [
+            "Know forests and tribal life",
+            "Know why forests matter"
+          ]
+        },
+        {
+          "title": "Diseases and Health",
+          "learningOutcomes": [
+            "Know common diseases and their causes",
+            "Stay healthy with good habits"
+          ]
+        },
+        {
+          "title": "Energy and Fuels",
+          "learningOutcomes": [
+            "Know sources of energy and fuel",
+            "Save fuel and electricity"
+          ]
+        },
+        {
+          "title": "Maps, Directions and the Globe",
+          "learningOutcomes": [
+            "Use directions and a compass",
+            "Read a globe and maps"
+          ]
+        },
+        {
+          "title": "Our Heritage",
+          "learningOutcomes": [
+            "Know India's monuments and heritage",
+            "Protect our heritage"
+          ]
+        },
+        {
+          "title": "Disasters and Safety",
+          "learningOutcomes": [
+            "Know floods, earthquakes and cyclones",
+            "Stay safe in a disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Basics",
+      "nameHi": "कंप्यूटर की जानकारी",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Operating System Basics",
+          "learningOutcomes": [
+            "Know what an operating system does",
+            "Use the desktop and windows"
+          ]
+        },
+        {
+          "title": "Files and Folders",
+          "learningOutcomes": [
+            "Create, rename and move files and folders",
+            "Organise your work"
+          ]
+        },
+        {
+          "title": "Presentations",
+          "learningOutcomes": [
+            "Make a slide presentation",
+            "Add text and pictures to slides"
+          ]
+        },
+        {
+          "title": "Introduction to Coding with Blocks",
+          "learningOutcomes": [
+            "Make simple programs with coding blocks",
+            "Use loops and events"
+          ]
+        },
+        {
+          "title": "Cyber Safety",
+          "learningOutcomes": [
+            "Know cyber safety rules",
+            "Use strong passwords"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gk",
+      "name": "General Knowledge",
+      "nameHi": "सामान्य ज्ञान",
+      "icon": "💡",
+      "color": "amber",
+      "chapters": [
+        {
+          "title": "India and the World",
+          "learningOutcomes": [
+            "Know India's neighbours and world facts",
+            "Know international organisations"
+          ]
+        },
+        {
+          "title": "Space and Planets",
+          "learningOutcomes": [
+            "Know the solar system and planets",
+            "Know about ISRO's missions"
+          ]
+        },
+        {
+          "title": "Science Facts",
+          "learningOutcomes": [
+            "Know interesting science facts",
+            "Relate science to daily life"
+          ]
+        },
+        {
+          "title": "Current Affairs Basics",
+          "learningOutcomes": [
+            "Follow news in simple language",
+            "Know important days"
+          ]
+        },
+        {
+          "title": "Values and Citizenship",
+          "learningOutcomes": [
+            "Know rights and duties of citizens",
+            "Practise good citizenship"
+          ]
+        }
+      ]
+    }
+  ]
+}

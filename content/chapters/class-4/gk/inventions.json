@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Telephone – Graham Bell; bulb – Edison; aeroplane – Wright brothers",
+      "hi": "टेलीफ़ोन – ग्राहम बेल; बल्ब – एडिसन; हवाई जहाज़ – राइट बंधु"
+    },
+    {
+      "en": "Zero – ancient Indian mathematicians (Aryabhata, Brahmagupta used it)",
+      "hi": "शून्य – प्राचीन भारतीय गणितज्ञ (आर्यभट, ब्रह्मगुप्त)"
+    },
+    {
+      "en": "Computer – Charles Babbage is called its father.",
+      "hi": "कंप्यूटर – चार्ल्स बैबेज को इसका जनक कहते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who invented the telephone?",
+        "hi": "टेलीफ़ोन का आविष्कार किसने किया?"
+      },
+      "steps": [
+        {
+          "en": "He was a Scottish-born scientist in the 1870s.",
+          "hi": "वे 1870 के दशक के स्कॉटिश मूल के वैज्ञानिक थे।"
+        }
+      ],
+      "answer": {
+        "en": "Alexander Graham Bell",
+        "hi": "अलेक्ज़ेंडर ग्राहम बेल"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which number, given by India, made modern maths possible?",
+        "hi": "भारत की दी कौन-सी संख्या ने आधुनिक गणित संभव बनाया?"
+      },
+      "steps": [
+        {
+          "en": "It means \"nothing\" but holds place value.",
+          "hi": "इसका मतलब \"कुछ नहीं\" पर यह स्थानीय मान रखता है।"
+        }
+      ],
+      "answer": {
+        "en": "Zero (0)",
+        "hi": "शून्य (0)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who is called the father of the computer?",
+        "hi": "कंप्यूटर का जनक किसे कहते हैं?"
+      },
+      "answer": {
+        "en": "Charles Babbage",
+        "hi": "चार्ल्स बैबेज"
+      }
+    },
+    {
+      "question": {
+        "en": "Who made the first successful aeroplane?",
+        "hi": "पहला सफल हवाई जहाज़ किसने बनाया?"
+      },
+      "answer": {
+        "en": "The Wright brothers",
+        "hi": "राइट बंधु"
+      }
+    },
+    {
+      "question": {
+        "en": "Who invented the electric bulb?",
+        "hi": "बिजली का बल्ब किसने बनाया?"
+      },
+      "answer": {
+        "en": "Thomas Edison",
+        "hi": "थॉमस एडिसन"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Inventions make life easier. The telephone (Alexander Graham Bell), the light bulb (Thomas Edison) and the aeroplane (Wright brothers) changed the world. Indians gave the world zero and the decimal system.",
+    "hi": "आविष्कार जीवन आसान बनाते हैं। टेलीफ़ोन (अलेक्ज़ेंडर ग्राहम बेल), बल्ब (थॉमस एडिसन) और हवाई जहाज़ (राइट भाइयों) ने दुनिया बदल दी। भारतीयों ने दुनिया को शून्य और दशमलव प्रणाली दी।"
+  }
+}

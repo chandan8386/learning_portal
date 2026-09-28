@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Big plants are trees; small plants are shrubs and herbs.",
+      "hi": "बड़े पौधे पेड़; छोटे झाड़ियाँ और शाक।"
+    },
+    {
+      "en": "Animal homes: nest (bird), den (lion), kennel (dog), hive (bee)",
+      "hi": "जानवरों के घर: घोंसला (पक्षी), माँद (शेर), कुत्ताघर (कुत्ता), छत्ता (मधुमक्खी)"
+    },
+    {
+      "en": "Be kind to plants and animals.",
+      "hi": "पौधों और जानवरों के प्रति दयालु रहो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where does a bee live?",
+        "hi": "मधुमक्खी कहाँ रहती है?"
+      },
+      "steps": [
+        {
+          "en": "Bees make a home of wax where they store honey.",
+          "hi": "मधुमक्खियाँ मोम का घर बनाती हैं जहाँ शहद रखती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Hive",
+        "hi": "छत्ता"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is a mango tree big or small plant?",
+        "hi": "आम का पेड़ बड़ा पौधा है या छोटा?"
+      },
+      "steps": [
+        {
+          "en": "It is tall with a thick, hard trunk.",
+          "hi": "यह ऊँचा है और तना मोटा और सख़्त है।"
+        }
+      ],
+      "answer": {
+        "en": "Big plant (tree)",
+        "hi": "बड़ा पौधा (पेड़)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where does a bird live?",
+        "hi": "पक्षी कहाँ रहता है?"
+      },
+      "answer": {
+        "en": "Nest",
+        "hi": "घोंसला"
+      }
+    },
+    {
+      "question": {
+        "en": "What do plants need to grow?",
+        "hi": "पौधों को उगने के लिए क्या चाहिए?"
+      },
+      "answer": {
+        "en": "Soil, water and sunlight",
+        "hi": "मिट्टी, पानी और धूप"
+      }
+    },
+    {
+      "question": {
+        "en": "Where does a fish live?",
+        "hi": "मछली कहाँ रहती है?"
+      },
+      "answer": {
+        "en": "Water",
+        "hi": "पानी में"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Plants and animals live all around us. Plants grow in soil and need water and sunlight. Animals live in different homes: birds in nests, lions in dens, fish in water.",
+    "hi": "पौधे और जानवर हमारे चारों ओर रहते हैं। पौधे मिट्टी में उगते हैं और उन्हें पानी और धूप चाहिए। जानवरों के अलग-अलग घर होते हैं: पक्षी घोंसले में, शेर माँद में, मछली पानी में।"
+  }
+}

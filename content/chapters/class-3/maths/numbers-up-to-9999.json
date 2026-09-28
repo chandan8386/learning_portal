@@ -1,0 +1,83 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "10 hundreds = 1 thousand",
+      "hi": "10 सैकड़े = 1 हज़ार"
+    },
+    {
+      "en": "Expanded form: 4,275 = 4000 + 200 + 70 + 5",
+      "hi": "विस्तारित रूप: 4,275 = 4000 + 200 + 70 + 5"
+    },
+    {
+      "en": "To compare, start from the thousands place.",
+      "hi": "तुलना हज़ार के स्थान से शुरू करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write 6,048 in expanded form and in words.",
+        "hi": "6,048 को विस्तारित रूप और शब्दों में लिखो।"
+      },
+      "steps": [
+        {
+          "en": "6 thousands = 6000, 0 hundreds = 0, 4 tens = 40, 8 ones = 8.",
+          "hi": "6 हज़ार = 6000, 0 सैकड़े = 0, 4 दहाई = 40, 8 इकाई = 8।"
+        },
+        {
+          "en": "In words: six thousand forty-eight.",
+          "hi": "शब्दों में: छह हज़ार अड़तालीस।"
+        }
+      ],
+      "answer": {
+        "en": "6000 + 40 + 8; six thousand forty-eight",
+        "hi": "6000 + 40 + 8; छह हज़ार अड़तालीस"
+      }
+    },
+    {
+      "problem": {
+        "en": "Arrange in ascending order: 3,512; 3,251; 5,213; 3,125",
+        "hi": "आरोही क्रम में लगाओ: 3,512; 3,251; 5,213; 3,125"
+      },
+      "steps": [
+        {
+          "en": "Thousands: 5,213 is biggest (5 thousands).",
+          "hi": "हज़ार: 5,213 सबसे बड़ी (5 हज़ार)।"
+        },
+        {
+          "en": "Among 3-thousands compare hundreds: 1 < 2 < 5.",
+          "hi": "3 हज़ार वालों में सैकड़े देखो: 1 < 2 < 5।"
+        }
+      ],
+      "answer": "3,125; 3,251; 3,512; 5,213"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the place value of 7 in 2,739?",
+        "hi": "2,739 में 7 का स्थानीय मान क्या है?"
+      },
+      "answer": "700"
+    },
+    {
+      "question": {
+        "en": "Write the number: 8 thousands, 3 tens, 1 one.",
+        "hi": "संख्या लिखो: 8 हज़ार, 3 दहाई, 1 इकाई।"
+      },
+      "answer": "8,031"
+    },
+    {
+      "question": {
+        "en": "What comes just after 4,999?",
+        "hi": "4,999 के ठीक बाद क्या आता है?"
+      },
+      "answer": "5,000"
+    }
+  ],
+  "intro": {
+    "en": "Four-digit numbers have thousands, hundreds, tens and ones. 4,275 means 4 thousands, 2 hundreds, 7 tens and 5 ones. The smallest 4-digit number is 1000 and the largest is 9999.",
+    "hi": "चार अंकों की संख्या में हज़ार, सैकड़ा, दहाई और इकाई होते हैं। 4,275 मतलब 4 हज़ार, 2 सैकड़े, 7 दहाई और 5 इकाई। सबसे छोटी चार अंकों की संख्या 1000 और सबसे बड़ी 9999 है।"
+  }
+}
