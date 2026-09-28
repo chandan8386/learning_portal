@@ -1,0 +1,58 @@
+{
+  "status": "REVIEWED",
+  "intro": "A quadratic equation has the form ax² + bx + c = 0 with a ≠ 0. Its solutions are called roots. We find roots by factorisation or by the quadratic formula, and the discriminant tells us the nature of the roots without solving.",
+  "keyPoints": [
+    "Standard form: ax² + bx + c = 0, a ≠ 0.",
+    "Factorisation: split the middle term so that the two parts multiply to ac and add to b.",
+    "Discriminant D = b² − 4ac.",
+    "D > 0: two distinct real roots. D = 0: two equal real roots. D < 0: no real roots."
+  ],
+  "formulas": ["x = [−b ± √(b² − 4ac)] / 2a", "D = b² − 4ac"],
+  "examples": [
+    {
+      "title": "Factorisation",
+      "problem": "Solve 2x² − 5x + 3 = 0.",
+      "steps": [
+        "ac = 6; find numbers with product 6 and sum −5: −2 and −3",
+        "2x² − 2x − 3x + 3 = 2x(x − 1) − 3(x − 1) = (2x − 3)(x − 1)",
+        "2x − 3 = 0 ⇒ x = 3/2, and x − 1 = 0 ⇒ x = 1"
+      ],
+      "answer": "x = 3/2 or x = 1"
+    },
+    {
+      "title": "Quadratic formula",
+      "problem": "Solve x² − 2x − 4 = 0.",
+      "steps": [
+        "a = 1, b = −2, c = −4",
+        "D = (−2)² − 4(1)(−4) = 4 + 16 = 20",
+        "x = [2 ± √20] / 2 = [2 ± 2√5] / 2 = 1 ± √5"
+      ],
+      "answer": "x = 1 + √5 or x = 1 − √5"
+    },
+    {
+      "title": "Nature of roots",
+      "problem": "Find the nature of the roots of 2x² − 4x + 3 = 0.",
+      "steps": [
+        "D = (−4)² − 4(2)(3) = 16 − 24 = −8",
+        "D < 0"
+      ],
+      "answer": "No real roots."
+    },
+    {
+      "title": "Word problem",
+      "problem": "Find two consecutive positive integers whose product is 306.",
+      "steps": [
+        "Let the integers be x and x + 1: x(x + 1) = 306",
+        "x² + x − 306 = 0 ⇒ (x + 18)(x − 17) = 0",
+        "x = 17 (x = −18 is rejected because it is not positive)"
+      ],
+      "answer": "17 and 18"
+    }
+  ],
+  "practice": [
+    { "question": "Solve x² − 3x − 10 = 0.", "answer": "x = 5 or x = −2", "solution": ["(x − 5)(x + 2) = 0"] },
+    { "question": "Find k so that 2x² + kx + 3 = 0 has two equal roots.", "answer": "k = ±2√6", "solution": ["D = k² − 24 = 0 ⇒ k² = 24 ⇒ k = ±2√6"] },
+    { "question": "Find the nature of the roots of 9x² − 12x + 4 = 0.", "answer": "Two equal real roots (x = 2/3)", "solution": ["D = 144 − 144 = 0"] },
+    { "question": "The sum of a number and its reciprocal is 10/3. Find the number.", "answer": "3 or 1/3", "solution": ["x + 1/x = 10/3 ⇒ 3x² − 10x + 3 = 0", "(3x − 1)(x − 3) = 0"] }
+  ]
+}

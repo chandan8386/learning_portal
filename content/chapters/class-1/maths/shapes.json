@@ -1,0 +1,46 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Everything around us has a shape. A roti is round like a circle. A carrom board is a square. A samosa looks like a triangle. A ball is a sphere and a dice is a cube.",
+    "hi": "हमारे आस-पास हर चीज़ का आकार होता है। रोटी गोल (वृत्त) होती है। कैरम बोर्ड वर्ग होता है। समोसा त्रिभुज जैसा दिखता है। गेंद गोला है और पासा घन।"
+  },
+  "keyPoints": [
+    { "en": "Circle: round, no corners.", "hi": "वृत्त: गोल, कोई कोना नहीं।" },
+    { "en": "Triangle: 3 sides and 3 corners.", "hi": "त्रिभुज: 3 भुजाएँ और 3 कोने।" },
+    { "en": "Square: 4 equal sides and 4 corners.", "hi": "वर्ग: 4 बराबर भुजाएँ और 4 कोने।" },
+    { "en": "Rectangle: 4 sides and 4 corners; opposite sides are equal.", "hi": "आयत: 4 भुजाएँ और 4 कोने; आमने-सामने की भुजाएँ बराबर।" },
+    { "en": "Solid shapes: ball (sphere), dice (cube), can (cylinder), ice-cream cone (cone).", "hi": "ठोस आकार: गेंद (गोला), पासा (घन), डिब्बा (बेलन), आइसक्रीम कोन (शंकु)।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "How many corners does a triangle have?", "hi": "त्रिभुज के कितने कोने होते हैं?" },
+      "steps": [
+        { "en": "Draw a triangle.", "hi": "एक त्रिभुज बनाओ।" },
+        { "en": "Touch and count the pointed corners: 1, 2, 3.", "hi": "नुकीले कोने छूकर गिनो: 1, 2, 3।" }
+      ],
+      "answer": { "en": "3 corners", "hi": "3 कोने" }
+    },
+    {
+      "problem": { "en": "A coin is which shape?", "hi": "सिक्का किस आकार का होता है?" },
+      "steps": [
+        { "en": "Look at the coin: it is round.", "hi": "सिक्के को देखो: वह गोल है।" },
+        { "en": "It has no corners.", "hi": "उसका कोई कोना नहीं है।" }
+      ],
+      "answer": { "en": "Circle", "hi": "वृत्त" }
+    },
+    {
+      "problem": { "en": "Which solid shape can roll: a ball or a dice?", "hi": "कौन लुढ़क सकता है: गेंद या पासा?" },
+      "steps": [
+        { "en": "A ball is round everywhere, so it rolls.", "hi": "गेंद हर तरफ़ से गोल है, इसलिए लुढ़कती है।" },
+        { "en": "A dice has flat faces, so it slides but does not roll.", "hi": "पासे के सपाट चेहरे होते हैं, वह खिसकता है पर लुढ़कता नहीं।" }
+      ],
+      "answer": { "en": "The ball", "hi": "गेंद" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many sides does a square have?", "hi": "वर्ग की कितनी भुजाएँ होती हैं?" }, "answer": "4" },
+    { "question": { "en": "A book cover is usually which shape?", "hi": "किताब का कवर आमतौर पर किस आकार का होता है?" }, "answer": { "en": "Rectangle", "hi": "आयत" } },
+    { "question": { "en": "Which shape has no corners?", "hi": "किस आकार का कोई कोना नहीं होता?" }, "answer": { "en": "Circle", "hi": "वृत्त" } },
+    { "question": { "en": "An ice-cream cone is which solid shape?", "hi": "आइसक्रीम कोन कौन-सा ठोस आकार है?" }, "answer": { "en": "Cone", "hi": "शंकु" } }
+  ]
+}

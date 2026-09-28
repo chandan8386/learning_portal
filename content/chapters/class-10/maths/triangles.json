@@ -1,0 +1,41 @@
+{
+  "status": "REVIEWED",
+  "intro": "Two triangles are similar when their corresponding angles are equal and their corresponding sides are in the same ratio. Similar triangles have the same shape but may have different sizes. The Basic Proportionality Theorem helps us find unknown lengths.",
+  "keyPoints": [
+    "Basic Proportionality Theorem (Thales): if a line is parallel to one side of a triangle, it divides the other two sides in the same ratio.",
+    "Converse: if a line divides two sides in the same ratio, it is parallel to the third side.",
+    "AA criterion: two equal pairs of angles ⇒ triangles are similar.",
+    "SSS criterion: all three pairs of sides in the same ratio ⇒ similar.",
+    "SAS criterion: one equal angle and the sides including it in the same ratio ⇒ similar."
+  ],
+  "formulas": ["If DE ∥ BC in △ABC: AD/DB = AE/EC"],
+  "examples": [
+    {
+      "title": "Basic Proportionality Theorem",
+      "problem": "In △ABC, DE ∥ BC with D on AB and E on AC. If AD = 1.5 cm, DB = 3 cm and AE = 1 cm, find EC.",
+      "steps": ["By BPT: AD/DB = AE/EC", "1.5/3 = 1/EC", "EC = 3/1.5 = 2"],
+      "answer": "EC = 2 cm"
+    },
+    {
+      "title": "Similar triangles in real life",
+      "problem": "A 6 m tall pole casts a 4 m long shadow. At the same time a tower casts a 28 m shadow. Find the height of the tower.",
+      "steps": [
+        "The sun's rays make the same angle, so the two triangles are similar (AA).",
+        "height/shadow is the same: 6/4 = h/28",
+        "h = 6 × 28 / 4 = 42"
+      ],
+      "answer": "The tower is 42 m tall."
+    },
+    {
+      "title": "Corresponding sides",
+      "problem": "△ABC ~ △PQR with AB = 4 cm, BC = 5 cm and PQ = 6 cm. Find QR.",
+      "steps": ["AB/PQ = BC/QR", "4/6 = 5/QR", "QR = 5 × 6 / 4 = 7.5"],
+      "answer": "QR = 7.5 cm"
+    }
+  ],
+  "practice": [
+    { "question": "In △ABC, DE ∥ BC. If AD/DB = 3/5 and AE = 4.8 cm, find EC.", "answer": "EC = 8 cm", "solution": ["AE/EC = 3/5 ⇒ EC = 4.8 × 5/3 = 8"] },
+    { "question": "A 1.5 m tall boy casts a 2 m shadow. A tree nearby casts a 12 m shadow. How tall is the tree?", "answer": "9 m", "solution": ["1.5/2 = h/12 ⇒ h = 9"] },
+    { "question": "State the AA similarity criterion.", "answer": "If two angles of one triangle are equal to two angles of another triangle, the triangles are similar." }
+  ]
+}

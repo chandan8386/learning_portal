@@ -1,0 +1,54 @@
+{
+  "status": "REVIEWED",
+  "intro": "For grouped data (data in class intervals) we find the mean, median and mode using the class marks and cumulative frequencies. These three averages describe the centre of the data in different ways.",
+  "keyPoints": [
+    "Class mark (mid-point) = (lower limit + upper limit)/2.",
+    "Mean (direct method) = Σfᵢxᵢ / Σfᵢ.",
+    "Modal class = class with the highest frequency.",
+    "Median class = class whose cumulative frequency first reaches n/2.",
+    "Empirical relation: 3 Median = Mode + 2 Mean."
+  ],
+  "formulas": [
+    "Mean = Σfᵢxᵢ / Σfᵢ",
+    "Mode = l + [(f₁ − f₀)/(2f₁ − f₀ − f₂)] × h",
+    "Median = l + [(n/2 − cf)/f] × h"
+  ],
+  "examples": [
+    {
+      "title": "Mean of grouped data",
+      "problem": "Find the mean: classes 0–10, 10–20, 20–30, 30–40, 40–50 with frequencies 5, 8, 15, 16, 6.",
+      "steps": [
+        "Class marks xᵢ: 5, 15, 25, 35, 45",
+        "fᵢxᵢ: 25, 120, 375, 560, 270 ⇒ Σfᵢxᵢ = 1350",
+        "Σfᵢ = 50, so mean = 1350/50"
+      ],
+      "answer": "Mean = 27"
+    },
+    {
+      "title": "Mode of grouped data",
+      "problem": "Find the mode of the same data.",
+      "steps": [
+        "Modal class = 30–40 (highest frequency 16).",
+        "l = 30, h = 10, f₁ = 16, f₀ = 15, f₂ = 6",
+        "Mode = 30 + [(16 − 15)/(32 − 15 − 6)] × 10 = 30 + 10/11"
+      ],
+      "answer": "Mode ≈ 30.91"
+    },
+    {
+      "title": "Median of grouped data",
+      "problem": "Find the median of the same data.",
+      "steps": [
+        "n = 50, n/2 = 25",
+        "Cumulative frequencies: 5, 13, 28, 44, 50 ⇒ median class 20–30",
+        "l = 20, cf = 13, f = 15, h = 10",
+        "Median = 20 + [(25 − 13)/15] × 10 = 20 + 8"
+      ],
+      "answer": "Median = 28"
+    }
+  ],
+  "practice": [
+    { "question": "Find the mean of 2, 4, 6, 8, 10.", "answer": "6" },
+    { "question": "Classes 0–20, 20–40, 40–60 have frequencies 4, 6, 10. Find the mean.", "answer": "36", "solution": ["Class marks 10, 30, 50", "Σfx = 40 + 180 + 500 = 720, Σf = 20", "Mean = 720/20 = 36"] },
+    { "question": "If mode = 24 and mean = 30, find the median using the empirical relation.", "answer": "28", "solution": ["3 Median = 24 + 60 = 84 ⇒ Median = 28"] }
+  ]
+}

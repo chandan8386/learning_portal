@@ -1,0 +1,36 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We can compare things: which is longer, which is heavier. We can also measure length using our hand span or footsteps.",
+    "hi": "हम चीज़ों की तुलना कर सकते हैं: कौन लंबा है, कौन भारी है। हम बालिश्त (हाथ का फैलाव) या कदमों से लंबाई नाप भी सकते हैं।"
+  },
+  "keyPoints": [
+    { "en": "Long / short: compare length.", "hi": "लंबा / छोटा: लंबाई की तुलना।" },
+    { "en": "Tall / short: compare height.", "hi": "ऊँचा / नाटा: ऊँचाई की तुलना।" },
+    { "en": "Heavy / light: compare weight. A heavy thing pulls your hand down.", "hi": "भारी / हल्का: वज़न की तुलना। भारी चीज़ हाथ को नीचे खींचती है।" },
+    { "en": "A hand span is the distance from thumb tip to little-finger tip.", "hi": "बालिश्त = अंगूठे के सिरे से छोटी उंगली के सिरे तक की दूरी।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Which is heavier: a watermelon or a grape?", "hi": "कौन भारी है: तरबूज़ या अंगूर?" },
+      "steps": [
+        { "en": "Hold them in your hands (or imagine).", "hi": "दोनों को हाथ में पकड़ो (या सोचो)।" },
+        { "en": "The watermelon pulls your hand down much more.", "hi": "तरबूज़ हाथ को ज़्यादा नीचे खींचता है।" }
+      ],
+      "answer": { "en": "The watermelon is heavier.", "hi": "तरबूज़ भारी है।" }
+    },
+    {
+      "problem": { "en": "Your table is 5 hand spans long. Your book is 1 hand span long. Which is longer?", "hi": "तुम्हारी मेज़ 5 बालिश्त लंबी है। किताब 1 बालिश्त। कौन लंबा है?" },
+      "steps": [
+        { "en": "Compare the numbers: 5 and 1.", "hi": "संख्याओं की तुलना करो: 5 और 1।" },
+        { "en": "5 hand spans is more than 1 hand span.", "hi": "5 बालिश्त, 1 बालिश्त से ज़्यादा है।" }
+      ],
+      "answer": { "en": "The table is longer.", "hi": "मेज़ लंबी है।" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Which is taller: a giraffe or a cat?", "hi": "कौन ऊँचा है: जिराफ़ या बिल्ली?" }, "answer": { "en": "Giraffe", "hi": "जिराफ़" } },
+    { "question": { "en": "Which is lighter: a feather or a brick?", "hi": "कौन हल्का है: पंख या ईंट?" }, "answer": { "en": "Feather", "hi": "पंख" } },
+    { "question": { "en": "A rope is 8 footsteps long and a stick is 3 footsteps long. Which is shorter?", "hi": "रस्सी 8 कदम लंबी है और डंडा 3 कदम। कौन छोटा है?" }, "answer": { "en": "The stick", "hi": "डंडा" } }
+  ]
+}

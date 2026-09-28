@@ -1,0 +1,36 @@
+{
+  "status": "REVIEWED",
+  "intro": "A sector is the part of a circle between two radii, like a slice of pizza. A segment is the part between a chord and its arc. We find their areas and arc lengths as a fraction (θ/360°) of the whole circle.",
+  "keyPoints": [
+    "Area of a circle = πr², circumference = 2πr.",
+    "A sector of angle θ is θ/360 of the whole circle.",
+    "Area of segment = area of sector − area of the triangle formed by the two radii and the chord.",
+    "Use π = 22/7 when the radius is a multiple of 7, otherwise 3.14 unless told."
+  ],
+  "formulas": ["Area of sector = (θ/360) × πr²", "Length of arc = (θ/360) × 2πr"],
+  "examples": [
+    {
+      "title": "Area of a sector",
+      "problem": "Find the area of a sector of a circle of radius 7 cm with angle 90°. (π = 22/7)",
+      "steps": ["Area = (90/360) × (22/7) × 7 × 7", "= (1/4) × 154"],
+      "answer": "38.5 cm²"
+    },
+    {
+      "title": "Length of an arc",
+      "problem": "Find the length of the arc of a circle of radius 21 cm that subtends 60° at the centre. (π = 22/7)",
+      "steps": ["Arc = (60/360) × 2 × (22/7) × 21", "= (1/6) × 132"],
+      "answer": "22 cm"
+    },
+    {
+      "title": "Clock problem",
+      "problem": "The minute hand of a clock is 14 cm long. Find the area swept by it in 5 minutes. (π = 22/7)",
+      "steps": ["In 60 minutes it turns 360°, so in 5 minutes it turns 30°.", "Area = (30/360) × (22/7) × 14 × 14 = (1/12) × 616"],
+      "answer": "154/3 cm² ≈ 51.33 cm²"
+    }
+  ],
+  "practice": [
+    { "question": "Find the area of a circle of radius 14 cm. (π = 22/7)", "answer": "616 cm²" },
+    { "question": "Find the circumference of a circle of radius 7 cm. (π = 22/7)", "answer": "44 cm" },
+    { "question": "Find the area of a quadrant of a circle whose circumference is 22 cm. (π = 22/7)", "answer": "77/8 cm² = 9.625 cm²", "solution": ["2πr = 22 ⇒ r = 7/2 cm", "Quadrant = (1/4) × (22/7) × (7/2)² = 77/8"] }
+  ]
+}

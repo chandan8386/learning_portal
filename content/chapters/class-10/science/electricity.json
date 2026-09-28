@@ -1,0 +1,54 @@
+{
+  "status": "REVIEWED",
+  "intro": "Electric current is the rate of flow of electric charge. A battery provides the potential difference that pushes charges through a conductor, and the conductor opposes this flow with its resistance. Ohm's law connects these three quantities.",
+  "keyPoints": [
+    "Current I = Q/t, measured in ampere (A). 1 A = 1 C/s.",
+    "Potential difference V = W/Q, measured in volt (V).",
+    "Ohm's law: V = IR (at constant temperature).",
+    "Resistance depends on length, area and material: R = ρL/A.",
+    "Series: same current, resistances add. Parallel: same voltage, reciprocals add.",
+    "Heating effect (Joule's law): H = I²Rt.",
+    "Commercial unit of energy: 1 kWh = 3.6 × 10⁶ J."
+  ],
+  "formulas": [
+    "Q = It",
+    "V = IR",
+    "R = ρL/A",
+    "Series: R = R₁ + R₂ + R₃",
+    "Parallel: 1/R = 1/R₁ + 1/R₂ + 1/R₃",
+    "P = VI = I²R = V²/R",
+    "H = I²Rt"
+  ],
+  "examples": [
+    {
+      "title": "Charge",
+      "problem": "A current of 0.5 A flows through a bulb for 10 minutes. Find the charge that flows.",
+      "steps": ["t = 10 × 60 = 600 s", "Q = It = 0.5 × 600"],
+      "answer": "Q = 300 C"
+    },
+    {
+      "title": "Resistors in series",
+      "problem": "Resistors of 5 Ω, 8 Ω and 12 Ω are connected in series to a 6 V battery. Find the current.",
+      "steps": ["R = 5 + 8 + 12 = 25 Ω", "I = V/R = 6/25"],
+      "answer": "I = 0.24 A"
+    },
+    {
+      "title": "Resistors in parallel",
+      "problem": "Resistors of 5 Ω, 10 Ω and 30 Ω are connected in parallel to a 12 V battery. Find the total resistance and the current drawn.",
+      "steps": ["1/R = 1/5 + 1/10 + 1/30 = (6 + 3 + 1)/30 = 10/30", "R = 3 Ω", "I = V/R = 12/3"],
+      "answer": "R = 3 Ω, I = 4 A"
+    },
+    {
+      "title": "Cost of electricity",
+      "problem": "A 400 W refrigerator runs 8 hours a day. Find the cost of running it for 30 days at ₹3.00 per kWh.",
+      "steps": ["Energy = 400 W × 8 h × 30 = 96000 Wh = 96 kWh", "Cost = 96 × ₹3.00"],
+      "answer": "₹288"
+    }
+  ],
+  "practice": [
+    { "question": "A 12 V battery is connected to a 4 Ω resistor. Find the current.", "answer": "3 A" },
+    { "question": "Two 4 Ω resistors are connected in parallel. Find the equivalent resistance.", "answer": "2 Ω", "solution": ["1/R = 1/4 + 1/4 = 1/2"] },
+    { "question": "An electric lamp draws 0.5 A from a 220 V supply. Find its power.", "answer": "110 W", "solution": ["P = VI = 220 × 0.5"] },
+    { "question": "100 J of heat is produced each second in a 4 Ω resistor. Find the potential difference across it.", "answer": "20 V", "solution": ["P = 100 W = V²/R ⇒ V² = 400 ⇒ V = 20 V"] }
+  ]
+}

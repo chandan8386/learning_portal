@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We use money to buy things. Indian money is in rupees (₹). Coins: ₹1, ₹2, ₹5, ₹10, ₹20. Notes: ₹10, ₹20, ₹50, ₹100 and more.",
+    "hi": "हम पैसों से चीज़ें ख़रीदते हैं। भारत का पैसा रुपया (₹) है। सिक्के: ₹1, ₹2, ₹5, ₹10, ₹20। नोट: ₹10, ₹20, ₹50, ₹100 और ज़्यादा।"
+  },
+  "keyPoints": [
+    { "en": "₹ is the symbol for rupee.", "hi": "₹ रुपये का चिह्न है।" },
+    { "en": "We add money like numbers: ₹2 + ₹3 = ₹5.", "hi": "पैसे को संख्या की तरह जोड़ते हैं: ₹2 + ₹3 = ₹5।" },
+    { "en": "The same amount can be made in different ways: ₹5 = ₹2 + ₹2 + ₹1.", "hi": "एक ही रक़म अलग-अलग तरीक़ों से बनती है: ₹5 = ₹2 + ₹2 + ₹1।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "A pencil costs ₹3 and an eraser costs ₹2. How much for both?", "hi": "पेंसिल ₹3 की और रबड़ ₹2 की है। दोनों कितने की?" },
+      "steps": [
+        { "en": "Add the prices: ₹3 + ₹2.", "hi": "दाम जोड़ो: ₹3 + ₹2।" },
+        { "en": "3 + 2 = 5", "hi": "3 + 2 = 5" }
+      ],
+      "answer": "₹5"
+    },
+    {
+      "problem": { "en": "Make ₹10 using ₹5 coins.", "hi": "₹5 के सिक्कों से ₹10 बनाओ।" },
+      "steps": [
+        { "en": "One ₹5 coin is 5.", "hi": "एक ₹5 का सिक्का = 5।" },
+        { "en": "Two ₹5 coins: 5 + 5 = 10.", "hi": "दो ₹5 के सिक्के: 5 + 5 = 10।" }
+      ],
+      "answer": { "en": "Two ₹5 coins", "hi": "₹5 के दो सिक्के" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "₹1 + ₹1 + ₹1 = ?", "hi": "₹1 + ₹1 + ₹1 = ?" }, "answer": "₹3" },
+    { "question": { "en": "A toffee costs ₹2. How much for 3 toffees?", "hi": "एक टॉफ़ी ₹2 की है। 3 टॉफ़ी कितने की?" }, "answer": "₹6", "solution": ["₹2 + ₹2 + ₹2 = ₹6"] },
+    { "question": { "en": "You have ₹10 and buy a balloon for ₹4. How much is left?", "hi": "तुम्हारे पास ₹10 हैं, ₹4 का गुब्बारा ख़रीदा। कितने बचे?" }, "answer": "₹6", "solution": ["₹10 − ₹4 = ₹6"] }
+  ]
+}

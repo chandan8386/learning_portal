@@ -1,0 +1,48 @@
+{
+  "status": "REVIEWED",
+  "intro": "Many real objects are combinations of basic solids, like a capsule (cylinder with two hemispheres) or a toy top (cone on a hemisphere). To find the surface area, add only the surfaces you can see; to find the volume, add the volumes of the parts.",
+  "keyPoints": [
+    "Surface area of a combination = sum of the curved/visible surfaces only.",
+    "Volume of a combination = sum of the volumes of the parts.",
+    "Slant height of a cone: l = √(r² + h²)."
+  ],
+  "formulas": [
+    "Cuboid: TSA = 2(lb + bh + hl), V = lbh",
+    "Cube: TSA = 6a², V = a³",
+    "Cylinder: CSA = 2πrh, TSA = 2πr(r + h), V = πr²h",
+    "Cone: CSA = πrl, TSA = πr(l + r), V = (1/3)πr²h",
+    "Sphere: SA = 4πr², V = (4/3)πr³",
+    "Hemisphere: CSA = 2πr², TSA = 3πr², V = (2/3)πr³"
+  ],
+  "examples": [
+    {
+      "title": "Cone on a hemisphere",
+      "problem": "A toy is a cone of radius 3.5 cm mounted on a hemisphere of the same radius. The total height of the toy is 15.5 cm. Find its total surface area. (π = 22/7)",
+      "steps": [
+        "Height of cone = 15.5 − 3.5 = 12 cm",
+        "Slant height l = √(12² + 3.5²) = √156.25 = 12.5 cm",
+        "CSA of hemisphere = 2πr² = 2 × (22/7) × 3.5 × 3.5 = 77 cm²",
+        "CSA of cone = πrl = (22/7) × 3.5 × 12.5 = 137.5 cm²",
+        "Total = 77 + 137.5"
+      ],
+      "answer": "214.5 cm²"
+    },
+    {
+      "title": "Joining two cubes",
+      "problem": "Two cubes, each of volume 64 cm³, are joined end to end. Find the surface area of the resulting cuboid.",
+      "steps": ["Side of each cube = ∛64 = 4 cm", "Cuboid: l = 8, b = 4, h = 4", "TSA = 2(8×4 + 4×4 + 4×8) = 2(32 + 16 + 32)"],
+      "answer": "160 cm²"
+    },
+    {
+      "title": "Volume of a cylinder",
+      "problem": "Find the volume of a cylinder of radius 7 cm and height 10 cm. (π = 22/7)",
+      "steps": ["V = πr²h = (22/7) × 49 × 10"],
+      "answer": "1540 cm³"
+    }
+  ],
+  "practice": [
+    { "question": "Find the volume of a sphere of radius 21 cm. (π = 22/7)", "answer": "38808 cm³", "solution": ["(4/3) × (22/7) × 21³ = 4 × 22 × 441 = 38808"] },
+    { "question": "Find the curved surface area of a cone with radius 7 cm and slant height 10 cm. (π = 22/7)", "answer": "220 cm²" },
+    { "question": "Find the total surface area of a solid hemisphere of radius 7 cm. (π = 22/7)", "answer": "462 cm²", "solution": ["3πr² = 3 × (22/7) × 49 = 462"] }
+  ]
+}

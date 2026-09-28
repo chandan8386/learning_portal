@@ -1,0 +1,47 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Zero (0) means nothing. If a plate has no laddoos, it has 0 laddoos. After 9 comes 10, and we can count all the way to 20.",
+    "hi": "शून्य (0) का मतलब है कुछ नहीं। अगर प्लेट में एक भी लड्डू नहीं है, तो उसमें 0 लड्डू हैं। 9 के बाद 10 आता है, और हम 20 तक गिन सकते हैं।"
+  },
+  "keyPoints": [
+    { "en": "0 means none or nothing.", "hi": "0 का मतलब कुछ भी नहीं।" },
+    { "en": "10 is one group of ten. 10 = 1 ten and 0 ones.", "hi": "10 यानी दस का एक समूह। 10 = 1 दहाई और 0 इकाई।" },
+    { "en": "Numbers from 11 to 19 are 1 ten and some ones. 14 = 1 ten and 4 ones.", "hi": "11 से 19 तक की संख्याएँ = 1 दहाई और कुछ इकाई। 14 = 1 दहाई और 4 इकाई।" },
+    { "en": "20 is 2 tens.", "hi": "20 यानी 2 दहाई।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "A basket had 3 mangoes. Ravi ate all 3. How many are left?", "hi": "टोकरी में 3 आम थे। रवि ने तीनों खा लिए। कितने बचे?" },
+      "steps": [
+        { "en": "All the mangoes were eaten.", "hi": "सारे आम खा लिए गए।" },
+        { "en": "Nothing is left in the basket.", "hi": "टोकरी में कुछ नहीं बचा।" }
+      ],
+      "answer": { "en": "0 mangoes are left.", "hi": "0 आम बचे।" }
+    },
+    {
+      "problem": { "en": "Show 13 using tens and ones.", "hi": "13 को दहाई और इकाई में दिखाओ।" },
+      "steps": [
+        { "en": "Make one bundle of 10 sticks.", "hi": "10 तीलियों का एक बंडल बनाओ।" },
+        { "en": "Add 3 loose sticks.", "hi": "3 खुली तीलियाँ और रखो।" },
+        { "en": "10 + 3 = 13", "hi": "10 + 3 = 13" }
+      ],
+      "answer": { "en": "13 = 1 ten and 3 ones.", "hi": "13 = 1 दहाई और 3 इकाई।" }
+    },
+    {
+      "problem": { "en": "Which number is between 16 and 18?", "hi": "16 और 18 के बीच कौन-सी संख्या है?" },
+      "steps": [
+        { "en": "Count: 16, 17, 18.", "hi": "गिनो: 16, 17, 18।" },
+        { "en": "The number in the middle is 17.", "hi": "बीच वाली संख्या 17 है।" }
+      ],
+      "answer": "17"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many ones are in 18?", "hi": "18 में कितनी इकाई हैं?" }, "answer": "8" },
+    { "question": { "en": "1 ten and 5 ones make which number?", "hi": "1 दहाई और 5 इकाई से कौन-सी संख्या बनती है?" }, "answer": "15" },
+    { "question": { "en": "What comes just after 19?", "hi": "19 के ठीक बाद क्या आता है?" }, "answer": "20" },
+    { "question": { "en": "A box has no pencils. How many pencils are in it?", "hi": "डिब्बे में एक भी पेंसिल नहीं है। उसमें कितनी पेंसिलें हैं?" }, "answer": "0" },
+    { "question": { "en": "Which is smaller: 12 or 21?", "hi": "कौन छोटा है: 12 या 21?" }, "answer": "12" }
+  ]
+}

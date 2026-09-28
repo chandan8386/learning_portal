@@ -65,11 +65,18 @@ export default async function SubjectPage({ params }: Params) {
                 </span>
                 <span className="flex-1">
                   <span className={`block font-semibold ${kid ? "text-xl" : ""}`}>{title}</span>
-                  {c._count.topics > 0 && (
-                    <span className="text-sm text-slate-500">
-                      {c._count.topics} {t.topics}
-                    </span>
-                  )}
+                  <span className="flex flex-wrap items-center gap-2 text-sm text-slate-500">
+                    {c._count.topics > 0 && (
+                      <span>
+                        {c._count.topics} {t.topics}
+                      </span>
+                    )}
+                    {c.hasContent && (
+                      <span className="rounded-full bg-emerald-100 px-2 py-0.5 font-semibold text-emerald-800">
+                        ✏️ {t.withExamples}
+                      </span>
+                    )}
+                  </span>
                 </span>
                 {kid && <SpeakButton text={title} label={t.listen} />}
               </Link>

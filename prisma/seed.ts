@@ -1,4 +1,5 @@
-import { PrismaClient } from "@prisma/client";
+import { Prisma, PrismaClient } from "@prisma/client";
+import { findOrphanContent, loadChapterContent } from "../src/lib/load-chapter-content";
 import { loadSyllabus } from "../src/lib/load-syllabus";
 import { normalizeChapters } from "../src/lib/syllabus";
 
@@ -16,6 +17,12 @@ async function main() {
   });
 
   const classes = loadSyllabus();
+  const contentFiles = loadChapterContent();
+  const orphans = findOrphanContent(classes, contentFiles);
+  if (orphans.length) throw new Error(orphans.join("\n"));
+  const contentByKey = new Map(
+    contentFiles.map((f) => [`${f.classSlug}/${f.subjectSlug}/${f.chapterSlug}`, f.content]),
+  );
   let subjectCount = 0;
   let chapterCount = 0;
   let topicCount = 0;
@@ -53,11 +60,13 @@ async function main() {
       subjectCount++;
 
       for (const ch of normalizeChapters(s.chapters)) {
+        const content = contentByKey.get(`${c.slug}/${s.slug}/${ch.slug}`);
         const chapterData = {
           title: ch.title,
           titleHi: ch.titleHi ?? null,
           order: ch.order,
           learningOutcomes: ch.learningOutcomes,
+          content: content ?? Prisma.DbNull,
         };
         const chapter = await prisma.chapter.upsert({
           where: { subjectId_slug: { subjectId: subject.id, slug: ch.slug } },
@@ -80,7 +89,8 @@ async function main() {
   }
 
   console.log(
-    `Seeded ${classes.length} classes, ${subjectCount} subjects, ${chapterCount} chapters, ${topicCount} topics.`,
+    `Seeded ${classes.length} classes, ${subjectCount} subjects, ${chapterCount} chapters, ${topicCount} topics, ` +
+      `study material for ${contentFiles.length} chapters.`,
   );
 }
 

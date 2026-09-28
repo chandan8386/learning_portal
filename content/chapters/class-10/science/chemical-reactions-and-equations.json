@@ -1,0 +1,43 @@
+{
+  "status": "REVIEWED",
+  "intro": "In a chemical reaction, substances (reactants) change into new substances (products). We write this as a chemical equation. Because atoms are neither created nor destroyed, the equation must be balanced: the number of atoms of each element must be the same on both sides.",
+  "keyPoints": [
+    "Signs of a reaction: change in colour, gas evolved, precipitate formed, change in temperature, change in state.",
+    "Combination: A + B → AB. Example: CaO + H₂O → Ca(OH)₂",
+    "Decomposition: AB → A + B. Example: CaCO₃ → CaO + CO₂ (on heating)",
+    "Displacement: a more reactive element displaces a less reactive one. Example: Fe + CuSO₄ → FeSO₄ + Cu",
+    "Double displacement: ions are exchanged. Example: Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl",
+    "Oxidation = gain of oxygen or loss of hydrogen; reduction = loss of oxygen or gain of hydrogen. Both together = redox."
+  ],
+  "examples": [
+    {
+      "title": "Balancing an equation",
+      "problem": "Balance: Fe + H₂O → Fe₃O₄ + H₂",
+      "steps": [
+        "Fe: 3 on the right, so put 3Fe on the left.",
+        "O: 4 on the right, so put 4H₂O on the left.",
+        "H: now 8 on the left, so put 4H₂ on the right.",
+        "Check: Fe 3 = 3, O 4 = 4, H 8 = 8 ✓"
+      ],
+      "answer": "3Fe + 4H₂O → Fe₃O₄ + 4H₂"
+    },
+    {
+      "title": "Identifying the type",
+      "problem": "An iron nail is placed in blue copper sulphate solution. The solution turns green and a brown coating forms on the nail. Write the equation and name the type of reaction.",
+      "steps": ["Iron is more reactive than copper, so it displaces copper.", "Fe + CuSO₄ → FeSO₄ (green) + Cu (brown)"],
+      "answer": "Displacement reaction"
+    },
+    {
+      "title": "Oxidation and reduction",
+      "problem": "In CuO + H₂ → Cu + H₂O, which substance is oxidised and which is reduced?",
+      "steps": ["CuO loses oxygen and becomes Cu, so CuO is reduced.", "H₂ gains oxygen and becomes H₂O, so H₂ is oxidised."],
+      "answer": "H₂ is oxidised, CuO is reduced (a redox reaction)."
+    }
+  ],
+  "practice": [
+    { "question": "Balance: Na + H₂O → NaOH + H₂", "answer": "2Na + 2H₂O → 2NaOH + H₂" },
+    { "question": "Balance: Al + O₂ → Al₂O₃", "answer": "4Al + 3O₂ → 2Al₂O₃" },
+    { "question": "Balance and name the type: BaCl₂ + K₂SO₄ → BaSO₄ + KCl", "answer": "BaCl₂ + K₂SO₄ → BaSO₄ + 2KCl; double displacement (precipitation)" },
+    { "question": "What type of reaction is CaCO₃ → CaO + CO₂ on heating?", "answer": "Thermal decomposition" }
+  ]
+}

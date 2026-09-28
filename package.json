@@ -13,7 +13,8 @@
     "db:push": "prisma db push",
     "db:seed": "tsx prisma/seed.ts",
     "db:setup": "prisma db push && tsx prisma/seed.ts",
-    "validate:syllabus": "tsx scripts/validate-syllabus.ts"
+    "validate:syllabus": "tsx scripts/validate-syllabus.ts",
+    "generate:content": "tsx scripts/generate-chapter-content.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
@@ -28,6 +29,7 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.128.0",
     "@eslint/eslintrc": "^3.3.7",
     "@playwright/test": "^1.63.0",
     "@testing-library/jest-dom": "^7.0.1",

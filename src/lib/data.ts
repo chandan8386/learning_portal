@@ -1,3 +1,4 @@
+import { Prisma } from "@prisma/client";
 import { cache } from "react";
 import { prisma } from "./db";
 
@@ -28,11 +29,22 @@ export const getSubjectWithChapters = cache(async (classSlug: string, subjectSlu
     include: {
       chapters: {
         orderBy: { order: "asc" },
+        omit: { content: true },
         include: { _count: { select: { topics: true } } },
       },
     },
   });
-  return subject ? { klass, subject } : null;
+  if (!subject) return null;
+  // Which chapters have study material, without loading the material itself.
+  const withContent = await prisma.chapter.findMany({
+    where: { subjectId: subject.id, NOT: { content: { equals: Prisma.DbNull } } },
+    select: { id: true },
+  });
+  const hasContent = new Set(withContent.map((c) => c.id));
+  return {
+    klass,
+    subject: { ...subject, chapters: subject.chapters.map((c) => ({ ...c, hasContent: hasContent.has(c.id) })) },
+  };
 });
 
 export const getChapter = cache(

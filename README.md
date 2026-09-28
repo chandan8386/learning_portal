@@ -18,6 +18,20 @@ The full product plan lives in [`CLAUDE_PROMPT.md`](./CLAUDE_PROMPT.md). This re
 - Speaker buttons use the browser's built-in text-to-speech. The Indian English or Hindi voice is picked from the script of the text.
 - Unit tests (Vitest) and end-to-end tests (Playwright, on a mobile viewport)
 
+**Chapter study material: in progress**
+- Every chapter page can show:
+  - **Understand**: a short explanation
+  - **Remember**: key points
+  - **Formulas**
+  - **Solved examples**: step-by-step working with the answer
+  - **Practice questions**: the answer and solution open on tap
+- On Nursery to Class 2 pages, every line has a speaker button and the text is in both English and Hindi.
+- 35 chapters are written and checked by hand:
+  - all of Class 1 Maths (12) and Class 10 Maths (14)
+  - Class 10 Science: Electricity, Light, Chemical Reactions, Acids Bases and Salts
+  - Class 9 Number Systems, Class 8 Linear Equations, Class 5 Fractions and Decimals, and Class 3 Multiplication
+- Chapters without material show a "coming soon" note. `npm run generate:content` drafts the rest with the Claude API (see below).
+
 **Next:** Phase 2 (lesson renderer, e-book reader, offline PWA), Phase 3 (pre-generated audio, read-along, phonics and tracing), and the rest of the plan in `CLAUDE_PROMPT.md`.
 
 ## Getting started
@@ -41,7 +55,8 @@ npm run dev                 # http://localhost:3000
 | `npm run test:e2e` | End-to-end tests (Playwright). Run `npm run build` first. |
 | `npm run db:setup` | Create the DB schema and seed the syllabus |
 | `npm run db:seed` | Re-seed the syllabus (safe to run again, it upserts) |
-| `npm run validate:syllabus` | Check the syllabus JSON and print chapter counts |
+| `npm run validate:syllabus` | Check the syllabus and chapter material JSON and print counts |
+| `npm run generate:content -- --class <slug>` | Draft chapter material with the Claude API (see below) |
 
 ## Editing the syllabus
 
@@ -57,6 +72,39 @@ Each class is one file in `content/syllabus/` (for example `03-class-1.json`). A
 ```
 
 After editing, run `npm run validate:syllabus` and then `npm run db:seed`.
+
+## Chapter study material
+
+Each chapter's explanation, examples, and practice questions live in `content/chapters/<class>/<subject>/<chapter-slug>.json`. For example, `content/chapters/class-10/maths/quadratic-equations.json`. The chapter slug is the one in the page URL.
+
+```json
+{
+  "status": "REVIEWED",
+  "intro": { "en": "Addition means putting things together…", "hi": "जोड़ का मतलब है…" },
+  "keyPoints": ["…"],
+  "formulas": ["x = [−b ± √(b² − 4ac)] / 2a"],
+  "examples": [{ "title": "…", "problem": "…", "steps": ["…", "…"], "answer": "…" }],
+  "practice": [{ "question": "…", "hint": "…", "answer": "…", "solution": ["…"] }]
+}
+```
+
+- Any text can be a plain string or `{ "en": "…", "hi": "…" }`.
+- `formulas`, `hint`, and `solution` are optional.
+- After editing, run `npm run validate:syllabus` and then `npm run db:seed`.
+
+### Drafting the remaining chapters with Claude
+
+```bash
+export ANTHROPIC_API_KEY=sk-ant-...     # or run: ant auth login
+npm run generate:content -- --class class-2 --dry-run          # list what would be generated
+npm run generate:content -- --class class-2 --subject maths    # write the drafts
+npm run db:seed
+```
+
+- The script only writes chapters that don't have a file yet. Pass `--overwrite` to redo existing ones and `--limit N` to try a few first.
+- Every generated file is saved with `"status": "DRAFT"`, so the page shows a "waiting for teacher review" note.
+- A teacher should check the answers, then change the status to `"REVIEWED"`.
+- Generating costs money on your Anthropic account. Try `--limit 2` first.
 
 **About the syllabus content:**
 - Class 9 and 10 chapter names follow the current NCERT textbooks.

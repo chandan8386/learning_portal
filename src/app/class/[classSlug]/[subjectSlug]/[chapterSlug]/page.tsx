@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { ChapterStudy } from "@/components/ChapterStudy";
 import { subjectStyle } from "@/components/colors";
 import { SpeakButton } from "@/components/SpeakButton";
+import { parseChapterContent } from "@/lib/chapter-content";
 import { getChapter, learningOutcomes } from "@/lib/data";
 import { getDictionary, localized } from "@/lib/i18n";
 
@@ -27,6 +29,7 @@ export default async function ChapterPage({ params }: Params) {
   const style = subjectStyle(subject.color);
   const title = localized(locale, chapter.title, chapter.titleHi);
   const outcomes = learningOutcomes(chapter.learningOutcomes);
+  const study = parseChapterContent(chapter.content);
   const base = `/class/${klass.slug}/${subject.slug}`;
 
   return (
@@ -82,9 +85,15 @@ export default async function ChapterPage({ params }: Params) {
         </section>
       )}
 
-      <p className="mb-8 rounded-2xl border-2 border-dashed border-amber-300 bg-amber-50 p-4 text-slate-700">
-        📖 {t.lessonsComingSoon}
-      </p>
+      <div className="mb-8">
+        {study ? (
+          <ChapterStudy content={study} locale={locale} t={t} kid={kid} />
+        ) : (
+          <p className="rounded-2xl border-2 border-dashed border-amber-300 bg-amber-50 p-4 text-slate-700">
+            📖 {t.examplesComingSoon}
+          </p>
+        )}
+      </div>
 
       <nav className="flex justify-between gap-3">
         {prev ? (

@@ -67,3 +67,32 @@ test("unknown pages show a friendly message", async ({ page }) => {
   await page.goto("/class/class-99");
   await expect(page.getByRole("heading", { name: "We could not find this page." })).toBeVisible();
 });
+
+test("a chapter shows solved examples and practice answers on tap", async ({ page }) => {
+  await page.goto("/class/class-10/maths");
+  await expect(page.getByRole("link", { name: /Quadratic Equations/ })).toContainText("Examples");
+
+  await page.getByRole("link", { name: /Quadratic Equations/ }).click();
+  await expect(page.getByRole("heading", { name: /Solved examples/ })).toBeVisible();
+  await expect(page.getByText("(x + 18)(x − 17) = 0")).toBeVisible();
+  await expect(page.getByText("x = [−b ± √(b² − 4ac)] / 2a")).toBeVisible();
+
+  const firstAnswer = page.getByText("Answer: x = 5 or x = −2");
+  await expect(firstAnswer).toBeHidden();
+  await page.getByText("Show answer").first().click();
+  await expect(firstAnswer).toBeVisible();
+});
+
+test("kid chapters show bilingual examples with speaker buttons", async ({ page, context }) => {
+  await context.addCookies([{ name: "vp_locale", value: "hi", url: "http://localhost:3100" }]);
+  await page.goto("/class/class-1/maths/addition");
+  await expect(page.getByRole("heading", { name: /हल किए गए उदाहरण/ })).toBeVisible();
+  await expect(page.getByText("मीना के पास 4 पेंसिल हैं।", { exact: false }).first()).toBeVisible();
+  await expect(page.getByRole("button", { name: /^सुनें: 4 \+ 3 = 7$/ }).first()).toBeVisible();
+});
+
+test("chapters without material say it is coming soon", async ({ page }) => {
+  await page.goto("/class/class-7/english");
+  await page.getByRole("link").filter({ hasText: "Grammar: Tenses and Their Use" }).click();
+  await expect(page.getByText("Solved examples and practice for this chapter are coming soon.")).toBeVisible();
+});

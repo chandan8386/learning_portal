@@ -1,0 +1,46 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Big numbers are made of tens and ones. 34 means 3 tens and 4 ones. Counting in tens helps us count fast: 10, 20, 30 … 100.",
+    "hi": "बड़ी संख्याएँ दहाई और इकाई से बनती हैं। 34 का मतलब 3 दहाई और 4 इकाई। दस-दस करके गिनने से जल्दी गिनती होती है: 10, 20, 30 … 100।"
+  },
+  "keyPoints": [
+    { "en": "The left digit tells the tens, the right digit tells the ones.", "hi": "बाएँ वाला अंक दहाई बताता है, दाएँ वाला इकाई।" },
+    { "en": "10 tens make 100.", "hi": "10 दहाई मिलकर 100 बनती है।" },
+    { "en": "To compare, look at the tens first. 52 > 48 because 5 tens > 4 tens.", "hi": "तुलना के लिए पहले दहाई देखो। 52 > 48 क्योंकि 5 दहाई > 4 दहाई।" },
+    { "en": "Skip counting by 2s: 2, 4, 6, 8 … and by 5s: 5, 10, 15, 20 …", "hi": "2-2 करके गिनो: 2, 4, 6, 8 … और 5-5 करके: 5, 10, 15, 20 …" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "How many tens and ones are in 47?", "hi": "47 में कितनी दहाई और कितनी इकाई हैं?" },
+      "steps": [
+        { "en": "The left digit is 4, so 4 tens.", "hi": "बायाँ अंक 4 है, यानी 4 दहाई।" },
+        { "en": "The right digit is 7, so 7 ones.", "hi": "दायाँ अंक 7 है, यानी 7 इकाई।" }
+      ],
+      "answer": { "en": "47 = 4 tens and 7 ones", "hi": "47 = 4 दहाई और 7 इकाई" }
+    },
+    {
+      "problem": { "en": "Which is bigger: 63 or 36?", "hi": "कौन बड़ा है: 63 या 36?" },
+      "steps": [
+        { "en": "Compare the tens: 63 has 6 tens, 36 has 3 tens.", "hi": "दहाई की तुलना करो: 63 में 6 दहाई, 36 में 3 दहाई।" },
+        { "en": "6 tens is more than 3 tens.", "hi": "6 दहाई, 3 दहाई से ज़्यादा है।" }
+      ],
+      "answer": "63 > 36"
+    },
+    {
+      "problem": { "en": "Count by 10s from 20 to 60.", "hi": "20 से 60 तक दस-दस करके गिनो।" },
+      "steps": [
+        { "en": "Add one ten each time.", "hi": "हर बार एक दहाई जोड़ो।" },
+        { "en": "20, 30, 40, 50, 60", "hi": "20, 30, 40, 50, 60" }
+      ],
+      "answer": "20, 30, 40, 50, 60"
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Write the number: 8 tens and 2 ones.", "hi": "संख्या लिखो: 8 दहाई और 2 इकाई।" }, "answer": "82" },
+    { "question": { "en": "What comes just after 59?", "hi": "59 के ठीक बाद क्या आता है?" }, "answer": "60" },
+    { "question": { "en": "Which is smaller: 71 or 17?", "hi": "कौन छोटा है: 71 या 17?" }, "answer": "17" },
+    { "question": { "en": "Fill in: 5, 10, 15, __, 25", "hi": "भरो: 5, 10, 15, __, 25" }, "answer": "20" },
+    { "question": { "en": "How many tens make 100?", "hi": "कितनी दहाई से 100 बनता है?" }, "answer": "10" }
+  ]
+}

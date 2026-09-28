@@ -104,6 +104,8 @@ model Chapter {
   titleHi          String?
   order            Int
   learningOutcomes Json    @default("[]")
+  // Study material from content/chapters (explanation, solved examples, practice).
+  content          Json?
 
   topics  Topic[]
   ebooks  EBook[]
