@@ -1,0 +1,325 @@
+== class-6/english/prose-and-poetry-fables-and-folk-tales
+I: Fables are short stories, often with animals as characters, that end with a moral (lesson). Folk tales are traditional stories passed down by word of mouth, like the Panchatantra and Jataka tales. They teach wisdom in a simple, memorable way.
+K: A fable has a clear moral, often stated at the end.
+K: Animals in fables behave like people and show human qualities.
+K: Folk tales change a little as they are retold across regions.
+E: In the fable of the crow and the fox, the fox praises the crow's voice and the crow drops its cheese. What is the moral?
+S: The fox flatters the crow only to get the cheese.
+S: The crow believes the praise and loses its food.
+A: Do not trust flatterers.
+E: Why do fables use animals instead of people?
+S: Animals have well-known traits: the fox is clever, the lion is strong, the tortoise is slow.
+A: Animals make the lesson simple and easy to remember, and readers can see human faults without feeling targeted.
+P: What is the lesson at the end of a fable called?
+R: The moral
+P: Name a famous collection of Indian fables.
+R: Panchatantra (also Jataka tales, Hitopadesha)
+P: How are folk tales traditionally passed on?
+R: By word of mouth, from one generation to the next
+
+== class-6/english/prose-and-poetry-friendship
+I: Stories and poems about friendship show loyalty, trust, forgiveness and sharing. Reading them, we notice how characters change and what makes a true friend.
+K: Character traits are shown through actions and words.
+K: Conflict between friends often leads to a lesson.
+K: A theme is the big idea of a text, such as "true friends stand by each other".
+E: Two friends see a bear. One climbs a tree and leaves the other, who pretends to be dead. Later he says, "The bear told me not to trust a friend who leaves you in danger." What is the theme?
+S: One friend abandoned the other in trouble.
+A: A true friend helps in times of danger.
+E: How can you tell a character is loyal?
+S: Look at what they do when things get difficult.
+A: They keep their promises and stay by their friend even when it is hard.
+P: What is the big idea of a story called?
+R: The theme
+P: Give one quality of a good friend shown in stories.
+R: Loyalty, honesty, kindness or forgiveness
+P: How are character traits shown in a text?
+R: Through the character's actions, words and thoughts
+
+== class-6/english/prose-and-poetry-nurturing-nature
+I: Many texts celebrate nature and remind us to protect it. Poets use imagery and personification to make trees, rivers and animals feel alive, so we care about them.
+K: Imagery helps us see, hear, smell and feel nature through words.
+K: Personification: "The river sang as it ran."
+K: Texts on nature often carry a message about conservation.
+E: "The old banyan spread its arms to shelter the tired travellers." Name the figure of speech.
+S: A tree cannot really spread arms or choose to shelter people.
+A: Personification
+E: What message might a poem about a felled tree carry?
+S: It shows the loss when a tree is cut.
+A: We should protect trees because they give life, shade and homes to birds.
+P: Words that help us picture a scene are called?
+R: Imagery
+P: "The wind howled angrily." Figure of speech?
+R: Personification
+P: Give one action to protect nature.
+R: Plant trees, save water, avoid plastic (any one)
+
+== class-6/english/prose-and-poetry-sports-and-wellness
+I: Texts about sports and wellness show discipline, teamwork, practice and a healthy lifestyle. Biographies of athletes show how hard work and never giving up lead to success.
+K: A biography is the story of a real person's life written by someone else.
+K: Sportsmanship: playing fair and respecting opponents.
+K: Wellness includes exercise, good food, sleep and a calm mind.
+E: An athlete loses a race but congratulates the winner. What quality does this show?
+S: Being gracious in defeat is admired in sport.
+A: Good sportsmanship
+E: What is the difference between a biography and an autobiography?
+S: Check who writes the life story.
+A: A biography is written by someone else; an autobiography is written by the person themself.
+P: Name two habits that support wellness.
+R: Regular exercise and enough sleep (also healthy food)
+P: A life story written by someone else is called?
+R: A biography
+P: What does sportsmanship mean?
+R: Playing fairly and respecting others, whether you win or lose
+
+== class-6/english/prose-and-poetry-culture-and-tradition
+I: Texts on culture and tradition describe festivals, food, crafts, music and customs. They help us appreciate India's diversity and understand why traditions matter.
+K: Descriptive writing uses sensory details: sights, sounds, tastes.
+K: Traditions connect generations and give a sense of identity.
+K: Culture can be tangible (monuments, crafts) or intangible (songs, stories).
+E: Describe a festival using two sensory details.
+S: Think about what you see and hear at the festival.
+A: At Diwali, rows of diyas glow on every balcony and firecrackers crackle in the night sky.
+E: Is a folk song tangible or intangible culture?
+S: A song cannot be touched; it lives in memory and practice.
+A: Intangible
+P: Name two senses you can use in descriptive writing.
+R: Sight and sound (also smell, taste, touch)
+P: Is the Taj Mahal tangible or intangible heritage?
+R: Tangible
+P: Why are traditions important?
+R: They link generations and give people a shared identity
+
+== class-6/english/grammar-tenses
+I: Tenses show the time of an action. Each of present, past and future has four forms: simple, continuous, perfect and perfect continuous. The perfect tense links a past action to another time: "I have finished my homework."
+K: Present perfect: has/have + past participle (She has eaten).
+K: Past perfect: had + past participle (The train had left before we arrived).
+K: Future simple: will + verb; future continuous: will be + -ing.
+E: Fill in with "finish": "I __ my homework, so I can play now."
+S: The action is complete and matters now → present perfect.
+A: have finished
+E: Fill in with "leave": "When we reached the station, the train __."
+S: One past action happened before another past action → past perfect.
+A: had left
+P: Fill in with "live": "They __ in Pune since 2019."
+R: have lived / have been living
+P: Fill in with "rain": "It __ when I woke up." (past continuous)
+R: was raining
+P: Change to future: "She visits her aunt."
+R: She will visit her aunt.
+
+== class-6/english/grammar-determiners-and-modals
+I: Determiners come before nouns to show which or how much: a, an, the, this, those, some, any, many, much, few, little, each, every. Modals are helping verbs that show ability, permission, possibility or duty: can, could, may, might, must, should, will, would.
+K: some — positive sentences; any — questions and negatives.
+K: few/many — countable; little/much — uncountable.
+K: can (ability), may (permission/possibility), must (necessity), should (advice).
+E: Fill in: "There isn't __ milk left." (some/any)
+S: The sentence is negative → any.
+A: any
+E: Fill in: "You __ wear a helmet while riding." (can/must)
+S: It is a rule for safety → necessity.
+A: must
+P: Fill in: "I have __ friends in this city." (few/little)
+R: few
+P: Fill in: "__ I come in, please?" (May/Must)
+R: May
+P: Fill in: "You __ drink more water; it's good for you." (should/can)
+R: should
+
+== class-6/english/grammar-voice-and-narration-basics
+I: In the active voice the doer comes first; in the passive voice the receiver comes first. In reported (indirect) speech we report what someone said without their exact words, usually changing pronouns and tenses.
+K: Passive: object + be + past participle (+ by + doer).
+K: Reported speech: said → said that; tense moves back (is → was).
+K: Questions: asked if/whether (yes-no) or asked + wh-word.
+E: Change to passive: "The gardener waters the plants."
+S: Object "the plants" becomes the subject; present tense, plural → are watered.
+A: The plants are watered by the gardener.
+E: Report: Riya asked, "Are you coming?"
+S: Yes-no question → asked if; you → I/he/she; are → was/were.
+A: Riya asked if I was coming.
+P: Change to passive: "Tom broke the vase."
+R: The vase was broken by Tom.
+P: Report: He said, "I am busy."
+R: He said that he was busy.
+P: Report: She asked, "Where do you live?"
+R: She asked where I lived.
+
+== class-6/english/writing-letter-notice-and-paragraph
+I: Formal letters are written to officials (principal, editor) with a set format and polite tone. Notices inform many people briefly. A good paragraph has a topic sentence, supporting details and a conclusion.
+K: Formal letter: sender's address, date, receiver's address, subject, salutation, body, complimentary close, name.
+K: Notice: organisation, NOTICE, date, heading, body (what, when, where, who), name and designation.
+K: Paragraph: one main idea, 100–120 words, linking words (firstly, moreover, finally).
+E: Write the subject line of a letter to the principal asking for a class library.
+S: The subject states the purpose in a few words.
+A: Subject: Request to set up a library in Class 6
+E: Which linking word shows an extra point: "however" or "moreover"?
+S: "However" shows contrast; "moreover" adds information.
+A: moreover
+P: What closing do we use in a formal letter?
+R: Yours sincerely / Yours faithfully
+P: Name the four W's a notice should answer.
+R: What, when, where, who
+P: What does a topic sentence do?
+R: States the main idea of the paragraph
+
+== class-6/english/reading-comprehension
+I: Unseen passages test understanding. Read the questions first, then the passage, underline key lines and answer in your own words. Some questions ask for facts, some for inferences, and some for vocabulary.
+K: Skim for the main idea; scan for specific facts.
+K: Inference questions need reasoning, not copying.
+K: Vocabulary: find a word in the passage that means …
+E: "Despite the heavy rain, the farmers were relieved; their parched fields finally had water." Why were the farmers relieved?
+S: "Parched" means very dry; rain solved their problem.
+A: Because their dry fields finally got water.
+E: Find a word in the sentence that means "very dry".
+S: Look for the word describing the fields.
+A: parched
+P: What is reading quickly to get the main idea called?
+R: Skimming
+P: What is searching a passage for a specific fact called?
+R: Scanning
+P: Should inference answers be copied word for word?
+R: No — explain using clues in your own words
+
+== class-6/hindi/prose-lessons
+I: गद्य पाठ पढ़कर लेखक का उद्देश्य, पात्रों का चरित्र और मुख्य घटनाएँ समझो। प्रश्नों के उत्तर पाठ के आधार पर अपने शब्दों में लिखो।
+K: पाठ का सार 5–6 वाक्यों में लिखो।
+K: पात्रों का चरित्र-चित्रण उनके कार्यों से करो।
+K: शब्दार्थ और वाक्य-प्रयोग पर ध्यान दो।
+E: पाठ में एक बच्चा अपने पुराने खिलौने ग़रीब बच्चों को दे देता है। उसका कौन-सा गुण दिखता है?
+S: उसने अपनी चीज़ें दूसरों की ख़ुशी के लिए दीं।
+A: उदारता और दया
+E: पाठ का सार लिखते समय क्या छोड़ देना चाहिए?
+S: सार छोटा होता है।
+A: छोटी-छोटी बातें और उदाहरण छोड़कर केवल मुख्य घटनाएँ लिखनी चाहिए।
+P: पाठ के लोग या जानवर क्या कहलाते हैं?
+R: पात्र
+P: लेखक पाठ क्यों लिखता है, इसे क्या कहते हैं?
+R: लेखक का उद्देश्य
+P: सार कितने वाक्यों में लिखना ठीक है?
+R: 5–6 वाक्य
+
+== class-6/hindi/poems
+I: कविता में भाव, भाषा और शिल्प तीनों का सौंदर्य होता है। कविता की व्याख्या में संदर्भ (कवि और कविता का नाम), प्रसंग (किस बारे में) और भावार्थ लिखते हैं।
+K: संदर्भ: कविता और कवि का नाम
+K: प्रसंग: पंक्तियाँ किस स्थिति में कही गई हैं
+K: भावार्थ: पंक्तियों का सरल अर्थ
+E: "नदी कहती है — बहते रहो, रुकना ही मृत्यु है।" इसका भावार्थ लिखो।
+S: नदी निरंतर बहती है, रुकती नहीं।
+A: जीवन में लगातार आगे बढ़ते रहना चाहिए; रुक जाना हार के समान है।
+E: इस पंक्ति में कौन-सा अलंकार है?
+S: नदी को मनुष्य की तरह बोलते दिखाया गया है।
+A: मानवीकरण अलंकार
+P: व्याख्या के तीन भाग बताओ।
+R: संदर्भ, प्रसंग, भावार्थ
+P: जहाँ प्रकृति मनुष्य की तरह काम करे, वह कौन-सा अलंकार है?
+R: मानवीकरण
+P: कविता की पंक्तियों का सरल अर्थ क्या कहलाता है?
+R: भावार्थ
+
+== class-6/hindi/varna-vichar
+I: भाषा की सबसे छोटी ध्वनि वर्ण कहलाती है। वर्णों के समूह को वर्णमाला कहते हैं। हिंदी वर्णमाला में स्वर और व्यंजन होते हैं। व्यंजन स्वर की सहायता से बोले जाते हैं।
+K: स्वर: अ से औ तक — ह्रस्व (अ, इ, उ, ऋ) और दीर्घ (आ, ई, ऊ, ए, ऐ, ओ, औ)
+K: व्यंजन: स्पर्श (क से म), अंतःस्थ (य, र, ल, व), ऊष्म (श, ष, स, ह)
+K: संयुक्त व्यंजन: क्ष, त्र, ज्ञ, श्र
+E: "आ" ह्रस्व स्वर है या दीर्घ?
+S: इसे बोलने में "अ" से दुगुना समय लगता है।
+A: दीर्घ स्वर
+E: "श्र" किन वर्णों से मिलकर बना है?
+S: आधा श और र मिलकर।
+A: श् + र
+P: भाषा की सबसे छोटी ध्वनि क्या कहलाती है?
+R: वर्ण
+P: अंतःस्थ व्यंजन कौन-से हैं?
+R: य, र, ल, व
+P: "क्ष" किनसे मिलकर बना है?
+R: क् + ष
+
+== class-6/hindi/sandhi
+I: दो वर्णों के मेल से होने वाले विकार को संधि कहते हैं। संधि के तीन भेद हैं: स्वर संधि, व्यंजन संधि और विसर्ग संधि।
+K: दीर्घ संधि: विद्या + आलय = विद्यालय
+K: गुण संधि: नर + इंद्र = नरेंद्र; सूर्य + उदय = सूर्योदय
+K: व्यंजन संधि: जगत् + ईश = जगदीश; विसर्ग संधि: मनः + रथ = मनोरथ
+E: "हिमालय" का संधि-विच्छेद और भेद बताओ।
+S: हिम + आलय: अ + आ = आ।
+A: हिम + आलय — दीर्घ स्वर संधि
+E: महा + उत्सव = ?
+S: आ + उ = ओ (गुण संधि)।
+A: महोत्सव
+P: "रवींद्र" का संधि-विच्छेद?
+R: रवि + इंद्र
+P: संधि के तीन भेद बताओ।
+R: स्वर, व्यंजन, विसर्ग
+P: "जगदीश" में कौन-सी संधि है?
+R: व्यंजन संधि
+
+== class-6/hindi/noun-pronoun-adjective
+I: संज्ञा नाम बताती है, सर्वनाम संज्ञा की जगह आता है, और विशेषण संज्ञा या सर्वनाम की विशेषता बताता है। "वह होशियार लड़की किताब पढ़ती है" — लड़की (संज्ञा), वह (सर्वनाम/सार्वनामिक विशेषण), होशियार (विशेषण)।
+K: संज्ञा के भेद: व्यक्तिवाचक, जातिवाचक, भाववाचक
+K: सर्वनाम के भेद: पुरुषवाचक, निश्चयवाचक, अनिश्चयवाचक, संबंधवाचक, प्रश्नवाचक, निजवाचक
+K: विशेषण के भेद: गुणवाचक, संख्यावाचक, परिमाणवाचक, सार्वनामिक
+E: "यह लाल गुलाब मेरा है।" विशेषण और उनके भेद बताओ।
+S: "लाल" गुण बताता है।
+S: "यह" संज्ञा (गुलाब) से पहले आकर उसकी ओर संकेत करता है।
+A: लाल — गुणवाचक; यह — सार्वनामिक विशेषण
+E: "मित्र" से भाववाचक संज्ञा बनाओ।
+S: मित्र का भाव = मित्रता।
+A: मित्रता
+P: "कौन आया है?" — "कौन" किस प्रकार का सर्वनाम?
+R: प्रश्नवाचक
+P: "दो किलो आलू" — "दो किलो" किस प्रकार का विशेषण?
+R: परिमाणवाचक
+P: "बुढ़ापा" किस प्रकार की संज्ञा?
+R: भाववाचक
+
+== class-6/hindi/verb-and-tense
+I: क्रिया काम का होना या करना बताती है। कर्म के आधार पर सकर्मक और अकर्मक क्रिया होती है। काल तीन हैं: भूत, वर्तमान और भविष्यत्, और हर काल के कई भेद होते हैं।
+K: सकर्मक: कर्म के साथ (राम पत्र लिखता है)
+K: अकर्मक: कर्म के बिना (बच्चा रोता है)
+K: भूतकाल के भेद: सामान्य (गया), आसन्न (गया है), पूर्ण (गया था), अपूर्ण (जा रहा था)
+E: "मैं खाना खा चुका हूँ।" — काल का भेद बताओ।
+S: काम अभी-अभी पूरा हुआ है।
+A: आसन्न भूतकाल
+E: "वह सो रहा है।" — क्रिया सकर्मक है या अकर्मक?
+S: पूछो: क्या सो रहा है? उत्तर नहीं मिलता।
+A: अकर्मक
+P: "पिताजी अख़बार पढ़ रहे थे।" — काल?
+R: अपूर्ण भूतकाल
+P: "हम कल मेला देखेंगे।" — काल?
+R: सामान्य भविष्यत् काल
+P: "सीता गीत गाती है।" — क्रिया का प्रकार?
+R: सकर्मक
+
+== class-6/hindi/idioms-and-proverbs
+I: मुहावरे और लोकोक्तियाँ भाषा को रोचक और प्रभावशाली बनाते हैं। मुहावरा वाक्य का अंश होता है; लोकोक्ति अपने-आप में पूरा कथन होती है।
+K: अंधे की लाठी — एकमात्र सहारा
+K: टेढ़ी खीर — कठिन काम
+K: जिसकी लाठी उसकी भैंस — शक्तिशाली की ही चलती है
+E: "गणित का यह सवाल मेरे लिए टेढ़ी खीर है।" मुहावरे का अर्थ?
+S: सवाल हल करना मुश्किल है।
+A: कठिन काम
+E: "नाच न जाने आँगन टेढ़ा" का प्रयोग कब करते हैं?
+S: काम न आने पर बहाने बनाना।
+A: जब कोई अपनी कमी का दोष दूसरों या परिस्थिति पर डाले
+P: "अंधे की लाठी" का अर्थ?
+R: एकमात्र सहारा
+P: "जल में रहकर मगर से बैर" का अर्थ?
+R: जिसके अधीन रहें उसी से दुश्मनी करना
+P: मुहावरा और लोकोक्ति में एक अंतर बताओ।
+R: मुहावरा वाक्यांश है; लोकोक्ति पूरा वाक्य है
+
+== class-6/hindi/essay-letter-and-dialogue-writing
+I: निबंध में विचार क्रमबद्ध होते हैं। पत्र औपचारिक और अनौपचारिक होते हैं। संवाद लेखन में दो या अधिक लोगों की बातचीत स्वाभाविक, छोटे वाक्यों में लिखी जाती है।
+K: निबंध: भूमिका, विषय-विस्तार (2–3 अनुच्छेद), उपसंहार
+K: संवाद: पात्र का नाम, फिर उसका कथन; भाषा सरल और पात्र के अनुकूल
+K: औपचारिक पत्र में "विषय" अवश्य लिखें।
+E: दुकानदार और ग्राहक के बीच दो पंक्तियों का संवाद लिखो।
+S: ग्राहक कुछ माँगे, दुकानदार जवाब दे।
+A: ग्राहक: भैया, एक किलो सेब कितने के हैं? दुकानदार: जी, एक सौ बीस रुपये किलो।
+E: "समय का महत्व" निबंध की भूमिका लिखो।
+S: विषय का परिचय और उसका महत्व बताओ।
+A: समय सबसे क़ीमती धन है। बीता हुआ समय कभी लौटकर नहीं आता, इसलिए जो समय का सदुपयोग करता है वही सफल होता है।
+P: संवाद की भाषा कैसी होनी चाहिए?
+R: सरल, स्वाभाविक और पात्र के अनुकूल
+P: निबंध के विषय-विस्तार में कितने अनुच्छेद ठीक हैं?
+R: 2–3
+P: औपचारिक पत्र में कौन-सी पंक्ति ज़रूरी है जो अनौपचारिक में नहीं होती?
+R: विषय
