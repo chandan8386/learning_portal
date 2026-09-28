@@ -1,0 +1,839 @@
+== class-7/maths/integers
+I: Integers include positive numbers, negative numbers and zero. We add, subtract, multiply and divide them using sign rules. Integers describe temperatures, heights above and below sea level, and profit and loss.
+K: Same signs add and keep the sign: (−3) + (−5) = −8.
+K: Multiplication/division: same signs → positive; different signs → negative.
+K: a − (−b) = a + b.
+E: Evaluate (−12) × 3 + (−15) ÷ (−5).
+S: (−12) × 3 = −36 (different signs → negative).
+S: (−15) ÷ (−5) = 3 (same signs → positive); −36 + 3 = −33.
+A: −33
+E: A diver is at −25 m. She rises 10 m, then dives 18 m. Where is she now?
+S: −25 + 10 = −15; −15 − 18 = −33.
+A: 33 m below sea level (−33 m)
+P: (−7) × (−8) = ?
+R: 56
+P: 15 − (−6) = ?
+R: 21
+P: (−48) ÷ 6 = ?
+R: −8
+
+== class-7/maths/fractions-and-decimals
+I: To multiply fractions, multiply numerators and denominators. To divide, multiply by the reciprocal. Decimals are multiplied like whole numbers, then the decimal point is placed by counting decimal places.
+K: a/b × c/d = ac/bd; a/b ÷ c/d = a/b × d/c.
+K: 0.3 × 0.2 = 0.06 (two decimal places in total).
+K: Dividing by 10, 100, 1000 moves the decimal point left.
+E: Find 3/4 ÷ 9/16.
+S: Multiply by the reciprocal: 3/4 × 16/9.
+S: = 48/36 = 4/3
+A: 4/3 = 1 1/3
+E: A ribbon is 7.5 m long. It is cut into pieces of 0.25 m. How many pieces?
+S: 7.5 ÷ 0.25 = 750 ÷ 25
+A: 30 pieces
+P: 2/5 × 15 = ?
+R: 6
+P: 1.2 × 0.3 = ?
+R: 0.36
+P: 45.6 ÷ 100 = ?
+R: 0.456
+
+== class-7/maths/data-handling
+I: We summarise data using measures of central tendency: mean (average), median (middle value) and mode (most frequent). Bar graphs and double bar graphs compare data. Probability measures how likely an event is, from 0 to 1.
+K: Mean = sum ÷ number of values.
+K: Median: arrange in order; the middle value (or average of two middle values).
+K: Probability = favourable outcomes ÷ total outcomes.
+E: Find the mean, median and mode of 5, 8, 3, 8, 6.
+S: Mean = (5 + 8 + 3 + 8 + 6) ÷ 5 = 30 ÷ 5 = 6.
+S: Ordered: 3, 5, 6, 8, 8 → median 6; mode 8.
+A: Mean 6, median 6, mode 8
+E: A bag has 3 red and 5 blue balls. What is the probability of picking red?
+S: Favourable = 3; total = 8.
+A: 3/8
+P: Median of 2, 9, 4, 7?
+R: 5.5
+P: Mode of 1, 3, 3, 4, 4, 4, 5?
+R: 4
+P: Probability of heads when tossing a coin?
+R: 1/2
+
+== class-7/maths/simple-equations
+I: An equation is a statement that two expressions are equal, like 3x + 5 = 20. Solving means finding the value of the variable that makes it true, by doing the same operation on both sides.
+K: Transpose: move a term across "=", changing + to − or × to ÷.
+K: Always check by substituting the answer back.
+K: Form equations from word problems by naming the unknown.
+E: Solve 3x + 5 = 20.
+S: 3x = 20 − 5 = 15
+S: x = 15 ÷ 3
+A: x = 5
+E: Four times a number decreased by 7 is 29. Find the number.
+S: 4x − 7 = 29 ⇒ 4x = 36
+A: x = 9
+P: Solve x/4 = 6.
+R: x = 24
+P: Solve 2y − 3 = 11.
+R: y = 7
+P: Solve 5(p + 2) = 35.
+R: p = 5
+
+== class-7/maths/lines-and-angles
+I: Pairs of angles have special relationships. When a transversal cuts two parallel lines, corresponding angles are equal, alternate interior angles are equal, and co-interior angles add to 180°.
+K: Complementary angles add to 90°; supplementary add to 180°.
+K: Vertically opposite angles are equal.
+K: Linear pair: adjacent angles on a straight line, sum 180°.
+E: Find the complement and supplement of 35°.
+S: Complement = 90° − 35° = 55°.
+S: Supplement = 180° − 35° = 145°.
+A: Complement 55°, supplement 145°
+E: Two parallel lines are cut by a transversal. One co-interior angle is 110°. Find the other.
+S: Co-interior angles add to 180°.
+A: 70°
+P: Supplement of 120°?
+R: 60°
+P: If one vertically opposite angle is 48°, the other is?
+R: 48°
+P: Complement of 72°?
+R: 18°
+
+== class-7/maths/triangles-and-their-properties
+I: The angles of a triangle add up to 180°. An exterior angle equals the sum of the two opposite interior angles. The sum of any two sides is greater than the third side. In a right triangle, Pythagoras' theorem holds: hypotenuse² = base² + height².
+K: Angle sum property: ∠A + ∠B + ∠C = 180°.
+K: Exterior angle = sum of interior opposite angles.
+K: Pythagoras: c² = a² + b² (c = hypotenuse).
+E: The exterior angle of a triangle is 120° and one interior opposite angle is 45°. Find the other.
+S: Exterior angle = sum of interior opposite angles.
+S: 120° − 45°
+A: 75°
+E: A ladder 13 m long reaches a window 12 m high. How far is its foot from the wall?
+S: 13² = 12² + x² ⇒ 169 = 144 + x².
+S: x² = 25
+A: 5 m
+P: Can 2 cm, 3 cm, 6 cm form a triangle?
+R: No (2 + 3 < 6)
+P: Two angles are 60° and 75°. Third angle?
+R: 45°
+P: Legs 6 cm and 8 cm. Hypotenuse?
+R: 10 cm
+
+== class-7/maths/congruence-of-triangles
+I: Congruent figures have exactly the same shape and size. Two triangles are congruent if they satisfy one of these criteria: SSS, SAS, ASA or RHS. Corresponding parts of congruent triangles are equal (CPCT).
+K: SSS: three sides equal.
+K: SAS: two sides and the included angle equal; ASA: two angles and the included side.
+K: RHS: right angle, hypotenuse and one side equal.
+E: △ABC and △PQR have AB = PQ, BC = QR and ∠B = ∠Q. Are they congruent?
+S: Two sides and the angle between them are equal.
+A: Yes, by SAS
+E: Two right triangles have equal hypotenuses and one equal side. Which rule proves congruence?
+S: Right angle + hypotenuse + side.
+A: RHS
+P: What does CPCT stand for?
+R: Corresponding parts of congruent triangles
+P: Is AAA a congruence rule?
+R: No (it gives similar, not necessarily congruent, triangles)
+P: Three sides of one triangle equal three sides of another. Rule?
+R: SSS
+
+== class-7/maths/comparing-quantities-ratio-and-percentage
+I: A ratio compares two quantities of the same kind (3 : 5). A percentage is a fraction out of 100. We use percentages for marks, discounts, profit and loss, and simple interest.
+K: x% of y = (x/100) × y.
+K: Profit % = (profit ÷ CP) × 100; Loss % = (loss ÷ CP) × 100.
+K: Simple interest = (P × R × T) ÷ 100.
+E: Find 15% of 240.
+S: (15/100) × 240 = 36
+A: 36
+E: Find the simple interest on ₹5,000 at 8% per year for 3 years.
+S: SI = (5000 × 8 × 3) ÷ 100
+A: ₹1,200
+P: Express 3/4 as a percentage.
+R: 75%
+P: A book bought for ₹200 is sold for ₹250. Profit %?
+R: 25%
+P: Simplify the ratio 24 : 36.
+R: 2 : 3
+
+== class-7/maths/rational-numbers
+I: A rational number can be written as p/q where p and q are integers and q ≠ 0. All integers and fractions are rational. We can place them on a number line, compare them, and add, subtract, multiply and divide them.
+K: Standard form: denominator positive, no common factor (−6/8 → −3/4).
+K: To compare, make denominators equal.
+K: There are infinitely many rational numbers between any two.
+E: Add −3/4 + 5/6.
+S: LCM of 4 and 6 is 12: −9/12 + 10/12.
+A: 1/12
+E: Which is greater: −2/3 or −3/5?
+S: −2/3 = −10/15, −3/5 = −9/15.
+S: −9/15 is to the right on the number line.
+A: −3/5
+P: Write −12/18 in standard form.
+R: −2/3
+P: (−2/3) × (9/4) = ?
+R: −3/2
+P: Is 0 a rational number?
+R: Yes (0/1)
+
+== class-7/maths/perimeter-and-area
+I: We find areas of parallelograms, triangles and circles. The circumference of a circle is 2πr and its area is πr², with π ≈ 22/7 or 3.14.
+K: Parallelogram: area = base × height.
+K: Triangle: area = ½ × base × height.
+K: Circle: circumference = 2πr, area = πr².
+E: Find the area of a circle of radius 7 cm (π = 22/7).
+S: Area = 22/7 × 7 × 7
+A: 154 sq cm
+E: A parallelogram has base 12 cm and height 7 cm. Find its area.
+S: Area = 12 × 7
+A: 84 sq cm
+P: Circumference of a circle of radius 14 cm (π = 22/7)?
+R: 88 cm
+P: Area of a triangle with base 10 m and height 6 m?
+R: 30 sq m
+P: A square has area 64 sq cm. Its perimeter?
+R: 32 cm
+
+== class-7/maths/algebraic-expressions
+I: Algebraic expressions use variables and constants joined by operations: 3x + 2y − 5. Terms with the same variables and powers are like terms and can be added or subtracted.
+K: Term: 3x; coefficient: 3; variable: x; constant: −5.
+K: Like terms: 4ab and −7ab; unlike: 4ab and 4a.
+K: Monomial (1 term), binomial (2), trinomial (3).
+E: Simplify: (5x + 3y) + (2x − 7y).
+S: x-terms: 5x + 2x = 7x.
+S: y-terms: 3y − 7y = −4y.
+A: 7x − 4y
+E: Find the value of 2a² − 3a + 1 when a = −2.
+S: 2(4) − 3(−2) + 1 = 8 + 6 + 1
+A: 15
+P: Coefficient of y in −9xy?
+R: −9x (numerical coefficient −9)
+P: Subtract 3m − 4 from 5m + 2.
+R: 2m + 6
+P: Is 7p² + 3 a binomial or trinomial?
+R: Binomial
+
+== class-7/maths/exponents-and-powers
+I: Exponents show repeated multiplication: 2⁵ = 2 × 2 × 2 × 2 × 2 = 32. Laws of exponents make calculations easier. Very large numbers are written in standard form, like 3.84 × 10⁸.
+K: aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ.
+K: (aᵐ)ⁿ = aᵐⁿ; a⁰ = 1.
+K: Standard form: k × 10ⁿ with 1 ≤ k < 10.
+E: Simplify (2³)² × 2⁴.
+S: (2³)² = 2⁶.
+S: 2⁶ × 2⁴ = 2¹⁰
+A: 2¹⁰ = 1024
+E: Write 5,90,00,000 in standard form.
+S: Move the decimal to get 5.9; count 7 places.
+A: 5.9 × 10⁷
+P: Value of 3⁴?
+R: 81
+P: Simplify 7⁸ ÷ 7⁵.
+R: 7³ = 343
+P: Value of 1000⁰?
+R: 1
+
+== class-7/maths/symmetry
+I: Figures may have line symmetry (mirror halves) and rotational symmetry (look the same after a turn). The angle of rotation is 360° ÷ order of rotational symmetry.
+K: Regular polygon with n sides: n lines of symmetry, rotational order n.
+K: Angle of rotation = 360° ÷ order.
+K: A figure has rotational symmetry only if order ≥ 2.
+E: What is the angle of rotation for a regular pentagon?
+S: Order of rotational symmetry = 5.
+S: 360° ÷ 5
+A: 72°
+E: Does a parallelogram (not rectangle) have line symmetry?
+S: Folding along any line does not give matching halves.
+A: No, but it has rotational symmetry of order 2.
+P: Lines of symmetry in a regular octagon?
+R: 8
+P: Order of rotational symmetry of an equilateral triangle?
+R: 3
+P: Angle of rotation for a square?
+R: 90°
+
+== class-7/maths/visualising-solid-shapes
+I: Solid (3D) shapes have faces, edges and vertices. We can draw them using nets (flat patterns that fold into solids) and view them from the front, side and top. For polyhedra, Euler's formula holds: F + V − E = 2.
+K: Cube: 6 faces, 12 edges, 8 vertices.
+K: Cuboid: same counts as a cube, but faces are rectangles.
+K: Cylinder, cone and sphere have curved surfaces.
+E: Check Euler's formula for a cube.
+S: F = 6, V = 8, E = 12.
+S: 6 + 8 − 12 = 2 ✓
+A: F + V − E = 2 holds.
+E: How many faces, edges and vertices does a square pyramid have?
+S: Base 1 + 4 triangles = 5 faces; 4 base edges + 4 slant = 8 edges; 4 + 1 = 5 vertices.
+A: 5 faces, 8 edges, 5 vertices
+P: Vertices of a triangular prism?
+R: 6
+P: Which solid has only a curved surface?
+R: Sphere
+P: How many faces does a cuboid have?
+R: 6
+
+== class-7/science/nutrition-in-plants
+I: Green plants make their own food by photosynthesis, using carbon dioxide, water and sunlight with the help of chlorophyll, and release oxygen. They are autotrophs. Some plants use other modes: parasites (Cuscuta), insectivorous plants (pitcher plant) and saprotrophs (fungi).
+K: Photosynthesis: CO₂ + water → glucose + oxygen (sunlight, chlorophyll).
+K: Stomata on leaves let gases in and out.
+K: Symbiosis: lichens (alga + fungus); Rhizobium in legume roots fixes nitrogen.
+E: Why are leaves called the food factories of plants?
+S: Leaves contain chlorophyll and stomata.
+A: Because photosynthesis mainly takes place in leaves.
+E: How does a pitcher plant get nitrogen?
+S: It grows in nitrogen-poor soil.
+A: It traps and digests insects in its pitcher-shaped leaf.
+P: Which pigment traps sunlight?
+R: Chlorophyll
+P: Name a parasitic plant.
+R: Cuscuta (amarbel)
+P: Which gas is released in photosynthesis?
+R: Oxygen
+
+== class-7/science/nutrition-in-animals
+I: Animals get food from other organisms (heterotrophs). Human digestion happens in the alimentary canal: mouth, oesophagus, stomach, small intestine and large intestine. Digestive juices break food into simple substances that are absorbed into blood.
+K: Saliva starts starch digestion in the mouth.
+K: The stomach makes acid and enzymes to digest proteins.
+K: Digested food is absorbed through villi in the small intestine.
+E: Why does chewing a piece of chapati for a long time make it taste sweet?
+S: Saliva contains an enzyme that acts on starch.
+A: Saliva breaks starch into sugar.
+E: How does an amoeba take in food?
+S: It uses finger-like projections.
+A: It surrounds food with pseudopodia and forms a food vacuole.
+P: Where is most digested food absorbed?
+R: Small intestine
+P: What do ruminants like cows do with swallowed grass?
+R: Bring it back to the mouth to chew (chewing the cud)
+P: Which organ makes bile?
+R: Liver
+
+== class-7/science/heat-and-temperature
+I: Heat flows from a hotter object to a cooler one. Temperature, measured in °C, shows how hot something is. Heat travels by conduction (solids), convection (liquids and gases) and radiation (no medium needed).
+K: Conductors (metals) pass heat easily; insulators (wood, plastic) do not.
+K: Sea breeze by day, land breeze by night — due to convection.
+K: Dark colours absorb more heat; light colours reflect it.
+E: Why do we wear light-coloured clothes in summer?
+S: Light colours reflect sunlight.
+A: They absorb less heat and keep us cooler.
+E: How does heat from the sun reach Earth?
+S: Space has no air or matter to carry heat.
+A: By radiation
+P: Name a good conductor of heat.
+R: Copper (or any metal)
+P: How is heat transferred in boiling water?
+R: Convection
+P: Why do cooking pans have wooden or plastic handles?
+R: They are insulators and stay cool
+
+== class-7/science/acids-bases-and-salts
+I: Acids taste sour (lemon, vinegar); bases taste bitter and feel soapy (baking soda, soap). Indicators like litmus, turmeric and china rose show whether a substance is acidic or basic. Acids and bases neutralise each other to form salt and water.
+K: Acid turns blue litmus red; base turns red litmus blue.
+K: Turmeric turns red in a base.
+K: Neutralisation: acid + base → salt + water (+ heat).
+E: Why is baking soda applied on an ant bite?
+S: An ant sting contains formic acid.
+A: Baking soda is a base and neutralises the acid.
+E: What colour does turmeric paper turn with soap solution?
+S: Soap is basic.
+A: Red
+P: Taste of acids?
+R: Sour
+P: Blue litmus in lemon juice turns?
+R: Red
+P: What is formed when an acid reacts with a base?
+R: Salt and water
+
+== class-7/science/physical-and-chemical-changes
+I: A physical change alters only shape, size or state and can often be reversed (melting ice). A chemical change forms new substances, is usually irreversible, and may give off heat, light, gas or a colour change (burning, rusting).
+K: Physical: melting, freezing, cutting, dissolving sugar.
+K: Chemical: burning, rusting, cooking, curdling of milk.
+K: Rusting needs iron, oxygen and water; galvanisation prevents it.
+E: Is rusting of iron a physical or chemical change?
+S: A new substance, iron oxide, forms.
+A: Chemical change
+E: How can we prevent an iron gate from rusting?
+S: Stop air and moisture from reaching the iron.
+A: Paint it, oil it or galvanise it (coat with zinc).
+P: Melting of wax is which change?
+R: Physical change
+P: Name two things needed for rusting.
+R: Oxygen and water (moisture)
+P: What is coating iron with zinc called?
+R: Galvanisation
+
+== class-7/science/respiration-in-organisms
+I: Respiration releases energy from food. Aerobic respiration uses oxygen and produces carbon dioxide, water and lots of energy. Anaerobic respiration happens without oxygen (yeast, muscles during heavy exercise) and gives less energy.
+K: Aerobic: glucose + oxygen → CO₂ + water + energy.
+K: Anaerobic in muscles → lactic acid (causes cramps).
+K: Breathing (inhaling and exhaling) is different from respiration (energy release in cells).
+E: Why do we get muscle cramps after running fast?
+S: Muscles need more oxygen than we can supply.
+A: Anaerobic respiration makes lactic acid, which builds up in muscles.
+E: How do fish breathe?
+S: They take in oxygen dissolved in water.
+A: Through gills
+P: Which gas is released in respiration?
+R: Carbon dioxide
+P: Organisms that respire without oxygen do what type of respiration?
+R: Anaerobic
+P: How do insects breathe?
+R: Through spiracles and tracheae
+
+== class-7/science/transportation-in-animals-and-plants
+I: In humans, blood carries oxygen, food and wastes. The heart pumps blood through arteries (away from heart) and veins (towards heart). Kidneys filter waste as urine. In plants, xylem carries water up from roots; phloem carries food from leaves.
+K: Red blood cells carry oxygen (haemoglobin); white blood cells fight germs; platelets help clotting.
+K: The heart has four chambers.
+K: Transpiration: loss of water from leaves pulls water up the xylem.
+E: Which vessels carry blood away from the heart?
+S: They have thick walls because blood is under high pressure.
+A: Arteries
+E: Why do plants lose water through leaves?
+S: Water evaporates through stomata.
+A: Transpiration — it helps pull water up from the roots.
+P: How many chambers does the human heart have?
+R: 4
+P: Which tissue carries water in plants?
+R: Xylem
+P: Which organs filter blood to make urine?
+R: Kidneys
+
+== class-7/science/reproduction-in-plants
+I: Plants reproduce asexually (vegetative propagation, budding, spore formation) or sexually (through flowers). Pollination transfers pollen to the stigma; fertilisation forms a seed. Seeds spread by wind, water and animals.
+K: Vegetative: potato (eyes), rose (stem cutting), Bryophyllum (leaf buds).
+K: Pollination by wind, water or insects; fertilisation → zygote → embryo in seed.
+K: Seed dispersal: wind (dandelion), water (coconut), animals (burrs).
+E: How is a new potato plant grown?
+S: Potato tubers have buds called eyes.
+A: By planting a piece of potato with an eye (vegetative propagation).
+E: Why do some seeds have wings or hairs?
+S: This helps them float in air.
+A: To be carried far by the wind.
+P: Which part of the flower receives pollen?
+R: Stigma
+P: Name a plant that grows from leaf buds.
+R: Bryophyllum
+P: How are coconut seeds dispersed?
+R: By water
+
+== class-7/science/motion-and-time
+I: Speed tells how fast an object moves: speed = distance ÷ time. Its SI unit is m/s; km/h is common. A simple pendulum's time period is used to measure time. Distance–time graphs show motion: a straight line means uniform speed.
+K: Speed = distance ÷ time.
+K: Uniform motion: equal distance in equal time.
+K: 1 km/h = 5/18 m/s.
+E: A car covers 180 km in 3 hours. Find its speed.
+S: Speed = 180 ÷ 3
+A: 60 km/h
+E: Convert 72 km/h to m/s.
+S: 72 × 5/18
+A: 20 m/s
+P: SI unit of speed?
+R: metre per second (m/s)
+P: A bus travels at 40 km/h for 2.5 hours. Distance?
+R: 100 km
+P: What does a straight, sloping distance–time graph show?
+R: Uniform speed
+
+== class-7/science/electric-current-and-its-effects
+I: Electric current flows through a closed circuit. It produces a heating effect (used in heaters, irons, fuses) and a magnetic effect (used in electromagnets, bells, motors). Circuit diagrams use standard symbols.
+K: Symbols: cell, battery, bulb, switch (on/off), wire.
+K: A fuse melts to break the circuit if current is too high.
+K: An electromagnet is a coil around iron that becomes a magnet when current flows.
+E: Why does a fuse protect household wiring?
+S: A fuse wire melts at a low temperature.
+A: When too much current flows it melts and breaks the circuit, preventing fire.
+E: How is an electromagnet different from a bar magnet?
+S: Its magnetism depends on current.
+A: It works only while current flows, and its strength can be changed.
+P: Name an appliance using the heating effect.
+R: Electric iron, heater, geyser (any one)
+P: What is a combination of two or more cells called?
+R: A battery
+P: Which effect is used in an electric bell?
+R: Magnetic effect
+
+== class-7/science/light
+I: Light travels in straight lines. It reflects from mirrors: the angle of incidence equals the angle of reflection. Plane mirrors form upright, same-sized images with left–right reversal. Curved mirrors and lenses can magnify or diminish images. White light is made of seven colours.
+K: Plane mirror image: virtual, erect, same size, laterally inverted.
+K: Concave mirrors (torch reflectors) can form real images; convex mirrors (rear-view) give a wide view.
+K: Convex lens (magnifying glass) converges light; concave lens diverges.
+E: Why is "AMBULANCE" written in reverse on ambulances?
+S: A plane mirror reverses left and right.
+A: So drivers ahead can read it correctly in their rear-view mirrors.
+E: Which mirror is used as a rear-view mirror in vehicles?
+S: It shows a wide area behind.
+A: Convex mirror
+P: What are the seven colours of white light?
+R: Violet, indigo, blue, green, yellow, orange, red (VIBGYOR)
+P: Which lens is used in a magnifying glass?
+R: Convex lens
+P: Angle of incidence is 40°. Angle of reflection?
+R: 40°
+
+== class-7/science/forests-and-wastewater-management
+I: Forests provide oxygen, wood, medicines and homes for wildlife, and they prevent soil erosion and floods. Wastewater from homes and industries must be treated before release to protect rivers and health.
+K: Forest layers: canopy, understorey, shrubs, herbs, forest floor.
+K: Decomposers break down dead matter into humus.
+K: Wastewater treatment: screening, grit removal, sedimentation, aeration, disinfection.
+E: What would happen if decomposers disappeared from a forest?
+S: Dead leaves and animals would pile up.
+A: Nutrients would not return to the soil and the forest would suffer.
+E: Why should we not pour cooking oil down the drain?
+S: Oil hardens and blocks pipes and harms treatment.
+A: It clogs drains and makes wastewater hard to treat.
+P: What is the top layer of a forest called?
+R: Canopy
+P: What do decomposers make from dead matter?
+R: Humus
+P: Name one step in wastewater treatment.
+R: Screening, sedimentation, aeration or disinfection
+
+== class-7/social-science/environment-and-its-components
+I: The environment includes natural components (land, water, air, living things) and human-made components (buildings, roads). Ecosystems are communities of living things interacting with their surroundings. Balance in the environment is essential for life.
+K: Lithosphere (land), hydrosphere (water), atmosphere (air), biosphere (life).
+K: Ecosystem: living and non-living parts working together.
+K: Human activities can upset environmental balance.
+E: Which "sphere" includes oceans, rivers and glaciers?
+S: It covers all water on Earth.
+A: Hydrosphere
+E: Give an example of human impact on the environment.
+S: Think of forests and air.
+A: Cutting forests for cities reduces wildlife habitats and increases pollution.
+P: The layer of air around Earth is called?
+R: Atmosphere
+P: Name a human-made component of the environment.
+R: Roads, buildings, bridges (any one)
+P: The zone where life exists is called?
+R: Biosphere
+
+== class-7/social-science/inside-our-earth
+I: The Earth has three layers: the crust (outer), the mantle (middle) and the core (inner, very hot). Rocks are igneous (from cooled magma), sedimentary (from layers of deposits) and metamorphic (changed by heat and pressure). Earthquakes and volcanoes release energy from inside the Earth.
+K: Crust is thinnest; core is made mainly of nickel and iron.
+K: Rock cycle: rocks change from one type to another over time.
+K: Marble is metamorphic (from limestone).
+E: Which type of rock is granite?
+S: It forms when magma cools slowly below the surface.
+A: Igneous rock
+E: Why do earthquakes happen?
+S: Plates in the Earth's crust move.
+A: Sudden movement of the Earth's plates releases energy that shakes the ground.
+P: Innermost layer of the Earth?
+R: Core
+P: Marble forms from which rock?
+R: Limestone
+P: Rock formed from layers of sand and mud?
+R: Sedimentary
+
+== class-7/social-science/air-and-water
+I: The atmosphere protects life and controls weather. It has layers: troposphere (weather happens here), stratosphere (ozone layer), mesosphere, thermosphere and exosphere. Water moves between land, oceans and air in the water cycle; ocean water moves in waves, tides and currents.
+K: Air: about 78% nitrogen, 21% oxygen.
+K: Ozone layer (stratosphere) blocks harmful UV rays.
+K: Tides are caused mainly by the Moon's gravity.
+E: In which layer of the atmosphere do clouds and rain form?
+S: It is the lowest layer.
+A: Troposphere
+E: Why are tides high on some days?
+S: The Moon's pull is strongest when Sun, Moon and Earth line up.
+A: At full moon and new moon, combined pull of the Sun and Moon causes spring (high) tides.
+P: Which gas makes up most of the air?
+R: Nitrogen
+P: Which layer contains the ozone layer?
+R: Stratosphere
+P: What mainly causes tides?
+R: The Moon's gravitational pull
+
+== class-7/social-science/natural-vegetation-and-wildlife
+I: Natural vegetation depends on temperature and rainfall. Forests (tropical evergreen, deciduous, coniferous), grasslands and desert vegetation support different wildlife. Many species are endangered, so we protect them in national parks and sanctuaries.
+K: Tropical evergreen: heavy rain, dense trees (Western Ghats).
+K: Deciduous: shed leaves in dry season (teak, sal).
+K: Deserts: cactus and thorny bushes; camels.
+E: Why do deciduous trees shed their leaves?
+S: They lose water through leaves.
+A: To save water during the dry season.
+E: Name an animal of the Indian tropical forests that is endangered.
+S: It is our national animal.
+A: The Bengal tiger
+P: Which forests have needle-shaped leaves?
+R: Coniferous forests
+P: Name a national park in India.
+R: Jim Corbett, Kaziranga, Gir (any one)
+P: Why do desert plants have thick stems and spines?
+R: To store water and reduce water loss
+
+== class-7/social-science/kingdoms-and-dynasties-of-medieval-india
+I: Between about 700 and 1750 CE, many kingdoms rose in India: the Rajputs, Cholas, Delhi Sultans and the Mughals. Historians study them using inscriptions, coins, buildings and chronicles.
+K: Cholas were a great naval power in the south; they built the Brihadeshwara temple.
+K: The Delhi Sultanate (1206–1526) was followed by the Mughal Empire.
+K: Akbar introduced policies of tolerance (sulh-i-kul).
+E: Which dynasty built the Brihadeshwara temple at Thanjavur?
+S: This southern dynasty ruled from Thanjavur.
+A: The Cholas (Rajaraja I)
+E: Which battle in 1526 began Mughal rule?
+S: Babur defeated Ibrahim Lodi.
+A: The First Battle of Panipat
+P: Who founded the Mughal Empire?
+R: Babur
+P: Which Mughal emperor built the Taj Mahal?
+R: Shah Jahan
+P: Name a source historians use for medieval India.
+R: Inscriptions, coins, monuments or chronicles
+
+== class-7/social-science/towns-traders-and-craftspersons
+I: Medieval towns grew as temple towns (Thanjavur), administrative centres, port towns (Surat) and trade hubs. Traders travelled in caravans and by sea, and craftspersons made textiles, bronze statues and jewellery.
+K: Hampi was the capital of the Vijayanagara Empire.
+K: Surat was a major port on the west coast.
+K: Guilds were associations of traders and craftspersons.
+E: Why did towns grow around big temples?
+S: Temples attracted pilgrims, priests and traders.
+A: People came to worship and trade, creating markets and settlements.
+E: Which port was famous for trade with West Asia in the 17th century?
+S: It is in present-day Gujarat.
+A: Surat
+P: Hampi was the capital of which empire?
+R: Vijayanagara
+P: What were associations of traders called?
+R: Guilds
+P: Name a craft famous in medieval India.
+R: Textiles, bronze casting, metalwork (any one)
+
+== class-7/social-science/devotional-paths
+I: The Bhakti and Sufi movements taught personal devotion to God, love and equality, rejecting caste divisions and rituals. Saints like Kabir, Mirabai, Guru Nanak and Sufi saints like Nizamuddin Auliya wrote in local languages that common people understood.
+K: Bhakti saints: Kabir, Mirabai, Tulsidas, Surdas, Chaitanya.
+K: Guru Nanak founded Sikhism; the Guru Granth Sahib contains his teachings.
+K: Sufis gathered at khanqahs; dargahs are shrines of Sufi saints.
+E: What did Kabir teach?
+S: He criticised rituals and caste.
+A: God is one; true devotion comes from the heart, not rituals or caste.
+E: Why did Bhakti saints write in local languages?
+S: Sanskrit was known to only a few.
+A: So that ordinary people could understand their message.
+P: Who founded Sikhism?
+R: Guru Nanak
+P: Mirabai was devoted to whom?
+R: Lord Krishna
+P: What is a Sufi saint's shrine called?
+R: Dargah
+
+== class-7/social-science/equality-in-democracy
+I: Equality means every person is treated with the same dignity and has the same rights. The Indian Constitution guarantees equality before law, universal adult franchise (one person, one vote) and bans untouchability. Yet inequality based on caste, gender and wealth still exists.
+K: Article 14: equality before law.
+K: Universal adult franchise: every citizen aged 18+ can vote.
+K: Government schemes like the midday meal promote equality.
+E: How does the right to vote show equality?
+S: Every vote counts the same.
+A: Every adult, rich or poor, has one vote of equal value.
+E: How does the midday meal scheme promote equality?
+S: Children of all backgrounds eat together.
+A: It helps poor children attend school and reduces caste discrimination.
+P: Minimum voting age in India?
+R: 18 years
+P: Which practice does the Constitution abolish?
+R: Untouchability
+P: What is "one person, one vote" called?
+R: Universal adult franchise
+
+== class-7/social-science/state-government
+I: Each state has a government. People elect MLAs (Members of the Legislative Assembly). The party with a majority forms the government, headed by the Chief Minister. The Governor is the constitutional head of the state.
+K: Legislative Assembly makes laws for the state.
+K: The Chief Minister and ministers run departments (health, education).
+K: The Governor is appointed by the President.
+E: Who heads the state government?
+S: The leader of the majority party.
+A: The Chief Minister
+E: A new hospital is needed in a district. Which department of the state government handles this?
+S: Hospitals come under health.
+A: The Health Department
+P: Who are elected to the state Legislative Assembly?
+R: MLAs
+P: Who appoints the Governor?
+R: The President of India
+P: What does the Legislative Assembly do?
+R: Makes laws for the state
+
+== class-7/social-science/markets-around-us
+I: Markets connect producers and consumers. Weekly markets, neighbourhood shops, shopping complexes, malls and online markets serve different needs. Goods pass through a chain of wholesalers and retailers before reaching us.
+K: Wholesaler buys in bulk; retailer sells to consumers.
+K: Weekly markets are cheaper because there are no permanent shop costs.
+K: Online markets let buyers order from home.
+E: Why are goods cheaper in a weekly market?
+S: Shopkeepers there don't pay rent or electricity for a permanent shop.
+A: Lower costs let sellers charge less.
+E: Put in order: retailer, farmer, consumer, wholesaler.
+S: Goods start with the producer and end with the consumer.
+A: Farmer → wholesaler → retailer → consumer
+P: Who sells goods directly to consumers?
+R: Retailer
+P: Who buys goods in large quantities?
+R: Wholesaler
+P: Name a type of market.
+R: Weekly market, mall, neighbourhood shop, online market (any one)
+
+== class-7/sanskrit/shabd-roop
+I: संस्कृत में संज्ञा शब्द आठ विभक्तियों और तीन वचनों में रूप बदलते हैं। अकारान्त पुल्लिंग (देव), आकारान्त स्त्रीलिंग (लता) और अकारान्त नपुंसकलिंग (फल) के रूप अलग होते हैं।
+K: विभक्तियाँ: प्रथमा, द्वितीया, तृतीया, चतुर्थी, पञ्चमी, षष्ठी, सप्तमी, सम्बोधन
+K: देव: देवः, देवम्, देवेन, देवाय, देवात्, देवस्य, देवे
+K: फल (नपुंसक): फलम्, फले, फलानि
+E: "देव" का तृतीया एकवचन रूप बताओ।
+S: तृतीया (से/द्वारा) एकवचन।
+A: देवेन
+E: "फल" का प्रथमा बहुवचन?
+S: नपुंसकलिंग बहुवचन में "आनि"।
+A: फलानि
+P: "देव" का षष्ठी एकवचन?
+R: देवस्य
+P: "लता" का तृतीया एकवचन?
+R: लतया
+P: संस्कृत में कितनी विभक्तियाँ हैं?
+R: आठ (सम्बोधन सहित)
+
+== class-7/sanskrit/dhatu-roop-lakar
+I: संस्कृत में काल और भाव "लकार" से बताए जाते हैं। लट् (वर्तमान), लङ् (भूत), लृट् (भविष्यत्) और लोट् (आज्ञा) मुख्य लकार हैं।
+K: लट्: पठति (पढ़ता है)
+K: लङ्: अपठत् (पढ़ा); लृट्: पठिष्यति (पढ़ेगा)
+K: लोट्: पठतु (पढ़े), पठ (तुम पढ़ो)
+E: "वह जाएगा" (गम्) का संस्कृत रूप?
+S: भविष्यत् काल — लृट् लकार, प्रथम पुरुष एकवचन।
+A: सः गमिष्यति।
+E: "उसने लिखा" (लिख्) का संस्कृत रूप?
+S: भूतकाल — लङ् लकार।
+A: सः अलिखत्।
+P: "तुम पढ़ो" का संस्कृत?
+R: त्वं पठ।
+P: भविष्यत् काल के लिए कौन-सा लकार?
+R: लृट्
+P: "अपठत्" किस लकार में है?
+R: लङ् (भूतकाल)
+
+== class-7/sanskrit/sandhi
+I: संस्कृत में स्वर संधि के मुख्य भेद हैं: दीर्घ, गुण, वृद्धि, यण् और अयादि। संधि से शब्द छोटे और मधुर बनते हैं।
+K: दीर्घ: विद्या + आलयः = विद्यालयः
+K: वृद्धि: सदा + एव = सदैव; महा + औषधिः = महौषधिः
+K: यण्: इति + आदि = इत्यादि
+E: "सदैव" का संधि-विच्छेद और भेद?
+S: सदा + एव: आ + ए = ऐ।
+A: सदा + एव — वृद्धि संधि
+E: प्रति + एकम् = ?
+S: इ + ए → य् + ए (यण् संधि)।
+A: प्रत्येकम्
+P: "इत्यादि" का विच्छेद?
+R: इति + आदि
+P: "रमेशः" का विच्छेद?
+R: रमा + ईशः
+P: आ + ओ मिलकर क्या बनता है?
+R: औ (वृद्धि संधि)
+
+== class-7/sanskrit/karak-and-vibhakti
+I: वाक्य में संज्ञा का क्रिया से संबंध "कारक" कहलाता है और उसे दिखाने वाले शब्द-रूप "विभक्ति"। जैसे: रामः (कर्ता, प्रथमा) फलम् (कर्म, द्वितीया) खादति।
+K: कर्ता — प्रथमा; कर्म — द्वितीया; करण (साधन) — तृतीया
+K: सम्प्रदान (के लिए) — चतुर्थी; अपादान (से अलग) — पञ्चमी
+K: सम्बन्ध — षष्ठी; अधिकरण (में/पर) — सप्तमी
+E: "बालकः लेखन्या लिखति।" में "लेखन्या" किस कारक में है?
+S: लेखनी (कलम) से लिखता है — साधन।
+A: करण कारक, तृतीया विभक्ति
+E: "वृक्षात् पत्रं पतति।" में "वृक्षात्" की विभक्ति?
+S: पत्ता पेड़ से अलग होकर गिरता है।
+A: पञ्चमी विभक्ति (अपादान)
+P: "गृहे" किस विभक्ति में है?
+R: सप्तमी
+P: "रामाय" किस विभक्ति में है?
+R: चतुर्थी
+P: कर्ता किस विभक्ति में होता है?
+R: प्रथमा
+
+== class-7/sanskrit/stories-and-subhashitani
+I: संस्कृत कथाएँ और सुभाषित (अच्छी बातें कहने वाले श्लोक) नैतिक शिक्षा देते हैं। सुभाषितों को याद करने से शब्द-भंडार और जीवन-मूल्य दोनों बढ़ते हैं।
+K: सुभाषित = सु (अच्छा) + भाषित (कहा गया)
+K: "विद्या ददाति विनयम्" — विद्या विनम्रता देती है।
+K: "सत्यमेव जयते" — सत्य की ही जीत होती है।
+E: "विद्या ददाति विनयम्" का अर्थ बताओ।
+S: विद्या = ज्ञान; ददाति = देती है; विनयम् = विनम्रता।
+A: ज्ञान से विनम्रता आती है।
+E: "सत्यमेव जयते" कहाँ लिखा है?
+S: यह भारत का राष्ट्रीय आदर्श वाक्य है।
+A: भारत के राष्ट्रीय प्रतीक (अशोक स्तंभ) के नीचे
+P: "सुभाषित" का अर्थ?
+R: अच्छी तरह कहा गया वचन
+P: "सत्यमेव जयते" का अर्थ?
+R: सत्य की ही जीत होती है
+P: "वसुधैव कुटुम्बकम्" का अर्थ?
+R: पूरी पृथ्वी एक परिवार है
+
+== class-7/computer/networks-and-the-internet
+I: A network connects computers to share data and resources. A LAN covers a small area (school), a WAN covers large areas, and the Internet is a worldwide network of networks. Devices use IP addresses; websites use URLs and are viewed in browsers.
+K: LAN (school, office), MAN (city), WAN (country, world).
+K: Modem/router connects a home to the Internet.
+K: URL example: https://www.example.com — https means a secure connection.
+E: A school connects its 40 computers to share one printer. What kind of network is this?
+S: It covers a small area like one building.
+A: LAN (Local Area Network)
+E: What does "https" at the start of a URL show?
+S: The "s" stands for secure.
+A: The connection is encrypted and safer for sharing information.
+P: What is the largest WAN in the world?
+R: The Internet
+P: Which device connects a home network to the Internet?
+R: Router (or modem)
+P: Name a web browser.
+R: Chrome, Firefox, Edge, Safari (any one)
+
+== class-7/computer/spreadsheet-formulas
+I: Spreadsheet formulas calculate results automatically. Relative references (A1) change when copied; absolute references ($A$1) stay fixed. Functions like SUM, AVERAGE, MAX, MIN, COUNT and IF help analyse data, and charts display it visually.
+K: =IF(B2>=33,"Pass","Fail") checks a condition.
+K: COUNT counts cells with numbers.
+K: $ before row/column makes a reference absolute.
+E: Write a formula that shows "Pass" if marks in C2 are 40 or more, else "Fail".
+S: Use IF with the condition C2>=40.
+A: =IF(C2>=40,"Pass","Fail")
+E: A tax rate is in cell F1. Why write $F$1 in =B2*$F$1?
+S: When copied down, B2 should change but F1 should not.
+A: The absolute reference keeps pointing to the tax rate in F1.
+P: Function to find the smallest value?
+R: MIN
+P: Formula for the average of D2:D30?
+R: =AVERAGE(D2:D30)
+P: What is $A$1 called?
+R: An absolute reference
+
+== class-7/computer/programming-with-scratch
+I: In Scratch we build games using events, loops, conditions (if–then–else), variables and sensing blocks (touching, key pressed). Broadcasting messages lets sprites communicate.
+K: If–then–else chooses between two actions.
+K: Sensing: touching colour, touching sprite, key pressed.
+K: Broadcast sends a message that starts scripts in other sprites.
+E: How do you end a game when the cat touches a ball?
+S: Use sensing inside a forever loop.
+A: forever → if <touching Ball?> then → say "Game over" → stop all
+E: How can one sprite tell another to start dancing?
+S: Scratch has message blocks.
+A: Use "broadcast [dance]" and "when I receive [dance]" in the other sprite.
+P: Which block chooses between two actions?
+R: if–then–else
+P: Which category has "touching" blocks?
+R: Sensing
+P: How do sprites send messages to each other?
+R: Broadcast
+
+== class-7/computer/introduction-to-html
+I: HTML (HyperText Markup Language) builds web pages using tags. Tags usually come in pairs: <p> and </p>. Every page has <html>, <head> (title) and <body> (content). Headings go from <h1> to <h6>; links use <a href="…">; images use <img src="…">.
+K: <h1> is the largest heading; <p> is a paragraph.
+K: <ul>/<ol> make lists with <li> items.
+K: <a href="url">text</a> makes a link.
+E: Write HTML for a page titled "My Hobby" with a heading "I love cricket".
+S: Title goes in <head>; heading in <body>.
+A: <html><head><title>My Hobby</title></head><body><h1>I love cricket</h1></body></html>
+E: Write a link to https://ncert.nic.in with the text "NCERT".
+S: Use the anchor tag with href.
+A: <a href="https://ncert.nic.in">NCERT</a>
+P: What does HTML stand for?
+R: HyperText Markup Language
+P: Which tag makes a paragraph?
+R: <p>
+P: Which tag shows an image?
+R: <img>
+
+== class-7/computer/online-safety-and-ethics
+I: Online ethics means behaving responsibly: respecting copyright, not hacking or spreading false news, and being kind. Online safety means protecting yourself from scams, malware and strangers, and managing your privacy settings.
+K: Copyright protects creators' work; give credit or use free licences.
+K: Malware (viruses) can come from unknown downloads.
+K: Check facts before sharing news (avoid fake news).
+E: A video claims a celebrity died, but no news site reports it. What should you do?
+S: Unverified claims may be fake.
+A: Don't share it; check reliable news sources first.
+E: Why shouldn't you download games from unknown websites?
+S: Files may contain hidden harmful programs.
+A: They may carry malware that damages your device or steals data.
+P: What law protects a creator's work?
+R: Copyright
+P: What is harmful software called?
+R: Malware
+P: Is it ethical to use a friend's password without permission?
+R: No
