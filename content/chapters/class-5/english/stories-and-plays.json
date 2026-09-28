@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Dialogue: CHARACTER NAME: words spoken",
+      "hi": "संवाद: पात्र का नाम: बोले गए शब्द"
+    },
+    {
+      "en": "Stage directions: (smiling), (enters from left)",
+      "hi": "मंच-निर्देश: (मुस्कुराते हुए), (बाईं ओर से आता है)"
+    },
+    {
+      "en": "Climax: the most exciting or important moment.",
+      "hi": "चरम बिंदु: सबसे रोमांचक या अहम पल।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"RAJU: (excitedly) We won the match!\", which part is the stage direction?",
+        "hi": "\"RAJU: (excitedly) We won the match!\" में मंच-निर्देश कौन-सा है?"
+      },
+      "steps": [
+        {
+          "en": "Stage directions are in brackets and tell how to speak or move.",
+          "hi": "मंच-निर्देश कोष्ठक में होते हैं और बोलने या चलने का तरीक़ा बताते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "(excitedly)",
+        "hi": "(excitedly)"
+      }
+    },
+    {
+      "problem": {
+        "en": "In \"The Hare and the Tortoise\", what is the climax?",
+        "hi": "\"The Hare and the Tortoise\" में चरम बिंदु क्या है?"
+      },
+      "steps": [
+        {
+          "en": "The most exciting moment decides who wins.",
+          "hi": "सबसे रोमांचक पल तय करता है कि कौन जीतेगा।"
+        }
+      ],
+      "answer": {
+        "en": "The hare wakes up and sees the tortoise crossing the finish line",
+        "hi": "खरगोश जागता है और कछुए को फ़िनिश लाइन पार करते देखता है"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What are the words characters speak in a play called?",
+        "hi": "नाटक में पात्रों के बोले शब्द क्या कहलाते हैं?"
+      },
+      "answer": {
+        "en": "Dialogues",
+        "hi": "संवाद"
+      }
+    },
+    {
+      "question": {
+        "en": "Where are stage directions written?",
+        "hi": "मंच-निर्देश कहाँ लिखे जाते हैं?"
+      },
+      "answer": {
+        "en": "In brackets",
+        "hi": "कोष्ठक में"
+      }
+    },
+    {
+      "question": {
+        "en": "Name the four parts of a plot.",
+        "hi": "कथानक के चार भाग बताओ।"
+      },
+      "answer": {
+        "en": "Beginning, rising action, climax, ending",
+        "hi": "शुरुआत, बढ़ती घटनाएँ, चरम बिंदु, अंत"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A play is a story written to be acted. It has a list of characters, dialogues (what characters say) and stage directions in brackets (how to act). A story has a plot: beginning, rising action, climax and ending.",
+    "hi": "नाटक अभिनय के लिए लिखी कहानी है। इसमें पात्रों की सूची, संवाद (पात्र क्या कहते हैं) और कोष्ठक में मंच-निर्देश (कैसे अभिनय करें) होते हैं। कहानी का कथानक होता है: शुरुआत, बढ़ती घटनाएँ, चरम बिंदु और अंत।"
+  }
+}

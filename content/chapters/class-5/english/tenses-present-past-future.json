@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Simple present: habits and facts — The sun rises in the east.",
+      "hi": "Simple present: आदतें और तथ्य — The sun rises in the east।"
+    },
+    {
+      "en": "Present continuous: happening now — She is reading.",
+      "hi": "Present continuous: अभी हो रहा — She is reading।"
+    },
+    {
+      "en": "Past continuous: was/were + -ing; future: will + verb",
+      "hi": "Past continuous: was/were + -ing; future: will + verb"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in with \"watch\": \"Look! The children __ a puppet show.\"",
+        "hi": "\"watch\" से भरो: \"Look! The children __ a puppet show.\""
+      },
+      "steps": [
+        {
+          "en": "\"Look!\" shows it is happening now → present continuous.",
+          "hi": "\"Look!\" बताता है कि अभी हो रहा है → present continuous।"
+        },
+        {
+          "en": "Children = they → are watching.",
+          "hi": "Children = they → are watching।"
+        }
+      ],
+      "answer": {
+        "en": "are watching",
+        "hi": "are watching"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in with \"sleep\": \"When the phone rang, I __.\"",
+        "hi": "\"sleep\" से भरो: \"When the phone rang, I __.\""
+      },
+      "steps": [
+        {
+          "en": "An action going on in the past when another happened → past continuous.",
+          "hi": "बीते समय में चल रहा काम जब दूसरा हुआ → past continuous।"
+        }
+      ],
+      "answer": {
+        "en": "was sleeping",
+        "hi": "was sleeping"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Change to future: \"We visit our grandparents.\"",
+        "hi": "Future में बदलो: \"We visit our grandparents.\""
+      },
+      "answer": {
+        "en": "We will visit our grandparents.",
+        "hi": "We will visit our grandparents."
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in with \"boil\": \"Water __ at 100 °C.\"",
+        "hi": "\"boil\" से भरो: \"Water __ at 100 °C.\""
+      },
+      "answer": {
+        "en": "boils (a fact)",
+        "hi": "boils (तथ्य)"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in with \"play\": \"They __ football at 5 p.m. yesterday.\"",
+        "hi": "\"play\" से भरो: \"They __ football at 5 p.m. yesterday.\""
+      },
+      "answer": {
+        "en": "were playing",
+        "hi": "were playing"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Tense shows when an action happens. Each of present, past and future has simple and continuous forms: I play / I am playing; I played / I was playing; I will play / I will be playing.",
+    "hi": "Tense बताता है कि काम कब होता है। Present, past और future में simple और continuous रूप होते हैं: I play / I am playing; I played / I was playing; I will play / I will be playing।"
+  }
+}

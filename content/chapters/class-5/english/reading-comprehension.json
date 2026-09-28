@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Main idea: what the whole passage is mostly about.",
+      "hi": "मुख्य विचार: पूरा अनुच्छेद मुख्य रूप से किस बारे में है।"
+    },
+    {
+      "en": "Context clues help guess new words.",
+      "hi": "संदर्भ संकेत नए शब्दों का अर्थ समझाते हैं।"
+    },
+    {
+      "en": "Answer in complete sentences using words from the question.",
+      "hi": "प्रश्न के शब्दों से पूरे वाक्य में उत्तर दो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "\"The desert was arid; not a drop of rain had fallen for months.\" What does \"arid\" mean?",
+        "hi": "\"The desert was arid; not a drop of rain had fallen for months.\" \"arid\" का अर्थ?"
+      },
+      "steps": [
+        {
+          "en": "The clue says no rain for months.",
+          "hi": "संकेत: महीनों से बारिश नहीं।"
+        }
+      ],
+      "answer": {
+        "en": "Very dry",
+        "hi": "बहुत सूखा"
+      }
+    },
+    {
+      "problem": {
+        "en": "\"Bees carry pollen from flower to flower. This helps plants make seeds. Without bees, many fruits would not grow.\" What is the main idea?",
+        "hi": "\"Bees carry pollen from flower to flower. This helps plants make seeds. Without bees, many fruits would not grow.\" मुख्य विचार?"
+      },
+      "steps": [
+        {
+          "en": "Every sentence is about what bees do for plants.",
+          "hi": "हर वाक्य मधुमक्खियों के पौधों के लिए काम के बारे में है।"
+        }
+      ],
+      "answer": {
+        "en": "Bees are important for plants and fruits.",
+        "hi": "Bees are important for plants and fruits."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "\"The famished boy ate three plates of rice.\" What does \"famished\" mean?",
+        "hi": "\"The famished boy ate three plates of rice.\" \"famished\" का अर्थ?"
+      },
+      "answer": {
+        "en": "Very hungry",
+        "hi": "बहुत भूखा"
+      }
+    },
+    {
+      "question": {
+        "en": "What are context clues?",
+        "hi": "संदर्भ संकेत क्या हैं?"
+      },
+      "answer": {
+        "en": "Nearby words that help us understand a new word",
+        "hi": "आस-पास के शब्द जो नया शब्द समझाते हैं"
+      }
+    },
+    {
+      "question": {
+        "en": "Should answers be in full sentences?",
+        "hi": "क्या उत्तर पूरे वाक्य में होने चाहिए?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good readers predict, question, find the main idea and infer meaning. We can also work out the meaning of a new word from the words around it (context clues).",
+    "hi": "अच्छे पाठक अनुमान लगाते हैं, सवाल पूछते हैं, मुख्य विचार ढूँढते हैं और अर्थ निकालते हैं। नए शब्द का अर्थ आस-पास के शब्दों (संदर्भ संकेत) से भी निकाल सकते हैं।"
+  }
+}

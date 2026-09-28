@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Passive = object + form of \"be\" + past participle (+ by + doer)",
+      "hi": "Passive = कर्म + \"be\" का रूप + past participle (+ by + कर्ता)"
+    },
+    {
+      "en": "Present: is/are + V3; past: was/were + V3",
+      "hi": "Present: is/are + V3; past: was/were + V3"
+    },
+    {
+      "en": "Past participles: write–written, eat–eaten, make–made, sing–sung",
+      "hi": "Past participle: write–written, eat–eaten, make–made, sing–sung"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Change to passive: \"The cat drank the milk.\"",
+        "hi": "Passive में बदलो: \"The cat drank the milk.\""
+      },
+      "steps": [
+        {
+          "en": "Object \"the milk\" becomes the subject.",
+          "hi": "कर्म \"the milk\" कर्ता बनता है।"
+        },
+        {
+          "en": "drank (past) → was drunk; add \"by the cat\".",
+          "hi": "drank (past) → was drunk; \"by the cat\" जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "The milk was drunk by the cat.",
+        "hi": "The milk was drunk by the cat."
+      }
+    },
+    {
+      "problem": {
+        "en": "Change to passive: \"Farmers grow rice.\"",
+        "hi": "Passive में बदलो: \"Farmers grow rice.\""
+      },
+      "steps": [
+        {
+          "en": "Present tense; rice is singular → is grown.",
+          "hi": "Present tense; rice एकवचन → is grown।"
+        }
+      ],
+      "answer": {
+        "en": "Rice is grown by farmers.",
+        "hi": "Rice is grown by farmers."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Active or passive: \"The window was broken by the ball.\"?",
+        "hi": "Active या passive: \"The window was broken by the ball.\"?"
+      },
+      "answer": {
+        "en": "Passive",
+        "hi": "Passive"
+      }
+    },
+    {
+      "question": {
+        "en": "Change to passive: \"Mother made a cake.\"",
+        "hi": "Passive में बदलो: \"Mother made a cake.\""
+      },
+      "answer": {
+        "en": "A cake was made by Mother.",
+        "hi": "A cake was made by Mother."
+      }
+    },
+    {
+      "question": {
+        "en": "Past participle of \"sing\"?",
+        "hi": "\"sing\" का past participle?"
+      },
+      "answer": {
+        "en": "sung",
+        "hi": "sung"
+      }
+    }
+  ],
+  "intro": {
+    "en": "In the active voice the subject does the action: \"Riya wrote a poem.\" In the passive voice the object becomes the subject and receives the action: \"A poem was written by Riya.\"",
+    "hi": "Active voice में कर्ता काम करता है: \"Riya wrote a poem.\" Passive voice में कर्म, कर्ता बनकर काम सहता है: \"A poem was written by Riya.\""
+  }
+}

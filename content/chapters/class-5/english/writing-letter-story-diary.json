@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Letter: address → date → Dear … → body → Yours lovingly, name",
+      "hi": "पत्र: पता → तारीख़ → Dear … → मुख्य भाग → Yours lovingly, नाम"
+    },
+    {
+      "en": "Diary: day, date, time → Dear Diary → events and feelings (past tense)",
+      "hi": "डायरी: दिन, तारीख़, समय → Dear Diary → घटनाएँ और भावनाएँ (past tense)"
+    },
+    {
+      "en": "Story: use a catchy opening and a clear ending.",
+      "hi": "कहानी: आकर्षक शुरुआत और साफ़ अंत।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write a diary entry about your first day at a new school (4–5 lines).",
+        "hi": "नए स्कूल में पहले दिन पर डायरी लिखो (4–5 पंक्तियाँ)।"
+      },
+      "steps": [
+        {
+          "en": "Start with the date and \"Dear Diary\".",
+          "hi": "तारीख़ और \"Dear Diary\" से शुरू करो।"
+        },
+        {
+          "en": "Write what happened and how you felt.",
+          "hi": "लिखो क्या हुआ और कैसा लगा।"
+        }
+      ],
+      "answer": {
+        "en": "Monday, 3 April — Dear Diary, today was my first day at Green Valley School. I was nervous in the morning. My teacher was kind and I made a friend named Kabir. We played football at recess. I think I will like this school! — Anu",
+        "hi": "Monday, 3 April — Dear Diary, today was my first day at Green Valley School. I was nervous in the morning. My teacher was kind and I made a friend named Kabir. We played football at recess. I think I will like this school! — Anu"
+      }
+    },
+    {
+      "problem": {
+        "en": "How do you begin and end a letter to your grandmother?",
+        "hi": "दादी को पत्र कैसे शुरू और ख़त्म करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Greeting uses \"Dear\"; closing is warm and personal.",
+          "hi": "अभिवादन में \"Dear\"; समापन आत्मीय।"
+        }
+      ],
+      "answer": {
+        "en": "Begin: Dear Grandma, End: Yours lovingly, Riya",
+        "hi": "शुरुआत: Dear Grandma, अंत: Yours lovingly, Riya"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which tense is mostly used in a diary entry?",
+        "hi": "डायरी में ज़्यादातर कौन-सा tense?"
+      },
+      "answer": {
+        "en": "Past tense",
+        "hi": "Past tense"
+      }
+    },
+    {
+      "question": {
+        "en": "What comes right after the address in a letter?",
+        "hi": "पत्र में पते के ठीक बाद क्या आता है?"
+      },
+      "answer": {
+        "en": "The date",
+        "hi": "तारीख़"
+      }
+    },
+    {
+      "question": {
+        "en": "Name three things every story needs.",
+        "hi": "हर कहानी में कौन-सी तीन चीज़ें चाहिए?"
+      },
+      "answer": {
+        "en": "Characters, a problem, a solution",
+        "hi": "पात्र, समस्या, समाधान"
+      }
+    }
+  ],
+  "intro": {
+    "en": "An informal letter is written to family and friends: address, date, greeting (Dear …), body and closing (Yours lovingly, name). A diary entry records your day and feelings: date, \"Dear Diary\", what happened and how you felt. A story needs characters, a problem and a solution.",
+    "hi": "अनौपचारिक पत्र परिवार और दोस्तों को लिखते हैं: पता, तारीख़, अभिवादन (Dear …), मुख्य भाग और समापन (Yours lovingly, नाम)। डायरी में दिन और भावनाएँ लिखते हैं: तारीख़, \"Dear Diary\", क्या हुआ और कैसा लगा। कहानी में पात्र, समस्या और समाधान चाहिए।"
+  }
+}

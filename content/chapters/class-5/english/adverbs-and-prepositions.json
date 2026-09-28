@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Time prepositions: at 5 o'clock, on Monday, in July, in 2025",
+      "hi": "समय: at 5 o'clock, on Monday, in July, in 2025"
+    },
+    {
+      "en": "Direction: into, out of, towards, across, through",
+      "hi": "दिशा: into, out of, towards, across, through"
+    },
+    {
+      "en": "Adverb of degree: very, too, quite, almost",
+      "hi": "मात्रा बताने वाले adverb: very, too, quite, almost"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in: \"The match starts __ 4 p.m. __ Sunday.\"",
+        "hi": "भरो: \"The match starts __ 4 p.m. __ Sunday.\""
+      },
+      "steps": [
+        {
+          "en": "Exact time → at; day → on.",
+          "hi": "सटीक समय → at; दिन → on।"
+        }
+      ],
+      "answer": {
+        "en": "at, on",
+        "hi": "at, on"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is \"very\" in \"The tea is very hot\" an adverb or a preposition?",
+        "hi": "\"The tea is very hot\" में \"very\" adverb है या preposition?"
+      },
+      "steps": [
+        {
+          "en": "It tells how hot → describes the adjective.",
+          "hi": "यह बताता है कितना गर्म → विशेषण के बारे में।"
+        }
+      ],
+      "answer": {
+        "en": "Adverb (of degree)",
+        "hi": "Adverb (मात्रा)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"My birthday is __ December.\"",
+        "hi": "भरो: \"My birthday is __ December.\""
+      },
+      "answer": {
+        "en": "in",
+        "hi": "in"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"The cat jumped __ the box.\" (into/at)",
+        "hi": "भरो: \"The cat jumped __ the box.\" (into/at)"
+      },
+      "answer": {
+        "en": "into",
+        "hi": "into"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the adverb: \"He answered the question correctly.\"",
+        "hi": "adverb ढूँढो: \"He answered the question correctly.\""
+      },
+      "answer": {
+        "en": "correctly",
+        "hi": "correctly"
+      }
+    }
+  ],
+  "intro": {
+    "en": "An adverb describes a verb, adjective or another adverb (She sings sweetly; very tall). A preposition shows the relation of a noun to other words: place (on, under), time (at, on, in) or direction (into, towards).",
+    "hi": "Adverb क्रिया, विशेषण या दूसरे adverb के बारे में बताता है (She sings sweetly; very tall)। Preposition संज्ञा का दूसरे शब्दों से संबंध दिखाता है: स्थान (on, under), समय (at, on, in) या दिशा (into, towards)।"
+  }
+}
