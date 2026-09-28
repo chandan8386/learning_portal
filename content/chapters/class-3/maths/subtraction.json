@@ -1,0 +1,38 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "We subtract column by column, starting from the ones. If the top digit is smaller, we borrow 1 from the next column on the left. We can check the answer by adding.",
+    "hi": "घटाव भी कॉलम-दर-कॉलम करते हैं, इकाई से शुरू करके। अगर ऊपर का अंक छोटा हो, तो बाईं ओर के कॉलम से 1 उधार लेते हैं। उत्तर को जोड़कर जाँच सकते हैं।"
+  },
+  "keyPoints": [
+    { "en": "Borrowing 1 hundred gives 10 tens; borrowing 1 ten gives 10 ones.", "hi": "1 सैकड़ा उधार = 10 दहाई; 1 दहाई उधार = 10 इकाई।" },
+    { "en": "With a zero on top, borrow from the next non-zero column.", "hi": "ऊपर शून्य हो तो आगे वाले ग़ैर-शून्य कॉलम से उधार लो।" },
+    { "en": "Check: difference + smaller number = bigger number.", "hi": "जाँच: अंतर + छोटी संख्या = बड़ी संख्या।" }
+  ],
+  "examples": [
+    {
+      "problem": "725 − 368",
+      "steps": [
+        { "en": "Ones: 5 < 8, borrow 1 ten: 15 − 8 = 7. Tens left: 1.", "hi": "इकाई: 5 < 8, 1 दहाई उधार: 15 − 8 = 7। दहाई बची: 1।" },
+        { "en": "Tens: 1 < 6, borrow 1 hundred: 11 − 6 = 5. Hundreds left: 6.", "hi": "दहाई: 1 < 6, 1 सैकड़ा उधार: 11 − 6 = 5। सैकड़े बचे: 6।" },
+        { "en": "Hundreds: 6 − 3 = 3", "hi": "सैकड़ा: 6 − 3 = 3" },
+        { "en": "Check: 357 + 368 = 725 ✓", "hi": "जाँच: 357 + 368 = 725 ✓" }
+      ],
+      "answer": "357"
+    },
+    {
+      "problem": "500 − 237",
+      "steps": [
+        { "en": "Ones and tens are 0, so borrow from hundreds: 500 = 4 hundreds, 9 tens, 10 ones.", "hi": "इकाई और दहाई 0 हैं, इसलिए सैकड़े से उधार: 500 = 4 सैकड़ा, 9 दहाई, 10 इकाई।" },
+        { "en": "Ones: 10 − 7 = 3; tens: 9 − 3 = 6; hundreds: 4 − 2 = 2", "hi": "इकाई: 10 − 7 = 3; दहाई: 9 − 3 = 6; सैकड़ा: 4 − 2 = 2" }
+      ],
+      "answer": "263"
+    }
+  ],
+  "practice": [
+    { "question": "864 − 531 = ?", "answer": "333" },
+    { "question": "642 − 275 = ?", "answer": "367" },
+    { "question": "1,000 − 456 = ?", "answer": "544" },
+    { "question": { "en": "A train has 950 seats. 687 are filled. How many are empty?", "hi": "ट्रेन में 950 सीटें हैं। 687 भरी हैं। कितनी ख़ाली हैं?" }, "answer": "263" }
+  ]
+}

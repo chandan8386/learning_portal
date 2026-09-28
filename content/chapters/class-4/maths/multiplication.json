@@ -1,0 +1,46 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "To multiply a bigger number, break it into parts. For a 2-digit multiplier, multiply by the ones, then by the tens, and add the two results.",
+    "hi": "बड़ी संख्या का गुणा करने के लिए उसे हिस्सों में तोड़ो। दो अंकों के गुणक में पहले इकाई से, फिर दहाई से गुणा करो और दोनों को जोड़ो।"
+  },
+  "keyPoints": [
+    { "en": "Multiplying by 10 adds one zero; by 100 adds two zeros.", "hi": "10 से गुणा करने पर एक शून्य, 100 से दो शून्य लगते हैं।" },
+    { "en": "Break up: 46 × 23 = 46 × 20 + 46 × 3.", "hi": "तोड़ो: 46 × 23 = 46 × 20 + 46 × 3।" },
+    { "en": "Order does not change the product: 12 × 5 = 5 × 12.", "hi": "क्रम बदलने से गुणनफल नहीं बदलता: 12 × 5 = 5 × 12।" }
+  ],
+  "examples": [
+    {
+      "problem": "234 × 3",
+      "steps": [
+        { "en": "4 × 3 = 12 → write 2, carry 1.", "hi": "4 × 3 = 12 → 2 लिखो, 1 हासिल।" },
+        { "en": "3 × 3 = 9, + 1 = 10 → write 0, carry 1.", "hi": "3 × 3 = 9, + 1 = 10 → 0 लिखो, 1 हासिल।" },
+        { "en": "2 × 3 = 6, + 1 = 7", "hi": "2 × 3 = 6, + 1 = 7" }
+      ],
+      "answer": "702"
+    },
+    {
+      "problem": "46 × 23",
+      "steps": [
+        { "en": "46 × 3 = 138", "hi": "46 × 3 = 138" },
+        { "en": "46 × 20 = 920", "hi": "46 × 20 = 920" },
+        { "en": "138 + 920 = 1,058", "hi": "138 + 920 = 1,058" }
+      ],
+      "answer": "1,058"
+    },
+    {
+      "problem": { "en": "One box holds 24 eggs. How many eggs in 15 boxes?", "hi": "एक डिब्बे में 24 अंडे आते हैं। 15 डिब्बों में कितने?" },
+      "steps": [
+        { "en": "24 × 15 = 24 × 10 + 24 × 5", "hi": "24 × 15 = 24 × 10 + 24 × 5" },
+        { "en": "= 240 + 120 = 360", "hi": "= 240 + 120 = 360" }
+      ],
+      "answer": { "en": "360 eggs", "hi": "360 अंडे" }
+    }
+  ],
+  "practice": [
+    { "question": "125 × 4 = ?", "answer": "500" },
+    { "question": "37 × 10 = ?", "answer": "370" },
+    { "question": "52 × 14 = ?", "answer": "728", "solution": ["52 × 4 = 208", "52 × 10 = 520", "208 + 520 = 728"] },
+    { "question": { "en": "A bus ticket costs ₹35. What do 12 tickets cost?", "hi": "बस का एक टिकट ₹35 का है। 12 टिकट कितने के?" }, "answer": "₹420" }
+  ]
+}

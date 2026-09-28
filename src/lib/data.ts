@@ -1,5 +1,5 @@
-import { Prisma } from "@prisma/client";
 import { cache } from "react";
+import { parseChapterContent, textSchema, type Text } from "./chapter-content";
 import { prisma } from "./db";
 
 export const getClasses = cache(() =>
@@ -29,22 +29,23 @@ export const getSubjectWithChapters = cache(async (classSlug: string, subjectSlu
     include: {
       chapters: {
         orderBy: { order: "asc" },
-        omit: { content: true },
         include: { _count: { select: { topics: true } } },
       },
     },
   });
   if (!subject) return null;
-  // Which chapters have study material, without loading the material itself.
-  const withContent = await prisma.chapter.findMany({
-    where: { subjectId: subject.id, NOT: { content: { equals: Prisma.DbNull } } },
-    select: { id: true },
+  // Replace the full study material with a small preview for the chapter list.
+  const chapters = subject.chapters.map(({ content, ...chapter }) => {
+    const study = parseChapterContent(content);
+    return {
+      ...chapter,
+      hasContent: study !== null,
+      preview: study
+        ? { intro: study.intro, examples: study.examples.length, practice: study.practice.length }
+        : null,
+    };
   });
-  const hasContent = new Set(withContent.map((c) => c.id));
-  return {
-    klass,
-    subject: { ...subject, chapters: subject.chapters.map((c) => ({ ...c, hasContent: hasContent.has(c.id) })) },
-  };
+  return { klass, subject: { ...subject, chapters } };
 });
 
 export const getChapter = cache(
@@ -66,6 +67,6 @@ export const getChapter = cache(
   },
 );
 
-export function learningOutcomes(value: unknown): string[] {
-  return Array.isArray(value) ? value.filter((v): v is string => typeof v === "string") : [];
+export function learningOutcomes(value: unknown): Text[] {
+  return Array.isArray(value) ? value.filter((v): v is Text => textSchema.safeParse(v).success) : [];
 }

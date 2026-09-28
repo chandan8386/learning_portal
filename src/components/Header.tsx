@@ -19,6 +19,10 @@ export async function Header() {
           <Link href="/classes" className="hidden rounded-full px-3 py-1.5 text-sm font-semibold hover:bg-amber-100 sm:inline">
             {t.allClasses}
           </Link>
+          <Link href="/practice" className="rounded-full px-3 py-1.5 text-sm font-semibold hover:bg-amber-100" aria-label={t.mathsPractice}>
+            <span aria-hidden>🎯</span>
+            <span className="hidden sm:inline"> {t.mathsPractice}</span>
+          </Link>
           <LanguageToggle locale={locale} />
           {user ? (
             <form action={logout} className="flex items-center gap-2">

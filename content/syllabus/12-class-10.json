@@ -8,32 +8,877 @@
   "audioFirst": false,
   "subjects": [
     {
-      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT First Flight and Footprints Without Feet",
-      "chapters": ["First Flight: A Letter to God", "First Flight: Nelson Mandela – Long Walk to Freedom", "First Flight: Two Stories about Flying", "First Flight: From the Diary of Anne Frank", "First Flight: Glimpses of India", "First Flight: Mijbil the Otter", "First Flight: Madam Rides the Bus", "First Flight: The Sermon at Benares", "First Flight: The Proposal", "Poem: Dust of Snow", "Poem: Fire and Ice", "Poem: A Tiger in the Zoo", "Poem: How to Tell Wild Animals", "Poem: The Ball Poem", "Poem: Amanda!", "Poem: The Trees", "Poem: Fog", "Poem: The Tale of Custard the Dragon", "Poem: For Anne Gregory", "Footprints: A Triumph of Surgery", "Footprints: The Thief's Story", "Footprints: The Midnight Visitor", "Footprints: A Question of Trust", "Footprints: Footprints without Feet", "Footprints: The Making of a Scientist", "Footprints: The Necklace", "Footprints: Bholi", "Footprints: The Book That Saved the Earth", "Grammar", "Writing Skills: Letters and Analytical Paragraph"]
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT First Flight and Footprints Without Feet",
+      "chapters": [
+        {
+          "title": "First Flight: A Letter to God",
+          "learningOutcomes": [
+            "Read the story of Lencho's faith",
+            "Discuss irony and faith"
+          ]
+        },
+        {
+          "title": "First Flight: Nelson Mandela – Long Walk to Freedom",
+          "learningOutcomes": [
+            "Read about Nelson Mandela's struggle",
+            "Discuss freedom and courage"
+          ]
+        },
+        {
+          "title": "First Flight: Two Stories about Flying",
+          "learningOutcomes": [
+            "Read two stories about courage and fear",
+            "Discuss overcoming fear"
+          ]
+        },
+        {
+          "title": "First Flight: From the Diary of Anne Frank",
+          "learningOutcomes": [
+            "Read excerpts from Anne Frank's diary",
+            "Know diary writing and history"
+          ]
+        },
+        {
+          "title": "First Flight: Glimpses of India",
+          "learningOutcomes": [
+            "Read about Coorg, Goa and Assam",
+            "Describe places and cultures"
+          ]
+        },
+        {
+          "title": "First Flight: Mijbil the Otter",
+          "learningOutcomes": [
+            "Read about Gavin Maxwell's pet otter",
+            "Discuss humans and animals"
+          ]
+        },
+        {
+          "title": "First Flight: Madam Rides the Bus",
+          "learningOutcomes": [
+            "Read about Valli's bus ride",
+            "Discuss curiosity and growing up"
+          ]
+        },
+        {
+          "title": "First Flight: The Sermon at Benares",
+          "learningOutcomes": [
+            "Read about the Buddha's teaching",
+            "Discuss death and grief"
+          ]
+        },
+        {
+          "title": "First Flight: The Proposal",
+          "learningOutcomes": [
+            "Read Chekhov's humorous play",
+            "Understand comedy of manners"
+          ]
+        },
+        {
+          "title": "Poem: Dust of Snow",
+          "learningOutcomes": [
+            "Understand how a small moment changes mood",
+            "Discuss nature and emotions"
+          ]
+        },
+        {
+          "title": "Poem: Fire and Ice",
+          "learningOutcomes": [
+            "Understand the symbols of fire and ice",
+            "Discuss desire and hatred"
+          ]
+        },
+        {
+          "title": "Poem: A Tiger in the Zoo",
+          "learningOutcomes": [
+            "Compare a tiger in a zoo and in the wild",
+            "Discuss animal freedom"
+          ]
+        },
+        {
+          "title": "Poem: How to Tell Wild Animals",
+          "learningOutcomes": [
+            "Enjoy a humorous poem about wild animals",
+            "Find irony"
+          ]
+        },
+        {
+          "title": "Poem: The Ball Poem",
+          "learningOutcomes": [
+            "Understand loss and responsibility",
+            "Discuss growing up"
+          ]
+        },
+        {
+          "title": "Poem: Amanda!",
+          "learningOutcomes": [
+            "Understand a child's reaction to instructions",
+            "Discuss freedom of childhood"
+          ]
+        },
+        {
+          "title": "Poem: The Trees",
+          "learningOutcomes": [
+            "Understand the trees' move to the forest",
+            "Discuss nature's freedom"
+          ]
+        },
+        {
+          "title": "Poem: Fog",
+          "learningOutcomes": [
+            "Understand the metaphor of fog as a cat",
+            "Find imagery"
+          ]
+        },
+        {
+          "title": "Poem: The Tale of Custard the Dragon",
+          "learningOutcomes": [
+            "Enjoy a humorous ballad",
+            "Discuss real and pretend courage"
+          ]
+        },
+        {
+          "title": "Poem: For Anne Gregory",
+          "learningOutcomes": [
+            "Understand inner and outer beauty",
+            "Discuss true love"
+          ]
+        },
+        {
+          "title": "Footprints: A Triumph of Surgery",
+          "learningOutcomes": [
+            "Read about a pampered dog",
+            "Discuss pet care and humour"
+          ]
+        },
+        {
+          "title": "Footprints: The Thief's Story",
+          "learningOutcomes": [
+            "Read about trust and friendship",
+            "Discuss how trust can reform"
+          ]
+        },
+        {
+          "title": "Footprints: The Midnight Visitor",
+          "learningOutcomes": [
+            "Read a spy story",
+            "Discuss presence of mind"
+          ]
+        },
+        {
+          "title": "Footprints: A Question of Trust",
+          "learningOutcomes": [
+            "Read about a thief who is robbed",
+            "Discuss irony"
+          ]
+        },
+        {
+          "title": "Footprints: Footprints without Feet",
+          "learningOutcomes": [
+            "Read about an invisible scientist",
+            "Discuss science and ethics"
+          ]
+        },
+        {
+          "title": "Footprints: The Making of a Scientist",
+          "learningOutcomes": [
+            "Read about Richard Ebright's journey",
+            "Discuss curiosity and hard work"
+          ]
+        },
+        {
+          "title": "Footprints: The Necklace",
+          "learningOutcomes": [
+            "Read Maupassant's story",
+            "Discuss pride and its cost"
+          ]
+        },
+        {
+          "title": "Footprints: Bholi",
+          "learningOutcomes": [
+            "Read about Bholi's transformation",
+            "Discuss education and confidence"
+          ]
+        },
+        {
+          "title": "Footprints: The Book That Saved the Earth",
+          "learningOutcomes": [
+            "Read a futuristic play about books",
+            "Discuss the value of knowledge"
+          ]
+        },
+        {
+          "title": "Grammar",
+          "learningOutcomes": [
+            "Practise tenses, modals, voice and reported speech",
+            "Do editing and gap-filling"
+          ]
+        },
+        {
+          "title": "Writing Skills: Letters and Analytical Paragraph",
+          "learningOutcomes": [
+            "Write formal letters",
+            "Write analytical paragraphs from data"
+          ]
+        }
+      ]
     },
     {
-      "slug": "hindi", "name": "Hindi (Course A)", "nameHi": "हिंदी (कोर्स A)", "icon": "🅰️", "color": "orange", "book": "NCERT Kshitij and Kritika",
-      "chapters": ["सूरदास के पद", "राम-लक्ष्मण-परशुराम संवाद", "आत्मकथ्य", "उत्साह और अट नहीं रही है", "यह दंतुरित मुसकान और फसल", "संगतकार", "नेताजी का चश्मा", "बालगोबिन भगत", "लखनवी अंदाज़", "एक कहानी यह भी", "नौबतखाने में इबादत", "संस्कृति", "कृतिका: माता का अँचल", "कृतिका: साना-साना हाथ जोड़ि", "कृतिका: मैं क्यों लिखता हूँ?", "व्याकरण: रचना के आधार पर वाक्य भेद", "व्याकरण: वाच्य", "व्याकरण: पद परिचय", "व्याकरण: रस", "व्याकरण: मुहावरे", "लेखन: अनुच्छेद, पत्र, सूचना, विज्ञापन, संदेश"]
+      "slug": "hindi",
+      "name": "Hindi (Course A)",
+      "nameHi": "हिंदी (कोर्स A)",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Kshitij and Kritika",
+      "chapters": [
+        {
+          "title": "सूरदास के पद",
+          "learningOutcomes": [
+            "सूरदास के पदों का भाव",
+            "गोपियों का कृष्ण-प्रेम"
+          ]
+        },
+        {
+          "title": "राम-लक्ष्मण-परशुराम संवाद",
+          "learningOutcomes": [
+            "राम-लक्ष्मण-परशुराम संवाद",
+            "वीर रस और संवाद-कला"
+          ]
+        },
+        {
+          "title": "आत्मकथ्य",
+          "learningOutcomes": [
+            "आत्मकथ्य का भाव",
+            "कवि की विनम्रता"
+          ]
+        },
+        {
+          "title": "उत्साह और अट नहीं रही है",
+          "learningOutcomes": [
+            "प्रकृति और क्रांति की कविताएँ",
+            "बादल और फागुन का चित्रण"
+          ]
+        },
+        {
+          "title": "यह दंतुरित मुसकान और फसल",
+          "learningOutcomes": [
+            "शिशु की मुसकान और खेती की महिमा",
+            "वात्सल्य और श्रम"
+          ]
+        },
+        {
+          "title": "संगतकार",
+          "learningOutcomes": [
+            "संगतकार की भूमिका",
+            "सहायक कलाकारों का महत्व"
+          ]
+        },
+        {
+          "title": "नेताजी का चश्मा",
+          "learningOutcomes": [
+            "देशभक्ति पर कहानी",
+            "छोटे लोगों की बड़ी भावना"
+          ]
+        },
+        {
+          "title": "बालगोबिन भगत",
+          "learningOutcomes": [
+            "बालगोबिन भगत का चरित्र",
+            "सच्ची भक्ति"
+          ]
+        },
+        {
+          "title": "लखनवी अंदाज़",
+          "learningOutcomes": [
+            "व्यंग्य कहानी",
+            "नवाबी दिखावे पर व्यंग्य"
+          ]
+        },
+        {
+          "title": "एक कहानी यह भी",
+          "learningOutcomes": [
+            "आत्मकथा का अंश",
+            "लेखिका के जीवन के अनुभव"
+          ]
+        },
+        {
+          "title": "नौबतखाने में इबादत",
+          "learningOutcomes": [
+            "बिस्मिल्ला ख़ाँ का जीवन",
+            "संगीत और साधना"
+          ]
+        },
+        {
+          "title": "संस्कृति",
+          "learningOutcomes": [
+            "संस्कृति और सभ्यता का अर्थ",
+            "मानव-कल्याण"
+          ]
+        },
+        {
+          "title": "कृतिका: माता का अँचल",
+          "learningOutcomes": [
+            "माँ-बच्चे का स्नेह",
+            "बचपन के खेल"
+          ]
+        },
+        {
+          "title": "कृतिका: साना-साना हाथ जोड़ि",
+          "learningOutcomes": [
+            "सिक्किम की यात्रा",
+            "प्रकृति और मेहनतकश लोग"
+          ]
+        },
+        {
+          "title": "कृतिका: मैं क्यों लिखता हूँ?",
+          "learningOutcomes": [
+            "लेखक की लेखन-प्रेरणा",
+            "हिरोशिमा की त्रासदी"
+          ]
+        },
+        {
+          "title": "व्याकरण: रचना के आधार पर वाक्य भेद",
+          "learningOutcomes": [
+            "रचना के आधार पर वाक्य भेद",
+            "वाक्य रूपांतरण"
+          ]
+        },
+        {
+          "title": "व्याकरण: वाच्य",
+          "learningOutcomes": [
+            "वाच्य के भेद",
+            "वाच्य परिवर्तन"
+          ]
+        },
+        {
+          "title": "व्याकरण: पद परिचय",
+          "learningOutcomes": [
+            "पद परिचय",
+            "शब्दों का व्याकरणिक परिचय"
+          ]
+        },
+        {
+          "title": "व्याकरण: रस",
+          "learningOutcomes": [
+            "रस के अंग और भेद",
+            "उदाहरणों से पहचान"
+          ]
+        },
+        {
+          "title": "व्याकरण: मुहावरे",
+          "learningOutcomes": [
+            "मुहावरों के अर्थ",
+            "वाक्य में प्रयोग"
+          ]
+        },
+        {
+          "title": "लेखन: अनुच्छेद, पत्र, सूचना, विज्ञापन, संदेश",
+          "learningOutcomes": [
+            "अनुच्छेद, पत्र, सूचना, विज्ञापन और संदेश लेखन",
+            "बोर्ड परीक्षा का प्रारूप"
+          ]
+        }
+      ]
     },
     {
-      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "📐", "color": "emerald", "book": "NCERT Mathematics",
-      "chapters": ["Real Numbers", "Polynomials", "Pair of Linear Equations in Two Variables", "Quadratic Equations", "Arithmetic Progressions", "Triangles", "Coordinate Geometry", "Introduction to Trigonometry", "Some Applications of Trigonometry", "Circles", "Areas Related to Circles", "Surface Areas and Volumes", "Statistics", "Probability"]
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "📐",
+      "color": "emerald",
+      "book": "NCERT Mathematics",
+      "chapters": [
+        {
+          "title": "Real Numbers",
+          "learningOutcomes": [
+            "Use the Fundamental Theorem of Arithmetic",
+            "Find HCF and LCM and prove irrationality"
+          ]
+        },
+        {
+          "title": "Polynomials",
+          "learningOutcomes": [
+            "Find zeroes of polynomials",
+            "Relate zeroes and coefficients"
+          ]
+        },
+        {
+          "title": "Pair of Linear Equations in Two Variables",
+          "learningOutcomes": [
+            "Solve pairs of linear equations",
+            "Use substitution and elimination"
+          ]
+        },
+        {
+          "title": "Quadratic Equations",
+          "learningOutcomes": [
+            "Solve quadratic equations",
+            "Use the discriminant to find the nature of roots"
+          ]
+        },
+        {
+          "title": "Arithmetic Progressions",
+          "learningOutcomes": [
+            "Find the nth term of an AP",
+            "Find the sum of n terms"
+          ]
+        },
+        {
+          "title": "Triangles",
+          "learningOutcomes": [
+            "Know similar triangles",
+            "Use the Basic Proportionality Theorem"
+          ]
+        },
+        {
+          "title": "Coordinate Geometry",
+          "learningOutcomes": [
+            "Use the distance formula",
+            "Use the section formula"
+          ]
+        },
+        {
+          "title": "Introduction to Trigonometry",
+          "learningOutcomes": [
+            "Know trigonometric ratios",
+            "Use trigonometric identities"
+          ]
+        },
+        {
+          "title": "Some Applications of Trigonometry",
+          "learningOutcomes": [
+            "Find heights and distances",
+            "Use angles of elevation and depression"
+          ]
+        },
+        {
+          "title": "Circles",
+          "learningOutcomes": [
+            "Know tangents to a circle",
+            "Use tangent properties"
+          ]
+        },
+        {
+          "title": "Areas Related to Circles",
+          "learningOutcomes": [
+            "Find area of sectors and segments",
+            "Find arc length"
+          ]
+        },
+        {
+          "title": "Surface Areas and Volumes",
+          "learningOutcomes": [
+            "Find surface area and volume of combined solids",
+            "Solve real-life problems"
+          ]
+        },
+        {
+          "title": "Statistics",
+          "learningOutcomes": [
+            "Find mean, median and mode of grouped data",
+            "Use the empirical formula"
+          ]
+        },
+        {
+          "title": "Probability",
+          "learningOutcomes": [
+            "Find probability of events",
+            "Solve problems with dice, coins and cards"
+          ]
+        }
+      ]
     },
     {
-      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Science",
-      "chapters": ["Chemical Reactions and Equations", "Acids, Bases and Salts", "Metals and Non-metals", "Carbon and its Compounds", "Life Processes", "Control and Coordination", "How do Organisms Reproduce?", "Heredity", "Light – Reflection and Refraction", "The Human Eye and the Colourful World", "Electricity", "Magnetic Effects of Electric Current", "Our Environment"]
+      "slug": "science",
+      "name": "Science",
+      "nameHi": "विज्ञान",
+      "icon": "🔬",
+      "color": "teal",
+      "book": "NCERT Science",
+      "chapters": [
+        {
+          "title": "Chemical Reactions and Equations",
+          "learningOutcomes": [
+            "Write and balance chemical equations",
+            "Know types of chemical reactions"
+          ]
+        },
+        {
+          "title": "Acids, Bases and Salts",
+          "learningOutcomes": [
+            "Know properties of acids, bases and salts",
+            "Know the pH scale"
+          ]
+        },
+        {
+          "title": "Metals and Non-metals",
+          "learningOutcomes": [
+            "Know properties of metals and non-metals",
+            "Know reactivity series and corrosion"
+          ]
+        },
+        {
+          "title": "Carbon and its Compounds",
+          "learningOutcomes": [
+            "Know covalent bonding in carbon",
+            "Know functional groups, soaps and detergents"
+          ]
+        },
+        {
+          "title": "Life Processes",
+          "learningOutcomes": [
+            "Know nutrition, respiration, transport and excretion",
+            "Relate them to body systems"
+          ]
+        },
+        {
+          "title": "Control and Coordination",
+          "learningOutcomes": [
+            "Know the nervous system and hormones",
+            "Know plant movements"
+          ]
+        },
+        {
+          "title": "How do Organisms Reproduce?",
+          "learningOutcomes": [
+            "Know asexual and sexual reproduction",
+            "Know reproductive health"
+          ]
+        },
+        {
+          "title": "Heredity",
+          "learningOutcomes": [
+            "Know Mendel's experiments",
+            "Know how traits are inherited"
+          ]
+        },
+        {
+          "title": "Light – Reflection and Refraction",
+          "learningOutcomes": [
+            "Use mirror and lens formulas",
+            "Know refraction and refractive index"
+          ]
+        },
+        {
+          "title": "The Human Eye and the Colourful World",
+          "learningOutcomes": [
+            "Know defects of vision and their correction",
+            "Know dispersion and scattering of light"
+          ]
+        },
+        {
+          "title": "Electricity",
+          "learningOutcomes": [
+            "Use Ohm's law",
+            "Find resistance, power and heating effect"
+          ]
+        },
+        {
+          "title": "Magnetic Effects of Electric Current",
+          "learningOutcomes": [
+            "Know magnetic fields of currents",
+            "Know electric motors and domestic circuits"
+          ]
+        },
+        {
+          "title": "Our Environment",
+          "learningOutcomes": [
+            "Know ecosystems and food chains",
+            "Manage waste and protect the ozone layer"
+          ]
+        }
+      ]
     },
     {
-      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT History, Geography, Political Science, Economics",
-      "chapters": ["History: The Rise of Nationalism in Europe", "History: Nationalism in India", "History: The Making of a Global World", "History: The Age of Industrialisation", "History: Print Culture and the Modern World", "Geography: Resources and Development", "Geography: Forest and Wildlife Resources", "Geography: Water Resources", "Geography: Agriculture", "Geography: Minerals and Energy Resources", "Geography: Manufacturing Industries", "Geography: Lifelines of National Economy", "Political Science: Power-sharing", "Political Science: Federalism", "Political Science: Gender, Religion and Caste", "Political Science: Political Parties", "Political Science: Outcomes of Democracy", "Economics: Development", "Economics: Sectors of the Indian Economy", "Economics: Money and Credit", "Economics: Globalisation and the Indian Economy", "Economics: Consumer Rights"]
+      "slug": "social-science",
+      "name": "Social Science",
+      "nameHi": "सामाजिक विज्ञान",
+      "icon": "🗺️",
+      "color": "amber",
+      "book": "NCERT History, Geography, Political Science, Economics",
+      "chapters": [
+        {
+          "title": "History: The Rise of Nationalism in Europe",
+          "learningOutcomes": [
+            "Know the rise of nationalism in Europe",
+            "Know unification of Germany and Italy"
+          ]
+        },
+        {
+          "title": "History: Nationalism in India",
+          "learningOutcomes": [
+            "Know the Non-Cooperation and Civil Disobedience movements",
+            "Know Gandhiji's role"
+          ]
+        },
+        {
+          "title": "History: The Making of a Global World",
+          "learningOutcomes": [
+            "Know how the world economy grew",
+            "Know trade, migration and the Great Depression"
+          ]
+        },
+        {
+          "title": "History: The Age of Industrialisation",
+          "learningOutcomes": [
+            "Know the Industrial Revolution",
+            "Know industrialisation in India"
+          ]
+        },
+        {
+          "title": "History: Print Culture and the Modern World",
+          "learningOutcomes": [
+            "Know the history of print",
+            "Know how print shaped ideas"
+          ]
+        },
+        {
+          "title": "Geography: Resources and Development",
+          "learningOutcomes": [
+            "Know types of resources and soils",
+            "Know resource planning"
+          ]
+        },
+        {
+          "title": "Geography: Forest and Wildlife Resources",
+          "learningOutcomes": [
+            "Know biodiversity and conservation",
+            "Know community participation"
+          ]
+        },
+        {
+          "title": "Geography: Water Resources",
+          "learningOutcomes": [
+            "Know multi-purpose river projects",
+            "Know rainwater harvesting"
+          ]
+        },
+        {
+          "title": "Geography: Agriculture",
+          "learningOutcomes": [
+            "Know types of farming and major crops",
+            "Know agricultural reforms"
+          ]
+        },
+        {
+          "title": "Geography: Minerals and Energy Resources",
+          "learningOutcomes": [
+            "Know minerals and energy resources",
+            "Know conservation of energy"
+          ]
+        },
+        {
+          "title": "Geography: Manufacturing Industries",
+          "learningOutcomes": [
+            "Know types of industries",
+            "Know industrial pollution and control"
+          ]
+        },
+        {
+          "title": "Geography: Lifelines of National Economy",
+          "learningOutcomes": [
+            "Know transport and communication networks",
+            "Know trade and tourism"
+          ]
+        },
+        {
+          "title": "Political Science: Power-sharing",
+          "learningOutcomes": [
+            "Know why power-sharing is needed",
+            "Know forms of power-sharing"
+          ]
+        },
+        {
+          "title": "Political Science: Federalism",
+          "learningOutcomes": [
+            "Know federalism in India",
+            "Know decentralisation"
+          ]
+        },
+        {
+          "title": "Political Science: Gender, Religion and Caste",
+          "learningOutcomes": [
+            "Know gender, religion and caste in politics",
+            "Know how they shape democracy"
+          ]
+        },
+        {
+          "title": "Political Science: Political Parties",
+          "learningOutcomes": [
+            "Know the role of political parties",
+            "Know national and state parties"
+          ]
+        },
+        {
+          "title": "Political Science: Outcomes of Democracy",
+          "learningOutcomes": [
+            "Know the outcomes of democracy",
+            "Evaluate how democracy performs"
+          ]
+        },
+        {
+          "title": "Economics: Development",
+          "learningOutcomes": [
+            "Know what development means",
+            "Compare income and other indicators"
+          ]
+        },
+        {
+          "title": "Economics: Sectors of the Indian Economy",
+          "learningOutcomes": [
+            "Know sectors of the economy",
+            "Know organised and unorganised sectors"
+          ]
+        },
+        {
+          "title": "Economics: Money and Credit",
+          "learningOutcomes": [
+            "Know the role of money and credit",
+            "Know formal and informal credit"
+          ]
+        },
+        {
+          "title": "Economics: Globalisation and the Indian Economy",
+          "learningOutcomes": [
+            "Know globalisation",
+            "Know its impact on India"
+          ]
+        },
+        {
+          "title": "Economics: Consumer Rights",
+          "learningOutcomes": [
+            "Know consumer rights",
+            "Know how to get consumer redressal"
+          ]
+        }
+      ]
     },
     {
-      "slug": "it", "name": "Information Technology (Optional)", "nameHi": "सूचना प्रौद्योगिकी (वैकल्पिक)", "icon": "💻", "color": "indigo",
-      "chapters": ["Communication Skills", "Self-Management Skills", "ICT Skills", "Entrepreneurial Skills", "Green Skills", "Digital Documentation (Advanced)", "Electronic Spreadsheet (Advanced)", "Database Management System", "Web Applications and Security"]
+      "slug": "it",
+      "name": "Information Technology (Optional)",
+      "nameHi": "सूचना प्रौद्योगिकी (वैकल्पिक)",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Communication Skills",
+          "learningOutcomes": [
+            "Communicate effectively at work",
+            "Use verbal and non-verbal skills"
+          ]
+        },
+        {
+          "title": "Self-Management Skills",
+          "learningOutcomes": [
+            "Build self-management skills",
+            "Set goals and manage time"
+          ]
+        },
+        {
+          "title": "ICT Skills",
+          "learningOutcomes": [
+            "Use advanced ICT skills",
+            "Maintain a computer"
+          ]
+        },
+        {
+          "title": "Entrepreneurial Skills",
+          "learningOutcomes": [
+            "Know entrepreneurial skills",
+            "Plan a small business idea"
+          ]
+        },
+        {
+          "title": "Green Skills",
+          "learningOutcomes": [
+            "Know green skills",
+            "Know sustainable practices"
+          ]
+        },
+        {
+          "title": "Digital Documentation (Advanced)",
+          "learningOutcomes": [
+            "Use styles, templates and track changes",
+            "Create table of contents"
+          ]
+        },
+        {
+          "title": "Electronic Spreadsheet (Advanced)",
+          "learningOutcomes": [
+            "Use advanced spreadsheet features",
+            "Sort, filter and use what-if analysis"
+          ]
+        },
+        {
+          "title": "Database Management System",
+          "learningOutcomes": [
+            "Create and manage databases",
+            "Write simple queries"
+          ]
+        },
+        {
+          "title": "Web Applications and Security",
+          "learningOutcomes": [
+            "Know web apps and online safety",
+            "Protect data and devices"
+          ]
+        }
+      ]
     },
     {
-      "slug": "board-prep", "name": "Board Exam Preparation", "nameHi": "बोर्ड परीक्षा की तैयारी", "icon": "🏆", "color": "rose",
-      "chapters": ["Previous Years' Question Papers", "Sample Papers", "Chapter-wise Important Questions", "Formula Sheets", "Marking Scheme and Answer-Writing Tips", "Revision Planner"]
+      "slug": "board-prep",
+      "name": "Board Exam Preparation",
+      "nameHi": "बोर्ड परीक्षा की तैयारी",
+      "icon": "🏆",
+      "color": "rose",
+      "chapters": [
+        {
+          "title": "Previous Years' Question Papers",
+          "learningOutcomes": [
+            "Solve previous years' board papers",
+            "Know the question pattern"
+          ]
+        },
+        {
+          "title": "Sample Papers",
+          "learningOutcomes": [
+            "Solve latest CBSE sample papers",
+            "Practise time management"
+          ]
+        },
+        {
+          "title": "Chapter-wise Important Questions",
+          "learningOutcomes": [
+            "Practise important questions chapter-wise",
+            "Focus on high-weightage topics"
+          ]
+        },
+        {
+          "title": "Formula Sheets",
+          "learningOutcomes": [
+            "Revise all formulas quickly",
+            "Use formula sheets before exams"
+          ]
+        },
+        {
+          "title": "Marking Scheme and Answer-Writing Tips",
+          "learningOutcomes": [
+            "Understand the marking scheme",
+            "Write step-wise, well-presented answers"
+          ]
+        },
+        {
+          "title": "Revision Planner",
+          "learningOutcomes": [
+            "Make a revision timetable",
+            "Balance subjects and rest"
+          ]
+        }
+      ]
     }
   ]
 }

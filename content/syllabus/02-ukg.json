@@ -14,11 +14,101 @@
       "icon": "🔤",
       "color": "sky",
       "chapters": [
-        { "title": "Phonics Revision", "titleHi": "फ़ोनिक्स दोहराई", "topics": ["All Letter Sounds", "Blending Sounds"] },
-        { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द", "topics": ["-at -an Words", "-en -et Words", "-ig -in Words", "-og -op Words", "-ug -un Words"] },
-        { "title": "Sight Words", "titleHi": "पहचान वाले शब्द", "topics": ["the a is", "I can see", "this that"] },
-        { "title": "Naming Words", "titleHi": "नाम वाले शब्द", "topics": ["Names of People", "Names of Things", "Names of Places"] },
-        { "title": "Reading Small Sentences", "titleHi": "छोटे वाक्य पढ़ना", "topics": ["This is a cat", "I can run"] }
+        {
+          "title": "Phonics Revision",
+          "titleHi": "फ़ोनिक्स दोहराई",
+          "topics": [
+            "All Letter Sounds",
+            "Blending Sounds"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Revise all letter sounds",
+              "hi": "सभी अक्षर-ध्वनियाँ दोहराना"
+            },
+            {
+              "en": "Blend sounds to make words",
+              "hi": "ध्वनियाँ मिलाकर शब्द बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Three-Letter Words",
+          "titleHi": "तीन अक्षर वाले शब्द",
+          "topics": [
+            "-at -an Words",
+            "-en -et Words",
+            "-ig -in Words",
+            "-og -op Words",
+            "-ug -un Words"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read and write three-letter words",
+              "hi": "तीन अक्षर वाले शब्द पढ़ना-लिखना"
+            },
+            {
+              "en": "Find word families like -at and -an",
+              "hi": "-at, -an जैसे शब्द परिवार पहचानना"
+            }
+          ]
+        },
+        {
+          "title": "Sight Words",
+          "titleHi": "पहचान वाले शब्द",
+          "topics": [
+            "the a is",
+            "I can see",
+            "this that"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read common sight words",
+              "hi": "आम पहचान वाले शब्द पढ़ना"
+            },
+            {
+              "en": "Use sight words in sentences",
+              "hi": "इन शब्दों से वाक्य बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Naming Words",
+          "titleHi": "नाम वाले शब्द",
+          "topics": [
+            "Names of People",
+            "Names of Things",
+            "Names of Places"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Find naming words for people, places and things",
+              "hi": "व्यक्ति, स्थान और चीज़ों के नाम वाले शब्द"
+            },
+            {
+              "en": "Use naming words in speech",
+              "hi": "बोलने में नाम वाले शब्दों का प्रयोग"
+            }
+          ]
+        },
+        {
+          "title": "Reading Small Sentences",
+          "titleHi": "छोटे वाक्य पढ़ना",
+          "topics": [
+            "This is a cat",
+            "I can run"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read small sentences",
+              "hi": "छोटे वाक्य पढ़ना"
+            },
+            {
+              "en": "Understand what a sentence says",
+              "hi": "वाक्य का मतलब समझना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -28,11 +118,88 @@
       "icon": "🅰️",
       "color": "orange",
       "chapters": [
-        { "title": "Complete Varnamala", "titleHi": "पूरी वर्णमाला", "topics": [{ "title": "Consonants ta to ma", "titleHi": "व्यंजन त से म" }, { "title": "Consonants ya to ha", "titleHi": "व्यंजन य से ह" }, { "title": "ksha tra gya", "titleHi": "क्ष त्र ज्ञ" }] },
-        { "title": "Two-Letter Words", "titleHi": "दो अक्षर वाले शब्द", "topics": [{ "title": "jal, fal, ghar", "titleHi": "जल, फल, घर" }] },
-        { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द", "topics": [{ "title": "kamal, nayan", "titleHi": "कमल, नयन" }] },
-        { "title": "Aa Matra", "titleHi": "आ की मात्रा (ा)", "topics": [{ "title": "Words with aa matra", "titleHi": "ा की मात्रा वाले शब्द" }] },
-        { "title": "Balgeet and Stories", "titleHi": "बालगीत और कहानियाँ", "topics": [{ "title": "Titli Rani", "titleHi": "तितली रानी" }, { "title": "Pyasa Kauwa", "titleHi": "प्यासा कौआ" }] }
+        {
+          "title": "Complete Varnamala",
+          "titleHi": "पूरी वर्णमाला",
+          "topics": [
+            {
+              "title": "Consonants ta to ma",
+              "titleHi": "व्यंजन त से म"
+            },
+            {
+              "title": "Consonants ya to ha",
+              "titleHi": "व्यंजन य से ह"
+            },
+            {
+              "title": "ksha tra gya",
+              "titleHi": "क्ष त्र ज्ञ"
+            }
+          ],
+          "learningOutcomes": [
+            "पूरी वर्णमाला पहचानना और लिखना",
+            "क्ष, त्र, ज्ञ पहचानना"
+          ]
+        },
+        {
+          "title": "Two-Letter Words",
+          "titleHi": "दो अक्षर वाले शब्द",
+          "topics": [
+            {
+              "title": "jal, fal, ghar",
+              "titleHi": "जल, फल, घर"
+            }
+          ],
+          "learningOutcomes": [
+            "दो अक्षर वाले शब्द पढ़ना",
+            "दो अक्षर वाले शब्द लिखना"
+          ]
+        },
+        {
+          "title": "Three-Letter Words",
+          "titleHi": "तीन अक्षर वाले शब्द",
+          "topics": [
+            {
+              "title": "kamal, nayan",
+              "titleHi": "कमल, नयन"
+            }
+          ],
+          "learningOutcomes": [
+            "तीन अक्षर वाले शब्द पढ़ना",
+            "तीन अक्षर वाले शब्द लिखना"
+          ]
+        },
+        {
+          "title": "Aa Matra",
+          "titleHi": "आ की मात्रा (ा)",
+          "topics": [
+            {
+              "title": "Words with aa matra",
+              "titleHi": "ा की मात्रा वाले शब्द"
+            }
+          ],
+          "learningOutcomes": [
+            "आ की मात्रा (ा) पहचानना",
+            "ा की मात्रा वाले शब्द पढ़ना-लिखना"
+          ]
+        },
+        {
+          "title": "Balgeet and Stories",
+          "titleHi": "बालगीत और कहानियाँ",
+          "topics": [
+            {
+              "title": "Titli Rani",
+              "titleHi": "तितली रानी"
+            },
+            {
+              "title": "Pyasa Kauwa",
+              "titleHi": "प्यासा कौआ"
+            }
+          ],
+          "learningOutcomes": [
+            "बालगीत गाना",
+            "छोटी कहानियाँ सुनना और सुनाना"
+          ]
+        }
       ]
     },
     {
@@ -42,11 +209,97 @@
       "icon": "🔢",
       "color": "emerald",
       "chapters": [
-        { "title": "Counting 1 to 100", "titleHi": "1 से 100 तक गिनती", "topics": ["Count 51 to 75", "Count 76 to 100", "Count by Tens"] },
-        { "title": "Number Names 1 to 20", "titleHi": "संख्याओं के नाम 1 से 20", "topics": ["one to ten", "eleven to twenty"] },
-        { "title": "Addition with Pictures", "titleHi": "चित्रों से जोड़", "topics": ["Putting Together", "Add Within 10"] },
-        { "title": "Subtraction with Pictures", "titleHi": "चित्रों से घटाव", "topics": ["Taking Away", "Subtract Within 10"] },
-        { "title": "Time and Money Basics", "titleHi": "समय और पैसे की शुरुआत", "topics": ["Day and Night", "Our Coins"] }
+        {
+          "title": "Counting 1 to 100",
+          "titleHi": "1 से 100 तक गिनती",
+          "topics": [
+            "Count 51 to 75",
+            "Count 76 to 100",
+            "Count by Tens"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Count from 1 to 100",
+              "hi": "1 से 100 तक गिनना"
+            },
+            {
+              "en": "Count in tens",
+              "hi": "दस-दस करके गिनना"
+            }
+          ]
+        },
+        {
+          "title": "Number Names 1 to 20",
+          "titleHi": "संख्याओं के नाम 1 से 20",
+          "topics": [
+            "one to ten",
+            "eleven to twenty"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Read and write number names 1 to 20",
+              "hi": "1 से 20 तक संख्याओं के नाम पढ़ना-लिखना"
+            },
+            {
+              "en": "Match number names to numbers",
+              "hi": "नाम को संख्या से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Addition with Pictures",
+          "titleHi": "चित्रों से जोड़",
+          "topics": [
+            "Putting Together",
+            "Add Within 10"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Add using pictures",
+              "hi": "चित्रों से जोड़ना"
+            },
+            {
+              "en": "Add within 10",
+              "hi": "10 तक जोड़"
+            }
+          ]
+        },
+        {
+          "title": "Subtraction with Pictures",
+          "titleHi": "चित्रों से घटाव",
+          "topics": [
+            "Taking Away",
+            "Subtract Within 10"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Subtract using pictures",
+              "hi": "चित्रों से घटाना"
+            },
+            {
+              "en": "Subtract within 10",
+              "hi": "10 तक घटाव"
+            }
+          ]
+        },
+        {
+          "title": "Time and Money Basics",
+          "titleHi": "समय और पैसे की शुरुआत",
+          "topics": [
+            "Day and Night",
+            "Our Coins"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tell day from night",
+              "hi": "दिन और रात पहचानना"
+            },
+            {
+              "en": "Recognise Indian coins",
+              "hi": "भारतीय सिक्के पहचानना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -56,11 +309,98 @@
       "icon": "🌍",
       "color": "lime",
       "chapters": [
-        { "title": "Our Helpers", "titleHi": "हमारे सहायक", "topics": ["Doctor and Nurse", "Farmer", "Postman and Police"] },
-        { "title": "Plants Around Us", "titleHi": "हमारे आस-पास के पौधे", "topics": ["Parts of a Plant", "Trees Give Us"] },
-        { "title": "Water", "titleHi": "पानी", "topics": ["Uses of Water", "Save Water"] },
-        { "title": "Festivals", "titleHi": "त्योहार", "topics": ["Diwali and Holi", "Eid and Christmas", "National Festivals"] },
-        { "title": "Safety Rules", "titleHi": "सुरक्षा के नियम", "topics": ["Road Safety", "Safety at Home"] }
+        {
+          "title": "Our Helpers",
+          "titleHi": "हमारे सहायक",
+          "topics": [
+            "Doctor and Nurse",
+            "Farmer",
+            "Postman and Police"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name community helpers",
+              "hi": "हमारे सहायकों के नाम"
+            },
+            {
+              "en": "Know how they help us",
+              "hi": "वे हमारी कैसे मदद करते हैं"
+            }
+          ]
+        },
+        {
+          "title": "Plants Around Us",
+          "titleHi": "हमारे आस-पास के पौधे",
+          "topics": [
+            "Parts of a Plant",
+            "Trees Give Us"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name parts of a plant",
+              "hi": "पौधे के भाग"
+            },
+            {
+              "en": "Know what trees give us",
+              "hi": "पेड़ हमें क्या देते हैं"
+            }
+          ]
+        },
+        {
+          "title": "Water",
+          "titleHi": "पानी",
+          "topics": [
+            "Uses of Water",
+            "Save Water"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know the uses of water",
+              "hi": "पानी के उपयोग"
+            },
+            {
+              "en": "Learn ways to save water",
+              "hi": "पानी बचाने के तरीक़े"
+            }
+          ]
+        },
+        {
+          "title": "Festivals",
+          "titleHi": "त्योहार",
+          "topics": [
+            "Diwali and Holi",
+            "Eid and Christmas",
+            "National Festivals"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name Indian festivals",
+              "hi": "भारत के त्योहारों के नाम"
+            },
+            {
+              "en": "Know our national festivals",
+              "hi": "हमारे राष्ट्रीय पर्व"
+            }
+          ]
+        },
+        {
+          "title": "Safety Rules",
+          "titleHi": "सुरक्षा के नियम",
+          "topics": [
+            "Road Safety",
+            "Safety at Home"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Follow road safety rules",
+              "hi": "सड़क सुरक्षा के नियम मानना"
+            },
+            {
+              "en": "Stay safe at home",
+              "hi": "घर पर सुरक्षित रहना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,8 +410,42 @@
       "icon": "🎵",
       "color": "pink",
       "chapters": [
-        { "title": "Rhymes", "titleHi": "कविताएँ", "topics": ["One Two Buckle My Shoe", "Five Little Monkeys"] },
-        { "title": "Stories", "titleHi": "कहानियाँ", "topics": ["The Fox and the Grapes", "The Honest Woodcutter"] }
+        {
+          "title": "Rhymes",
+          "titleHi": "कविताएँ",
+          "topics": [
+            "One Two Buckle My Shoe",
+            "Five Little Monkeys"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Recite counting rhymes",
+              "hi": "गिनती वाली कविताएँ सुनाना"
+            },
+            {
+              "en": "Sing with actions",
+              "hi": "हाव-भाव के साथ गाना"
+            }
+          ]
+        },
+        {
+          "title": "Stories",
+          "titleHi": "कहानियाँ",
+          "topics": [
+            "The Fox and the Grapes",
+            "The Honest Woodcutter"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Listen to and retell stories",
+              "hi": "कहानी सुनना और सुनाना"
+            },
+            {
+              "en": "Learn the lesson of a story",
+              "hi": "कहानी की सीख समझना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -81,8 +455,42 @@
       "icon": "🎨",
       "color": "violet",
       "chapters": [
-        { "title": "Drawing and Colouring", "titleHi": "चित्र बनाओ और रंग भरो", "topics": ["Draw a Tree", "Draw a Fish"] },
-        { "title": "Clay Modelling", "titleHi": "मिट्टी के खिलौने", "topics": ["Make Fruits", "Make a Snake"] }
+        {
+          "title": "Drawing and Colouring",
+          "titleHi": "चित्र बनाओ और रंग भरो",
+          "topics": [
+            "Draw a Tree",
+            "Draw a Fish"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Draw simple objects",
+              "hi": "आसान चीज़ें बनाना"
+            },
+            {
+              "en": "Colour with care",
+              "hi": "ध्यान से रंग भरना"
+            }
+          ]
+        },
+        {
+          "title": "Clay Modelling",
+          "titleHi": "मिट्टी के खिलौने",
+          "topics": [
+            "Make Fruits",
+            "Make a Snake"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Make shapes with clay",
+              "hi": "मिट्टी से आकार बनाना"
+            },
+            {
+              "en": "Model fruits and animals",
+              "hi": "फल और जानवर बनाना"
+            }
+          ]
+        }
       ]
     }
   ]

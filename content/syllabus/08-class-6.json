@@ -8,47 +8,505 @@
   "audioFirst": false,
   "subjects": [
     {
-      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Poorvi (reference)",
-      "chapters": ["Prose and Poetry: Fables and Folk Tales", "Prose and Poetry: Friendship", "Prose and Poetry: Nurturing Nature", "Prose and Poetry: Sports and Wellness", "Prose and Poetry: Culture and Tradition", "Grammar: Tenses", "Grammar: Determiners and Modals", "Grammar: Voice and Narration (Basics)", "Writing: Letter, Notice and Paragraph", "Reading Comprehension"]
-    },
-    {
-      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Malhar (reference)",
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Poorvi (reference)",
       "chapters": [
-        { "title": "Prose Lessons", "titleHi": "गद्य पाठ" },
-        { "title": "Poems", "titleHi": "कविताएँ" },
-        { "title": "Varna Vichar", "titleHi": "वर्ण विचार" },
-        { "title": "Sandhi", "titleHi": "संधि" },
-        { "title": "Noun, Pronoun, Adjective", "titleHi": "संज्ञा, सर्वनाम, विशेषण" },
-        { "title": "Verb and Tense", "titleHi": "क्रिया और काल" },
-        { "title": "Idioms and Proverbs", "titleHi": "मुहावरे और लोकोक्तियाँ" },
-        { "title": "Essay, Letter and Dialogue Writing", "titleHi": "निबंध, पत्र और संवाद लेखन" }
+        {
+          "title": "Prose and Poetry: Fables and Folk Tales",
+          "learningOutcomes": [
+            "Read fables and folk tales",
+            "Find the moral and message"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Friendship",
+          "learningOutcomes": [
+            "Read texts on friendship",
+            "Discuss values like trust and sharing"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Nurturing Nature",
+          "learningOutcomes": [
+            "Read prose and poems about nature",
+            "Express care for the environment"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Sports and Wellness",
+          "learningOutcomes": [
+            "Read about sports and fitness",
+            "Discuss healthy habits"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Culture and Tradition",
+          "learningOutcomes": [
+            "Read about Indian culture and traditions",
+            "Describe festivals and customs"
+          ]
+        },
+        {
+          "title": "Grammar: Tenses",
+          "learningOutcomes": [
+            "Use simple, continuous and perfect tenses",
+            "Choose the right tense for time"
+          ]
+        },
+        {
+          "title": "Grammar: Determiners and Modals",
+          "learningOutcomes": [
+            "Use determiners like some, any, few",
+            "Use modals like can, may, must"
+          ]
+        },
+        {
+          "title": "Grammar: Voice and Narration (Basics)",
+          "learningOutcomes": [
+            "Know active and passive voice",
+            "Report simple statements"
+          ]
+        },
+        {
+          "title": "Writing: Letter, Notice and Paragraph",
+          "learningOutcomes": [
+            "Write informal letters and notices",
+            "Write well-organised paragraphs"
+          ]
+        },
+        {
+          "title": "Reading Comprehension",
+          "learningOutcomes": [
+            "Read unseen passages",
+            "Answer factual and inference questions"
+          ]
+        }
       ]
     },
     {
-      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➗", "color": "emerald", "book": "NCERT Ganita Prakash",
-      "chapters": ["Patterns in Mathematics", "Lines and Angles", "Number Play", "Data Handling and Presentation", "Prime Time", "Perimeter and Area", "Fractions", "Playing with Constructions", "Symmetry", "The Other Side of Zero"]
-    },
-    {
-      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Curiosity",
-      "chapters": ["The Wonderful World of Science", "Diversity in the Living World", "Mindful Eating: A Path to a Healthy Body", "Exploring Magnets", "Measurement of Length and Motion", "Materials Around Us", "Temperature and its Measurement", "A Journey through States of Water", "Methods of Separation in Everyday Life", "Living Creatures: Exploring their Characteristics", "Nature's Treasures", "Beyond Earth"]
-    },
-    {
-      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT Exploring Society: India and Beyond (reference)",
-      "chapters": ["Locating Places on the Earth", "Oceans and Continents", "Landforms and Life", "Timeline and Sources of History", "India's Cultural Roots", "Unity in Diversity", "Family and Community", "Grassroots Democracy: Local Government", "Economic Activities Around Us", "The Value of Work"]
-    },
-    {
-      "slug": "sanskrit", "name": "Sanskrit", "nameHi": "संस्कृत", "icon": "🕉️", "color": "rose",
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Malhar (reference)",
       "chapters": [
-        { "title": "Varnamala and Pronunciation", "titleHi": "वर्णमाला और उच्चारण" },
-        { "title": "Shabd Roop", "titleHi": "शब्द रूप" },
-        { "title": "Dhatu Roop", "titleHi": "धातु रूप" },
-        { "title": "Numbers in Sanskrit", "titleHi": "संख्याएँ" },
-        { "title": "Simple Sentences and Stories", "titleHi": "सरल वाक्य और कथाएँ" }
+        {
+          "title": "Prose Lessons",
+          "titleHi": "गद्य पाठ",
+          "learningOutcomes": [
+            "गद्य पाठ पढ़कर समझना",
+            "पाठ पर प्रश्नों के उत्तर"
+          ]
+        },
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविताओं का भाव समझना",
+            "काव्य-सौंदर्य पहचानना"
+          ]
+        },
+        {
+          "title": "Varna Vichar",
+          "titleHi": "वर्ण विचार",
+          "learningOutcomes": [
+            "वर्ण, स्वर और व्यंजन का ज्ञान",
+            "शुद्ध उच्चारण"
+          ]
+        },
+        {
+          "title": "Sandhi",
+          "titleHi": "संधि",
+          "learningOutcomes": [
+            "संधि के भेद",
+            "संधि-विच्छेद करना"
+          ]
+        },
+        {
+          "title": "Noun, Pronoun, Adjective",
+          "titleHi": "संज्ञा, सर्वनाम, विशेषण",
+          "learningOutcomes": [
+            "संज्ञा, सर्वनाम और विशेषण के भेद",
+            "वाक्य में पहचानना"
+          ]
+        },
+        {
+          "title": "Verb and Tense",
+          "titleHi": "क्रिया और काल",
+          "learningOutcomes": [
+            "क्रिया के भेद",
+            "तीनों कालों का प्रयोग"
+          ]
+        },
+        {
+          "title": "Idioms and Proverbs",
+          "titleHi": "मुहावरे और लोकोक्तियाँ",
+          "learningOutcomes": [
+            "मुहावरे और लोकोक्तियाँ",
+            "वाक्य में प्रयोग"
+          ]
+        },
+        {
+          "title": "Essay, Letter and Dialogue Writing",
+          "titleHi": "निबंध, पत्र और संवाद लेखन",
+          "learningOutcomes": [
+            "निबंध, पत्र और संवाद लेखन",
+            "रचनात्मक लेखन"
+          ]
+        }
       ]
     },
     {
-      "slug": "computer", "name": "Computer Science", "nameHi": "कंप्यूटर विज्ञान", "icon": "💻", "color": "indigo",
-      "chapters": ["Computer Systems", "Spreadsheets Basics", "Introduction to Scratch", "Algorithms and Flowcharts", "Digital Citizenship"]
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➗",
+      "color": "emerald",
+      "book": "NCERT Ganita Prakash",
+      "chapters": [
+        {
+          "title": "Patterns in Mathematics",
+          "learningOutcomes": [
+            "Recognise number and shape patterns",
+            "Explore triangular and square numbers"
+          ]
+        },
+        {
+          "title": "Lines and Angles",
+          "learningOutcomes": [
+            "Know points, lines, rays and angles",
+            "Measure and classify angles"
+          ]
+        },
+        {
+          "title": "Number Play",
+          "learningOutcomes": [
+            "Explore interesting properties of numbers",
+            "Use digit sums and number puzzles"
+          ]
+        },
+        {
+          "title": "Data Handling and Presentation",
+          "learningOutcomes": [
+            "Collect and organise data",
+            "Draw pictographs and bar graphs"
+          ]
+        },
+        {
+          "title": "Prime Time",
+          "learningOutcomes": [
+            "Find primes, factors and multiples",
+            "Use divisibility rules"
+          ]
+        },
+        {
+          "title": "Perimeter and Area",
+          "learningOutcomes": [
+            "Find perimeter and area of rectangles and squares",
+            "Solve real-life area problems"
+          ]
+        },
+        {
+          "title": "Fractions",
+          "learningOutcomes": [
+            "Understand fractions as parts and on a number line",
+            "Compare, add and subtract fractions"
+          ]
+        },
+        {
+          "title": "Playing with Constructions",
+          "learningOutcomes": [
+            "Draw circles and angles with ruler and compass",
+            "Construct squares and rectangles"
+          ]
+        },
+        {
+          "title": "Symmetry",
+          "learningOutcomes": [
+            "Find lines of symmetry",
+            "Recognise rotational symmetry"
+          ]
+        },
+        {
+          "title": "The Other Side of Zero",
+          "learningOutcomes": [
+            "Understand negative numbers and integers",
+            "Add and subtract integers"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "nameHi": "विज्ञान",
+      "icon": "🔬",
+      "color": "teal",
+      "book": "NCERT Curiosity",
+      "chapters": [
+        {
+          "title": "The Wonderful World of Science",
+          "learningOutcomes": [
+            "Learn how scientists ask questions",
+            "Follow the steps of the scientific method"
+          ]
+        },
+        {
+          "title": "Diversity in the Living World",
+          "learningOutcomes": [
+            "Classify plants and animals",
+            "Know why biodiversity matters"
+          ]
+        },
+        {
+          "title": "Mindful Eating: A Path to a Healthy Body",
+          "learningOutcomes": [
+            "Know nutrients and their sources",
+            "Eat a balanced diet"
+          ]
+        },
+        {
+          "title": "Exploring Magnets",
+          "learningOutcomes": [
+            "Know properties of magnets",
+            "Make a simple compass"
+          ]
+        },
+        {
+          "title": "Measurement of Length and Motion",
+          "learningOutcomes": [
+            "Measure length in standard units",
+            "Describe types of motion"
+          ]
+        },
+        {
+          "title": "Materials Around Us",
+          "learningOutcomes": [
+            "Group materials by their properties",
+            "Know soluble and insoluble substances"
+          ]
+        },
+        {
+          "title": "Temperature and its Measurement",
+          "learningOutcomes": [
+            "Measure temperature with thermometers",
+            "Know the Celsius scale"
+          ]
+        },
+        {
+          "title": "A Journey through States of Water",
+          "learningOutcomes": [
+            "Know the states of water",
+            "Understand evaporation, condensation and the water cycle"
+          ]
+        },
+        {
+          "title": "Methods of Separation in Everyday Life",
+          "learningOutcomes": [
+            "Separate mixtures by handpicking, sieving, filtration and evaporation",
+            "Use separation in daily life"
+          ]
+        },
+        {
+          "title": "Living Creatures: Exploring their Characteristics",
+          "learningOutcomes": [
+            "Know the features of living things",
+            "Know how living things grow and respond"
+          ]
+        },
+        {
+          "title": "Nature's Treasures",
+          "learningOutcomes": [
+            "Know natural resources like air, water, soil and minerals",
+            "Use resources wisely"
+          ]
+        },
+        {
+          "title": "Beyond Earth",
+          "learningOutcomes": [
+            "Know the Sun, Moon, planets and stars",
+            "Know about constellations and space missions"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "nameHi": "सामाजिक विज्ञान",
+      "icon": "🗺️",
+      "color": "amber",
+      "book": "NCERT Exploring Society: India and Beyond (reference)",
+      "chapters": [
+        {
+          "title": "Locating Places on the Earth",
+          "learningOutcomes": [
+            "Use latitudes, longitudes and maps",
+            "Locate places on a globe"
+          ]
+        },
+        {
+          "title": "Oceans and Continents",
+          "learningOutcomes": [
+            "Name the oceans and continents",
+            "Locate them on a world map"
+          ]
+        },
+        {
+          "title": "Landforms and Life",
+          "learningOutcomes": [
+            "Know mountains, plateaus and plains",
+            "Know how landforms shape life"
+          ]
+        },
+        {
+          "title": "Timeline and Sources of History",
+          "learningOutcomes": [
+            "Read timelines and dates",
+            "Know sources of history"
+          ]
+        },
+        {
+          "title": "India's Cultural Roots",
+          "learningOutcomes": [
+            "Know the roots of Indian culture",
+            "Know early Indian knowledge traditions"
+          ]
+        },
+        {
+          "title": "Unity in Diversity",
+          "learningOutcomes": [
+            "Appreciate India's diversity",
+            "Know what unites us as a nation"
+          ]
+        },
+        {
+          "title": "Family and Community",
+          "learningOutcomes": [
+            "Know roles in family and community",
+            "Value cooperation"
+          ]
+        },
+        {
+          "title": "Grassroots Democracy: Local Government",
+          "learningOutcomes": [
+            "Know how panchayats and municipalities work",
+            "Know the role of local government"
+          ]
+        },
+        {
+          "title": "Economic Activities Around Us",
+          "learningOutcomes": [
+            "Know primary, secondary and tertiary activities",
+            "Relate work to the economy"
+          ]
+        },
+        {
+          "title": "The Value of Work",
+          "learningOutcomes": [
+            "Value paid and unpaid work",
+            "Respect all kinds of work"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sanskrit",
+      "name": "Sanskrit",
+      "nameHi": "संस्कृत",
+      "icon": "🕉️",
+      "color": "rose",
+      "chapters": [
+        {
+          "title": "Varnamala and Pronunciation",
+          "titleHi": "वर्णमाला और उच्चारण",
+          "learningOutcomes": [
+            "वर्णमाला और शुद्ध उच्चारण",
+            "स्वर और व्यंजन पहचानना"
+          ]
+        },
+        {
+          "title": "Shabd Roop",
+          "titleHi": "शब्द रूप",
+          "learningOutcomes": [
+            "अकारान्त शब्दों के रूप",
+            "तीनों वचनों का प्रयोग"
+          ]
+        },
+        {
+          "title": "Dhatu Roop",
+          "titleHi": "धातु रूप",
+          "learningOutcomes": [
+            "लट् लकार में धातु रूप",
+            "सरल वाक्य बनाना"
+          ]
+        },
+        {
+          "title": "Numbers in Sanskrit",
+          "titleHi": "संख्याएँ",
+          "learningOutcomes": [
+            "संस्कृत में संख्याएँ",
+            "संख्याओं का प्रयोग"
+          ]
+        },
+        {
+          "title": "Simple Sentences and Stories",
+          "titleHi": "सरल वाक्य और कथाएँ",
+          "learningOutcomes": [
+            "सरल वाक्य पढ़ना और लिखना",
+            "छोटी कथाएँ समझना"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Science",
+      "nameHi": "कंप्यूटर विज्ञान",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Computer Systems",
+          "learningOutcomes": [
+            "Know hardware, software and the CPU",
+            "Know how a computer processes data"
+          ]
+        },
+        {
+          "title": "Spreadsheets Basics",
+          "learningOutcomes": [
+            "Enter data in a spreadsheet",
+            "Use simple formulas like SUM"
+          ]
+        },
+        {
+          "title": "Introduction to Scratch",
+          "learningOutcomes": [
+            "Make animations in Scratch",
+            "Use motion, looks and events blocks"
+          ]
+        },
+        {
+          "title": "Algorithms and Flowcharts",
+          "learningOutcomes": [
+            "Write step-by-step algorithms",
+            "Draw flowcharts"
+          ]
+        },
+        {
+          "title": "Digital Citizenship",
+          "learningOutcomes": [
+            "Behave responsibly online",
+            "Protect privacy and avoid cyberbullying"
+          ]
+        }
+      ]
     }
   ]
 }

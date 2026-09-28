@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "A clock has a short hand (hour hand) and a long hand (minute hand). When the long hand is on 12, it is an 'o'clock' time. A year has 12 months.",
+    "hi": "घड़ी में छोटी सुई (घंटे की सुई) और बड़ी सुई (मिनट की सुई) होती है। जब बड़ी सुई 12 पर हो, तो पूरे घंटे का समय होता है। एक साल में 12 महीने होते हैं।"
+  },
+  "keyPoints": [
+    { "en": "Long hand on 12, short hand on 3 → 3 o'clock.", "hi": "बड़ी सुई 12 पर, छोटी सुई 3 पर → 3 बजे।" },
+    { "en": "Long hand on 6 → half past (30 minutes).", "hi": "बड़ी सुई 6 पर → साढ़े (30 मिनट)।" },
+    { "en": "1 hour = 60 minutes; 1 day = 24 hours; 1 week = 7 days.", "hi": "1 घंटा = 60 मिनट; 1 दिन = 24 घंटे; 1 हफ़्ता = 7 दिन।" },
+    { "en": "Months: January, February, March, April, May, June, July, August, September, October, November, December.", "hi": "महीने: जनवरी, फ़रवरी, मार्च, अप्रैल, मई, जून, जुलाई, अगस्त, सितंबर, अक्टूबर, नवंबर, दिसंबर।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "The short hand is on 8 and the long hand is on 12. What time is it?", "hi": "छोटी सुई 8 पर और बड़ी सुई 12 पर है। क्या समय है?" },
+      "steps": [
+        { "en": "Long hand on 12 means o'clock.", "hi": "बड़ी सुई 12 पर मतलब पूरे घंटे।" },
+        { "en": "Short hand shows the hour: 8.", "hi": "छोटी सुई घंटा बताती है: 8।" }
+      ],
+      "answer": { "en": "8 o'clock", "hi": "8 बजे" }
+    },
+    {
+      "problem": { "en": "Which month comes after March?", "hi": "मार्च के बाद कौन-सा महीना आता है?" },
+      "steps": [
+        { "en": "Say in order: January, February, March, April.", "hi": "क्रम से बोलो: जनवरी, फ़रवरी, मार्च, अप्रैल।" }
+      ],
+      "answer": { "en": "April", "hi": "अप्रैल" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "How many minutes are in 1 hour?", "hi": "1 घंटे में कितने मिनट होते हैं?" }, "answer": "60" },
+    { "question": { "en": "How many months are in a year?", "hi": "एक साल में कितने महीने होते हैं?" }, "answer": "12" },
+    { "question": { "en": "Short hand between 4 and 5, long hand on 6. What time?", "hi": "छोटी सुई 4 और 5 के बीच, बड़ी सुई 6 पर। क्या समय है?" }, "answer": { "en": "Half past 4 (4:30)", "hi": "साढ़े चार (4:30)" } }
+  ]
+}

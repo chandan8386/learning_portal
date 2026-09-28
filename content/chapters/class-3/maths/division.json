@@ -1,0 +1,46 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Division means sharing equally or making equal groups. 12 laddoos shared equally among 3 children: each gets 4. We write 12 ÷ 3 = 4. Division is the opposite of multiplication: 3 × 4 = 12.",
+    "hi": "भाग का मतलब बराबर बाँटना या बराबर समूह बनाना। 12 लड्डू 3 बच्चों में बराबर बाँटें तो हर एक को 4 मिलेंगे। इसे 12 ÷ 3 = 4 लिखते हैं। भाग, गुणा का उल्टा है: 3 × 4 = 12।"
+  },
+  "keyPoints": [
+    { "en": "In 12 ÷ 3 = 4: 12 is the dividend, 3 is the divisor, 4 is the quotient.", "hi": "12 ÷ 3 = 4 में: 12 भाज्य, 3 भाजक, 4 भागफल है।" },
+    { "en": "Use tables: 20 ÷ 5 → which number × 5 = 20? 4.", "hi": "पहाड़े से: 20 ÷ 5 → किस संख्या × 5 = 20? 4।" },
+    { "en": "Any number ÷ 1 = the same number; a number ÷ itself = 1.", "hi": "कोई संख्या ÷ 1 = वही संख्या; संख्या ÷ ख़ुद = 1।" },
+    { "en": "Sometimes something is left over: that is the remainder. 13 ÷ 4 = 3, remainder 1.", "hi": "कभी कुछ बच जाता है, उसे शेषफल कहते हैं। 13 ÷ 4 = 3, शेष 1।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "24 pencils are packed equally in 6 boxes. How many in each box?", "hi": "24 पेंसिलें 6 डिब्बों में बराबर रखीं। हर डिब्बे में कितनी?" },
+      "steps": [
+        { "en": "Equal sharing means divide: 24 ÷ 6.", "hi": "बराबर बाँटना मतलब भाग: 24 ÷ 6।" },
+        { "en": "Table of 6: 6 × 4 = 24.", "hi": "6 का पहाड़ा: 6 × 4 = 24।" }
+      ],
+      "answer": { "en": "4 pencils in each box", "hi": "हर डिब्बे में 4 पेंसिल" }
+    },
+    {
+      "problem": { "en": "How many groups of 5 can be made from 35 marbles?", "hi": "35 कंचों से 5-5 के कितने समूह बनेंगे?" },
+      "steps": [
+        { "en": "35 ÷ 5", "hi": "35 ÷ 5" },
+        { "en": "5 × 7 = 35", "hi": "5 × 7 = 35" }
+      ],
+      "answer": { "en": "7 groups", "hi": "7 समूह" }
+    },
+    {
+      "problem": { "en": "17 bananas are shared among 5 monkeys equally. How many does each get and how many are left?", "hi": "17 केले 5 बंदरों में बराबर बाँटे। हर एक को कितने मिले और कितने बचे?" },
+      "steps": [
+        { "en": "5 × 3 = 15, 5 × 4 = 20 (too many). So each gets 3.", "hi": "5 × 3 = 15, 5 × 4 = 20 (ज़्यादा)। तो हर एक को 3।" },
+        { "en": "17 − 15 = 2 left.", "hi": "17 − 15 = 2 बचे।" }
+      ],
+      "answer": { "en": "3 each, 2 left over", "hi": "हर एक को 3, 2 बचे" }
+    }
+  ],
+  "practice": [
+    { "question": "18 ÷ 3 = ?", "answer": "6" },
+    { "question": "40 ÷ 8 = ?", "answer": "5" },
+    { "question": "63 ÷ 9 = ?", "answer": "7" },
+    { "question": { "en": "₹56 is shared equally among 7 friends. How much does each get?", "hi": "₹56 सात दोस्तों में बराबर बाँटे। हर एक को कितने मिले?" }, "answer": "₹8" },
+    { "question": { "en": "22 ÷ 5: find the quotient and remainder.", "hi": "22 ÷ 5: भागफल और शेषफल बताओ।" }, "answer": { "en": "Quotient 4, remainder 2", "hi": "भागफल 4, शेष 2" } }
+  ]
+}

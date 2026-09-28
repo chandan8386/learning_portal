@@ -14,11 +14,101 @@
       "icon": "🔤",
       "color": "sky",
       "chapters": [
-        { "title": "Listening and Speaking", "titleHi": "सुनना और बोलना", "topics": ["Greetings", "My Name", "Following Simple Instructions"] },
-        { "title": "Letters A to M", "titleHi": "अक्षर A से M", "topics": ["A B C D", "E F G H", "I J K L M"] },
-        { "title": "Letters N to Z", "titleHi": "अक्षर N से Z", "topics": ["N O P Q", "R S T U", "V W X Y Z"] },
-        { "title": "Pre-writing Strokes", "titleHi": "लिखने से पहले की रेखाएँ", "topics": ["Standing and Sleeping Lines", "Slanting Lines", "Curves and Circles"] },
-        { "title": "Picture Words", "titleHi": "चित्र वाले शब्द", "topics": ["Fruits Words", "Animal Words", "Things at Home"] }
+        {
+          "title": "Listening and Speaking",
+          "titleHi": "सुनना और बोलना",
+          "topics": [
+            "Greetings",
+            "My Name",
+            "Following Simple Instructions"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Listen and answer simple questions",
+              "hi": "आसान सवाल सुनकर जवाब देना"
+            },
+            {
+              "en": "Say hello and your name",
+              "hi": "नमस्ते कहना और अपना नाम बताना"
+            }
+          ]
+        },
+        {
+          "title": "Letters A to M",
+          "titleHi": "अक्षर A से M",
+          "topics": [
+            "A B C D",
+            "E F G H",
+            "I J K L M"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know letters A to M and their sounds",
+              "hi": "A से M तक के अक्षर और उनकी ध्वनि पहचानना"
+            },
+            {
+              "en": "Match each letter to a picture",
+              "hi": "हर अक्षर को चित्र से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Letters N to Z",
+          "titleHi": "अक्षर N से Z",
+          "topics": [
+            "N O P Q",
+            "R S T U",
+            "V W X Y Z"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know letters N to Z and their sounds",
+              "hi": "N से Z तक के अक्षर और उनकी ध्वनि पहचानना"
+            },
+            {
+              "en": "Match each letter to a picture",
+              "hi": "हर अक्षर को चित्र से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Pre-writing Strokes",
+          "titleHi": "लिखने से पहले की रेखाएँ",
+          "topics": [
+            "Standing and Sleeping Lines",
+            "Slanting Lines",
+            "Curves and Circles"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Draw standing, sleeping and slanting lines",
+              "hi": "खड़ी, पड़ी और तिरछी रेखाएँ बनाना"
+            },
+            {
+              "en": "Draw curves and circles",
+              "hi": "घुमाव और गोले बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Picture Words",
+          "titleHi": "चित्र वाले शब्द",
+          "topics": [
+            "Fruits Words",
+            "Animal Words",
+            "Things at Home"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name fruits, animals and things at home",
+              "hi": "फल, जानवर और घर की चीज़ों के नाम बोलना"
+            },
+            {
+              "en": "Say the first sound of a word",
+              "hi": "शब्द की पहली ध्वनि बोलना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -28,11 +118,100 @@
       "icon": "🅰️",
       "color": "orange",
       "chapters": [
-        { "title": "Listening and Speaking", "titleHi": "सुनना और बोलना", "topics": [{ "title": "Namaste", "titleHi": "नमस्ते" }, { "title": "My Family Words", "titleHi": "मेरे परिवार के शब्द" }] },
-        { "title": "Vowels (Swar) a to aa", "titleHi": "स्वर अ से आ", "topics": [{ "title": "a", "titleHi": "अ" }, { "title": "aa", "titleHi": "आ" }] },
-        { "title": "Vowels (Swar) i to au", "titleHi": "स्वर इ से औ", "topics": [{ "title": "i ii", "titleHi": "इ ई" }, { "title": "u uu", "titleHi": "उ ऊ" }, { "title": "e ai o au", "titleHi": "ए ऐ ओ औ" }] },
-        { "title": "Pre-writing Strokes", "titleHi": "लिखने से पहले की रेखाएँ", "topics": [{ "title": "Lines", "titleHi": "रेखाएँ" }, { "title": "Curves", "titleHi": "घुमाव" }] },
-        { "title": "Balgeet", "titleHi": "बालगीत", "topics": [{ "title": "Machhli Jal Ki Rani", "titleHi": "मछली जल की रानी" }, { "title": "Chanda Mama", "titleHi": "चंदा मामा" }] }
+        {
+          "title": "Listening and Speaking",
+          "titleHi": "सुनना और बोलना",
+          "topics": [
+            {
+              "title": "Namaste",
+              "titleHi": "नमस्ते"
+            },
+            {
+              "title": "My Family Words",
+              "titleHi": "मेरे परिवार के शब्द"
+            }
+          ],
+          "learningOutcomes": [
+            "सरल बातें सुनना और बोलना",
+            "परिवार के शब्द बोलना"
+          ]
+        },
+        {
+          "title": "Vowels (Swar) a to aa",
+          "titleHi": "स्वर अ से आ",
+          "topics": [
+            {
+              "title": "a",
+              "titleHi": "अ"
+            },
+            {
+              "title": "aa",
+              "titleHi": "आ"
+            }
+          ],
+          "learningOutcomes": [
+            "अ और आ पहचानना और बोलना",
+            "अ और आ से शुरू होने वाले शब्द"
+          ]
+        },
+        {
+          "title": "Vowels (Swar) i to au",
+          "titleHi": "स्वर इ से औ",
+          "topics": [
+            {
+              "title": "i ii",
+              "titleHi": "इ ई"
+            },
+            {
+              "title": "u uu",
+              "titleHi": "उ ऊ"
+            },
+            {
+              "title": "e ai o au",
+              "titleHi": "ए ऐ ओ औ"
+            }
+          ],
+          "learningOutcomes": [
+            "इ से औ तक के स्वर पहचानना",
+            "हर स्वर से एक शब्द बोलना"
+          ]
+        },
+        {
+          "title": "Pre-writing Strokes",
+          "titleHi": "लिखने से पहले की रेखाएँ",
+          "topics": [
+            {
+              "title": "Lines",
+              "titleHi": "रेखाएँ"
+            },
+            {
+              "title": "Curves",
+              "titleHi": "घुमाव"
+            }
+          ],
+          "learningOutcomes": [
+            "रेखाएँ और घुमाव बनाना",
+            "अक्षर लिखने की तैयारी"
+          ]
+        },
+        {
+          "title": "Balgeet",
+          "titleHi": "बालगीत",
+          "topics": [
+            {
+              "title": "Machhli Jal Ki Rani",
+              "titleHi": "मछली जल की रानी"
+            },
+            {
+              "title": "Chanda Mama",
+              "titleHi": "चंदा मामा"
+            }
+          ],
+          "learningOutcomes": [
+            "बालगीत सुनना और गाना",
+            "हाव-भाव के साथ गीत गाना"
+          ]
+        }
       ]
     },
     {
@@ -42,11 +221,101 @@
       "icon": "🔢",
       "color": "emerald",
       "chapters": [
-        { "title": "Counting 1 to 5", "titleHi": "1 से 5 तक गिनती", "topics": ["Count and Say", "Show with Fingers", "Trace the Numbers"] },
-        { "title": "Counting 6 to 10", "titleHi": "6 से 10 तक गिनती", "topics": ["Count and Say", "Match Number to Objects", "Trace the Numbers"] },
-        { "title": "Big and Small", "titleHi": "बड़ा और छोटा", "topics": ["Big and Small", "Tall and Short", "More and Less"] },
-        { "title": "Shapes", "titleHi": "आकृतियाँ", "topics": ["Circle", "Square", "Triangle"] },
-        { "title": "Colours", "titleHi": "रंग", "topics": ["Red Blue Yellow", "Green Orange", "Black and White"] }
+        {
+          "title": "Counting 1 to 5",
+          "titleHi": "1 से 5 तक गिनती",
+          "topics": [
+            "Count and Say",
+            "Show with Fingers",
+            "Trace the Numbers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Count objects from 1 to 5",
+              "hi": "1 से 5 तक चीज़ें गिनना"
+            },
+            {
+              "en": "Show numbers with fingers",
+              "hi": "उंगलियों से संख्या दिखाना"
+            }
+          ]
+        },
+        {
+          "title": "Counting 6 to 10",
+          "titleHi": "6 से 10 तक गिनती",
+          "topics": [
+            "Count and Say",
+            "Match Number to Objects",
+            "Trace the Numbers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Count objects from 6 to 10",
+              "hi": "6 से 10 तक चीज़ें गिनना"
+            },
+            {
+              "en": "Match a number to a group",
+              "hi": "संख्या को समूह से मिलाना"
+            }
+          ]
+        },
+        {
+          "title": "Big and Small",
+          "titleHi": "बड़ा और छोटा",
+          "topics": [
+            "Big and Small",
+            "Tall and Short",
+            "More and Less"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Tell big from small and tall from short",
+              "hi": "बड़ा-छोटा और ऊँचा-नाटा पहचानना"
+            },
+            {
+              "en": "Tell more from less",
+              "hi": "ज़्यादा और कम पहचानना"
+            }
+          ]
+        },
+        {
+          "title": "Shapes",
+          "titleHi": "आकृतियाँ",
+          "topics": [
+            "Circle",
+            "Square",
+            "Triangle"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Know circle, square and triangle",
+              "hi": "वृत्त, वर्ग और त्रिभुज पहचानना"
+            },
+            {
+              "en": "Find shapes around us",
+              "hi": "आस-पास आकृतियाँ ढूँढना"
+            }
+          ]
+        },
+        {
+          "title": "Colours",
+          "titleHi": "रंग",
+          "topics": [
+            "Red Blue Yellow",
+            "Green Orange",
+            "Black and White"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name the main colours",
+              "hi": "मुख्य रंगों के नाम बताना"
+            },
+            {
+              "en": "Find things of each colour",
+              "hi": "हर रंग की चीज़ें ढूँढना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -56,11 +325,96 @@
       "icon": "🌍",
       "color": "lime",
       "chapters": [
-        { "title": "My Body", "titleHi": "मेरा शरीर", "topics": ["Parts of the Face", "Hands and Legs"] },
-        { "title": "My Family", "titleHi": "मेरा परिवार", "topics": ["Family Members", "Helping at Home"] },
-        { "title": "Fruits and Vegetables", "titleHi": "फल और सब्ज़ियाँ", "topics": ["Fruits", "Vegetables"] },
-        { "title": "Animals and Birds", "titleHi": "जानवर और पक्षी", "topics": ["Pet Animals", "Birds Around Us"] },
-        { "title": "Good Habits", "titleHi": "अच्छी आदतें", "topics": ["Washing Hands", "Saying Please and Thank You"] }
+        {
+          "title": "My Body",
+          "titleHi": "मेरा शरीर",
+          "topics": [
+            "Parts of the Face",
+            "Hands and Legs"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name parts of the face and body",
+              "hi": "चेहरे और शरीर के अंगों के नाम"
+            },
+            {
+              "en": "Know what each part does",
+              "hi": "हर अंग का काम जानना"
+            }
+          ]
+        },
+        {
+          "title": "My Family",
+          "titleHi": "मेरा परिवार",
+          "topics": [
+            "Family Members",
+            "Helping at Home"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name family members",
+              "hi": "परिवार के सदस्यों के नाम"
+            },
+            {
+              "en": "Help at home",
+              "hi": "घर में मदद करना"
+            }
+          ]
+        },
+        {
+          "title": "Fruits and Vegetables",
+          "titleHi": "फल और सब्ज़ियाँ",
+          "topics": [
+            "Fruits",
+            "Vegetables"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name common fruits and vegetables",
+              "hi": "आम फलों और सब्ज़ियों के नाम"
+            },
+            {
+              "en": "Know that they keep us healthy",
+              "hi": "ये हमें स्वस्थ रखते हैं"
+            }
+          ]
+        },
+        {
+          "title": "Animals and Birds",
+          "titleHi": "जानवर और पक्षी",
+          "topics": [
+            "Pet Animals",
+            "Birds Around Us"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Name pet animals and birds",
+              "hi": "पालतू जानवरों और पक्षियों के नाम"
+            },
+            {
+              "en": "Copy animal sounds",
+              "hi": "जानवरों की आवाज़ें निकालना"
+            }
+          ]
+        },
+        {
+          "title": "Good Habits",
+          "titleHi": "अच्छी आदतें",
+          "topics": [
+            "Washing Hands",
+            "Saying Please and Thank You"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Wash hands and keep clean",
+              "hi": "हाथ धोना और साफ़ रहना"
+            },
+            {
+              "en": "Say please and thank you",
+              "hi": "कृपया और धन्यवाद कहना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,8 +424,43 @@
       "icon": "🎵",
       "color": "pink",
       "chapters": [
-        { "title": "Action Rhymes", "titleHi": "हाव-भाव वाली कविताएँ", "topics": ["Twinkle Twinkle Little Star", "Head Shoulders Knees and Toes", "Johny Johny Yes Papa"] },
-        { "title": "Picture Stories", "titleHi": "चित्र कहानियाँ", "topics": ["The Thirsty Crow", "The Lion and the Mouse"] }
+        {
+          "title": "Action Rhymes",
+          "titleHi": "हाव-भाव वाली कविताएँ",
+          "topics": [
+            "Twinkle Twinkle Little Star",
+            "Head Shoulders Knees and Toes",
+            "Johny Johny Yes Papa"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Sing rhymes with actions",
+              "hi": "हाव-भाव के साथ कविता गाना"
+            },
+            {
+              "en": "Remember the words of a rhyme",
+              "hi": "कविता के शब्द याद रखना"
+            }
+          ]
+        },
+        {
+          "title": "Picture Stories",
+          "titleHi": "चित्र कहानियाँ",
+          "topics": [
+            "The Thirsty Crow",
+            "The Lion and the Mouse"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Listen to picture stories",
+              "hi": "चित्र कहानियाँ सुनना"
+            },
+            {
+              "en": "Tell what happens next",
+              "hi": "आगे क्या होगा बताना"
+            }
+          ]
+        }
       ]
     },
     {
@@ -81,8 +470,42 @@
       "icon": "🎨",
       "color": "violet",
       "chapters": [
-        { "title": "Colouring Fun", "titleHi": "रंग भरो", "topics": ["Colour the Fruit", "Colour the Animal"] },
-        { "title": "Finger and Thumb Printing", "titleHi": "उंगली और अंगूठे की छपाई", "topics": ["Thumb Caterpillar", "Finger Flowers"] }
+        {
+          "title": "Colouring Fun",
+          "titleHi": "रंग भरो",
+          "topics": [
+            "Colour the Fruit",
+            "Colour the Animal"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Colour inside the lines",
+              "hi": "रेखाओं के अंदर रंग भरना"
+            },
+            {
+              "en": "Choose the right colours",
+              "hi": "सही रंग चुनना"
+            }
+          ]
+        },
+        {
+          "title": "Finger and Thumb Printing",
+          "titleHi": "उंगली और अंगूठे की छपाई",
+          "topics": [
+            "Thumb Caterpillar",
+            "Finger Flowers"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Make pictures with finger and thumb prints",
+              "hi": "उंगली और अंगूठे की छाप से चित्र बनाना"
+            },
+            {
+              "en": "Enjoy creative play",
+              "hi": "रचनात्मक खेल का मज़ा लेना"
+            }
+          ]
+        }
       ]
     }
   ]

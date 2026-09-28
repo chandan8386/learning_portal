@@ -8,47 +8,568 @@
   "audioFirst": false,
   "subjects": [
     {
-      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Poorvi (reference)",
-      "chapters": ["Prose and Poetry: Wisdom Paves the Way", "Prose and Poetry: Science and Curiosity", "Prose and Poetry: Nation and Heritage", "Prose and Poetry: Humour", "Grammar: Modals", "Grammar: Reported Speech", "Grammar: Voice", "Grammar: Clauses and Sentence Transformation", "Writing: Letters and Emails", "Writing: Article, Report and Speech"]
-    },
-    {
-      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Malhar (reference)",
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Poorvi (reference)",
       "chapters": [
-        { "title": "Prose Lessons", "titleHi": "गद्य पाठ" },
-        { "title": "Poems", "titleHi": "कविताएँ" },
-        { "title": "Upsarg and Pratyay", "titleHi": "उपसर्ग और प्रत्यय" },
-        { "title": "Samas", "titleHi": "समास" },
-        { "title": "Sentence Transformation", "titleHi": "वाक्य रूपांतरण" },
-        { "title": "Alankar (Introduction)", "titleHi": "अलंकार (परिचय)" },
-        { "title": "Idioms and Proverbs", "titleHi": "मुहावरे और लोकोक्तियाँ" },
-        { "title": "Essay, Letter and Advertisement Writing", "titleHi": "निबंध, पत्र और विज्ञापन लेखन" }
+        {
+          "title": "Prose and Poetry: Wisdom Paves the Way",
+          "learningOutcomes": [
+            "Read texts on wisdom and decisions",
+            "Discuss lessons from stories"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Science and Curiosity",
+          "learningOutcomes": [
+            "Read texts on science and discovery",
+            "Appreciate curiosity and inquiry"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Nation and Heritage",
+          "learningOutcomes": [
+            "Read about the nation and its heritage",
+            "Discuss national pride and responsibility"
+          ]
+        },
+        {
+          "title": "Prose and Poetry: Humour",
+          "learningOutcomes": [
+            "Read humorous texts",
+            "Understand irony and wit"
+          ]
+        },
+        {
+          "title": "Grammar: Modals",
+          "learningOutcomes": [
+            "Use modals for ability, permission, obligation and advice",
+            "Choose the right modal"
+          ]
+        },
+        {
+          "title": "Grammar: Reported Speech",
+          "learningOutcomes": [
+            "Report statements, questions and commands",
+            "Change pronouns and tenses correctly"
+          ]
+        },
+        {
+          "title": "Grammar: Voice",
+          "learningOutcomes": [
+            "Use active and passive voice in all tenses",
+            "Use passive in formal writing"
+          ]
+        },
+        {
+          "title": "Grammar: Clauses and Sentence Transformation",
+          "learningOutcomes": [
+            "Identify noun, adjective and adverb clauses",
+            "Transform sentences without changing meaning"
+          ]
+        },
+        {
+          "title": "Writing: Letters and Emails",
+          "learningOutcomes": [
+            "Write formal letters and emails",
+            "Use the right tone and format"
+          ]
+        },
+        {
+          "title": "Writing: Article, Report and Speech",
+          "learningOutcomes": [
+            "Write articles, reports and speeches",
+            "Plan and organise ideas"
+          ]
+        }
       ]
     },
     {
-      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➗", "color": "emerald", "book": "NCERT Ganita Prakash (reference)",
-      "chapters": ["Rational Numbers", "Linear Equations in One Variable", "Understanding Quadrilaterals", "Data Handling and Probability", "Squares and Square Roots", "Cubes and Cube Roots", "Comparing Quantities: Profit, Loss, Interest", "Algebraic Expressions and Identities", "Mensuration", "Exponents and Powers", "Direct and Inverse Proportions", "Factorisation", "Introduction to Graphs"]
-    },
-    {
-      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Curiosity (reference)",
-      "chapters": ["Crop Production and Management", "Microorganisms: Friend and Foe", "Synthetic Fibres and Plastics", "Materials: Metals and Non-Metals", "Coal and Petroleum", "Combustion and Flame", "Conservation of Plants and Animals", "Cell: Structure and Functions", "Reproduction in Animals", "Reaching the Age of Adolescence", "Force and Pressure", "Friction", "Sound", "Chemical Effects of Electric Current", "Some Natural Phenomena", "Light and the Human Eye"]
-    },
-    {
-      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT Exploring Society: India and Beyond (reference)",
-      "chapters": ["Resources and Their Conservation", "Land, Soil, Water and Natural Vegetation", "Agriculture and Industries", "Human Resources", "The Coming of the British", "Colonialism and Rural Society", "The Revolt of 1857", "The Indian National Movement", "The Indian Constitution", "Parliament and the Making of Laws", "The Judiciary", "Public Facilities and Law"]
-    },
-    {
-      "slug": "sanskrit", "name": "Sanskrit", "nameHi": "संस्कृत", "icon": "🕉️", "color": "rose",
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Malhar (reference)",
       "chapters": [
-        { "title": "Shabd Roop and Dhatu Roop", "titleHi": "शब्द रूप और धातु रूप" },
-        { "title": "Sandhi and Samas", "titleHi": "संधि और समास" },
-        { "title": "Pratyay", "titleHi": "प्रत्यय" },
-        { "title": "Translation Practice", "titleHi": "अनुवाद अभ्यास" },
-        { "title": "Stories and Shlokas", "titleHi": "कथाएँ और श्लोक" }
+        {
+          "title": "Prose Lessons",
+          "titleHi": "गद्य पाठ",
+          "learningOutcomes": [
+            "गद्य पाठ का विश्लेषण",
+            "पाठ के संदेश पर चर्चा"
+          ]
+        },
+        {
+          "title": "Poems",
+          "titleHi": "कविताएँ",
+          "learningOutcomes": [
+            "कविता की व्याख्या",
+            "भाव और सौंदर्य"
+          ]
+        },
+        {
+          "title": "Upsarg and Pratyay",
+          "titleHi": "उपसर्ग और प्रत्यय",
+          "learningOutcomes": [
+            "उपसर्ग और प्रत्यय",
+            "शब्द-निर्माण"
+          ]
+        },
+        {
+          "title": "Samas",
+          "titleHi": "समास",
+          "learningOutcomes": [
+            "समास के भेद",
+            "समास-विग्रह"
+          ]
+        },
+        {
+          "title": "Sentence Transformation",
+          "titleHi": "वाक्य रूपांतरण",
+          "learningOutcomes": [
+            "वाक्य रूपांतरण",
+            "सरल, संयुक्त और मिश्र वाक्य"
+          ]
+        },
+        {
+          "title": "Alankar (Introduction)",
+          "titleHi": "अलंकार (परिचय)",
+          "learningOutcomes": [
+            "अलंकार का परिचय",
+            "अनुप्रास, यमक और उपमा"
+          ]
+        },
+        {
+          "title": "Idioms and Proverbs",
+          "titleHi": "मुहावरे और लोकोक्तियाँ",
+          "learningOutcomes": [
+            "मुहावरे और लोकोक्तियाँ",
+            "प्रसंग के अनुसार प्रयोग"
+          ]
+        },
+        {
+          "title": "Essay, Letter and Advertisement Writing",
+          "titleHi": "निबंध, पत्र और विज्ञापन लेखन",
+          "learningOutcomes": [
+            "निबंध, पत्र और विज्ञापन लेखन",
+            "आकर्षक लेखन"
+          ]
+        }
       ]
     },
     {
-      "slug": "computer", "name": "Computer Science", "nameHi": "कंप्यूटर विज्ञान", "icon": "💻", "color": "indigo",
-      "chapters": ["Number Systems in Computers", "Databases Basics", "Introduction to Python", "Web Pages with HTML and CSS", "Artificial Intelligence Basics"]
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➗",
+      "color": "emerald",
+      "book": "NCERT Ganita Prakash (reference)",
+      "chapters": [
+        {
+          "title": "Rational Numbers",
+          "learningOutcomes": [
+            "Know properties of rational numbers",
+            "Find rational numbers between two numbers"
+          ]
+        },
+        {
+          "title": "Linear Equations in One Variable",
+          "learningOutcomes": [
+            "Solve linear equations in one variable",
+            "Solve word problems with equations"
+          ]
+        },
+        {
+          "title": "Understanding Quadrilaterals",
+          "learningOutcomes": [
+            "Know types of quadrilaterals",
+            "Use the angle sum property of polygons"
+          ]
+        },
+        {
+          "title": "Data Handling and Probability",
+          "learningOutcomes": [
+            "Draw histograms and pie charts",
+            "Find the probability of simple events"
+          ]
+        },
+        {
+          "title": "Squares and Square Roots",
+          "learningOutcomes": [
+            "Find squares and square roots",
+            "Use prime factorisation and long division"
+          ]
+        },
+        {
+          "title": "Cubes and Cube Roots",
+          "learningOutcomes": [
+            "Find cubes and cube roots",
+            "Identify perfect cubes"
+          ]
+        },
+        {
+          "title": "Comparing Quantities: Profit, Loss, Interest",
+          "learningOutcomes": [
+            "Find discount, profit, loss and tax",
+            "Find compound interest"
+          ]
+        },
+        {
+          "title": "Algebraic Expressions and Identities",
+          "learningOutcomes": [
+            "Multiply algebraic expressions",
+            "Use standard algebraic identities"
+          ]
+        },
+        {
+          "title": "Mensuration",
+          "learningOutcomes": [
+            "Find area of trapeziums and polygons",
+            "Find surface area and volume of cubes, cuboids and cylinders"
+          ]
+        },
+        {
+          "title": "Exponents and Powers",
+          "learningOutcomes": [
+            "Use negative exponents",
+            "Write very small numbers in standard form"
+          ]
+        },
+        {
+          "title": "Direct and Inverse Proportions",
+          "learningOutcomes": [
+            "Solve direct and inverse proportion problems",
+            "Use the unitary method"
+          ]
+        },
+        {
+          "title": "Factorisation",
+          "learningOutcomes": [
+            "Factorise algebraic expressions",
+            "Divide polynomials by monomials"
+          ]
+        },
+        {
+          "title": "Introduction to Graphs",
+          "learningOutcomes": [
+            "Plot points on a graph",
+            "Draw and read line graphs"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "nameHi": "विज्ञान",
+      "icon": "🔬",
+      "color": "teal",
+      "book": "NCERT Curiosity (reference)",
+      "chapters": [
+        {
+          "title": "Crop Production and Management",
+          "learningOutcomes": [
+            "Know agricultural practices",
+            "Know crop protection and storage"
+          ]
+        },
+        {
+          "title": "Microorganisms: Friend and Foe",
+          "learningOutcomes": [
+            "Know useful and harmful microorganisms",
+            "Know how to prevent diseases"
+          ]
+        },
+        {
+          "title": "Synthetic Fibres and Plastics",
+          "learningOutcomes": [
+            "Know synthetic fibres and plastics",
+            "Reduce plastic use"
+          ]
+        },
+        {
+          "title": "Materials: Metals and Non-Metals",
+          "learningOutcomes": [
+            "Know physical and chemical properties of metals and non-metals",
+            "Know their uses"
+          ]
+        },
+        {
+          "title": "Coal and Petroleum",
+          "learningOutcomes": [
+            "Know how coal and petroleum formed",
+            "Save fossil fuels"
+          ]
+        },
+        {
+          "title": "Combustion and Flame",
+          "learningOutcomes": [
+            "Know conditions for burning",
+            "Know zones of a flame and fire safety"
+          ]
+        },
+        {
+          "title": "Conservation of Plants and Animals",
+          "learningOutcomes": [
+            "Know how to conserve plants and animals",
+            "Know wildlife sanctuaries and national parks"
+          ]
+        },
+        {
+          "title": "Cell: Structure and Functions",
+          "learningOutcomes": [
+            "Know cell structure",
+            "Compare plant and animal cells"
+          ]
+        },
+        {
+          "title": "Reproduction in Animals",
+          "learningOutcomes": [
+            "Know sexual and asexual reproduction in animals",
+            "Know fertilisation and development"
+          ]
+        },
+        {
+          "title": "Reaching the Age of Adolescence",
+          "learningOutcomes": [
+            "Know changes during adolescence",
+            "Stay healthy and informed"
+          ]
+        },
+        {
+          "title": "Force and Pressure",
+          "learningOutcomes": [
+            "Know contact and non-contact forces",
+            "Know pressure in liquids and gases"
+          ]
+        },
+        {
+          "title": "Friction",
+          "learningOutcomes": [
+            "Know causes of friction",
+            "Increase and reduce friction"
+          ]
+        },
+        {
+          "title": "Sound",
+          "learningOutcomes": [
+            "Know how sound is produced and travels",
+            "Know noise pollution"
+          ]
+        },
+        {
+          "title": "Chemical Effects of Electric Current",
+          "learningOutcomes": [
+            "Know conduction of electricity in liquids",
+            "Know electroplating"
+          ]
+        },
+        {
+          "title": "Some Natural Phenomena",
+          "learningOutcomes": [
+            "Know lightning and earthquakes",
+            "Stay safe during natural events"
+          ]
+        },
+        {
+          "title": "Light and the Human Eye",
+          "learningOutcomes": [
+            "Know laws of reflection",
+            "Know the human eye and how to care for it"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "nameHi": "सामाजिक विज्ञान",
+      "icon": "🗺️",
+      "color": "amber",
+      "book": "NCERT Exploring Society: India and Beyond (reference)",
+      "chapters": [
+        {
+          "title": "Resources and Their Conservation",
+          "learningOutcomes": [
+            "Know types of resources",
+            "Use resources sustainably"
+          ]
+        },
+        {
+          "title": "Land, Soil, Water and Natural Vegetation",
+          "learningOutcomes": [
+            "Know land use, soil, water and vegetation",
+            "Conserve them"
+          ]
+        },
+        {
+          "title": "Agriculture and Industries",
+          "learningOutcomes": [
+            "Know types of farming and industries",
+            "Know major crops and industrial regions"
+          ]
+        },
+        {
+          "title": "Human Resources",
+          "learningOutcomes": [
+            "Know population and human resources",
+            "Know the value of skills and education"
+          ]
+        },
+        {
+          "title": "The Coming of the British",
+          "learningOutcomes": [
+            "Know how the East India Company came to power",
+            "Know British expansion in India"
+          ]
+        },
+        {
+          "title": "Colonialism and Rural Society",
+          "learningOutcomes": [
+            "Know how colonial rule affected farmers",
+            "Know indigo and revenue systems"
+          ]
+        },
+        {
+          "title": "The Revolt of 1857",
+          "learningOutcomes": [
+            "Know the causes and results of the Revolt of 1857",
+            "Know key leaders"
+          ]
+        },
+        {
+          "title": "The Indian National Movement",
+          "learningOutcomes": [
+            "Know the stages of the freedom struggle",
+            "Know Gandhiji and other leaders"
+          ]
+        },
+        {
+          "title": "The Indian Constitution",
+          "learningOutcomes": [
+            "Know key features of the Constitution",
+            "Know fundamental rights and duties"
+          ]
+        },
+        {
+          "title": "Parliament and the Making of Laws",
+          "learningOutcomes": [
+            "Know how Parliament makes laws",
+            "Know the role of citizens"
+          ]
+        },
+        {
+          "title": "The Judiciary",
+          "learningOutcomes": [
+            "Know the structure of courts",
+            "Know how the judiciary protects rights"
+          ]
+        },
+        {
+          "title": "Public Facilities and Law",
+          "learningOutcomes": [
+            "Know the role of government in public facilities",
+            "Know laws that protect people"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sanskrit",
+      "name": "Sanskrit",
+      "nameHi": "संस्कृत",
+      "icon": "🕉️",
+      "color": "rose",
+      "chapters": [
+        {
+          "title": "Shabd Roop and Dhatu Roop",
+          "titleHi": "शब्द रूप और धातु रूप",
+          "learningOutcomes": [
+            "शब्द रूप और धातु रूप दोहराना",
+            "वाक्य में प्रयोग"
+          ]
+        },
+        {
+          "title": "Sandhi and Samas",
+          "titleHi": "संधि और समास",
+          "learningOutcomes": [
+            "संधि और समास",
+            "विग्रह करना"
+          ]
+        },
+        {
+          "title": "Pratyay",
+          "titleHi": "प्रत्यय",
+          "learningOutcomes": [
+            "प्रत्ययों का प्रयोग",
+            "क्त्वा, ल्यप्, तुमुन् प्रत्यय"
+          ]
+        },
+        {
+          "title": "Translation Practice",
+          "titleHi": "अनुवाद अभ्यास",
+          "learningOutcomes": [
+            "हिंदी से संस्कृत अनुवाद",
+            "सरल वाक्यों का अनुवाद"
+          ]
+        },
+        {
+          "title": "Stories and Shlokas",
+          "titleHi": "कथाएँ और श्लोक",
+          "learningOutcomes": [
+            "कथाएँ और श्लोक",
+            "श्लोकों का अर्थ"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "computer",
+      "name": "Computer Science",
+      "nameHi": "कंप्यूटर विज्ञान",
+      "icon": "💻",
+      "color": "indigo",
+      "chapters": [
+        {
+          "title": "Number Systems in Computers",
+          "learningOutcomes": [
+            "Know binary and decimal number systems",
+            "Convert between them"
+          ]
+        },
+        {
+          "title": "Databases Basics",
+          "learningOutcomes": [
+            "Know what a database is",
+            "Create tables and records"
+          ]
+        },
+        {
+          "title": "Introduction to Python",
+          "learningOutcomes": [
+            "Write simple Python programs",
+            "Use variables, input and conditions"
+          ]
+        },
+        {
+          "title": "Web Pages with HTML and CSS",
+          "learningOutcomes": [
+            "Build web pages with HTML and CSS",
+            "Style text and layout"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence Basics",
+          "learningOutcomes": [
+            "Know what AI is",
+            "Know everyday uses and limits of AI"
+          ]
+        }
+      ]
     }
   ]
 }

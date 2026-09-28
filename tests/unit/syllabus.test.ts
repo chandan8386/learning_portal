@@ -42,6 +42,20 @@ describe("syllabus content", () => {
     }
   });
 
+  it("gives every chapter a preview, in Hindi and English for the audio-first classes", () => {
+    for (const c of classes) {
+      for (const s of c.subjects) {
+        for (const ch of normalizeChapters(s.chapters)) {
+          const where = `${c.slug}/${s.slug}/${ch.slug}`;
+          expect(ch.learningOutcomes.length, where).toBeGreaterThanOrEqual(1);
+          if (c.audioFirst && s.slug !== "hindi") {
+            for (const o of ch.learningOutcomes) expect(typeof o === "object" && o.hi, where).toBeTruthy();
+          }
+        }
+      }
+    }
+  });
+
   it("includes the core NCERT Class 10 maths and science chapters", () => {
     const class10 = classes.find((c) => c.slug === "class-10")!;
     const titles = (slug: string) =>

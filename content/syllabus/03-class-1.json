@@ -18,38 +18,116 @@
         {
           "title": "Sounds and Letters",
           "titleHi": "ध्वनियाँ और अक्षर",
-          "learningOutcomes": ["Says the sound of each letter", "Matches small and capital letters"],
-          "topics": ["Letter Sounds a to m", "Letter Sounds n to z", "Capital and Small Letters"]
+          "learningOutcomes": [
+            {
+              "en": "Say the sound of each letter",
+              "hi": "हर अक्षर की ध्वनि बोलना"
+            },
+            {
+              "en": "Match small and capital letters",
+              "hi": "छोटे और बड़े अक्षर मिलाना"
+            }
+          ],
+          "topics": [
+            "Letter Sounds a to m",
+            "Letter Sounds n to z",
+            "Capital and Small Letters"
+          ]
         },
         {
           "title": "Reading Simple Words",
           "titleHi": "आसान शब्द पढ़ना",
-          "learningOutcomes": ["Blends sounds to read three-letter words", "Reads common sight words"],
-          "topics": ["Blending c-a-t", "Word Families", "Sight Words"]
+          "learningOutcomes": [
+            {
+              "en": "Blend sounds to read three-letter words",
+              "hi": "ध्वनियाँ मिलाकर तीन अक्षर वाले शब्द पढ़ना"
+            },
+            {
+              "en": "Read common sight words",
+              "hi": "आम पहचान वाले शब्द पढ़ना"
+            }
+          ],
+          "topics": [
+            "Blending c-a-t",
+            "Word Families",
+            "Sight Words"
+          ]
         },
         {
           "title": "Naming and Action Words",
           "titleHi": "नाम वाले और काम वाले शब्द",
-          "learningOutcomes": ["Identifies naming words", "Identifies action words in pictures"],
-          "topics": ["Naming Words", "Action Words", "One and Many"]
+          "learningOutcomes": [
+            {
+              "en": "Identify naming words",
+              "hi": "नाम वाले शब्द पहचानना"
+            },
+            {
+              "en": "Identify action words in pictures",
+              "hi": "चित्रों में काम वाले शब्द पहचानना"
+            }
+          ],
+          "topics": [
+            "Naming Words",
+            "Action Words",
+            "One and Many"
+          ]
         },
         {
           "title": "Reading Sentences",
           "titleHi": "वाक्य पढ़ना",
-          "learningOutcomes": ["Reads short sentences with support", "Uses capital letter and full stop"],
-          "topics": ["Capital Letter and Full Stop", "This is / That is", "Reading a Short Paragraph"]
+          "learningOutcomes": [
+            {
+              "en": "Read short sentences with support",
+              "hi": "छोटे वाक्य पढ़ना"
+            },
+            {
+              "en": "Use a capital letter and full stop",
+              "hi": "बड़ा अक्षर और पूर्ण विराम लगाना"
+            }
+          ],
+          "topics": [
+            "Capital Letter and Full Stop",
+            "This is / That is",
+            "Reading a Short Paragraph"
+          ]
         },
         {
           "title": "Poems and Stories",
           "titleHi": "कविताएँ और कहानियाँ",
-          "learningOutcomes": ["Recites a poem with actions", "Answers simple questions about a story"],
-          "topics": ["Poem: My Family", "Poem: The Rainbow", "Story: The Little Seed"]
+          "learningOutcomes": [
+            {
+              "en": "Recite a poem with actions",
+              "hi": "हाव-भाव के साथ कविता सुनाना"
+            },
+            {
+              "en": "Answer simple questions about a story",
+              "hi": "कहानी पर आसान सवालों के जवाब देना"
+            }
+          ],
+          "topics": [
+            "Poem: My Family",
+            "Poem: The Rainbow",
+            "Story: The Little Seed"
+          ]
         },
         {
           "title": "Listening and Speaking",
           "titleHi": "सुनना और बोलना",
-          "learningOutcomes": ["Introduces self in simple sentences", "Follows two-step instructions"],
-          "topics": ["Introducing Myself", "Talking About a Picture", "Polite Words"]
+          "learningOutcomes": [
+            {
+              "en": "Introduce yourself in simple sentences",
+              "hi": "आसान वाक्यों में अपना परिचय देना"
+            },
+            {
+              "en": "Follow two-step instructions",
+              "hi": "दो कदम वाले निर्देश मानना"
+            }
+          ],
+          "topics": [
+            "Introducing Myself",
+            "Talking About a Picture",
+            "Polite Words"
+          ]
         }
       ]
     },
@@ -64,38 +142,118 @@
         {
           "title": "Varnamala Revision",
           "titleHi": "वर्णमाला दोहराई",
-          "learningOutcomes": ["सभी स्वर और व्यंजन पहचानता है", "वर्ण की ध्वनि बोलता है"],
-          "topics": [{ "title": "Swar", "titleHi": "स्वर" }, { "title": "Vyanjan", "titleHi": "व्यंजन" }]
+          "learningOutcomes": [
+            "सभी स्वर और व्यंजन पहचानता है",
+            "वर्ण की ध्वनि बोलता है"
+          ],
+          "topics": [
+            {
+              "title": "Swar",
+              "titleHi": "स्वर"
+            },
+            {
+              "title": "Vyanjan",
+              "titleHi": "व्यंजन"
+            }
+          ]
         },
         {
           "title": "Words Without Matra",
           "titleHi": "बिना मात्रा वाले शब्द",
-          "learningOutcomes": ["दो और तीन अक्षर वाले शब्द पढ़ता है"],
-          "topics": [{ "title": "Two-Letter Words", "titleHi": "दो अक्षर वाले शब्द" }, { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द" }, { "title": "Small Sentences", "titleHi": "छोटे वाक्य" }]
+          "learningOutcomes": [
+            "दो और तीन अक्षर वाले शब्द पढ़ता है"
+          ],
+          "topics": [
+            {
+              "title": "Two-Letter Words",
+              "titleHi": "दो अक्षर वाले शब्द"
+            },
+            {
+              "title": "Three-Letter Words",
+              "titleHi": "तीन अक्षर वाले शब्द"
+            },
+            {
+              "title": "Small Sentences",
+              "titleHi": "छोटे वाक्य"
+            }
+          ]
         },
         {
           "title": "Matras aa i ii",
           "titleHi": "मात्राएँ ा ि ी",
-          "learningOutcomes": ["मात्रा लगे शब्द पढ़ता और लिखता है"],
-          "topics": [{ "title": "aa matra", "titleHi": "आ की मात्रा (ा)" }, { "title": "i matra", "titleHi": "इ की मात्रा (ि)" }, { "title": "ii matra", "titleHi": "ई की मात्रा (ी)" }]
+          "learningOutcomes": [
+            "मात्रा लगे शब्द पढ़ता और लिखता है"
+          ],
+          "topics": [
+            {
+              "title": "aa matra",
+              "titleHi": "आ की मात्रा (ा)"
+            },
+            {
+              "title": "i matra",
+              "titleHi": "इ की मात्रा (ि)"
+            },
+            {
+              "title": "ii matra",
+              "titleHi": "ई की मात्रा (ी)"
+            }
+          ]
         },
         {
           "title": "Matras u uu e ai",
           "titleHi": "मात्राएँ ु ू े ै",
-          "learningOutcomes": ["मात्रा लगे शब्द पढ़ता और लिखता है"],
-          "topics": [{ "title": "u matra", "titleHi": "उ की मात्रा (ु)" }, { "title": "uu matra", "titleHi": "ऊ की मात्रा (ू)" }, { "title": "e and ai matra", "titleHi": "ए और ऐ की मात्रा (े ै)" }]
+          "learningOutcomes": [
+            "मात्रा लगे शब्द पढ़ता और लिखता है"
+          ],
+          "topics": [
+            {
+              "title": "u matra",
+              "titleHi": "उ की मात्रा (ु)"
+            },
+            {
+              "title": "uu matra",
+              "titleHi": "ऊ की मात्रा (ू)"
+            },
+            {
+              "title": "e and ai matra",
+              "titleHi": "ए और ऐ की मात्रा (े ै)"
+            }
+          ]
         },
         {
           "title": "Matras o au am",
           "titleHi": "मात्राएँ ो ौ ं",
-          "learningOutcomes": ["सभी मात्राओं वाले शब्द पढ़ता है"],
-          "topics": [{ "title": "o and au matra", "titleHi": "ओ और औ की मात्रा (ो ौ)" }, { "title": "Anusvar", "titleHi": "अनुस्वार (ं)" }]
+          "learningOutcomes": [
+            "सभी मात्राओं वाले शब्द पढ़ता है"
+          ],
+          "topics": [
+            {
+              "title": "o and au matra",
+              "titleHi": "ओ और औ की मात्रा (ो ौ)"
+            },
+            {
+              "title": "Anusvar",
+              "titleHi": "अनुस्वार (ं)"
+            }
+          ]
         },
         {
           "title": "Poems and Stories",
           "titleHi": "कविताएँ और कहानियाँ",
-          "learningOutcomes": ["कविता हाव-भाव के साथ सुनाता है", "कहानी पर आसान प्रश्नों के उत्तर देता है"],
-          "topics": [{ "title": "Poem: Aam ki Tokri", "titleHi": "कविता: आम की टोकरी" }, { "title": "Story: Chuhe ki Topi", "titleHi": "कहानी: चूहे की टोपी" }]
+          "learningOutcomes": [
+            "कविता हाव-भाव के साथ सुनाता है",
+            "कहानी पर आसान प्रश्नों के उत्तर देता है"
+          ],
+          "topics": [
+            {
+              "title": "Poem: Aam ki Tokri",
+              "titleHi": "कविता: आम की टोकरी"
+            },
+            {
+              "title": "Story: Chuhe ki Topi",
+              "titleHi": "कहानी: चूहे की टोपी"
+            }
+          ]
         }
       ]
     },
@@ -110,74 +268,229 @@
         {
           "title": "Finding the Furry Cat: Position",
           "titleHi": "स्थिति: ऊपर-नीचे, अंदर-बाहर",
-          "learningOutcomes": ["Uses words like above, below, inside, outside, near, far"],
-          "topics": ["Above and Below", "Inside and Outside", "Near and Far"]
+          "learningOutcomes": [
+            {
+              "en": "Use words like above, below, inside, outside, near and far",
+              "hi": "ऊपर, नीचे, अंदर, बाहर, पास, दूर जैसे शब्दों का प्रयोग"
+            },
+            {
+              "en": "Describe where things are",
+              "hi": "चीज़ें कहाँ हैं यह बताना"
+            }
+          ],
+          "topics": [
+            "Above and Below",
+            "Inside and Outside",
+            "Near and Far"
+          ]
         },
         {
           "title": "Numbers 1 to 9",
           "titleHi": "संख्याएँ 1 से 9",
-          "learningOutcomes": ["Counts objects up to 9", "Reads and writes numerals 1 to 9"],
-          "topics": ["Counting Objects", "Reading and Writing Numbers", "Comparing Numbers"]
+          "learningOutcomes": [
+            {
+              "en": "Count objects up to 9",
+              "hi": "9 तक चीज़ें गिनना"
+            },
+            {
+              "en": "Read and write numerals 1 to 9",
+              "hi": "1 से 9 तक अंक पढ़ना-लिखना"
+            }
+          ],
+          "topics": [
+            "Counting Objects",
+            "Reading and Writing Numbers",
+            "Comparing Numbers"
+          ]
         },
         {
           "title": "Zero and Numbers to 20",
           "titleHi": "शून्य और 20 तक संख्याएँ",
-          "learningOutcomes": ["Understands zero as 'nothing'", "Counts and writes numbers up to 20"],
-          "topics": ["Zero", "Numbers 10 to 20", "Before, After, Between"]
+          "learningOutcomes": [
+            {
+              "en": "Understand zero as nothing",
+              "hi": "शून्य का मतलब कुछ नहीं"
+            },
+            {
+              "en": "Count and write numbers up to 20",
+              "hi": "20 तक गिनना और लिखना"
+            }
+          ],
+          "topics": [
+            "Zero",
+            "Numbers 10 to 20",
+            "Before, After, Between"
+          ]
         },
         {
           "title": "Addition",
           "titleHi": "जोड़",
-          "learningOutcomes": ["Adds numbers up to 9 using objects", "Solves simple word problems"],
-          "topics": ["Adding with Objects", "Addition on a Number Line", "Addition Stories"]
+          "learningOutcomes": [
+            {
+              "en": "Add numbers up to 9 using objects",
+              "hi": "चीज़ों से 9 तक जोड़ना"
+            },
+            {
+              "en": "Solve simple word problems",
+              "hi": "आसान इबारती सवाल हल करना"
+            }
+          ],
+          "topics": [
+            "Adding with Objects",
+            "Addition on a Number Line",
+            "Addition Stories"
+          ]
         },
         {
           "title": "Subtraction",
           "titleHi": "घटाव",
-          "learningOutcomes": ["Subtracts numbers up to 9 using objects"],
-          "topics": ["Taking Away", "Subtraction on a Number Line", "Subtraction Stories"]
+          "learningOutcomes": [
+            {
+              "en": "Subtract numbers up to 9 using objects",
+              "hi": "चीज़ों से 9 तक घटाना"
+            },
+            {
+              "en": "Count backwards to take away",
+              "hi": "पीछे गिनकर घटाना"
+            }
+          ],
+          "topics": [
+            "Taking Away",
+            "Subtraction on a Number Line",
+            "Subtraction Stories"
+          ]
         },
         {
           "title": "Shapes",
           "titleHi": "आकृतियाँ",
-          "learningOutcomes": ["Recognises basic 2D shapes and 3D objects around us"],
-          "topics": ["Flat Shapes", "Solid Objects", "Shapes Around Us"]
+          "learningOutcomes": [
+            {
+              "en": "Recognise basic flat shapes and solid objects",
+              "hi": "आसान समतल आकृतियाँ और ठोस चीज़ें पहचानना"
+            },
+            {
+              "en": "Find shapes around us",
+              "hi": "आस-पास आकृतियाँ ढूँढना"
+            }
+          ],
+          "topics": [
+            "Flat Shapes",
+            "Solid Objects",
+            "Shapes Around Us"
+          ]
         },
         {
           "title": "Numbers to 100",
           "titleHi": "100 तक संख्याएँ",
-          "learningOutcomes": ["Counts in tens", "Reads and writes numbers up to 100"],
-          "topics": ["Tens and Ones", "Counting to 100", "Skip Counting"]
+          "learningOutcomes": [
+            {
+              "en": "Count in tens",
+              "hi": "दस-दस करके गिनना"
+            },
+            {
+              "en": "Read and write numbers up to 100",
+              "hi": "100 तक संख्याएँ पढ़ना-लिखना"
+            }
+          ],
+          "topics": [
+            "Tens and Ones",
+            "Counting to 100",
+            "Skip Counting"
+          ]
         },
         {
           "title": "Measurement",
           "titleHi": "माप",
-          "learningOutcomes": ["Compares length and weight using non-standard units"],
-          "topics": ["Long and Short", "Heavy and Light", "Measuring with Hand Span"]
+          "learningOutcomes": [
+            {
+              "en": "Compare length and weight",
+              "hi": "लंबाई और वज़न की तुलना"
+            },
+            {
+              "en": "Measure using hand spans",
+              "hi": "बालिश्त से नापना"
+            }
+          ],
+          "topics": [
+            "Long and Short",
+            "Heavy and Light",
+            "Measuring with Hand Span"
+          ]
         },
         {
           "title": "Time",
           "titleHi": "समय",
-          "learningOutcomes": ["Sequences daily events", "Names days of the week"],
-          "topics": ["Morning, Afternoon, Night", "Days of the Week", "Earlier and Later"]
+          "learningOutcomes": [
+            {
+              "en": "Put daily events in order",
+              "hi": "रोज़ के कामों को क्रम में लगाना"
+            },
+            {
+              "en": "Name the days of the week",
+              "hi": "हफ़्ते के दिनों के नाम"
+            }
+          ],
+          "topics": [
+            "Morning, Afternoon, Night",
+            "Days of the Week",
+            "Earlier and Later"
+          ]
         },
         {
           "title": "Money",
           "titleHi": "पैसा",
-          "learningOutcomes": ["Recognises Indian coins and notes"],
-          "topics": ["Our Coins", "Our Notes", "Buying at a Shop"]
+          "learningOutcomes": [
+            {
+              "en": "Recognise Indian coins and notes",
+              "hi": "भारतीय सिक्के और नोट पहचानना"
+            },
+            {
+              "en": "Add small amounts of money",
+              "hi": "छोटी रक़म जोड़ना"
+            }
+          ],
+          "topics": [
+            "Our Coins",
+            "Our Notes",
+            "Buying at a Shop"
+          ]
         },
         {
           "title": "Patterns",
           "titleHi": "पैटर्न",
-          "learningOutcomes": ["Extends simple shape and number patterns"],
-          "topics": ["Shape Patterns", "Number Patterns"]
+          "learningOutcomes": [
+            {
+              "en": "Extend shape and number patterns",
+              "hi": "आकृति और संख्या पैटर्न आगे बढ़ाना"
+            },
+            {
+              "en": "Find the rule of a pattern",
+              "hi": "पैटर्न का नियम ढूँढना"
+            }
+          ],
+          "topics": [
+            "Shape Patterns",
+            "Number Patterns"
+          ]
         },
         {
           "title": "Data Handling",
           "titleHi": "आँकड़े",
-          "learningOutcomes": ["Collects and sorts objects, counts using tally marks"],
-          "topics": ["Sorting Objects", "Tally Marks", "Picture Graphs"]
+          "learningOutcomes": [
+            {
+              "en": "Sort objects into groups",
+              "hi": "चीज़ों को समूहों में छाँटना"
+            },
+            {
+              "en": "Count using tally marks",
+              "hi": "टैली से गिनना"
+            }
+          ],
+          "topics": [
+            "Sorting Objects",
+            "Tally Marks",
+            "Picture Graphs"
+          ]
         }
       ]
     },
@@ -188,14 +501,152 @@
       "icon": "🌳",
       "color": "lime",
       "chapters": [
-        { "title": "Myself", "titleHi": "मैं", "learningOutcomes": ["Names body parts and their uses"], "topics": ["My Body", "My Likes and Dislikes"] },
-        { "title": "My Family", "titleHi": "मेरा परिवार", "learningOutcomes": ["Describes family members and their roles"], "topics": ["Family Members", "Family Tree"] },
-        { "title": "Food", "titleHi": "भोजन", "learningOutcomes": ["Differentiates healthy and unhealthy food"], "topics": ["Food from Plants", "Food from Animals", "Healthy Eating"] },
-        { "title": "Clothes", "titleHi": "कपड़े", "learningOutcomes": ["Matches clothes to seasons"], "topics": ["Summer and Winter Clothes", "Rainy Day Clothes"] },
-        { "title": "Our House", "titleHi": "हमारा घर", "learningOutcomes": ["Names rooms and their uses"], "topics": ["Rooms of a House", "Kinds of Houses"] },
-        { "title": "Plants and Animals", "titleHi": "पौधे और जानवर", "learningOutcomes": ["Observes plants and animals around"], "topics": ["Trees and Plants", "Animals and Their Homes"] },
-        { "title": "Water and Air", "titleHi": "पानी और हवा", "learningOutcomes": ["Explains uses of water and air"], "topics": ["Uses of Water", "Air is Everywhere"] },
-        { "title": "Safety and Good Habits", "titleHi": "सुरक्षा और अच्छी आदतें", "learningOutcomes": ["Follows basic safety and cleanliness rules"], "topics": ["Clean Habits", "Road Safety", "Good Touch and Bad Touch"] }
+        {
+          "title": "Myself",
+          "titleHi": "मैं",
+          "learningOutcomes": [
+            {
+              "en": "Name body parts and their uses",
+              "hi": "शरीर के अंग और उनके काम"
+            },
+            {
+              "en": "Talk about likes and dislikes",
+              "hi": "पसंद-नापसंद बताना"
+            }
+          ],
+          "topics": [
+            "My Body",
+            "My Likes and Dislikes"
+          ]
+        },
+        {
+          "title": "My Family",
+          "titleHi": "मेरा परिवार",
+          "learningOutcomes": [
+            {
+              "en": "Describe family members and their roles",
+              "hi": "परिवार के सदस्य और उनकी भूमिका"
+            },
+            {
+              "en": "Draw a family tree",
+              "hi": "परिवार का पेड़ बनाना"
+            }
+          ],
+          "topics": [
+            "Family Members",
+            "Family Tree"
+          ]
+        },
+        {
+          "title": "Food",
+          "titleHi": "भोजन",
+          "learningOutcomes": [
+            {
+              "en": "Tell healthy food from unhealthy food",
+              "hi": "स्वस्थ और अस्वस्थ भोजन में फ़र्क़"
+            },
+            {
+              "en": "Know food from plants and animals",
+              "hi": "पौधों और जानवरों से मिलने वाला भोजन"
+            }
+          ],
+          "topics": [
+            "Food from Plants",
+            "Food from Animals",
+            "Healthy Eating"
+          ]
+        },
+        {
+          "title": "Clothes",
+          "titleHi": "कपड़े",
+          "learningOutcomes": [
+            {
+              "en": "Match clothes to seasons",
+              "hi": "ऋतु के हिसाब से कपड़े"
+            },
+            {
+              "en": "Know why we wear clothes",
+              "hi": "हम कपड़े क्यों पहनते हैं"
+            }
+          ],
+          "topics": [
+            "Summer and Winter Clothes",
+            "Rainy Day Clothes"
+          ]
+        },
+        {
+          "title": "Our House",
+          "titleHi": "हमारा घर",
+          "learningOutcomes": [
+            {
+              "en": "Name rooms of a house and their uses",
+              "hi": "घर के कमरे और उनके उपयोग"
+            },
+            {
+              "en": "Know different kinds of houses",
+              "hi": "अलग-अलग तरह के घर"
+            }
+          ],
+          "topics": [
+            "Rooms of a House",
+            "Kinds of Houses"
+          ]
+        },
+        {
+          "title": "Plants and Animals",
+          "titleHi": "पौधे और जानवर",
+          "learningOutcomes": [
+            {
+              "en": "Observe plants and animals around us",
+              "hi": "आस-पास के पौधे और जानवर देखना"
+            },
+            {
+              "en": "Know where animals live",
+              "hi": "जानवर कहाँ रहते हैं"
+            }
+          ],
+          "topics": [
+            "Trees and Plants",
+            "Animals and Their Homes"
+          ]
+        },
+        {
+          "title": "Water and Air",
+          "titleHi": "पानी और हवा",
+          "learningOutcomes": [
+            {
+              "en": "Explain the uses of water and air",
+              "hi": "पानी और हवा के उपयोग"
+            },
+            {
+              "en": "Know that air is everywhere",
+              "hi": "हवा हर जगह है"
+            }
+          ],
+          "topics": [
+            "Uses of Water",
+            "Air is Everywhere"
+          ]
+        },
+        {
+          "title": "Safety and Good Habits",
+          "titleHi": "सुरक्षा और अच्छी आदतें",
+          "learningOutcomes": [
+            {
+              "en": "Follow cleanliness and safety rules",
+              "hi": "सफ़ाई और सुरक्षा के नियम मानना"
+            },
+            {
+              "en": "Know good touch and bad touch",
+              "hi": "अच्छा स्पर्श और बुरा स्पर्श पहचानना"
+            }
+          ],
+          "topics": [
+            "Clean Habits",
+            "Road Safety",
+            "Good Touch and Bad Touch"
+          ]
+        }
       ]
     },
     {
@@ -205,9 +656,60 @@
       "icon": "🎨",
       "color": "violet",
       "chapters": [
-        { "title": "Drawing and Colouring", "titleHi": "चित्रकारी और रंग", "topics": ["Draw Your Family", "Colour Mixing"] },
-        { "title": "Music and Movement", "titleHi": "संगीत और हलचल", "topics": ["Clap the Beat", "Action Songs"] },
-        { "title": "Yoga and Games", "titleHi": "योग और खेल", "topics": ["Simple Asanas", "Outdoor Games"] }
+        {
+          "title": "Drawing and Colouring",
+          "titleHi": "चित्रकारी और रंग",
+          "topics": [
+            "Draw Your Family",
+            "Colour Mixing"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Draw your family",
+              "hi": "अपने परिवार का चित्र बनाना"
+            },
+            {
+              "en": "Mix colours to make new ones",
+              "hi": "रंग मिलाकर नए रंग बनाना"
+            }
+          ]
+        },
+        {
+          "title": "Music and Movement",
+          "titleHi": "संगीत और हलचल",
+          "topics": [
+            "Clap the Beat",
+            "Action Songs"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Clap to a beat",
+              "hi": "ताल पर ताली बजाना"
+            },
+            {
+              "en": "Sing action songs",
+              "hi": "हाव-भाव वाले गीत गाना"
+            }
+          ]
+        },
+        {
+          "title": "Yoga and Games",
+          "titleHi": "योग और खेल",
+          "topics": [
+            "Simple Asanas",
+            "Outdoor Games"
+          ],
+          "learningOutcomes": [
+            {
+              "en": "Do simple asanas",
+              "hi": "आसान आसन करना"
+            },
+            {
+              "en": "Play outdoor games safely",
+              "hi": "बाहर के खेल सुरक्षित खेलना"
+            }
+          ]
+        }
       ]
     }
   ]

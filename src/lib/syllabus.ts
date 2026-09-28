@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { textSchema, type Text } from "./chapter-content";
 import { STAGES, SUBJECT_COLORS } from "./constants";
 
 /**
@@ -19,7 +20,8 @@ const chapterSchema = z.union([
     slug: z.string().optional(),
     title: z.string().min(1),
     titleHi: z.string().optional(),
-    learningOutcomes: z.array(z.string()).optional(),
+    // Shown as the chapter preview ("What you will learn").
+    learningOutcomes: z.array(textSchema).optional(),
     topics: z.array(topicSchema).optional(),
   }),
 ]);
@@ -59,7 +61,7 @@ export interface NormalizedChapter {
   title: string;
   titleHi?: string;
   order: number;
-  learningOutcomes: string[];
+  learningOutcomes: Text[];
   topics: NormalizedTopic[];
 }
 

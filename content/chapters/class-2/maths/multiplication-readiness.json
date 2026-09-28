@@ -1,0 +1,37 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "When we add the same number again and again, we can multiply instead. 2 + 2 + 2 + 2 = 8 is the same as 4 × 2 = 8 (4 groups of 2).",
+    "hi": "जब एक ही संख्या बार-बार जोड़ते हैं, तो गुणा कर सकते हैं। 2 + 2 + 2 + 2 = 8 वही है जो 4 × 2 = 8 (2 के 4 समूह)।"
+  },
+  "keyPoints": [
+    { "en": "× is read as 'times'. 3 × 5 = 3 groups of 5.", "hi": "× को 'गुणा' पढ़ते हैं। 3 × 5 = 5 के 3 समूह।" },
+    { "en": "Table of 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20", "hi": "2 का पहाड़ा: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20" },
+    { "en": "Table of 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50", "hi": "5 का पहाड़ा: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50" },
+    { "en": "Table of 10: just add a 0: 10, 20, 30 … 100", "hi": "10 का पहाड़ा: बस 0 लगाओ: 10, 20, 30 … 100" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Write 5 + 5 + 5 as multiplication.", "hi": "5 + 5 + 5 को गुणा में लिखो।" },
+      "steps": [
+        { "en": "5 is added 3 times.", "hi": "5 को 3 बार जोड़ा गया।" },
+        { "en": "So it is 3 × 5.", "hi": "तो यह 3 × 5 है।" }
+      ],
+      "answer": "3 × 5 = 15"
+    },
+    {
+      "problem": { "en": "A cycle has 2 wheels. How many wheels do 6 cycles have?", "hi": "एक साइकिल के 2 पहिए हैं। 6 साइकिलों के कितने पहिए?" },
+      "steps": [
+        { "en": "6 groups of 2: 6 × 2.", "hi": "2 के 6 समूह: 6 × 2।" },
+        { "en": "Table of 2: 2, 4, 6, 8, 10, 12.", "hi": "2 का पहाड़ा: 2, 4, 6, 8, 10, 12।" }
+      ],
+      "answer": { "en": "12 wheels", "hi": "12 पहिए" }
+    }
+  ],
+  "practice": [
+    { "question": "4 × 5 = ?", "answer": "20" },
+    { "question": "7 × 2 = ?", "answer": "14" },
+    { "question": "3 × 10 = ?", "answer": "30" },
+    { "question": { "en": "One hand has 5 fingers. How many fingers on 4 hands?", "hi": "एक हाथ में 5 उंगलियाँ हैं। 4 हाथों में कितनी?" }, "answer": "20" }
+  ]
+}

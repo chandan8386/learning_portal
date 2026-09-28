@@ -32,6 +32,20 @@ The full product plan lives in [`CLAUDE_PROMPT.md`](./CLAUDE_PROMPT.md). This re
   - Class 9 Number Systems, Class 8 Linear Equations, Class 5 Fractions and Decimals, and Class 3 Multiplication
 - Chapters without material show a "coming soon" note. `npm run generate:content` drafts the rest with the Claude API (see below).
 
+**Maths practice and chapter previews**
+- `/practice`: interactive practice for addition, subtraction, multiplication, division and times tables.
+  - The level is set from the child's class: Nursery–UKG get sums within 10, and Class 5+ get 5-digit sums and long division.
+  - Each round has 10 questions, answered on a big number pad.
+  - Answers are checked instantly. A wrong answer shows how to solve it, and the round ends with a score and stars.
+  - All answers are whole numbers: division always divides exactly and subtraction never goes below zero.
+- `/practice/tables`: tables 1–20, with a speaker for each line or the whole table, and a button to practise that table.
+- Every chapter of every subject (all 712) has a **👁️ Preview** on the subject page. It shows what the student will learn, plus the explanation and example counts when study material exists.
+  - Nursery–Class 2 previews are in Hindi and English.
+  - Hindi and Sanskrit subjects are in Hindi.
+  - The other subjects in Class 3–10 are in English for now.
+- Subject pages note that they follow the CBSE curriculum and NCERT textbooks, and link to the official NCERT textbooks site.
+- Study material now covers 50 chapters, including all of Class 2 Maths and add/subtract/multiply/divide for Classes 3 and 4.
+
 **Next:** Phase 2 (lesson renderer, e-book reader, offline PWA), Phase 3 (pre-generated audio, read-along, phonics and tracing), and the rest of the plan in `CLAUDE_PROMPT.md`.
 
 ## Getting started
@@ -66,7 +80,7 @@ Each class is one file in `content/syllabus/` (for example `03-class-1.json`). A
 {
   "title": "Addition",
   "titleHi": "जोड़",
-  "learningOutcomes": ["Adds numbers up to 9 using objects"],
+  "learningOutcomes": [{ "en": "Add numbers up to 9 using objects", "hi": "चीज़ों से 9 तक जोड़ना" }],
   "topics": ["Adding with Objects", { "title": "Addition Stories", "titleHi": "जोड़ की कहानियाँ" }]
 }
 ```

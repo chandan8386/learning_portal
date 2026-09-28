@@ -5,7 +5,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ChapterStudy } from "@/components/ChapterStudy";
 import { subjectStyle } from "@/components/colors";
 import { SpeakButton } from "@/components/SpeakButton";
-import { parseChapterContent } from "@/lib/chapter-content";
+import { parseChapterContent, textFor } from "@/lib/chapter-content";
 import { getChapter, learningOutcomes } from "@/lib/data";
 import { getDictionary, localized } from "@/lib/i18n";
 
@@ -55,13 +55,16 @@ export default async function ChapterPage({ params }: Params) {
         <section className="mb-6 rounded-3xl bg-white p-5 shadow-sm">
           <h2 className="mb-2 text-lg font-bold">🎯 {t.whatYouWillLearn}</h2>
           <ul className="space-y-2">
-            {outcomes.map((o) => (
-              <li key={o} className="flex items-center gap-2">
-                <span aria-hidden>✅</span>
-                <span className="flex-1">{o}</span>
-                {kid && <SpeakButton text={o} label={t.listen} />}
-              </li>
-            ))}
+            {outcomes.map((outcome, i) => {
+              const text = textFor(outcome, locale);
+              return (
+                <li key={i} className="flex items-center gap-2">
+                  <span aria-hidden>✅</span>
+                  <span className="flex-1">{text}</span>
+                  {kid && <SpeakButton text={text} label={t.listen} />}
+                </li>
+              );
+            })}
           </ul>
         </section>
       )}

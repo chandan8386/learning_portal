@@ -1,0 +1,47 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Long division divides a big number step by step, starting from the left. At each step: Divide, Multiply, Subtract, Bring down. Finally check: divisor × quotient + remainder = dividend.",
+    "hi": "लंबी विधि से भाग में बड़ी संख्या को बाईं ओर से कदम-दर-कदम बाँटते हैं। हर कदम: भाग दो, गुणा करो, घटाओ, अगला अंक नीचे लाओ। आख़िर में जाँचो: भाजक × भागफल + शेषफल = भाज्य।"
+  },
+  "keyPoints": [
+    { "en": "Steps: Divide → Multiply → Subtract → Bring down.", "hi": "कदम: भाग → गुणा → घटाव → नीचे लाओ।" },
+    { "en": "The remainder must be smaller than the divisor.", "hi": "शेषफल हमेशा भाजक से छोटा होना चाहिए।" },
+    { "en": "Check: divisor × quotient + remainder = dividend.", "hi": "जाँच: भाजक × भागफल + शेषफल = भाज्य।" },
+    { "en": "Dividing by 10: the ones digit is the remainder. 87 ÷ 10 = 8, remainder 7.", "hi": "10 से भाग: इकाई अंक ही शेष होता है। 87 ÷ 10 = 8, शेष 7।" }
+  ],
+  "examples": [
+    {
+      "problem": "96 ÷ 4",
+      "steps": [
+        { "en": "9 ÷ 4 = 2 (4 × 2 = 8). 9 − 8 = 1.", "hi": "9 ÷ 4 = 2 (4 × 2 = 8)। 9 − 8 = 1।" },
+        { "en": "Bring down 6: 16. 16 ÷ 4 = 4 (4 × 4 = 16). 16 − 16 = 0.", "hi": "6 नीचे लाओ: 16। 16 ÷ 4 = 4 (4 × 4 = 16)। 16 − 16 = 0।" },
+        { "en": "Check: 4 × 24 = 96 ✓", "hi": "जाँच: 4 × 24 = 96 ✓" }
+      ],
+      "answer": { "en": "Quotient 24, remainder 0", "hi": "भागफल 24, शेष 0" }
+    },
+    {
+      "problem": "587 ÷ 5",
+      "steps": [
+        { "en": "5 ÷ 5 = 1, 5 − 5 = 0.", "hi": "5 ÷ 5 = 1, 5 − 5 = 0।" },
+        { "en": "Bring down 8: 8 ÷ 5 = 1, 8 − 5 = 3.", "hi": "8 नीचे लाओ: 8 ÷ 5 = 1, 8 − 5 = 3।" },
+        { "en": "Bring down 7: 37 ÷ 5 = 7 (5 × 7 = 35), 37 − 35 = 2.", "hi": "7 नीचे लाओ: 37 ÷ 5 = 7 (5 × 7 = 35), 37 − 35 = 2।" },
+        { "en": "Check: 5 × 117 + 2 = 585 + 2 = 587 ✓", "hi": "जाँच: 5 × 117 + 2 = 585 + 2 = 587 ✓" }
+      ],
+      "answer": { "en": "Quotient 117, remainder 2", "hi": "भागफल 117, शेष 2" }
+    },
+    {
+      "problem": { "en": "252 students go on a trip in buses of 36 seats each. How many buses are needed?", "hi": "252 छात्र 36 सीटों वाली बसों में यात्रा पर जाते हैं। कितनी बसें चाहिए?" },
+      "steps": [
+        { "en": "252 ÷ 36: try 36 × 7 = 252.", "hi": "252 ÷ 36: आज़माओ 36 × 7 = 252।" }
+      ],
+      "answer": { "en": "7 buses", "hi": "7 बसें" }
+    }
+  ],
+  "practice": [
+    { "question": "84 ÷ 7 = ?", "answer": "12" },
+    { "question": "135 ÷ 5 = ?", "answer": "27" },
+    { "question": { "en": "250 ÷ 8: find the quotient and remainder.", "hi": "250 ÷ 8: भागफल और शेषफल बताओ।" }, "answer": { "en": "Quotient 31, remainder 2", "hi": "भागफल 31, शेष 2" }, "solution": ["8 × 31 = 248", "250 − 248 = 2"] },
+    { "question": { "en": "₹480 is shared equally among 6 children. How much does each get?", "hi": "₹480 छह बच्चों में बराबर बाँटे। हर एक को कितने?" }, "answer": "₹80" }
+  ]
+}

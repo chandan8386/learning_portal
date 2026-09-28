@@ -1,0 +1,34 @@
+{
+  "status": "REVIEWED",
+  "intro": {
+    "en": "Number patterns follow a rule, like 'add 5' or 'subtract 2'. Data can be shown as a pictograph, where each picture stands for a number of things.",
+    "hi": "संख्या पैटर्न एक नियम पर चलते हैं, जैसे '5 जोड़ो' या '2 घटाओ'। आँकड़ों को चित्रालेख में दिखा सकते हैं, जहाँ हर चित्र कुछ चीज़ों को दिखाता है।"
+  },
+  "keyPoints": [
+    { "en": "Find the rule by comparing two numbers next to each other.", "hi": "पास-पास की दो संख्याओं की तुलना करके नियम ढूँढो।" },
+    { "en": "In a pictograph, read the key first: e.g. 🍎 = 2 apples.", "hi": "चित्रालेख में पहले कुंजी पढ़ो: जैसे 🍎 = 2 सेब।" }
+  ],
+  "examples": [
+    {
+      "problem": { "en": "Find the next number: 15, 20, 25, 30, __", "hi": "अगली संख्या बताओ: 15, 20, 25, 30, __" },
+      "steps": [
+        { "en": "20 − 15 = 5, 25 − 20 = 5. Rule: add 5.", "hi": "20 − 15 = 5, 25 − 20 = 5। नियम: 5 जोड़ो।" },
+        { "en": "30 + 5 = 35", "hi": "30 + 5 = 35" }
+      ],
+      "answer": "35"
+    },
+    {
+      "problem": { "en": "Key: ⭐ = 2 children. Mango: ⭐⭐⭐. How many children like mango?", "hi": "कुंजी: ⭐ = 2 बच्चे। आम: ⭐⭐⭐। कितने बच्चों को आम पसंद है?" },
+      "steps": [
+        { "en": "There are 3 stars.", "hi": "3 तारे हैं।" },
+        { "en": "Each star is 2 children: 2 + 2 + 2 = 6.", "hi": "हर तारा 2 बच्चे: 2 + 2 + 2 = 6।" }
+      ],
+      "answer": { "en": "6 children", "hi": "6 बच्चे" }
+    }
+  ],
+  "practice": [
+    { "question": { "en": "Next number: 40, 38, 36, 34, __", "hi": "अगली संख्या: 40, 38, 36, 34, __" }, "answer": "32" },
+    { "question": { "en": "Next number: 11, 22, 33, __", "hi": "अगली संख्या: 11, 22, 33, __" }, "answer": "44" },
+    { "question": { "en": "Key: 🍌 = 5 bananas. 🍌🍌🍌🍌 shows how many bananas?", "hi": "कुंजी: 🍌 = 5 केले। 🍌🍌🍌🍌 कितने केले दिखाता है?" }, "answer": "20" }
+  ]
+}

@@ -13,7 +13,7 @@ test("a new visitor picks a language and class, then browses to a chapter", asyn
   await expect(page).toHaveURL(/\/class\/class-1$/);
   await expect(page.getByRole("heading", { name: "कक्षा 1" })).toBeVisible();
 
-  await page.getByRole("link", { name: /गणित/ }).click();
+  await page.getByRole("main").getByRole("link", { name: /गणित/ }).click();
   await expect(page.getByRole("heading", { name: "गणित" })).toBeVisible();
 
   await page.getByRole("link", { name: /^4\s*जोड़/ }).click();
@@ -95,4 +95,39 @@ test("chapters without material say it is coming soon", async ({ page }) => {
   await page.goto("/class/class-7/english");
   await page.getByRole("link").filter({ hasText: "Grammar: Tenses and Their Use" }).click();
   await expect(page.getByText("Solved examples and practice for this chapter are coming soon.")).toBeVisible();
+});
+
+test("maths practice checks answers and shows how to solve", async ({ page }) => {
+  await page.goto("/practice?op=div&level=3");
+  const question = page.getByTestId("question");
+  const [a, , b] = (await question.innerText()).replace(" =", "").split(" ");
+  const answer = String(Number(a) / Number(b));
+
+  for (const d of answer) await page.getByRole("button", { name: d, exact: true }).click();
+  await page.getByRole("button", { name: "Check" }).click();
+  await expect(page.getByRole("status")).toContainText("Correct");
+  await page.getByRole("button", { name: /Next question/ }).click();
+
+  await page.getByLabel("Your answer").fill("99999");
+  await page.getByRole("button", { name: "Check" }).click();
+  await expect(page.getByRole("status")).toContainText("Not quite");
+  await expect(page.getByText("How to solve:")).toBeVisible();
+  await expect(page.getByText(/Question 2 of 10 · ⭐ 1/)).toBeVisible();
+});
+
+test("tables page shows a table and links to practice", async ({ page }) => {
+  await page.goto("/practice/tables?n=7");
+  await expect(page.getByRole("heading", { name: "Table of 7" })).toBeVisible();
+  await expect(page.getByText("7 × 8 = 56")).toBeVisible();
+  await page.getByRole("link", { name: /Practise this table/ }).click();
+  await expect(page.getByTestId("question")).toContainText("7 ×");
+});
+
+test("every chapter in a subject has a preview", async ({ page }) => {
+  await page.goto("/class/class-7/science");
+  await expect(page.getByText("Follows the CBSE curriculum and NCERT textbooks")).toBeVisible();
+  const previews = page.getByText("👁️ Preview");
+  await expect(previews).toHaveCount(12);
+  await previews.first().click();
+  await expect(page.getByText("Know photosynthesis")).toBeVisible();
 });
