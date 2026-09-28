@@ -1,0 +1,572 @@
+== class-5/maths/large-numbers-up-to-lakhs
+I: After 99,999 comes 1,00,000 (one lakh). In the Indian system we group digits as ones, thousands, lakhs, crores: 7,45,302. In the international system we group by threes: 745,302 (seven hundred forty-five thousand three hundred two). || 99,999 के बाद 1,00,000 (एक लाख) आता है। भारतीय पद्धति में अंक समूह हैं: इकाई, हज़ार, लाख, करोड़: 7,45,302। अंतरराष्ट्रीय पद्धति में तीन-तीन के समूह: 745,302।
+K: 1 lakh = 100 thousand = 1,00,000 || 1 लाख = 100 हज़ार = 1,00,000
+K: 10 lakh = 1 million = 10,00,000 || 10 लाख = 1 मिलियन = 10,00,000
+K: Indian commas: after 3 digits from the right, then every 2 digits. || भारतीय अल्पविराम: दाईं ओर से 3 अंकों के बाद, फिर हर 2 अंकों के बाद।
+E: Write 5,08,016 in words (Indian system). || 5,08,016 को शब्दों में लिखो (भारतीय पद्धति)।
+S: 5 lakh, 08 thousand, 016. || 5 लाख, 08 हज़ार, 016।
+A: Five lakh eight thousand sixteen || पाँच लाख आठ हज़ार सोलह
+E: Write 3,72,450 in the international system. || 3,72,450 को अंतरराष्ट्रीय पद्धति में लिखो।
+S: Group by threes from the right: 372,450. || दाईं ओर से तीन-तीन: 372,450।
+A: 372,450 — three hundred seventy-two thousand four hundred fifty || 372,450 — थ्री हंड्रेड सेवेंटी-टू थाउज़ेंड फ़ोर हंड्रेड फ़िफ़्टी
+P: How many thousands make one lakh? || कितने हज़ार से एक लाख बनता है?
+R: 100
+P: Place value of 6 in 6,42,187? || 6,42,187 में 6 का स्थानीय मान?
+R: 6,00,000 (six lakh) || 6,00,000 (छह लाख)
+P: 1 million = how many lakh? || 1 मिलियन = कितने लाख?
+R: 10 lakh || 10 लाख
+
+== class-5/maths/operations-on-large-numbers
+I: We add, subtract, multiply and divide large numbers using the same column methods. For word problems, read carefully, decide the operation, solve and check. Some problems need two steps. || बड़ी संख्याओं का जोड़, घटाव, गुणा और भाग उन्हीं कॉलम विधियों से होता है। इबारती सवाल ध्यान से पढ़ो, संक्रिया तय करो, हल करो और जाँचो। कुछ सवालों में दो चरण होते हैं।
+K: "In all / total" → add; "left / difference" → subtract || "कुल" → जोड़; "बचे / अंतर" → घटाव
+K: "Each … how many in all" → multiply; "share equally" → divide || "हर एक … कुल कितने" → गुणा; "बराबर बाँटो" → भाग
+K: Estimate to check answers. || उत्तर जाँचने के लिए अनुमान लगाओ।
+E: A factory makes 1,250 toys a day. How many in 24 days? || एक फ़ैक्टरी रोज़ 1,250 खिलौने बनाती है। 24 दिन में कितने?
+S: 1,250 × 24 = 1,250 × 20 + 1,250 × 4 || 1,250 × 24 = 1,250 × 20 + 1,250 × 4
+S: = 25,000 + 5,000 || = 25,000 + 5,000
+A: 30,000 toys || 30,000 खिलौने
+E: A school has ₹75,000. It buys 15 computers at ₹4,500 each. How much money is left? || स्कूल के पास ₹75,000 हैं। ₹4,500 वाले 15 कंप्यूटर ख़रीदे। कितने बचे?
+S: Cost: 15 × 4,500 = 67,500. || दाम: 15 × 4,500 = 67,500।
+S: Left: 75,000 − 67,500 = 7,500. || बचे: 75,000 − 67,500 = 7,500।
+A: ₹7,500
+P: 3,45,678 + 1,24,322 = ?
+R: 4,70,000
+P: 9,600 ÷ 32 = ?
+R: 300
+P: 2,05,000 − 98,750 = ?
+R: 1,06,250
+
+== class-5/maths/factors-multiples-hcf-and-lcm
+I: HCF (Highest Common Factor) is the biggest number that divides two numbers exactly. LCM (Lowest Common Multiple) is the smallest number that both numbers divide into. We find them by listing or by prime factorisation. || HCF (महत्तम समापवर्तक) वह सबसे बड़ी संख्या है जो दोनों संख्याओं को पूरा बाँटे। LCM (लघुत्तम समापवर्त्य) वह सबसे छोटी संख्या है जिसे दोनों संख्याएँ पूरा बाँटें। इन्हें सूची बनाकर या अभाज्य गुणनखंड से निकालते हैं।
+K: HCF: used to split into the largest equal groups. || HCF: सबसे बड़े बराबर समूह बनाने में।
+K: LCM: used to find when things happen together again. || LCM: चीज़ें फिर कब साथ होंगी यह जानने में।
+K: Prime factorisation: 12 = 2 × 2 × 3 || अभाज्य गुणनखंड: 12 = 2 × 2 × 3
+E: Find the HCF of 18 and 24. || 18 और 24 का HCF निकालो।
+S: Factors of 18: 1, 2, 3, 6, 9, 18. || 18 के गुणनखंड: 1, 2, 3, 6, 9, 18।
+S: Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Biggest common: 6. || 24 के गुणनखंड: 1, 2, 3, 4, 6, 8, 12, 24। सबसे बड़ा साझा: 6।
+A: 6
+E: Two bells ring every 6 and 8 minutes. They ring together at 9:00. When will they ring together next? || दो घंटियाँ हर 6 और 8 मिनट पर बजती हैं। 9:00 पर साथ बजीं। अगली बार कब साथ बजेंगी?
+S: Find LCM of 6 and 8: multiples of 8 are 8, 16, 24; 24 is also a multiple of 6. || 6 और 8 का LCM: 8 के गुणज 8, 16, 24; 24, 6 का भी गुणज है।
+S: 24 minutes after 9:00. || 9:00 के 24 मिनट बाद।
+A: 9:24
+P: HCF of 15 and 25? || 15 और 25 का HCF?
+R: 5
+P: LCM of 4 and 6? || 4 और 6 का LCM?
+R: 12
+P: Prime factorise 30. || 30 के अभाज्य गुणनखंड।
+R: 2 × 3 × 5
+
+== class-5/maths/angles-and-their-measurement
+I: An angle is measured in degrees (°) with a protractor. Acute angles are less than 90°, a right angle is exactly 90°, obtuse angles are between 90° and 180°, and a straight angle is 180°. || कोण डिग्री (°) में चाँदे (protractor) से नापते हैं। न्यून कोण 90° से कम, समकोण ठीक 90°, अधिक कोण 90° और 180° के बीच, और ऋजु कोण 180° होता है।
+K: Acute < 90° < obtuse < 180° = straight || न्यून < 90° < अधिक < 180° = ऋजु
+K: A full turn = 360°; half turn = 180°; quarter turn = 90° || पूरा घुमाव = 360°; आधा = 180°; चौथाई = 90°
+K: Place the protractor's centre on the vertex and 0° on one arm. || चाँदे का केंद्र शीर्ष पर और 0° एक भुजा पर रखो।
+E: What angle do the clock hands make at 6 o'clock? || 6 बजे घड़ी की सुइयाँ कितना कोण बनाती हैं?
+S: The hands point in exactly opposite directions (12 and 6). || सुइयाँ बिल्कुल उलटी दिशा में (12 और 6)।
+A: 180° (a straight angle) || 180° (ऋजु कोण)
+E: Two angles on a straight line are 110° and x. Find x. || सीधी रेखा पर दो कोण 110° और x हैं। x निकालो।
+S: Angles on a straight line add to 180°. || सीधी रेखा पर कोणों का योग 180°।
+S: x = 180° − 110° || x = 180° − 110°
+A: 70°
+P: Is 45° acute, right or obtuse? || 45° न्यून, सम या अधिक है?
+R: Acute || न्यून
+P: How many degrees in a quarter turn? || चौथाई घुमाव में कितनी डिग्री?
+R: 90°
+P: Is 135° acute or obtuse? || 135° न्यून है या अधिक?
+R: Obtuse || अधिक
+
+== class-5/maths/triangles-and-circles
+I: Triangles are named by sides (equilateral – all equal, isosceles – two equal, scalene – none equal) or by angles (acute, right, obtuse). The three angles of any triangle add up to 180°. In a circle, diameter = 2 × radius. || त्रिभुज भुजाओं से (समबाहु – सब बराबर, समद्विबाहु – दो बराबर, विषमबाहु – कोई बराबर नहीं) या कोणों से (न्यूनकोण, समकोण, अधिककोण) पहचाने जाते हैं। हर त्रिभुज के तीनों कोणों का योग 180° होता है। वृत्त में व्यास = 2 × त्रिज्या।
+K: Angle sum of a triangle = 180° || त्रिभुज के कोणों का योग = 180°
+K: Equilateral triangle: each angle 60° || समबाहु त्रिभुज: हर कोण 60°
+K: Chord: a line joining two points on a circle; diameter is the longest chord. || जीवा: वृत्त के दो बिंदुओं को जोड़ने वाली रेखा; व्यास सबसे लंबी जीवा।
+E: Two angles of a triangle are 50° and 70°. Find the third. || त्रिभुज के दो कोण 50° और 70° हैं। तीसरा कोण?
+S: Sum of angles = 180°. || कोणों का योग = 180°।
+S: 180° − (50° + 70°) = 180° − 120° || 180° − (50° + 70°) = 180° − 120°
+A: 60°
+E: A triangle has sides 5 cm, 5 cm and 8 cm. What type is it? || त्रिभुज की भुजाएँ 5 cm, 5 cm और 8 cm हैं। किस प्रकार का है?
+S: Two sides are equal. || दो भुजाएँ बराबर हैं।
+A: Isosceles || समद्विबाहु
+P: A triangle has one angle of 90°. What is it called? || एक कोण 90° वाला त्रिभुज क्या कहलाता है?
+R: Right-angled triangle || समकोण त्रिभुज
+P: Radius is 4.5 cm. Diameter? || त्रिज्या 4.5 cm। व्यास?
+R: 9 cm
+P: Can a triangle have two right angles? || क्या त्रिभुज में दो समकोण हो सकते हैं?
+R: No — 90° + 90° already makes 180° || नहीं — 90° + 90° ही 180° हो जाता है
+
+== class-5/maths/perimeter-area-and-volume
+I: Perimeter is the boundary length, area is the surface covered (square units), and volume is the space a solid takes up (cubic units). For a cuboid, volume = length × breadth × height. || परिमाप सीमा की लंबाई है, क्षेत्रफल ढकी सतह (वर्ग इकाई), और आयतन किसी ठोस द्वारा घेरी गई जगह (घन इकाई)। घनाभ का आयतन = लंबाई × चौड़ाई × ऊँचाई।
+K: Area of rectangle = l × b; area of square = side × side || आयत का क्षेत्रफल = l × b; वर्ग का = भुजा × भुजा
+K: Volume of cuboid = l × b × h; cube = side × side × side || घनाभ का आयतन = l × b × h; घन = भुजा × भुजा × भुजा
+K: Units: cm (length), sq cm (area), cubic cm (volume) || इकाइयाँ: cm (लंबाई), वर्ग cm (क्षेत्रफल), घन cm (आयतन)
+E: A box is 10 cm long, 6 cm wide and 4 cm high. Find its volume. || एक डिब्बा 10 cm लंबा, 6 cm चौड़ा और 4 cm ऊँचा है। आयतन?
+S: V = l × b × h = 10 × 6 × 4. || V = l × b × h = 10 × 6 × 4।
+A: 240 cubic cm || 240 घन cm
+E: A room floor is 5 m by 4 m. Tiles cost ₹50 per sq m. Find the cost. || कमरे का फ़र्श 5 m × 4 m है। टाइल ₹50 प्रति वर्ग m। ख़र्च?
+S: Area = 5 × 4 = 20 sq m. || क्षेत्रफल = 5 × 4 = 20 वर्ग m।
+S: Cost = 20 × ₹50. || ख़र्च = 20 × ₹50।
+A: ₹1,000
+P: Volume of a cube of side 3 cm? || 3 cm भुजा वाले घन का आयतन?
+R: 27 cubic cm || 27 घन cm
+P: Area of a rectangle 12 cm by 7 cm? || 12 cm × 7 cm आयत का क्षेत्रफल?
+R: 84 sq cm || 84 वर्ग cm
+P: Perimeter of a square field of side 25 m? || 25 m भुजा वाले वर्गाकार खेत का परिमाप?
+R: 100 m
+
+== class-5/maths/measurement-conversions
+I: The metric system uses prefixes: kilo (1000), centi (1/100), milli (1/1000). So 1 km = 1000 m, 1 m = 100 cm, 1 kg = 1000 g, 1 L = 1000 mL. We can write measurements as decimals: 2 m 35 cm = 2.35 m. || मीट्रिक पद्धति में उपसर्ग हैं: किलो (1000), सेंटी (1/100), मिली (1/1000)। तो 1 km = 1000 m, 1 m = 100 cm, 1 kg = 1000 g, 1 L = 1000 mL। नाप दशमलव में भी लिखते हैं: 2 m 35 cm = 2.35 m।
+K: Bigger → smaller unit: multiply. Smaller → bigger: divide. || बड़ी → छोटी इकाई: गुणा। छोटी → बड़ी: भाग।
+K: 1 cm = 10 mm || 1 cm = 10 mm
+K: 500 g = 0.5 kg; 250 mL = 0.25 L || 500 g = 0.5 kg; 250 mL = 0.25 L
+E: Convert 4.5 km to metres. || 4.5 km को मीटर में बदलो।
+S: km → m: multiply by 1000. || km → m: 1000 से गुणा।
+A: 4,500 m
+E: A bottle has 750 mL. How many bottles fill 6 L? || एक बोतल में 750 mL आता है। 6 L भरने में कितनी बोतलें?
+S: 6 L = 6,000 mL. || 6 L = 6,000 mL।
+S: 6,000 ÷ 750 = 8 || 6,000 ÷ 750 = 8
+A: 8 bottles || 8 बोतलें
+P: Convert 3,250 g to kg. || 3,250 g को kg में।
+R: 3.25 kg
+P: How many mm in 7 cm? || 7 cm में कितने mm?
+R: 70 mm
+P: Write 5 m 8 cm in metres. || 5 m 8 cm को मीटर में लिखो।
+R: 5.08 m
+
+== class-5/maths/time-and-temperature
+I: We find elapsed time by counting from the start to the end. Temperature is measured in degrees Celsius (°C) with a thermometer. Water freezes at 0 °C and boils at 100 °C; normal body temperature is about 37 °C. || बीता समय शुरुआत से अंत तक गिनकर निकालते हैं। तापमान थर्मामीटर से डिग्री सेल्सियस (°C) में नापते हैं। पानी 0 °C पर जमता और 100 °C पर उबलता है; शरीर का सामान्य तापमान लगभग 37 °C है।
+K: 1 day = 24 h; 1 week = 7 days; 1 year = 12 months || 1 दिन = 24 घंटे; 1 हफ़्ता = 7 दिन; 1 साल = 12 महीने
+K: Leap year: 366 days; February has 29 days. || लीप वर्ष: 366 दिन; फ़रवरी में 29 दिन।
+K: Freezing point 0 °C, boiling point 100 °C || हिमांक 0 °C, क्वथनांक 100 °C
+E: A train leaves at 22:40 and arrives at 06:15 the next day. How long is the journey? || ट्रेन 22:40 पर चलकर अगले दिन 06:15 पर पहुँचती है। यात्रा कितनी लंबी?
+S: 22:40 → 24:00 = 1 h 20 min. || 22:40 → 24:00 = 1 घंटा 20 मिनट।
+S: 00:00 → 06:15 = 6 h 15 min. Total = 7 h 35 min. || 00:00 → 06:15 = 6 घंटे 15 मिनट। कुल = 7 घंटे 35 मिनट।
+A: 7 hours 35 minutes || 7 घंटे 35 मिनट
+E: The temperature was 18 °C in the morning and rose by 13 °C by afternoon. What was it in the afternoon? || सुबह तापमान 18 °C था, दोपहर तक 13 °C बढ़ा। दोपहर में कितना?
+S: 18 + 13 || 18 + 13
+A: 31 °C
+P: At what temperature does water boil? || पानी किस तापमान पर उबलता है?
+R: 100 °C
+P: How many days are in a leap year? || लीप वर्ष में कितने दिन?
+R: 366
+P: How many hours are in 3 days? || 3 दिनों में कितने घंटे?
+R: 72
+
+== class-5/maths/money-and-profit-loss-basic
+I: Cost price (CP) is what a shopkeeper pays; selling price (SP) is what they sell for. If SP > CP there is a profit = SP − CP. If SP < CP there is a loss = CP − SP. || क्रय मूल्य (CP) वह है जो दुकानदार देता है; विक्रय मूल्य (SP) जिस पर बेचता है। SP > CP हो तो लाभ = SP − CP। SP < CP हो तो हानि = CP − SP।
+K: Profit = SP − CP || लाभ = SP − CP
+K: Loss = CP − SP || हानि = CP − SP
+K: SP = CP + profit, or CP − loss || SP = CP + लाभ, या CP − हानि
+E: A bicycle is bought for ₹3,500 and sold for ₹4,200. Find the profit or loss. || साइकिल ₹3,500 में ख़रीदी और ₹4,200 में बेची। लाभ या हानि?
+S: SP (4,200) > CP (3,500) → profit. || SP (4,200) > CP (3,500) → लाभ।
+S: 4,200 − 3,500 = 700 || 4,200 − 3,500 = 700
+A: Profit of ₹700 || ₹700 लाभ
+E: A shopkeeper buys a toy for ₹250 and has to sell it for ₹210. Find the loss. || दुकानदार ने ₹250 का खिलौना ₹210 में बेचा। हानि?
+S: SP < CP → loss = 250 − 210. || SP < CP → हानि = 250 − 210।
+A: Loss of ₹40 || ₹40 हानि
+P: CP = ₹800, SP = ₹950. Profit? || CP = ₹800, SP = ₹950। लाभ?
+R: ₹150
+P: CP = ₹600, loss = ₹75. Find SP. || CP = ₹600, हानि = ₹75। SP?
+R: ₹525
+P: If SP equals CP, is there profit or loss? || SP और CP बराबर हों तो लाभ या हानि?
+R: Neither || न लाभ न हानि
+
+== class-5/maths/patterns
+I: Patterns appear in numbers, shapes and nature. Square numbers (1, 4, 9, 16) come from n × n. Triangular numbers (1, 3, 6, 10) come from adding 1 + 2 + 3 + …. Magic squares have equal sums in every row, column and diagonal. || पैटर्न संख्याओं, आकृतियों और प्रकृति में दिखते हैं। वर्ग संख्याएँ (1, 4, 9, 16) n × n से बनती हैं। त्रिभुजाकार संख्याएँ (1, 3, 6, 10) 1 + 2 + 3 + … जोड़ने से बनती हैं। जादुई वर्ग में हर पंक्ति, स्तंभ और विकर्ण का योग बराबर होता है।
+K: Square numbers: 1, 4, 9, 16, 25, 36 … || वर्ग संख्याएँ: 1, 4, 9, 16, 25, 36 …
+K: Triangular numbers: 1, 3, 6, 10, 15, 21 … || त्रिभुजाकार संख्याएँ: 1, 3, 6, 10, 15, 21 …
+K: 3 × 3 magic square with 1–9: each line sums to 15. || 1–9 वाला 3 × 3 जादुई वर्ग: हर रेखा का योग 15।
+E: Find the 7th square number. || 7वीं वर्ग संख्या निकालो।
+S: The nth square number is n × n. || n-वीं वर्ग संख्या n × n।
+A: 7 × 7 = 49
+E: A magic square row has 8, 1 and __. Every line sums to 15. Find the missing number. || जादुई वर्ग की एक पंक्ति में 8, 1 और __ हैं। हर रेखा का योग 15। लुप्त संख्या?
+S: 15 − (8 + 1) || 15 − (8 + 1)
+A: 6
+P: Next triangular number after 15? || 15 के बाद अगली त्रिभुजाकार संख्या?
+R: 21
+P: Next number: 1, 8, 27, 64, __ (cubes) || अगली संख्या: 1, 8, 27, 64, __ (घन)
+R: 125
+P: Is 50 a square number? || क्या 50 वर्ग संख्या है?
+R: No || नहीं
+
+== class-5/maths/data-handling-bar-graphs
+I: Data can be organised in tables and shown as bar graphs. Choose a sensible scale, draw bars of equal width with equal gaps, label both axes and give a title. From the graph we compare and answer questions. || डेटा तालिका में व्यवस्थित करके दंड आलेख में दिखा सकते हैं। सही पैमाना चुनो, बराबर चौड़ाई और बराबर दूरी के दंड बनाओ, दोनों अक्षों के नाम और शीर्षक दो। आलेख से तुलना करके प्रश्नों के उत्तर देते हैं।
+K: Scale example: 1 unit = 10 students || पैमाना उदाहरण: 1 इकाई = 10 छात्र
+K: The mode is the value that occurs most often. || बहुलक वह मान है जो सबसे ज़्यादा बार आता है।
+K: Average = total ÷ number of values || औसत = कुल ÷ मानों की संख्या
+E: Marks of 5 students: 12, 15, 10, 18, 15. Find the average and the mode. || 5 छात्रों के अंक: 12, 15, 10, 18, 15। औसत और बहुलक निकालो।
+S: Total = 12 + 15 + 10 + 18 + 15 = 70; average = 70 ÷ 5 = 14. || कुल = 12 + 15 + 10 + 18 + 15 = 70; औसत = 70 ÷ 5 = 14।
+S: 15 appears twice → mode. || 15 दो बार → बहुलक।
+A: Average 14, mode 15 || औसत 14, बहुलक 15
+E: Scale 1 unit = 20 trees. A bar is 3.5 units tall. How many trees? || पैमाना 1 इकाई = 20 पेड़। दंड 3.5 इकाई ऊँचा। कितने पेड़?
+S: 3.5 × 20 || 3.5 × 20
+A: 70 trees || 70 पेड़
+P: Average of 4, 6, 8, 10? || 4, 6, 8, 10 का औसत?
+R: 7
+P: Mode of 3, 5, 5, 7, 9? || 3, 5, 5, 7, 9 का बहुलक?
+R: 5
+P: Why must bars have equal width? || दंडों की चौड़ाई बराबर क्यों होनी चाहिए?
+R: So only the height shows the value and the graph is fair to compare || ताकि सिर्फ़ ऊँचाई मान दिखाए और तुलना सही हो
+
+== class-5/evs/our-senses-and-animals
+I: Animals have senses that are often sharper than ours. Dogs smell very well, eagles see from very high up, bats find their way using sound echoes, and snakes sense vibrations. Animals use these senses to find food and stay safe. || जानवरों की इंद्रियाँ अक्सर हमसे तेज़ होती हैं। कुत्ते बहुत अच्छा सूँघते हैं, चील बहुत ऊँचाई से देखती है, चमगादड़ आवाज़ की गूँज से रास्ता ढूँढते हैं, और साँप कंपन महसूस करते हैं। जानवर इन इंद्रियों से भोजन ढूँढते और सुरक्षित रहते हैं।
+K: Dogs: strong smell — used by police to track. || कुत्ते: तेज़ सूँघने की शक्ति — पुलिस खोज में इस्तेमाल करती है।
+K: Eagles and kites: sharp eyesight. || चील और बाज़: तेज़ नज़र।
+K: Bats: echolocation (hear echoes of their own sounds). || चमगादड़: प्रतिध्वनि से पता लगाना।
+E: How do ants find their way back to food? || चींटियाँ भोजन तक का रास्ता कैसे ढूँढती हैं?
+S: Ants leave a smell on their path. || चींटियाँ रास्ते पर गंध छोड़ती हैं।
+A: By following the smell trail left by other ants || दूसरी चींटियों की छोड़ी गंध का पीछा करके
+E: How do bats fly in the dark without bumping into things? || चमगादड़ अँधेरे में बिना टकराए कैसे उड़ते हैं?
+S: They make high sounds that bounce back from objects. || वे ऊँची आवाज़ें निकालते हैं जो चीज़ों से टकराकर लौटती हैं।
+A: By hearing the echoes of their own sounds (echolocation) || अपनी आवाज़ की गूँज सुनकर (इकोलोकेशन)
+P: Which animal is used by police to find hidden things by smell? || पुलिस छुपी चीज़ें ढूँढने के लिए किस जानवर का उपयोग करती है?
+R: Dog || कुत्ता
+P: Which bird can spot a small animal from very high up? || कौन-सा पक्षी बहुत ऊँचाई से छोटे जानवर को देख लेता है?
+R: Eagle (or kite) || चील (या बाज़)
+P: How do snakes sense something coming? || साँप किसी के आने का पता कैसे लगाते हैं?
+R: By feeling vibrations in the ground || ज़मीन के कंपन महसूस करके
+
+== class-5/evs/food-growing-and-preserving
+I: Farmers grow crops in two main seasons: kharif (sown in the rainy season, like rice) and rabi (sown in winter, like wheat). After harvest, food is stored and preserved by drying, salting, pickling, canning and refrigeration so it does not spoil. || किसान दो मुख्य मौसमों में फ़सल उगाते हैं: ख़रीफ़ (बरसात में बोई, जैसे धान) और रबी (सर्दी में बोई, जैसे गेहूँ)। कटाई के बाद भोजन को सुखाकर, नमक लगाकर, अचार बनाकर, डिब्बाबंद करके और ठंडा रखकर संरक्षित करते हैं ताकि ख़राब न हो।
+K: Kharif crops: rice, maize, cotton. Rabi crops: wheat, mustard, gram. || ख़रीफ़: धान, मक्का, कपास। रबी: गेहूँ, सरसों, चना।
+K: Germs (microbes) spoil food; cold and dryness slow them down. || कीटाणु भोजन ख़राब करते हैं; ठंडक और सूखापन उन्हें धीमा करते हैं।
+K: Food spoils faster in heat and moisture. || गर्मी और नमी में भोजन जल्दी ख़राब होता है।
+E: Why is food kept in a refrigerator? || भोजन फ़्रिज में क्यों रखते हैं?
+S: Germs grow slowly in the cold. || ठंड में कीटाणु धीरे बढ़ते हैं।
+A: To slow down germs so food stays fresh longer || कीटाणु धीमे करने ताकि भोजन देर तक ताज़ा रहे
+E: Is wheat a kharif or rabi crop? || गेहूँ ख़रीफ़ फ़सल है या रबी?
+S: Wheat is sown in winter and harvested in spring. || गेहूँ सर्दी में बोया और बसंत में काटा जाता है।
+A: Rabi || रबी
+P: Name one kharif crop. || एक ख़रीफ़ फ़सल बताओ।
+R: Rice, maize or cotton || धान, मक्का या कपास
+P: Why is salt added to pickles? || अचार में नमक क्यों डालते हैं?
+R: It stops germs from growing || यह कीटाणुओं को बढ़ने से रोकता है
+P: Name one way to preserve food. || भोजन संरक्षित करने का एक तरीक़ा।
+R: Drying, salting, pickling, canning, refrigerating (any one) || सुखाना, नमक, अचार, डिब्बाबंदी, फ़्रिज (कोई एक)
+
+== class-5/evs/water-sources-and-scarcity
+I: Although Earth has lots of water, very little is fresh and usable. Many places face water scarcity because of low rain, overuse and pollution. Groundwater levels fall when we pump too much. Old and new methods help save water. || धरती पर बहुत पानी है, पर बहुत कम मीठा और उपयोगी है। कम बारिश, ज़्यादा उपयोग और प्रदूषण से कई जगह पानी की कमी है। ज़्यादा पंप करने से भूजल स्तर गिरता है। पुराने और नए तरीक़े पानी बचाने में मदद करते हैं।
+K: About 97% of Earth's water is salty seawater. || धरती का लगभग 97% पानी खारा समुद्री पानी है।
+K: Traditional methods: stepwells (baolis), tanks, johads || पारंपरिक तरीक़े: बावड़ी, तालाब, जोहड़
+K: Drip irrigation gives water drop by drop to plant roots. || टपक सिंचाई पौधों की जड़ों में बूँद-बूँद पानी देती है।
+E: Why is drip irrigation better than flooding a field? || खेत में पानी भरने से टपक सिंचाई बेहतर क्यों है?
+S: Flooding wastes water that evaporates or runs off. || पानी भरने से पानी भाप बनकर या बहकर बर्बाद होता है।
+A: It gives water only to roots and saves a lot of water || यह सिर्फ़ जड़ों को पानी देती है और बहुत पानी बचाती है
+E: Why do groundwater levels fall? || भूजल स्तर क्यों गिरता है?
+S: We take out water faster than rain can refill it. || हम बारिश के भरने से तेज़ पानी निकालते हैं।
+A: Too much pumping from wells and borewells, and less rainwater soaking in || कुओं और बोरवेल से ज़्यादा पंपिंग, और कम बारिश का पानी ज़मीन में जाना
+P: What percentage of Earth's water is salty? || धरती का कितना प्रतिशत पानी खारा है?
+R: About 97% || लगभग 97%
+P: Name one traditional way of storing water. || पानी जमा करने का एक पारंपरिक तरीक़ा।
+R: Stepwell (baoli), tank or johad || बावड़ी, तालाब या जोहड़
+P: Name one cause of water scarcity. || पानी की कमी का एक कारण।
+R: Low rainfall, overuse or pollution || कम बारिश, ज़्यादा उपयोग या प्रदूषण
+
+== class-5/evs/shelter-and-environment
+I: People build shelters with materials found nearby and suited to the climate. Today many people live in cities in tall buildings, while some live in slums without proper facilities. Good houses need light, fresh air, clean water and toilets. || लोग आस-पास मिलने वाली और मौसम के अनुकूल सामग्री से आश्रय बनाते हैं। आज कई लोग शहरों में ऊँची इमारतों में रहते हैं, जबकि कुछ बिना सुविधाओं की झुग्गियों में। अच्छे घर में रोशनी, ताज़ी हवा, साफ़ पानी और शौचालय होना चाहिए।
+K: Ladakh: flat roofs, thick stone walls (little rain, very cold). || लद्दाख: सपाट छत, पत्थर की मोटी दीवारें (कम बारिश, बहुत ठंड)।
+K: Nomads (like Gaddis, Bakarwals) live in tents and move with their animals. || घुमंतू लोग (गद्दी, बकरवाल) तंबुओं में रहते हैं और पशुओं के साथ घूमते हैं।
+K: A healthy home has ventilation, sunlight and clean surroundings. || स्वस्थ घर में हवा का आना-जाना, धूप और साफ़ आस-पास हो।
+E: Why do houses in Ladakh have flat roofs? || लद्दाख में घरों की छत सपाट क्यों होती है?
+S: Ladakh gets very little rain. || लद्दाख में बहुत कम बारिश होती है।
+S: Flat roofs are used to dry vegetables and store things. || सपाट छत पर सब्ज़ियाँ सुखाते और सामान रखते हैं।
+A: Because there is little rain, and the roof is used for drying and storage || कम बारिश होती है, और छत सुखाने व भंडारण में काम आती है
+E: Why do nomadic herders live in tents? || घुमंतू चरवाहे तंबुओं में क्यों रहते हैं?
+S: They keep moving to find grass for their animals. || वे पशुओं के लिए घास ढूँढने को घूमते रहते हैं।
+A: Tents are easy to carry and set up as they move || घूमते समय तंबू ले जाना और लगाना आसान है
+P: Name two things every healthy home needs. || हर स्वस्थ घर में कौन-सी दो चीज़ें चाहिए?
+R: Fresh air and sunlight (also clean water, toilet) || ताज़ी हवा और धूप (साफ़ पानी, शौचालय भी)
+P: What is ventilation? || वेंटिलेशन क्या है?
+R: Fresh air coming in and stale air going out || ताज़ी हवा का अंदर आना और बासी का बाहर जाना
+P: Name a nomadic community. || एक घुमंतू समुदाय का नाम।
+R: Gaddis or Bakarwals || गद्दी या बकरवाल
+
+== class-5/evs/forests-and-tribal-life
+I: Forests give us wood, fruits, medicines, honey, oxygen and homes for animals. Many tribal communities live in and depend on forests, and they protect them. Cutting forests causes floods, soil erosion and loss of wildlife. || जंगल हमें लकड़ी, फल, दवाइयाँ, शहद, ऑक्सीजन और जानवरों को घर देते हैं। कई आदिवासी समुदाय जंगल में रहते और उन पर निर्भर हैं, और उनकी रक्षा करते हैं। जंगल काटने से बाढ़, मिट्टी का कटाव और वन्यजीवों का नुक़सान होता है।
+K: Forest products: timber, bamboo, honey, lac, gum, herbs || वन उत्पाद: लकड़ी, बाँस, शहद, लाख, गोंद, जड़ी-बूटियाँ
+K: Tree roots hold soil and prevent erosion. || पेड़ों की जड़ें मिट्टी को थामकर कटाव रोकती हैं।
+K: Tribes like the Bhils, Gonds and Santhals have rich forest traditions. || भील, गोंड और संथाल जैसी जनजातियों की जंगल से जुड़ी समृद्ध परंपराएँ हैं।
+E: How do forests prevent floods? || जंगल बाढ़ कैसे रोकते हैं?
+S: Trees and roots slow down rainwater and help it soak into the ground. || पेड़ और जड़ें बारिश का पानी धीमा करके ज़मीन में रिसने देते हैं।
+A: They slow rainwater and let it soak in, so less water rushes into rivers || पानी धीमा करके ज़मीन में रिसाते हैं, जिससे नदियों में कम पानी जाता है
+E: Name three things we get from forests. || जंगल से मिलने वाली तीन चीज़ें।
+S: Think of food, building material and medicine. || भोजन, निर्माण सामग्री और दवा सोचो।
+A: Honey, wood, medicinal herbs || शहद, लकड़ी, जड़ी-बूटियाँ
+P: What happens to soil when trees are cut on hills? || पहाड़ों पर पेड़ काटने से मिट्टी का क्या होता है?
+R: It gets washed away (erosion) || बह जाती है (कटाव)
+P: Name one tribal community of India. || भारत की एक जनजाति का नाम।
+R: Bhil, Gond, Santhal (any one) || भील, गोंड, संथाल (कोई एक)
+P: Which gas do forests give us? || जंगल हमें कौन-सी गैस देते हैं?
+R: Oxygen || ऑक्सीजन
+
+== class-5/evs/diseases-and-health
+I: Some diseases spread through germs in dirty water, food, air or mosquito bites. Malaria and dengue spread through mosquitoes; cholera and typhoid through dirty water. Vaccination, clean water, hand-washing and a balanced diet keep us healthy. || कुछ बीमारियाँ गंदे पानी, भोजन, हवा या मच्छर के काटने से कीटाणुओं द्वारा फैलती हैं। मलेरिया और डेंगू मच्छरों से; हैज़ा और टाइफ़ाइड गंदे पानी से। टीकाकरण, साफ़ पानी, हाथ धोना और संतुलित आहार हमें स्वस्थ रखते हैं।
+K: Mosquito-borne: malaria (Anopheles), dengue (Aedes) || मच्छर से: मलेरिया (एनोफ़िलीज़), डेंगू (एडीज़)
+K: Don't let water collect in coolers, pots or tyres. || कूलर, गमलों या टायरों में पानी जमा न होने दो।
+K: Lack of vitamins causes deficiency diseases (e.g. vitamin C → scurvy). || विटामिन की कमी से रोग होते हैं (जैसे विटामिन C → स्कर्वी)।
+E: How can we stop dengue from spreading? || डेंगू फैलने से कैसे रोकें?
+S: Dengue mosquitoes breed in clean standing water. || डेंगू मच्छर रुके साफ़ पानी में पनपते हैं।
+A: Empty standing water, use nets and repellents, wear full sleeves || रुका पानी हटाओ, मच्छरदानी और क्रीम लगाओ, पूरी बाँह के कपड़े पहनो
+E: Why do we get vaccines? || टीके क्यों लगवाते हैं?
+S: A vaccine trains the body to fight a disease. || टीका शरीर को बीमारी से लड़ना सिखाता है।
+A: To protect us from diseases like polio and measles || पोलियो, खसरे जैसी बीमारियों से बचाने के लिए
+P: Which disease spreads through dirty water: cholera or malaria? || गंदे पानी से कौन-सी बीमारी फैलती है: हैज़ा या मलेरिया?
+R: Cholera || हैज़ा
+P: Lack of which vitamin causes scurvy? || किस विटामिन की कमी से स्कर्वी होता है?
+R: Vitamin C || विटामिन C
+P: Name one habit that stops germs spreading. || कीटाणु रोकने वाली एक आदत।
+R: Washing hands with soap || साबुन से हाथ धोना
+
+== class-5/evs/energy-and-fuels
+I: We use energy for cooking, transport, light and machines. Fuels like coal, petrol, diesel and LPG will run out one day (non-renewable). Sun, wind and water are renewable sources that do not run out and cause less pollution. || हम खाना बनाने, यातायात, रोशनी और मशीनों के लिए ऊर्जा इस्तेमाल करते हैं। कोयला, पेट्रोल, डीज़ल और LPG जैसे ईंधन एक दिन ख़त्म हो जाएँगे (अनवीकरणीय)। सूरज, हवा और पानी नवीकरणीय स्रोत हैं जो ख़त्म नहीं होते और कम प्रदूषण करते हैं।
+K: Non-renewable: coal, petroleum, natural gas || अनवीकरणीय: कोयला, पेट्रोलियम, प्राकृतिक गैस
+K: Renewable: solar, wind, hydro (water) || नवीकरणीय: सौर, पवन, जल
+K: Save energy: switch off, use LED bulbs, share rides. || ऊर्जा बचाओ: बंद करो, LED बल्ब, साझा सवारी।
+E: Is solar energy renewable or non-renewable? || सौर ऊर्जा नवीकरणीय है या अनवीकरणीय?
+S: The sun shines every day and will not run out. || सूरज रोज़ चमकता है और ख़त्म नहीं होगा।
+A: Renewable || नवीकरणीय
+E: Give two ways your family can save fuel. || परिवार ईंधन कैसे बचा सकता है, दो तरीक़े।
+S: Think about cooking and travelling. || खाना बनाने और यात्रा के बारे में सोचो।
+A: Cover pots while cooking; use public transport or carpool || ढककर खाना पकाओ; सार्वजनिक वाहन या साझा गाड़ी
+P: Name one non-renewable fuel. || एक अनवीकरणीय ईंधन।
+R: Coal, petrol or diesel || कोयला, पेट्रोल या डीज़ल
+P: Which renewable energy uses windmills? || पवनचक्की कौन-सी नवीकरणीय ऊर्जा इस्तेमाल करती है?
+R: Wind energy || पवन ऊर्जा
+P: Which bulb saves more electricity: LED or old filament bulb? || कौन-सा बल्ब ज़्यादा बिजली बचाता है: LED या पुराना बल्ब?
+R: LED || LED
+
+== class-5/evs/maps-directions-and-the-globe
+I: A globe is a round model of the Earth. Imaginary lines help us find places: the Equator divides Earth into the Northern and Southern Hemispheres. A compass needle always points North. Maps use a scale, symbols and directions. || ग्लोब पृथ्वी का गोल मॉडल है। काल्पनिक रेखाएँ जगह ढूँढने में मदद करती हैं: भूमध्य रेखा पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में बाँटती है। कम्पास की सुई हमेशा उत्तर दिखाती है। नक़्शे में पैमाना, चिह्न और दिशाएँ होते हैं।
+K: Four main directions N, S, E, W; in between NE, NW, SE, SW. || चार मुख्य दिशाएँ उ, द, पू, प; बीच में उ-पू, उ-प, द-पू, द-प।
+K: Scale: 1 cm on the map = some km on the ground. || पैमाना: नक़्शे पर 1 cm = ज़मीन पर कुछ km।
+K: India lies in the Northern Hemisphere. || भारत उत्तरी गोलार्ध में है।
+E: A map's scale is 1 cm = 50 km. Two towns are 4 cm apart on the map. How far apart are they really? || नक़्शे का पैमाना 1 cm = 50 km है। दो शहर नक़्शे पर 4 cm दूर हैं। असल में कितनी दूरी?
+S: 4 × 50 || 4 × 50
+A: 200 km
+E: Which direction is between North and East? || उत्तर और पूर्व के बीच कौन-सी दिशा है?
+S: Combine the two names. || दोनों नाम जोड़ो।
+A: North-East || उत्तर-पूर्व
+P: Which line divides Earth into two hemispheres? || कौन-सी रेखा पृथ्वी को दो गोलार्धों में बाँटती है?
+R: The Equator || भूमध्य रेखा
+P: Which direction does a compass needle point to? || कम्पास की सुई किस दिशा में रहती है?
+R: North || उत्तर
+P: In which hemisphere is India? || भारत किस गोलार्ध में है?
+R: Northern Hemisphere || उत्तरी गोलार्ध
+
+== class-5/evs/our-heritage
+I: Heritage is what we receive from the past: monuments, arts, music, dances, crafts, languages and festivals. India has many UNESCO World Heritage Sites like the Taj Mahal, Ajanta–Ellora caves, Qutub Minar and the Sun Temple at Konark. We must protect them. || विरासत वह है जो हमें अतीत से मिली है: स्मारक, कला, संगीत, नृत्य, हस्तशिल्प, भाषाएँ और त्योहार। भारत में यूनेस्को की कई विश्व धरोहरें हैं जैसे ताजमहल, अजंता–एलोरा की गुफाएँ, क़ुतुब मीनार और कोणार्क का सूर्य मंदिर। हमें इनकी रक्षा करनी चाहिए।
+K: Classical dances: Bharatanatyam (Tamil Nadu), Kathak (North India), Odissi (Odisha), Kathakali (Kerala) || शास्त्रीय नृत्य: भरतनाट्यम (तमिलनाडु), कथक (उत्तर भारत), ओडिसी (ओडिशा), कथकली (केरल)
+K: Ajanta caves are famous for paintings; Ellora for rock-cut temples. || अजंता की गुफाएँ चित्रों के लिए; एलोरा चट्टान काटकर बने मंदिरों के लिए प्रसिद्ध।
+K: Don't write on or damage monuments. || स्मारकों पर लिखो या उन्हें नुक़सान मत पहुँचाओ।
+E: Which monument was built by Shah Jahan in memory of Mumtaz Mahal? || शाहजहाँ ने मुमताज़ महल की याद में कौन-सा स्मारक बनवाया?
+S: It is made of white marble in Agra. || यह आगरा में सफ़ेद संगमरमर से बना है।
+A: The Taj Mahal || ताजमहल
+E: Kathakali comes from which state? || कथकली किस राज्य का नृत्य है?
+S: Dancers wear colourful face make-up and big costumes; it comes from the south-west coast. || नर्तक रंगीन मुखसज्जा और बड़ी वेशभूषा पहनते हैं; यह दक्षिण-पश्चिमी तट से है।
+A: Kerala || केरल
+P: Where is the Sun Temple famous for its chariot shape? || रथ के आकार वाला सूर्य मंदिर कहाँ है?
+R: Konark, Odisha || कोणार्क, ओडिशा
+P: Bharatanatyam belongs to which state? || भरतनाट्यम किस राज्य का है?
+R: Tamil Nadu || तमिलनाडु
+P: What should we not do at monuments? || स्मारकों पर क्या नहीं करना चाहिए?
+R: Write on walls, litter or damage them || दीवारों पर लिखना, कचरा फैलाना या नुक़सान पहुँचाना
+
+== class-5/evs/disasters-and-safety
+I: Natural disasters include earthquakes, floods, cyclones, droughts and landslides. We cannot stop them, but we can be prepared: know safe places, keep an emergency kit and follow instructions. || प्राकृतिक आपदाओं में भूकंप, बाढ़, चक्रवात, सूखा और भूस्खलन शामिल हैं। हम इन्हें रोक नहीं सकते, पर तैयार रह सकते हैं: सुरक्षित जगहें जानो, आपातकालीन किट रखो और निर्देश मानो।
+K: Earthquake: Drop, Cover, Hold on — get under a strong table. || भूकंप: झुको, ढको, पकड़ो — मज़बूत मेज़ के नीचे जाओ।
+K: Flood: move to higher ground; don't walk in moving water. || बाढ़: ऊँची जगह जाओ; बहते पानी में मत चलो।
+K: Emergency kit: torch, water, first-aid box, dry food, important papers. || आपातकालीन किट: टॉर्च, पानी, प्राथमिक चिकित्सा, सूखा खाना, ज़रूरी काग़ज़।
+E: What should you do if an earthquake happens while you are in class? || कक्षा में रहते भूकंप आए तो क्या करोगे?
+S: Stay away from windows and heavy things that can fall. || खिड़कियों और गिर सकने वाली भारी चीज़ों से दूर रहो।
+A: Drop, get under a desk, cover your head and hold on until the shaking stops || झुको, डेस्क के नीचे जाओ, सिर ढको और हिलना रुकने तक पकड़े रहो
+E: Why should we not use a lift during a fire or earthquake? || आग या भूकंप में लिफ़्ट क्यों नहीं इस्तेमाल करनी चाहिए?
+S: Power can fail and the lift can get stuck. || बिजली जा सकती है और लिफ़्ट फँस सकती है।
+A: You may get trapped; use the stairs || फँस सकते हो; सीढ़ियाँ इस्तेमाल करो
+P: Where should you go in a flood? || बाढ़ में कहाँ जाना चाहिए?
+R: To higher ground || ऊँची जगह पर
+P: Name two things in an emergency kit. || आपातकालीन किट की दो चीज़ें।
+R: Torch and first-aid box (also water, dry food) || टॉर्च और प्राथमिक चिकित्सा बॉक्स (पानी, सूखा खाना भी)
+P: What is a long period without rain called? || लंबे समय तक बारिश न होना क्या कहलाता है?
+R: Drought || सूखा
+
+== class-5/computer/operating-system-basics
+I: An operating system (OS) is the main software that runs a computer. It manages files, programs and devices and lets us use the computer through a desktop with icons, windows and a taskbar. Examples: Windows, Linux, macOS, Android. || ऑपरेटिंग सिस्टम (OS) वह मुख्य सॉफ़्टवेयर है जो कंप्यूटर चलाता है। यह फ़ाइलें, प्रोग्राम और उपकरण सँभालता है और हमें आइकन, विंडो और टास्कबार वाले डेस्कटॉप से कंप्यूटर इस्तेमाल करने देता है। उदाहरण: Windows, Linux, macOS, Android।
+K: Desktop: the first screen with icons. || डेस्कटॉप: आइकन वाली पहली स्क्रीन।
+K: Taskbar shows open programs; Start menu opens programs. || टास्कबार खुले प्रोग्राम दिखाता है; स्टार्ट मेन्यू प्रोग्राम खोलता है।
+K: Window buttons: minimise, maximise, close. || विंडो के बटन: छोटा करो, बड़ा करो, बंद करो।
+E: Name the OS used on most mobile phones. || ज़्यादातर मोबाइल फ़ोनों में कौन-सा OS है?
+S: It is made by Google. || इसे Google बनाता है।
+A: Android || Android
+E: You want to hide a window for a while without closing it. Which button? || विंडो को बंद किए बिना कुछ देर छुपाना है। कौन-सा बटन?
+S: It sends the window down to the taskbar. || यह विंडो को टास्कबार पर भेज देता है।
+A: Minimise (–) || Minimise (–)
+P: What is the main software that runs a computer called? || कंप्यूटर चलाने वाला मुख्य सॉफ़्टवेयर?
+R: Operating system || ऑपरेटिंग सिस्टम
+P: Name one computer OS. || एक कंप्यूटर OS का नाम।
+R: Windows, Linux or macOS || Windows, Linux या macOS
+P: What are the small pictures on the desktop called? || डेस्कटॉप के छोटे चित्र क्या कहलाते हैं?
+R: Icons || आइकन
+
+== class-5/computer/files-and-folders
+I: A file stores one piece of work: a story, a drawing or a song. A folder holds many files, like a file cabinet. We can create, rename, copy, move and delete files and folders to keep work organised. || फ़ाइल एक काम सहेजती है: कहानी, चित्र या गाना। फ़ोल्डर में कई फ़ाइलें होती हैं, अलमारी की तरह। काम व्यवस्थित रखने के लिए फ़ाइलें और फ़ोल्डर बना, नाम बदल, कॉपी, हटा और मिटा सकते हैं।
+K: File extensions tell the type: .docx (document), .jpg (picture), .mp3 (song). || फ़ाइल एक्सटेंशन प्रकार बताते हैं: .docx (दस्तावेज़), .jpg (चित्र), .mp3 (गाना)।
+K: Copy (Ctrl+C), Cut (Ctrl+X), Paste (Ctrl+V) || कॉपी (Ctrl+C), कट (Ctrl+X), पेस्ट (Ctrl+V)
+K: Deleted files go to the Recycle Bin first. || मिटाई फ़ाइलें पहले रिसायकल बिन में जाती हैं।
+E: How do you move a file from Desktop to a folder "Maths"? || फ़ाइल को डेस्कटॉप से "Maths" फ़ोल्डर में कैसे ले जाओगे?
+S: Select the file and press Ctrl+X (cut). || फ़ाइल चुनकर Ctrl+X (कट) दबाओ।
+S: Open "Maths" and press Ctrl+V (paste). || "Maths" खोलकर Ctrl+V (पेस्ट) दबाओ।
+A: Cut (Ctrl+X) then paste (Ctrl+V) in the folder || कट (Ctrl+X) फिर फ़ोल्डर में पेस्ट (Ctrl+V)
+E: You deleted a file by mistake. Where can you find it? || ग़लती से फ़ाइल मिट गई। कहाँ मिलेगी?
+S: Deleted files are kept for a while before being removed forever. || मिटाई फ़ाइलें हमेशा के लिए हटने से पहले कुछ समय रखी जाती हैं।
+A: In the Recycle Bin — restore it from there || रिसायकल बिन में — वहाँ से वापस लाओ
+P: What type of file is "holiday.jpg"? || "holiday.jpg" किस प्रकार की फ़ाइल है?
+R: A picture (image) || चित्र
+P: Shortcut to copy? || कॉपी का शॉर्टकट?
+R: Ctrl+C
+P: What holds many files together? || कई फ़ाइलें एक साथ क्या रखता है?
+R: A folder || फ़ोल्डर
+
+== class-5/computer/presentations
+I: A presentation is a set of slides that share information with pictures and short points. Programs like PowerPoint, Google Slides or Impress let us add text, pictures, transitions and animations, then show the slides one by one. || प्रस्तुति (presentation) स्लाइडों का समूह है जो चित्रों और छोटे बिंदुओं से जानकारी देता है। PowerPoint, Google Slides या Impress जैसे प्रोग्राम से टेक्स्ट, चित्र, ट्रांज़िशन और एनिमेशन जोड़कर स्लाइडें एक-एक करके दिखाते हैं।
+K: One idea per slide; use short points, not long paragraphs. || हर स्लाइड पर एक विचार; लंबे अनुच्छेद नहीं, छोटे बिंदु।
+K: Transition: effect between slides. Animation: effect on an object. || ट्रांज़िशन: स्लाइडों के बीच प्रभाव। एनिमेशन: किसी वस्तु पर प्रभाव।
+K: Start the slide show with F5. || F5 से स्लाइड शो शुरू करो।
+E: You are making slides on "Save Water". What should the first slide have? || "पानी बचाओ" पर स्लाइडें बना रहे हो। पहली स्लाइड में क्या हो?
+S: The first slide introduces the topic and the presenter. || पहली स्लाइड विषय और प्रस्तुतकर्ता का परिचय देती है।
+A: A title slide: "Save Water" and your name || शीर्षक स्लाइड: "Save Water" और तुम्हारा नाम
+E: What is the difference between a transition and an animation? || ट्रांज़िशन और एनिमेशन में क्या अंतर है?
+S: One works when changing slides; the other on text or pictures inside a slide. || एक स्लाइड बदलते समय; दूसरा स्लाइड के अंदर टेक्स्ट या चित्र पर।
+A: Transition = between slides; animation = on objects within a slide || ट्रांज़िशन = स्लाइडों के बीच; एनिमेशन = स्लाइड की वस्तुओं पर
+P: Which key starts the slide show? || कौन-सी कुंजी स्लाइड शो शुरू करती है?
+R: F5
+P: Should a slide have long paragraphs? || क्या स्लाइड में लंबे अनुच्छेद होने चाहिए?
+R: No, short points || नहीं, छोटे बिंदु
+P: Name one presentation program. || एक प्रस्तुति प्रोग्राम का नाम।
+R: PowerPoint, Google Slides or Impress || PowerPoint, Google Slides या Impress
+
+== class-5/computer/introduction-to-coding-with-blocks
+I: Coding means giving a computer step-by-step instructions. Block-based tools like Scratch let us snap blocks together instead of typing. We use sequences (steps in order), loops (repeat) and events (when clicked) to make animations and games. || कोडिंग मतलब कंप्यूटर को कदम-दर-कदम निर्देश देना। Scratch जैसे ब्लॉक वाले टूल में टाइप करने की जगह ब्लॉक जोड़ते हैं। एनिमेशन और गेम बनाने के लिए अनुक्रम (क्रम से कदम), लूप (दोहराना) और इवेंट (जब क्लिक हो) इस्तेमाल करते हैं।
+K: Sequence: instructions run in order. || अनुक्रम: निर्देश क्रम से चलते हैं।
+K: Loop: repeat blocks (repeat 10, forever). || लूप: ब्लॉक दोहराओ (repeat 10, forever)।
+K: Event: starts code (when green flag clicked). || इवेंट: कोड शुरू करता है (जब हरा झंडा क्लिक हो)।
+E: Make a sprite draw a square using a loop. || लूप से स्प्राइट से वर्ग बनवाओ।
+S: A square has 4 equal sides and 4 turns of 90°. || वर्ग में 4 बराबर भुजाएँ और 90° के 4 मोड़।
+S: repeat 4 [move 100 steps, turn right 90 degrees] || repeat 4 [move 100 steps, turn right 90 degrees]
+A: repeat 4 { move 100; turn 90° } || repeat 4 { move 100; turn 90° }
+E: Why use a loop instead of writing the same blocks many times? || एक ही ब्लॉक बार-बार लिखने की जगह लूप क्यों?
+S: Loops make code shorter and easier to change. || लूप कोड छोटा और बदलने में आसान बनाते हैं।
+A: It is shorter, faster to write and has fewer mistakes || छोटा, जल्दी लिखा जाने वाला और कम ग़लतियों वाला
+P: What block starts a Scratch program when the flag is clicked? || हरा झंडा क्लिक होने पर Scratch प्रोग्राम कौन-सा ब्लॉक शुरू करता है?
+R: "when green flag clicked" (event) || "when green flag clicked" (इवेंट)
+P: How many times should a loop repeat to draw a triangle? || त्रिभुज बनाने के लिए लूप कितनी बार दोहराए?
+R: 3
+P: What are the characters in Scratch called? || Scratch में पात्र क्या कहलाते हैं?
+R: Sprites || स्प्राइट
+
+== class-5/computer/cyber-safety
+I: Cyber safety means staying safe online. Protect your personal information, use strong passwords, think before you post, be careful of fake messages (phishing) and tell a trusted adult about anything scary or mean. || साइबर सुरक्षा मतलब ऑनलाइन सुरक्षित रहना। निजी जानकारी बचाओ, मज़बूत पासवर्ड रखो, पोस्ट करने से पहले सोचो, नक़ली संदेशों (फ़िशिंग) से सावधान रहो और डरावनी या बुरी बात किसी भरोसेमंद बड़े को बताओ।
+K: Phishing: fake messages that try to steal passwords or money. || फ़िशिंग: नक़ली संदेश जो पासवर्ड या पैसे चुराना चाहते हैं।
+K: What you post online can stay forever (digital footprint). || ऑनलाइन डाली चीज़ हमेशा रह सकती है (डिजिटल फ़ुटप्रिंट)।
+K: Log out on shared computers. || साझा कंप्यूटरों पर लॉग आउट करो।
+E: An email says your bank account will close unless you send your password. What is this? || ईमेल कहता है पासवर्ड न भेजा तो बैंक खाता बंद होगा। यह क्या है?
+S: Real banks never ask for passwords by email. || असली बैंक कभी ईमेल से पासवर्ड नहीं माँगते।
+A: Phishing — a trick; don't reply, tell an adult || फ़िशिंग — धोखा; जवाब मत दो, किसी बड़े को बताओ
+E: Why should you think before posting a photo online? || ऑनलाइन फ़ोटो डालने से पहले क्यों सोचना चाहिए?
+S: Once shared, others can copy and keep it. || एक बार साझा करने पर दूसरे उसे कॉपी करके रख सकते हैं।
+A: It becomes part of your digital footprint and may never go away || यह डिजिटल फ़ुटप्रिंट का हिस्सा बन जाता है और शायद कभी न मिटे
+P: What should you do after using a computer in a cyber café? || साइबर कैफ़े में कंप्यूटर इस्तेमाल के बाद क्या करना चाहिए?
+R: Log out of all accounts || सभी खातों से लॉग आउट
+P: What is a digital footprint? || डिजिटल फ़ुटप्रिंट क्या है?
+R: The trail of everything you do and post online || ऑनलाइन किए और डाले गए हर काम का निशान
+P: Should you share OTPs with anyone? || क्या OTP किसी से साझा करना चाहिए?
+R: No, never || नहीं, कभी नहीं
+
+== class-5/gk/india-and-the-world
+I: India is the most populous country and one of the largest democracies in the world. It is a member of the United Nations (UN). There are 7 continents and 5 oceans on Earth; India is in Asia, the largest continent. || भारत दुनिया का सबसे ज़्यादा आबादी वाला देश और सबसे बड़े लोकतंत्रों में से एक है। यह संयुक्त राष्ट्र (UN) का सदस्य है। पृथ्वी पर 7 महाद्वीप और 5 महासागर हैं; भारत एशिया में है, जो सबसे बड़ा महाद्वीप है।
+K: Largest continent: Asia; largest ocean: Pacific || सबसे बड़ा महाद्वीप: एशिया; सबसे बड़ा महासागर: प्रशांत
+K: UN headquarters: New York || UN मुख्यालय: न्यूयॉर्क
+K: Highest mountain: Mount Everest (Nepal–China border) || सबसे ऊँचा पर्वत: माउंट एवरेस्ट (नेपाल–चीन सीमा)
+E: Name the 7 continents. || 7 महाद्वीपों के नाम बताओ।
+S: Start with the largest: Asia. || सबसे बड़े से शुरू करो: एशिया।
+A: Asia, Africa, North America, South America, Antarctica, Europe, Australia || एशिया, अफ़्रीका, उत्तरी अमेरिका, दक्षिणी अमेरिका, अंटार्कटिका, यूरोप, ऑस्ट्रेलिया
+E: Which ocean is named after India? || किस महासागर का नाम भारत पर है?
+S: It lies to the south of India. || यह भारत के दक्षिण में है।
+A: The Indian Ocean || हिंद महासागर
+P: Which is the largest ocean? || सबसे बड़ा महासागर कौन-सा है?
+R: Pacific Ocean || प्रशांत महासागर
+P: Where is the UN headquarters? || UN मुख्यालय कहाँ है?
+R: New York || न्यूयॉर्क
+P: Which is the highest mountain in the world? || दुनिया का सबसे ऊँचा पर्वत?
+R: Mount Everest || माउंट एवरेस्ट
+
+== class-5/gk/space-and-planets
+I: Our solar system has the Sun at the centre and 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. ISRO, India's space agency, sent Chandrayaan to the Moon and Mangalyaan to Mars. || हमारे सौरमंडल के केंद्र में सूर्य है और 8 ग्रह हैं: बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण और वरुण। भारत की अंतरिक्ष एजेंसी ISRO ने चंद्रमा पर चंद्रयान और मंगल पर मंगलयान भेजे।
+K: Largest planet: Jupiter; closest to the Sun: Mercury || सबसे बड़ा ग्रह: बृहस्पति; सूर्य के सबसे पास: बुध
+K: Mars is the Red Planet; Saturn has bright rings. || मंगल लाल ग्रह है; शनि के चमकीले वलय हैं।
+K: Chandrayaan-3 landed near the Moon's south pole in 2023. || चंद्रयान-3 2023 में चंद्रमा के दक्षिणी ध्रुव के पास उतरा।
+E: Which planet is known as the Red Planet? || किस ग्रह को लाल ग्रह कहते हैं?
+S: Its soil has iron that looks rusty red. || इसकी मिट्टी में लोहा है जो ज़ंग जैसा लाल दिखता है।
+A: Mars || मंगल
+E: Put in order from the Sun: Earth, Mercury, Venus || सूर्य से क्रम में लगाओ: पृथ्वी, बुध, शुक्र
+S: Mercury is closest, then Venus, then Earth. || बुध सबसे पास, फिर शुक्र, फिर पृथ्वी।
+A: Mercury, Venus, Earth || बुध, शुक्र, पृथ्वी
+P: Which is the largest planet? || सबसे बड़ा ग्रह?
+R: Jupiter || बृहस्पति
+P: How many planets are in our solar system? || हमारे सौरमंडल में कितने ग्रह हैं?
+R: 8
+P: What is India's space agency called? || भारत की अंतरिक्ष एजेंसी का नाम?
+R: ISRO || ISRO (इसरो)
+
+== class-5/gk/science-facts
+I: Science explains the world around us. Light travels faster than sound, which is why we see lightning before we hear thunder. Plants make food by photosynthesis. The human body has 206 bones in an adult. || विज्ञान हमारे आस-पास की दुनिया समझाता है। रोशनी आवाज़ से तेज़ चलती है, इसीलिए बिजली की चमक गड़गड़ाहट से पहले दिखती है। पौधे प्रकाश संश्लेषण से भोजन बनाते हैं। बड़े इंसान के शरीर में 206 हड्डियाँ होती हैं।
+K: Speed of light is much greater than speed of sound. || रोशनी की गति आवाज़ की गति से बहुत ज़्यादा है।
+K: Adult human body: 206 bones; largest organ: skin || बड़े इंसान: 206 हड्डियाँ; सबसे बड़ा अंग: त्वचा
+K: Photosynthesis needs sunlight, water, carbon dioxide and chlorophyll. || प्रकाश संश्लेषण के लिए धूप, पानी, कार्बन डाइऑक्साइड और पर्णहरित चाहिए।
+E: Why do we see lightning before we hear thunder? || बिजली की चमक गड़गड़ाहट से पहले क्यों दिखती है?
+S: Both happen at the same time. || दोनों एक साथ होते हैं।
+S: Light reaches us much faster than sound. || रोशनी आवाज़ से बहुत जल्दी हम तक पहुँचती है।
+A: Because light travels faster than sound || क्योंकि रोशनी आवाज़ से तेज़ चलती है
+E: What gives leaves their green colour? || पत्तों को हरा रंग कौन देता है?
+S: This pigment also helps make food using sunlight. || यह वर्णक धूप से भोजन बनाने में भी मदद करता है।
+A: Chlorophyll || पर्णहरित (क्लोरोफ़िल)
+P: How many bones does an adult human have? || बड़े इंसान में कितनी हड्डियाँ होती हैं?
+R: 206
+P: Which is the largest organ of the human body? || मानव शरीर का सबसे बड़ा अंग?
+R: Skin || त्वचा
+P: What is the process by which plants make food? || पौधों द्वारा भोजन बनाने की प्रक्रिया?
+R: Photosynthesis || प्रकाश संश्लेषण
+
+== class-5/gk/current-affairs-basics
+I: Current affairs are important things happening now. We follow them through newspapers, news channels and trusted websites. Important days help us remember people and causes, like Independence Day, World Water Day and National Science Day. || करंट अफ़ेयर्स अभी हो रही ज़रूरी घटनाएँ हैं। इन्हें अख़बार, समाचार चैनल और भरोसेमंद वेबसाइटों से जानते हैं। ज़रूरी दिवस लोगों और मुद्दों को याद रखने में मदद करते हैं, जैसे स्वतंत्रता दिवस, विश्व जल दिवस और राष्ट्रीय विज्ञान दिवस।
+K: World Water Day: 22 March; Earth Day: 22 April || विश्व जल दिवस: 22 मार्च; पृथ्वी दिवस: 22 अप्रैल
+K: National Science Day: 28 February (C. V. Raman effect) || राष्ट्रीय विज्ञान दिवस: 28 फ़रवरी (सी. वी. रमन प्रभाव)
+K: Check news from reliable sources; don't forward rumours. || ख़बर भरोसेमंद स्रोत से जाँचो; अफ़वाहें आगे मत भेजो।
+E: Why is National Science Day celebrated on 28 February? || राष्ट्रीय विज्ञान दिवस 28 फ़रवरी को क्यों मनाते हैं?
+S: On this day in 1928, an Indian scientist announced a discovery about light. || 1928 में इसी दिन एक भारतीय वैज्ञानिक ने प्रकाश संबंधी खोज की घोषणा की।
+A: To mark C. V. Raman's discovery of the Raman effect || सी. वी. रमन की रमन प्रभाव की खोज की याद में
+E: A message says "Schools closed tomorrow!" but no source is given. What should you do? || संदेश आता है "कल स्कूल बंद!" पर स्रोत नहीं। क्या करोगे?
+S: Unverified messages can be false. || बिना जाँचे संदेश ग़लत हो सकते हैं।
+A: Check with the school or official news before believing or forwarding it || मानने या आगे भेजने से पहले स्कूल या आधिकारिक ख़बर से जाँचो
+P: When is World Water Day? || विश्व जल दिवस कब है?
+R: 22 March || 22 मार्च
+P: When is Earth Day? || पृथ्वी दिवस कब है?
+R: 22 April || 22 अप्रैल
+P: Name one source of current affairs. || करंट अफ़ेयर्स का एक स्रोत।
+R: Newspaper, news channel or trusted website || अख़बार, समाचार चैनल या भरोसेमंद वेबसाइट
+
+== class-5/gk/values-and-citizenship
+I: A good citizen follows rules, respects others, protects public property, keeps surroundings clean and helps the community. Our Constitution gives us rights and also duties, like respecting the flag and protecting the environment. || अच्छा नागरिक नियम मानता है, दूसरों का सम्मान करता है, सार्वजनिक संपत्ति बचाता है, आस-पास साफ़ रखता है और समाज की मदद करता है। हमारा संविधान हमें अधिकार और कर्तव्य भी देता है, जैसे झंडे का सम्मान और पर्यावरण की रक्षा।
+K: Rights: education, equality, freedom of speech || अधिकार: शिक्षा, समानता, बोलने की आज़ादी
+K: Duties: respect the flag and anthem, protect public property, keep India clean || कर्तव्य: झंडे और राष्ट्रगान का सम्मान, सार्वजनिक संपत्ति बचाना, भारत को साफ़ रखना
+K: Republic Day (26 January) marks the Constitution coming into force. || गणतंत्र दिवस (26 जनवरी) संविधान लागू होने का दिन है।
+E: Someone is damaging a park bench. What can a good citizen do? || कोई पार्क की बेंच तोड़ रहा है। अच्छा नागरिक क्या कर सकता है?
+S: Public property belongs to everyone. || सार्वजनिक संपत्ति सबकी है।
+A: Politely ask them to stop and report it to an adult or the park guard || विनम्रता से रोको और किसी बड़े या पार्क गार्ड को बताओ
+E: Is going to school a right or a duty for children? || बच्चों के लिए स्कूल जाना अधिकार है या कर्तव्य?
+S: The law gives free education to children aged 6–14. || क़ानून 6–14 साल के बच्चों को मुफ़्त शिक्षा देता है।
+A: A right (Right to Education) || अधिकार (शिक्षा का अधिकार)
+P: When is Republic Day? || गणतंत्र दिवस कब है?
+R: 26 January || 26 जनवरी
+P: Name one duty of a citizen. || नागरिक का एक कर्तव्य।
+R: Respect the flag, protect public property, keep surroundings clean || झंडे का सम्मान, सार्वजनिक संपत्ति की रक्षा, सफ़ाई
+P: Name one right of every child. || हर बच्चे का एक अधिकार।
+R: Right to education || शिक्षा का अधिकार
