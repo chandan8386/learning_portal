@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Characters: who is in the story.",
+      "hi": "पात्र: कहानी में कौन है।"
+    },
+    {
+      "en": "Setting: where and when it happens.",
+      "hi": "जगह-समय: कहानी कहाँ और कब होती है।"
+    },
+    {
+      "en": "Moral: the lesson we learn.",
+      "hi": "सीख: हमें क्या सीखने को मिलता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How did the clever rabbit save the animals from the lion?",
+        "hi": "चालाक खरगोश ने जानवरों को शेर से कैसे बचाया?"
+      },
+      "steps": [
+        {
+          "en": "The rabbit told the lion another lion lived in the well.",
+          "hi": "खरगोश ने शेर से कहा कि कुएँ में दूसरा शेर रहता है।"
+        },
+        {
+          "en": "The lion saw his reflection, got angry and jumped in.",
+          "hi": "शेर ने अपनी परछाई देखी, ग़ुस्से में कूद गया।"
+        }
+      ],
+      "answer": {
+        "en": "By tricking the lion into jumping into the well",
+        "hi": "शेर को चालाकी से कुएँ में कुदवाकर"
+      }
+    },
+    {
+      "problem": {
+        "en": "What is the moral of \"The Kind Elephant\", where an elephant helps animals cross a river?",
+        "hi": "\"दयालु हाथी\" की सीख क्या है, जहाँ हाथी जानवरों को नदी पार करवाता है?"
+      },
+      "steps": [
+        {
+          "en": "The strong elephant used its strength to help others.",
+          "hi": "ताक़तवर हाथी ने अपनी ताक़त से दूसरों की मदद की।"
+        }
+      ],
+      "answer": {
+        "en": "Use your strength to help others",
+        "hi": "अपनी ताक़त से दूसरों की मदद करो"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the setting of a story?",
+        "hi": "कहानी की सेटिंग क्या होती है?"
+      },
+      "answer": {
+        "en": "Where and when the story happens",
+        "hi": "कहानी कहाँ और कब होती है"
+      }
+    },
+    {
+      "question": {
+        "en": "In \"The Clever Rabbit\", what did the lion see in the well?",
+        "hi": "\"चालाक खरगोश\" में शेर ने कुएँ में क्या देखा?"
+      },
+      "answer": {
+        "en": "His own reflection",
+        "hi": "अपनी परछाई"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the moral of \"The Clever Rabbit\"?",
+        "hi": "\"चालाक खरगोश\" की सीख क्या है?"
+      },
+      "answer": {
+        "en": "Brains are stronger than size",
+        "hi": "बुद्धि ताक़त से बड़ी है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Every story has characters, a setting (where and when) and a problem that gets solved. In \"The Clever Rabbit\", a small rabbit tricks a big lion by showing him his own reflection in a well.",
+    "hi": "हर कहानी में पात्र, जगह-समय और एक समस्या होती है जो हल होती है। \"चालाक खरगोश\" में छोटा खरगोश बड़े शेर को कुएँ में उसकी अपनी परछाई दिखाकर हरा देता है।"
+  }
+}

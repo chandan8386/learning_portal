@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Read poems aloud with actions.",
+      "hi": "कविता हाव-भाव के साथ ज़ोर से पढ़ो।"
+    },
+    {
+      "en": "In a story ask: who, where, what happened?",
+      "hi": "कहानी में पूछो: कौन, कहाँ, क्या हुआ?"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"The Little Seed\", what does a seed need to grow?",
+        "hi": "\"The Little Seed\" में बीज को उगने के लिए क्या चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "The seed is put in soil.",
+          "hi": "बीज को मिट्टी में डाला गया।"
+        },
+        {
+          "en": "It gets water and sunlight and slowly grows.",
+          "hi": "उसे पानी और धूप मिलती है और धीरे-धीरे उगता है।"
+        }
+      ],
+      "answer": {
+        "en": "Soil, water and sunlight",
+        "hi": "मिट्टी, पानी और धूप"
+      }
+    },
+    {
+      "problem": {
+        "en": "How many colours are in a rainbow?",
+        "hi": "इंद्रधनुष में कितने रंग होते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Violet, indigo, blue, green, yellow, orange, red.",
+          "hi": "बैंगनी, जामुनी, नीला, हरा, पीला, नारंगी, लाल।"
+        }
+      ],
+      "answer": {
+        "en": "7",
+        "hi": "7"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which word rhymes with \"tree\": bee or cat?",
+        "hi": "\"tree\" की तुक किससे: bee या cat?"
+      },
+      "answer": {
+        "en": "bee",
+        "hi": "bee"
+      }
+    },
+    {
+      "question": {
+        "en": "In a story, who are the characters?",
+        "hi": "कहानी में पात्र कौन होते हैं?"
+      },
+      "answer": {
+        "en": "The people or animals in the story",
+        "hi": "कहानी के लोग या जानवर"
+      }
+    },
+    {
+      "question": {
+        "en": "When do we see a rainbow?",
+        "hi": "इंद्रधनुष कब दिखता है?"
+      },
+      "answer": {
+        "en": "When the sun shines during or after rain",
+        "hi": "बारिश के समय या बाद में जब धूप निकलती है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Poems have rhythm and rhyming words. Stories have characters (who), a place (where) and events (what happens).",
+    "hi": "कविताओं में लय और तुक वाले शब्द होते हैं। कहानियों में पात्र (कौन), जगह (कहाँ) और घटनाएँ (क्या हुआ) होती हैं।"
+  }
+}

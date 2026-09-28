@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Land: bus, train, car; water: boat, ship; air: aeroplane",
+      "hi": "थल: बस, ट्रेन, कार; जल: नाव, जहाज़; वायु: हवाई जहाज़"
+    },
+    {
+      "en": "Personal communication: phone, letter, email",
+      "hi": "व्यक्तिगत संचार: फ़ोन, चिट्ठी, ईमेल"
+    },
+    {
+      "en": "Mass communication (to many people): TV, radio, newspaper",
+      "hi": "जनसंचार (बहुत लोगों तक): टीवी, रेडियो, अख़बार"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the fastest way to go from Delhi to Chennai?",
+        "hi": "दिल्ली से चेन्नई जाने का सबसे तेज़ तरीक़ा क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Air travel is the fastest for long distances.",
+          "hi": "लंबी दूरी के लिए हवाई यात्रा सबसे तेज़ है।"
+        }
+      ],
+      "answer": {
+        "en": "Aeroplane ✈️",
+        "hi": "हवाई जहाज़ ✈️"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which is used to send a message to one person: a newspaper or a phone?",
+        "hi": "एक व्यक्ति को संदेश भेजने के लिए क्या: अख़बार या फ़ोन?"
+      },
+      "steps": [
+        {
+          "en": "A newspaper is for many people; a phone call is for one person.",
+          "hi": "अख़बार बहुत लोगों के लिए है; फ़ोन कॉल एक व्यक्ति के लिए।"
+        }
+      ],
+      "answer": {
+        "en": "Phone",
+        "hi": "फ़ोन"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name one water transport.",
+        "hi": "एक जल यातायात बताओ।"
+      },
+      "answer": {
+        "en": "Boat or ship",
+        "hi": "नाव या जहाज़"
+      }
+    },
+    {
+      "question": {
+        "en": "Is the radio personal or mass communication?",
+        "hi": "रेडियो व्यक्तिगत संचार है या जनसंचार?"
+      },
+      "answer": {
+        "en": "Mass communication",
+        "hi": "जनसंचार"
+      }
+    },
+    {
+      "question": {
+        "en": "Who delivers letters to our home?",
+        "hi": "चिट्ठियाँ घर कौन पहुँचाता है?"
+      },
+      "answer": {
+        "en": "Postman",
+        "hi": "डाकिया"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We travel by land, water and air. We communicate (share messages) by talking, letters, phone, TV, radio and the internet.",
+    "hi": "हम ज़मीन, पानी और हवा से यात्रा करते हैं। संदेश भेजने (संचार) के लिए बात करते हैं, चिट्ठी, फ़ोन, टीवी, रेडियो और इंटरनेट का उपयोग करते हैं।"
+  }
+}

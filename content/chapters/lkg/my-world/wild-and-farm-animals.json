@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Farm animals: cow, buffalo, goat, hen, horse",
+      "hi": "पालतू: गाय, भैंस, बकरी, मुर्गी, घोड़ा"
+    },
+    {
+      "en": "Wild animals: lion, tiger, elephant, bear, monkey",
+      "hi": "जंगली: शेर, बाघ, हाथी, भालू, बंदर"
+    },
+    {
+      "en": "The tiger is our national animal.",
+      "hi": "बाघ हमारा राष्ट्रीय पशु है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is a lion a farm animal or a wild animal?",
+        "hi": "शेर पालतू जानवर है या जंगली?"
+      },
+      "steps": [
+        {
+          "en": "A lion lives in the forest, not with people.",
+          "hi": "शेर जंगल में रहता है, लोगों के साथ नहीं।"
+        }
+      ],
+      "answer": {
+        "en": "Wild animal",
+        "hi": "जंगली जानवर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which farm animal gives us eggs?",
+        "hi": "कौन-सा पालतू जानवर अंडे देता है?"
+      },
+      "steps": [
+        {
+          "en": "It says \"cluck cluck\" and lives in a coop.",
+          "hi": "यह \"कुड़-कुड़\" करती है और दड़बे में रहती है।"
+        }
+      ],
+      "answer": {
+        "en": "Hen 🐔",
+        "hi": "मुर्गी 🐔"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which animal roars?",
+        "hi": "कौन-सा जानवर दहाड़ता है?"
+      },
+      "answer": {
+        "en": "Lion",
+        "hi": "शेर"
+      }
+    },
+    {
+      "question": {
+        "en": "Is a goat wild or a farm animal?",
+        "hi": "बकरी जंगली है या पालतू?"
+      },
+      "answer": {
+        "en": "Farm animal",
+        "hi": "पालतू"
+      }
+    },
+    {
+      "question": {
+        "en": "What is our national animal?",
+        "hi": "हमारा राष्ट्रीय पशु कौन-सा है?"
+      },
+      "answer": {
+        "en": "Tiger 🐅",
+        "hi": "बाघ 🐅"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Farm animals live with people and help them: cow, goat, hen, horse. Wild animals live in forests: lion, tiger, elephant, bear.",
+    "hi": "पालतू जानवर लोगों के साथ रहते हैं और मदद करते हैं: गाय, बकरी, मुर्गी, घोड़ा। जंगली जानवर जंगल में रहते हैं: शेर, बाघ, हाथी, भालू।"
+  }
+}

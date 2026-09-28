@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Read a poem aloud with expression.",
+      "hi": "कविता भाव के साथ ज़ोर से पढ़ो।"
+    },
+    {
+      "en": "Rhyming words: sun–fun, high–sky, day–play.",
+      "hi": "तुक वाले शब्द: sun–fun, high–sky, day–play।"
+    },
+    {
+      "en": "A line in a poem may not be a full sentence.",
+      "hi": "कविता की पंक्ति पूरा वाक्य हो यह ज़रूरी नहीं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In a poem about a kite: \"My kite flies high, up in the ___.\" Which word fits and rhymes?",
+        "hi": "पतंग वाली कविता: \"My kite flies high, up in the ___.\" कौन-सा तुक वाला शब्द आएगा?"
+      },
+      "steps": [
+        {
+          "en": "Find a word that rhymes with \"high\" and is where kites fly.",
+          "hi": "\"high\" से तुक वाला शब्द ढूँढो जहाँ पतंग उड़ती है।"
+        }
+      ],
+      "answer": {
+        "en": "sky",
+        "hi": "sky"
+      }
+    },
+    {
+      "problem": {
+        "en": "\"The sun is bright, it gives us ___.\" Fill in a rhyming word.",
+        "hi": "\"The sun is bright, it gives us ___.\" तुक वाला शब्द भरो।"
+      },
+      "steps": [
+        {
+          "en": "What does the sun give? It must rhyme with \"bright\".",
+          "hi": "सूरज क्या देता है? \"bright\" से तुक मिलनी चाहिए।"
+        }
+      ],
+      "answer": {
+        "en": "light",
+        "hi": "light"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which word rhymes with \"play\": day or dog?",
+        "hi": "\"play\" की तुक किससे: day या dog?"
+      },
+      "answer": {
+        "en": "day",
+        "hi": "day"
+      }
+    },
+    {
+      "question": {
+        "en": "Which word rhymes with \"cat\": hat or cup?",
+        "hi": "\"cat\" की तुक किससे: hat या cup?"
+      },
+      "answer": {
+        "en": "hat",
+        "hi": "hat"
+      }
+    },
+    {
+      "question": {
+        "en": "How should we read a poem?",
+        "hi": "कविता कैसे पढ़नी चाहिए?"
+      },
+      "answer": {
+        "en": "Aloud, with rhythm and expression",
+        "hi": "ज़ोर से, लय और भाव के साथ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Poems use rhythm and rhyming words to paint pictures. When we read a poem we find the rhyming words and think about what the poet feels.",
+    "hi": "कविताएँ लय और तुक वाले शब्दों से चित्र बनाती हैं। कविता पढ़ते समय तुक वाले शब्द ढूँढो और सोचो कवि क्या महसूस करता है।"
+  }
+}

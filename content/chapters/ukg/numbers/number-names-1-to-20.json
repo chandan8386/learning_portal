@@ -1,0 +1,81 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 one, 2 two, 3 three, 4 four, 5 five",
+      "hi": "1 one, 2 two, 3 three, 4 four, 5 five"
+    },
+    {
+      "en": "6 six, 7 seven, 8 eight, 9 nine, 10 ten",
+      "hi": "6 six, 7 seven, 8 eight, 9 nine, 10 ten"
+    },
+    {
+      "en": "11 eleven, 12 twelve, 13 thirteen … 19 nineteen, 20 twenty",
+      "hi": "11 eleven, 12 twelve, 13 thirteen … 19 nineteen, 20 twenty"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write 7 in words.",
+        "hi": "7 को शब्दों में लिखो।"
+      },
+      "steps": [
+        {
+          "en": "7 is seven: s-e-v-e-n.",
+          "hi": "7 = seven: s-e-v-e-n।"
+        }
+      ],
+      "answer": {
+        "en": "seven",
+        "hi": "seven"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which number is \"fifteen\"?",
+        "hi": "\"fifteen\" कौन-सी संख्या है?"
+      },
+      "steps": [
+        {
+          "en": "fif-teen: teen numbers are 13 to 19. fifteen = 15.",
+          "hi": "fif-teen: teen संख्याएँ 13 से 19 हैं। fifteen = 15।"
+        }
+      ],
+      "answer": "15"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Write 3 in words.",
+        "hi": "3 को शब्दों में लिखो।"
+      },
+      "answer": {
+        "en": "three",
+        "hi": "three"
+      }
+    },
+    {
+      "question": {
+        "en": "Which number is \"twelve\"?",
+        "hi": "\"twelve\" कौन-सी संख्या है?"
+      },
+      "answer": "12"
+    },
+    {
+      "question": {
+        "en": "Write 20 in words.",
+        "hi": "20 को शब्दों में लिखो।"
+      },
+      "answer": {
+        "en": "twenty",
+        "hi": "twenty"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Every number has a name we can write in words: 1 one, 2 two, 3 three … 20 twenty.",
+    "hi": "हर संख्या का नाम होता है जो शब्दों में लिखते हैं: 1 one, 2 two, 3 three … 20 twenty।"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "A B C D E F G H I J K L M",
+      "hi": "A B C D E F G H I J K L M"
+    },
+    {
+      "en": "Each letter has a name and a sound. B says \"buh\".",
+      "hi": "हर अक्षर का नाम और ध्वनि होती है। B की ध्वनि \"ब\"।"
+    },
+    {
+      "en": "A-Apple, D-Dog, E-Egg, F-Fish, G-Goat, H-Hat, I-Ink, J-Jug, K-Kite, L-Lion, M-Mango",
+      "hi": "A-Apple, D-Dog, E-Egg, F-Fish, G-Goat, H-Hat, I-Ink, J-Jug, K-Kite, L-Lion, M-Mango"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which letter does Dog 🐶 start with?",
+        "hi": "Dog 🐶 किस अक्षर से शुरू होता है?"
+      },
+      "steps": [
+        {
+          "en": "Say the word slowly: D-o-g.",
+          "hi": "शब्द धीरे बोलो: D-o-g।"
+        },
+        {
+          "en": "The first sound is \"duh\".",
+          "hi": "पहली ध्वनि \"द\" है।"
+        }
+      ],
+      "answer": {
+        "en": "D",
+        "hi": "D"
+      }
+    },
+    {
+      "problem": {
+        "en": "What comes after G?",
+        "hi": "G के बाद क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "Sing: E, F, G, H …",
+          "hi": "गाओ: E, F, G, H …"
+        }
+      ],
+      "answer": {
+        "en": "H",
+        "hi": "H"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which letter does Kite 🪁 start with?",
+        "hi": "Kite 🪁 किस अक्षर से शुरू होता है?"
+      },
+      "answer": {
+        "en": "K",
+        "hi": "K"
+      }
+    },
+    {
+      "question": {
+        "en": "What comes after A?",
+        "hi": "A के बाद क्या आता है?"
+      },
+      "answer": {
+        "en": "B",
+        "hi": "B"
+      }
+    },
+    {
+      "question": {
+        "en": "L is for …?",
+        "hi": "L से …?"
+      },
+      "answer": {
+        "en": "Lion 🦁",
+        "hi": "Lion 🦁"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Letters make words. A is for Apple 🍎, B is for Ball ⚽, C is for Cat 🐱. Let us learn A to M.",
+    "hi": "अक्षरों से शब्द बनते हैं। A से Apple 🍎, B से Ball ⚽, C से Cat 🐱। आओ A से M तक सीखें।"
+  }
+}

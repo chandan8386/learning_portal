@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Rhyming words: cat–hat, sun–fun, bee–tree.",
+      "hi": "तुक वाले शब्द: cat–hat, sun–fun, bee–tree।"
+    },
+    {
+      "en": "Listen carefully to answer questions about a story.",
+      "hi": "कहानी पर सवालों के जवाब के लिए ध्यान से सुनो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"Baa Baa Black Sheep\", what does the sheep give?",
+        "hi": "\"Baa Baa Black Sheep\" में भेड़ क्या देती है?"
+      },
+      "steps": [
+        {
+          "en": "\"Yes sir, yes sir, three bags full.\"",
+          "hi": "\"Yes sir, yes sir, three bags full.\""
+        }
+      ],
+      "answer": {
+        "en": "Wool, three bags full",
+        "hi": "ऊन, तीन थैले भर"
+      }
+    },
+    {
+      "problem": {
+        "en": "In \"The Hare and the Tortoise\", who won the race?",
+        "hi": "\"खरगोश और कछुआ\" में दौड़ कौन जीता?"
+      },
+      "steps": [
+        {
+          "en": "The hare slept on the way.",
+          "hi": "खरगोश रास्ते में सो गया।"
+        },
+        {
+          "en": "The tortoise kept walking slowly and never stopped.",
+          "hi": "कछुआ धीरे-धीरे चलता रहा और कभी नहीं रुका।"
+        }
+      ],
+      "answer": {
+        "en": "The tortoise 🐢",
+        "hi": "कछुआ 🐢"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which word rhymes with \"cat\": hat or pen?",
+        "hi": "\"cat\" की तुक किससे मिलती है: hat या pen?"
+      },
+      "answer": {
+        "en": "hat",
+        "hi": "hat"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the lesson of \"The Hare and the Tortoise\"?",
+        "hi": "\"खरगोश और कछुआ\" की सीख क्या है?"
+      },
+      "answer": {
+        "en": "Slow and steady wins the race",
+        "hi": "धीरे-धीरे पर लगातार चलने वाला जीतता है"
+      }
+    },
+    {
+      "question": {
+        "en": "What colour is the sheep in the rhyme?",
+        "hi": "कविता में भेड़ किस रंग की है?"
+      },
+      "answer": {
+        "en": "Black",
+        "hi": "काली"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Rhymes have words that sound the same at the end: \"Baa baa black sheep, have you any wool?\" Stories tell us about people and animals and teach us lessons.",
+    "hi": "कविताओं में ऐसे शब्द होते हैं जिनका अंत एक जैसा सुनाई देता है: \"Baa baa black sheep, have you any wool?\" कहानियाँ लोगों और जानवरों के बारे में बताती हैं और सीख देती हैं।"
+  }
+}

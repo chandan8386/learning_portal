@@ -1,0 +1,73 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "+ means add.",
+      "hi": "+ मतलब जोड़ो।"
+    },
+    {
+      "en": "= means the answer is.",
+      "hi": "= मतलब उत्तर है।"
+    },
+    {
+      "en": "Count all the pictures together.",
+      "hi": "सारे चित्र एक साथ गिनो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "🐤🐤 + 🐤🐤 = ?",
+        "hi": "🐤🐤 + 🐤🐤 = ?"
+      },
+      "steps": [
+        {
+          "en": "Count the first group: 2. Second group: 2.",
+          "hi": "पहला समूह: 2। दूसरा समूह: 2।"
+        },
+        {
+          "en": "Count all: 1, 2, 3, 4.",
+          "hi": "सब गिनो: 1, 2, 3, 4।"
+        }
+      ],
+      "answer": "2 + 2 = 4"
+    },
+    {
+      "problem": {
+        "en": "4 balloons and 1 more balloon. How many balloons?",
+        "hi": "4 गुब्बारे और 1 गुब्बारा और। कितने गुब्बारे?"
+      },
+      "steps": [
+        {
+          "en": "Start at 4 and count 1 more: 5.",
+          "hi": "4 से शुरू करके 1 आगे गिनो: 5।"
+        }
+      ],
+      "answer": {
+        "en": "5 balloons 🎈",
+        "hi": "5 गुब्बारे 🎈"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "⭐⭐⭐ + ⭐ = ?",
+        "hi": "⭐⭐⭐ + ⭐ = ?"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "3 + 3 = ?",
+      "answer": "6"
+    },
+    {
+      "question": "5 + 2 = ?",
+      "answer": "7"
+    }
+  ],
+  "intro": {
+    "en": "Adding means putting together. 🍎🍎 and 🍎🍎🍎 together make 🍎🍎🍎🍎🍎. So 2 + 3 = 5.",
+    "hi": "जोड़ना मतलब मिलाना। 🍎🍎 और 🍎🍎🍎 मिलकर 🍎🍎🍎🍎🍎। तो 2 + 3 = 5।"
+  }
+}

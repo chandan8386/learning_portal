@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Summer: cotton clothes, cold water, ice cream",
+      "hi": "गर्मी: सूती कपड़े, ठंडा पानी, आइसक्रीम"
+    },
+    {
+      "en": "Rainy season: umbrella and raincoat",
+      "hi": "बरसात: छाता और रेनकोट"
+    },
+    {
+      "en": "Winter: sweaters, woollen caps",
+      "hi": "सर्दी: स्वेटर, ऊनी टोपी"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What do we wear in winter?",
+        "hi": "सर्दी में क्या पहनते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Winter is cold, so we need warm clothes.",
+          "hi": "सर्दी ठंडी होती है, इसलिए गर्म कपड़े चाहिए।"
+        }
+      ],
+      "answer": {
+        "en": "Sweater and woollen clothes",
+        "hi": "स्वेटर और ऊनी कपड़े"
+      }
+    },
+    {
+      "problem": {
+        "en": "What do we carry in the rainy season?",
+        "hi": "बरसात में क्या लेकर चलते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It rains a lot. We must stay dry.",
+          "hi": "बहुत बारिश होती है। हमें सूखा रहना है।"
+        }
+      ],
+      "answer": {
+        "en": "Umbrella ☂️ or raincoat",
+        "hi": "छाता ☂️ या रेनकोट"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "In which season do we eat ice cream and mangoes?",
+        "hi": "किस ऋतु में आइसक्रीम और आम खाते हैं?"
+      },
+      "answer": {
+        "en": "Summer",
+        "hi": "गर्मी"
+      }
+    },
+    {
+      "question": {
+        "en": "Which season is cold?",
+        "hi": "कौन-सी ऋतु ठंडी होती है?"
+      },
+      "answer": {
+        "en": "Winter",
+        "hi": "सर्दी"
+      }
+    },
+    {
+      "question": {
+        "en": "What do we wear in summer: cotton or wool?",
+        "hi": "गर्मी में क्या पहनते हैं: सूती या ऊनी?"
+      },
+      "answer": {
+        "en": "Cotton",
+        "hi": "सूती"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India has different seasons. Summer is hot ☀️, the rainy season is wet 🌧️ and winter is cold ❄️. We wear clothes to suit the season.",
+    "hi": "भारत में अलग-अलग ऋतुएँ होती हैं। गर्मी में गर्मी ☀️, बरसात में बारिश 🌧️ और सर्दी में ठंड ❄️। हम ऋतु के हिसाब से कपड़े पहनते हैं।"
+  }
+}

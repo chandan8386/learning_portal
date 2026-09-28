@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Fruits: Apple, Banana, Mango, Grapes",
+      "hi": "फल: Apple, Banana, Mango, Grapes"
+    },
+    {
+      "en": "Animals: Cat, Dog, Cow, Lion",
+      "hi": "जानवर: Cat, Dog, Cow, Lion"
+    },
+    {
+      "en": "Things at home: Bed, Chair, Cup, Fan",
+      "hi": "घर की चीज़ें: Bed, Chair, Cup, Fan"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is this: 🥭?",
+        "hi": "यह क्या है: 🥭?"
+      },
+      "steps": [
+        {
+          "en": "It is a yellow fruit we love in summer.",
+          "hi": "यह पीला फल है जो गर्मी में खाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Mango",
+        "hi": "Mango (आम)"
+      }
+    },
+    {
+      "problem": {
+        "en": "🐱 Cat starts with which letter?",
+        "hi": "🐱 Cat किस अक्षर से शुरू होता है?"
+      },
+      "steps": [
+        {
+          "en": "C-a-t: the first letter is C.",
+          "hi": "C-a-t: पहला अक्षर C है।"
+        }
+      ],
+      "answer": {
+        "en": "C",
+        "hi": "C"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is this: 🐄?",
+        "hi": "यह क्या है: 🐄?"
+      },
+      "answer": {
+        "en": "Cow",
+        "hi": "Cow (गाय)"
+      }
+    },
+    {
+      "question": {
+        "en": "What is this: ☕?",
+        "hi": "यह क्या है: ☕?"
+      },
+      "answer": {
+        "en": "Cup",
+        "hi": "Cup (कप)"
+      }
+    },
+    {
+      "question": {
+        "en": "Ball starts with which letter?",
+        "hi": "Ball किस अक्षर से शुरू होता है?"
+      },
+      "answer": {
+        "en": "B",
+        "hi": "B"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Every picture has a name. 🐄 is a Cow. 🍌 is a Banana. 🪑 is a Chair. We can say the name and its first letter.",
+    "hi": "हर चित्र का एक नाम होता है। 🐄 Cow है। 🍌 Banana है। 🪑 Chair है। हम नाम और उसका पहला अक्षर बोल सकते हैं।"
+  }
+}

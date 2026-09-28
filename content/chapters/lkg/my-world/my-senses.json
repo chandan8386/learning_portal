@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Eyes – see, Ears – hear",
+      "hi": "आँख – देखना, कान – सुनना"
+    },
+    {
+      "en": "Nose – smell, Tongue – taste, Skin – touch",
+      "hi": "नाक – सूँघना, जीभ – चखना, त्वचा – छूना"
+    },
+    {
+      "en": "Take care of your sense organs.",
+      "hi": "अपनी इंद्रियों का ध्यान रखो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you know a lemon is sour?",
+        "hi": "कैसे पता चलता है कि नींबू खट्टा है?"
+      },
+      "steps": [
+        {
+          "en": "We taste food with our tongue.",
+          "hi": "खाने का स्वाद जीभ से पता चलता है।"
+        }
+      ],
+      "answer": {
+        "en": "With my tongue (taste)",
+        "hi": "जीभ से (चखकर)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which sense tells you ice is cold?",
+        "hi": "किस इंद्रिय से पता चलता है कि बर्फ़ ठंडी है?"
+      },
+      "steps": [
+        {
+          "en": "We feel hot and cold on our skin.",
+          "hi": "गर्म-ठंडा त्वचा पर महसूस होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Touch (skin)",
+        "hi": "स्पर्श (त्वचा)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which organ helps us hear a bell?",
+        "hi": "घंटी सुनने में कौन-सा अंग मदद करता है?"
+      },
+      "answer": {
+        "en": "Ears",
+        "hi": "कान"
+      }
+    },
+    {
+      "question": {
+        "en": "How many senses do we have?",
+        "hi": "हमारी कितनी इंद्रियाँ हैं?"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "Which organ smells food?",
+        "hi": "खाने की ख़ुशबू कौन-सा अंग सूँघता है?"
+      },
+      "answer": {
+        "en": "Nose",
+        "hi": "नाक"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We have five senses. We see with eyes, hear with ears, smell with nose, taste with tongue and touch with skin.",
+    "hi": "हमारी पाँच इंद्रियाँ हैं। आँख से देखते हैं, कान से सुनते हैं, नाक से सूँघते हैं, जीभ से चखते हैं और त्वचा से छूते हैं।"
+  }
+}

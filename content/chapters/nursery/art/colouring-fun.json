@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Hold the crayon with three fingers.",
+      "hi": "क्रेयॉन को तीन उंगलियों से पकड़ो।"
+    },
+    {
+      "en": "Colour in one direction.",
+      "hi": "एक ही दिशा में रंग भरो।"
+    },
+    {
+      "en": "Stay inside the lines.",
+      "hi": "रेखाओं के अंदर रहो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which colour will you use for a leaf?",
+        "hi": "पत्ते में कौन-सा रंग भरोगे?"
+      },
+      "steps": [
+        {
+          "en": "Leaves on trees look green.",
+          "hi": "पेड़ के पत्ते हरे दिखते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Green",
+        "hi": "हरा"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which colour for the sun?",
+        "hi": "सूरज में कौन-सा रंग?"
+      },
+      "steps": [
+        {
+          "en": "The sun looks bright yellow or orange.",
+          "hi": "सूरज चमकीला पीला या नारंगी दिखता है।"
+        }
+      ],
+      "answer": {
+        "en": "Yellow",
+        "hi": "पीला"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which colour for an orange 🍊?",
+        "hi": "संतरे 🍊 में कौन-सा रंग?"
+      },
+      "answer": {
+        "en": "Orange",
+        "hi": "नारंगी"
+      }
+    },
+    {
+      "question": {
+        "en": "Which colour for the sky?",
+        "hi": "आसमान में कौन-सा रंग?"
+      },
+      "answer": {
+        "en": "Blue",
+        "hi": "नीला"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we colour outside the lines?",
+        "hi": "क्या रेखाओं के बाहर रंग भरना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Colouring is fun! We choose the right colours and fill the picture neatly, staying inside the lines.",
+    "hi": "रंग भरना मज़ेदार है! सही रंग चुनो और चित्र को साफ़-साफ़, रेखाओं के अंदर भरो।"
+  }
+}

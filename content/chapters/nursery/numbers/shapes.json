@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Circle: round, no corners.",
+      "hi": "गोला: गोल, कोई कोना नहीं।"
+    },
+    {
+      "en": "Square: 4 equal sides.",
+      "hi": "वर्ग: 4 बराबर भुजाएँ।"
+    },
+    {
+      "en": "Triangle: 3 sides, 3 corners.",
+      "hi": "त्रिभुज: 3 भुजाएँ, 3 कोने।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What shape is a coin 🪙?",
+        "hi": "सिक्का 🪙 किस आकार का है?"
+      },
+      "steps": [
+        {
+          "en": "It is round and has no corners.",
+          "hi": "यह गोल है और कोई कोना नहीं।"
+        }
+      ],
+      "answer": {
+        "en": "Circle",
+        "hi": "गोला"
+      }
+    },
+    {
+      "problem": {
+        "en": "How many corners does a triangle have?",
+        "hi": "त्रिभुज के कितने कोने होते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Touch each pointy corner: 1, 2, 3.",
+          "hi": "हर नुकीला कोना छुओ: 1, 2, 3।"
+        }
+      ],
+      "answer": "3"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What shape is a ball ⚽ from the side?",
+        "hi": "गेंद ⚽ किस आकार की दिखती है?"
+      },
+      "answer": {
+        "en": "Circle",
+        "hi": "गोला"
+      }
+    },
+    {
+      "question": {
+        "en": "What shape has 4 equal sides?",
+        "hi": "किस आकार की 4 बराबर भुजाएँ हैं?"
+      },
+      "answer": {
+        "en": "Square",
+        "hi": "वर्ग"
+      }
+    },
+    {
+      "question": {
+        "en": "What shape is a pizza slice 🍕?",
+        "hi": "पिज़्ज़ा का टुकड़ा 🍕 किस आकार का है?"
+      },
+      "answer": {
+        "en": "Triangle",
+        "hi": "त्रिभुज"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Shapes are everywhere. A roti is a circle ⚪. A window is a square ⬜. A slice of watermelon looks like a triangle 🔺.",
+    "hi": "आकृतियाँ हर जगह हैं। रोटी गोल ⚪ होती है। खिड़की वर्ग ⬜ होती है। तरबूज़ का टुकड़ा त्रिभुज 🔺 जैसा दिखता है।"
+  }
+}

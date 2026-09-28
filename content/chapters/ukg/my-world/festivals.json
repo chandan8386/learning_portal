@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Diwali – lamps; Holi – colours",
+      "hi": "दिवाली – दीये; होली – रंग"
+    },
+    {
+      "en": "Eid – sewaiyan; Christmas – Christmas tree",
+      "hi": "ईद – सेवइयाँ; क्रिसमस – क्रिसमस ट्री"
+    },
+    {
+      "en": "Independence Day – 15 August; Republic Day – 26 January",
+      "hi": "स्वतंत्रता दिवस – 15 अगस्त; गणतंत्र दिवस – 26 जनवरी"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which festival do we celebrate with lamps and rangoli?",
+        "hi": "दीये और रंगोली से कौन-सा त्योहार मनाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It is called the festival of lights.",
+          "hi": "इसे रोशनी का त्योहार कहते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Diwali 🪔",
+        "hi": "दिवाली 🪔"
+      }
+    },
+    {
+      "problem": {
+        "en": "When is Independence Day?",
+        "hi": "स्वतंत्रता दिवस कब है?"
+      },
+      "steps": [
+        {
+          "en": "We hoist the flag on this day in August.",
+          "hi": "अगस्त में इस दिन झंडा फहराते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "15 August",
+        "hi": "15 अगस्त"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which festival is played with colours?",
+        "hi": "कौन-सा त्योहार रंगों से खेला जाता है?"
+      },
+      "answer": {
+        "en": "Holi",
+        "hi": "होली"
+      }
+    },
+    {
+      "question": {
+        "en": "When is Republic Day?",
+        "hi": "गणतंत्र दिवस कब है?"
+      },
+      "answer": {
+        "en": "26 January",
+        "hi": "26 जनवरी"
+      }
+    },
+    {
+      "question": {
+        "en": "Which festival has a decorated tree and Santa Claus?",
+        "hi": "किस त्योहार में सजा पेड़ और सांता क्लॉज़ होते हैं?"
+      },
+      "answer": {
+        "en": "Christmas 🎄",
+        "hi": "क्रिसमस 🎄"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India celebrates many festivals. Diwali is the festival of lights 🪔, Holi is the festival of colours, Eid and Christmas bring sweets and gifts. We also celebrate Independence Day and Republic Day.",
+    "hi": "भारत में बहुत त्योहार मनाए जाते हैं। दिवाली रोशनी का त्योहार 🪔, होली रंगों का त्योहार, ईद और क्रिसमस पर मिठाइयाँ और उपहार। हम स्वतंत्रता दिवस और गणतंत्र दिवस भी मनाते हैं।"
+  }
+}

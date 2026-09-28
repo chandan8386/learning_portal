@@ -1,0 +1,83 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Honesty is the best policy.",
+      "hi": "ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "en": "Don't make excuses when you can't do something.",
+      "hi": "कुछ न कर पाओ तो बहाने मत बनाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why did the fox say the grapes were sour?",
+        "hi": "लोमड़ी ने अंगूरों को खट्टा क्यों कहा?"
+      },
+      "steps": [
+        {
+          "en": "The fox jumped many times but could not reach them.",
+          "hi": "लोमड़ी ने कई बार कूदकर देखा पर पहुँच नहीं पाई।"
+        }
+      ],
+      "answer": {
+        "en": "Because it could not reach them",
+        "hi": "क्योंकि वह उन तक पहुँच नहीं पाई"
+      }
+    },
+    {
+      "problem": {
+        "en": "What did the honest woodcutter get?",
+        "hi": "ईमानदार लकड़हारे को क्या मिला?"
+      },
+      "steps": [
+        {
+          "en": "He said the gold and silver axes were not his.",
+          "hi": "उसने कहा कि सोने-चाँदी की कुल्हाड़ी उसकी नहीं है।"
+        }
+      ],
+      "answer": {
+        "en": "All three axes (gold, silver and his own) as a reward",
+        "hi": "इनाम में तीनों कुल्हाड़ियाँ (सोने, चाँदी और अपनी)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the lesson of \"The Honest Woodcutter\"?",
+        "hi": "\"ईमानदार लकड़हारा\" की सीख क्या है?"
+      },
+      "answer": {
+        "en": "Always be honest",
+        "hi": "हमेशा ईमानदार रहो"
+      }
+    },
+    {
+      "question": {
+        "en": "What did the woodcutter drop into the river?",
+        "hi": "लकड़हारे ने नदी में क्या गिराया?"
+      },
+      "answer": {
+        "en": "His axe",
+        "hi": "अपनी कुल्हाड़ी"
+      }
+    },
+    {
+      "question": {
+        "en": "What fruit did the fox want?",
+        "hi": "लोमड़ी को कौन-सा फल चाहिए था?"
+      },
+      "answer": {
+        "en": "Grapes 🍇",
+        "hi": "अंगूर 🍇"
+      }
+    }
+  ],
+  "intro": {
+    "en": "\"The Fox and the Grapes\": a fox could not reach some grapes and said, \"They are sour anyway!\" \"The Honest Woodcutter\" told the truth and was rewarded.",
+    "hi": "\"लोमड़ी और अंगूर\": लोमड़ी अंगूरों तक नहीं पहुँची तो बोली, \"अंगूर खट्टे हैं!\" \"ईमानदार लकड़हारे\" ने सच बोला और इनाम पाया।"
+  }
+}

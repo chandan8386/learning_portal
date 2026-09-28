@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Land transport: cycle, bus, car, train",
+      "hi": "थल: साइकिल, बस, कार, ट्रेन"
+    },
+    {
+      "en": "Water transport: boat, ship",
+      "hi": "जल: नाव, जहाज़"
+    },
+    {
+      "en": "Air transport: aeroplane, helicopter",
+      "hi": "वायु: हवाई जहाज़, हेलीकॉप्टर"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which transport goes on rails?",
+        "hi": "कौन-सा साधन पटरी पर चलता है?"
+      },
+      "steps": [
+        {
+          "en": "It has many coaches and an engine.",
+          "hi": "इसमें कई डिब्बे और एक इंजन होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Train 🚆",
+        "hi": "ट्रेन 🚆"
+      }
+    },
+    {
+      "problem": {
+        "en": "Is a boat land, water or air transport?",
+        "hi": "नाव थल, जल या वायु साधन है?"
+      },
+      "steps": [
+        {
+          "en": "A boat floats and moves on water.",
+          "hi": "नाव पानी पर तैरती और चलती है।"
+        }
+      ],
+      "answer": {
+        "en": "Water transport",
+        "hi": "जल साधन"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which transport flies in the sky?",
+        "hi": "कौन-सा साधन आसमान में उड़ता है?"
+      },
+      "answer": {
+        "en": "Aeroplane ✈️",
+        "hi": "हवाई जहाज़ ✈️"
+      }
+    },
+    {
+      "question": {
+        "en": "Which light means stop at a traffic signal?",
+        "hi": "ट्रैफ़िक लाइट की कौन-सी बत्ती रुकने के लिए है?"
+      },
+      "answer": {
+        "en": "Red",
+        "hi": "लाल"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one land transport.",
+        "hi": "एक थल साधन का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Bus, car, cycle or train",
+        "hi": "बस, कार, साइकिल या ट्रेन"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We travel by different means of transport. On land: bus, car, train. On water: boat, ship. In the air: aeroplane, helicopter.",
+    "hi": "हम अलग-अलग साधनों से यात्रा करते हैं। ज़मीन पर: बस, कार, ट्रेन। पानी पर: नाव, जहाज़। हवा में: हवाई जहाज़, हेलीकॉप्टर।"
+  }
+}

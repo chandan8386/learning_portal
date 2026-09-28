@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Hard work helps us later.",
+      "hi": "मेहनत बाद में काम आती है।"
+    },
+    {
+      "en": "Greed makes us lose what we have.",
+      "hi": "लालच से जो पास है वह भी खो जाता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"The Greedy Dog\", why did the dog lose its bone?",
+        "hi": "\"लालची कुत्ता\" में कुत्ते की हड्डी क्यों गिरी?"
+      },
+      "steps": [
+        {
+          "en": "The dog saw its reflection in the water and thought it was another dog with a bone.",
+          "hi": "कुत्ते ने पानी में अपनी परछाई देखी और सोचा दूसरा कुत्ता हड्डी लिए है।"
+        },
+        {
+          "en": "It barked to grab that bone, and its own bone fell into the water.",
+          "hi": "उस हड्डी को छीनने के लिए भौंका, और उसकी अपनी हड्डी पानी में गिर गई।"
+        }
+      ],
+      "answer": {
+        "en": "Because it was greedy",
+        "hi": "क्योंकि वह लालची था"
+      }
+    },
+    {
+      "problem": {
+        "en": "Who had food in winter: the ant or the grasshopper?",
+        "hi": "सर्दी में किसके पास खाना था: चींटी या टिड्डा?"
+      },
+      "steps": [
+        {
+          "en": "The ant stored food in summer.",
+          "hi": "चींटी ने गर्मी में खाना जमा किया।"
+        }
+      ],
+      "answer": {
+        "en": "The ant 🐜",
+        "hi": "चींटी 🐜"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the lesson of \"The Greedy Dog\"?",
+        "hi": "\"लालची कुत्ता\" की सीख क्या है?"
+      },
+      "answer": {
+        "en": "Do not be greedy",
+        "hi": "लालच मत करो"
+      }
+    },
+    {
+      "question": {
+        "en": "What did the grasshopper do all summer?",
+        "hi": "टिड्डे ने पूरी गर्मी क्या किया?"
+      },
+      "answer": {
+        "en": "Played and sang",
+        "hi": "खेलता और गाता रहा"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the lesson of \"The Ant and the Grasshopper\"?",
+        "hi": "\"चींटी और टिड्डा\" की सीख क्या है?"
+      },
+      "answer": {
+        "en": "Work hard and plan ahead",
+        "hi": "मेहनत करो और पहले से तैयारी करो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Moral stories teach us good values. In \"The Ant and the Grasshopper\", the ant works hard all summer and has food in winter, but the grasshopper only plays.",
+    "hi": "नैतिक कहानियाँ अच्छे गुण सिखाती हैं। \"चींटी और टिड्डा\" में चींटी पूरी गर्मी मेहनत करती है और सर्दी में उसके पास खाना होता है, पर टिड्डा सिर्फ़ खेलता है।"
+  }
+}

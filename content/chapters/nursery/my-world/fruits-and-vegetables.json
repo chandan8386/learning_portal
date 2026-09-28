@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Fruits: apple 🍎, banana 🍌, mango 🥭, grapes 🍇",
+      "hi": "फल: सेब 🍎, केला 🍌, आम 🥭, अंगूर 🍇"
+    },
+    {
+      "en": "Vegetables: potato 🥔, carrot 🥕, onion 🧅, tomato 🍅",
+      "hi": "सब्ज़ियाँ: आलू 🥔, गाजर 🥕, प्याज़ 🧅, टमाटर 🍅"
+    },
+    {
+      "en": "Wash fruits before eating.",
+      "hi": "फल खाने से पहले धोओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is a carrot 🥕 a fruit or a vegetable?",
+        "hi": "गाजर 🥕 फल है या सब्ज़ी?"
+      },
+      "steps": [
+        {
+          "en": "We cook carrots or eat them in salad.",
+          "hi": "गाजर को पकाते हैं या सलाद में खाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Vegetable",
+        "hi": "सब्ज़ी"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which fruit is the king of fruits?",
+        "hi": "फलों का राजा कौन है?"
+      },
+      "steps": [
+        {
+          "en": "It is yellow and sweet and comes in summer.",
+          "hi": "यह पीला और मीठा है और गर्मी में आता है।"
+        }
+      ],
+      "answer": {
+        "en": "Mango 🥭",
+        "hi": "आम 🥭"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is a banana a fruit or vegetable?",
+        "hi": "केला फल है या सब्ज़ी?"
+      },
+      "answer": {
+        "en": "Fruit",
+        "hi": "फल"
+      }
+    },
+    {
+      "question": {
+        "en": "Name a red vegetable.",
+        "hi": "एक लाल सब्ज़ी का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Tomato 🍅",
+        "hi": "टमाटर 🍅"
+      }
+    },
+    {
+      "question": {
+        "en": "What should we do before eating a fruit?",
+        "hi": "फल खाने से पहले क्या करना चाहिए?"
+      },
+      "answer": {
+        "en": "Wash it",
+        "hi": "धोना चाहिए"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Fruits and vegetables keep us healthy. Apple, banana and mango are fruits. Potato, carrot and tomato are vegetables.",
+    "hi": "फल और सब्ज़ियाँ हमें स्वस्थ रखते हैं। सेब, केला और आम फल हैं। आलू, गाजर और टमाटर सब्ज़ियाँ हैं।"
+  }
+}

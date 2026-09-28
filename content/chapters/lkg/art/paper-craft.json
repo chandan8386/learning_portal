@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Tear paper slowly with your fingers.",
+      "hi": "उंगलियों से कागज़ धीरे-धीरे फाड़ो।"
+    },
+    {
+      "en": "Use a little glue.",
+      "hi": "थोड़ा सा गोंद लगाओ।"
+    },
+    {
+      "en": "Keep the table clean after craft.",
+      "hi": "क्राफ़्ट के बाद मेज़ साफ़ करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you make a paper fan?",
+        "hi": "कागज़ का पंखा कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Fold the paper forward, then backward, again and again.",
+          "hi": "कागज़ को आगे, फिर पीछे, बार-बार मोड़ो।"
+        },
+        {
+          "en": "Pinch one end together and tape it.",
+          "hi": "एक सिरे को दबाकर टेप लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A folded paper fan 🪭",
+        "hi": "मुड़ा हुआ कागज़ का पंखा 🪭"
+      }
+    },
+    {
+      "problem": {
+        "en": "How do you fill a mango picture with torn paper?",
+        "hi": "आम के चित्र को फटे कागज़ से कैसे भरोगे?"
+      },
+      "steps": [
+        {
+          "en": "Tear yellow paper into small bits.",
+          "hi": "पीले कागज़ के छोटे टुकड़े फाड़ो।"
+        },
+        {
+          "en": "Put glue inside the mango and stick the bits.",
+          "hi": "आम के अंदर गोंद लगाकर टुकड़े चिपकाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A yellow torn-paper mango 🥭",
+        "hi": "पीले टुकड़ों वाला आम 🥭"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What do we use to stick paper?",
+        "hi": "कागज़ चिपकाने के लिए क्या इस्तेमाल करते हैं?"
+      },
+      "answer": {
+        "en": "Glue",
+        "hi": "गोंद"
+      }
+    },
+    {
+      "question": {
+        "en": "What should we do after craft?",
+        "hi": "क्राफ़्ट के बाद क्या करना चाहिए?"
+      },
+      "answer": {
+        "en": "Clean up",
+        "hi": "सफ़ाई करनी चाहिए"
+      }
+    },
+    {
+      "question": {
+        "en": "Which colour paper for a leaf?",
+        "hi": "पत्ते के लिए किस रंग का कागज़?"
+      },
+      "answer": {
+        "en": "Green",
+        "hi": "हरा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We can make fun things from paper. Tear paper into small bits to stick in a picture, or fold paper again and again to make a fan.",
+    "hi": "कागज़ से मज़ेदार चीज़ें बना सकते हैं। कागज़ के छोटे टुकड़े फाड़कर चित्र में चिपकाओ, या कागज़ को बार-बार मोड़कर पंखा बनाओ।"
+  }
+}

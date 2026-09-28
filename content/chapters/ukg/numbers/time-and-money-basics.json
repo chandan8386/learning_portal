@@ -1,0 +1,78 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Day: the sun shines. Night: we see the moon and stars.",
+      "hi": "दिन: सूरज चमकता है। रात: चाँद और तारे दिखते हैं।"
+    },
+    {
+      "en": "₹ is the sign for rupee.",
+      "hi": "₹ रुपये का चिह्न है।"
+    },
+    {
+      "en": "₹2 + ₹2 = ₹4",
+      "hi": "₹2 + ₹2 = ₹4"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "When do we sleep: day or night?",
+        "hi": "हम कब सोते हैं: दिन या रात?"
+      },
+      "steps": [
+        {
+          "en": "At night it is dark and the moon is out.",
+          "hi": "रात को अँधेरा होता है और चाँद निकलता है।"
+        }
+      ],
+      "answer": {
+        "en": "Night",
+        "hi": "रात"
+      }
+    },
+    {
+      "problem": {
+        "en": "A toffee costs ₹1 and a pencil costs ₹5. Which costs more?",
+        "hi": "टॉफ़ी ₹1 की और पेंसिल ₹5 की है। कौन महँगी है?"
+      },
+      "steps": [
+        {
+          "en": "5 is more than 1.",
+          "hi": "5, 1 से ज़्यादा है।"
+        }
+      ],
+      "answer": {
+        "en": "The pencil",
+        "hi": "पेंसिल"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "When do we see the sun?",
+        "hi": "सूरज कब दिखता है?"
+      },
+      "answer": {
+        "en": "Day",
+        "hi": "दिन में"
+      }
+    },
+    {
+      "question": "₹5 + ₹5 = ?",
+      "answer": "₹10"
+    },
+    {
+      "question": {
+        "en": "What is the sign for rupee?",
+        "hi": "रुपये का चिह्न क्या है?"
+      },
+      "answer": "₹"
+    }
+  ],
+  "intro": {
+    "en": "We do different things at different times: we wake up in the morning, go to school in the day, and sleep at night. We buy things with money: ₹1, ₹2, ₹5 and ₹10 coins.",
+    "hi": "अलग-अलग काम अलग समय पर होते हैं: सुबह उठते हैं, दिन में स्कूल जाते हैं और रात को सोते हैं। पैसों से चीज़ें ख़रीदते हैं: ₹1, ₹2, ₹5 और ₹10 के सिक्के।"
+  }
+}

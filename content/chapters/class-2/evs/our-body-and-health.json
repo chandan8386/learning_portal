@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Eyes – sight, ears – hearing, nose – smell, tongue – taste, skin – touch",
+      "hi": "आँख – देखना, कान – सुनना, नाक – सूँघना, जीभ – स्वाद, त्वचा – स्पर्श"
+    },
+    {
+      "en": "Sleep 9–10 hours at night.",
+      "hi": "रात को 9–10 घंटे सोओ।"
+    },
+    {
+      "en": "Do not put sharp things in your ears or eyes.",
+      "hi": "कान या आँख में नुकीली चीज़ मत डालो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which sense organ tells us that sugar is sweet?",
+        "hi": "कौन-सी इंद्रिय बताती है कि चीनी मीठी है?"
+      },
+      "steps": [
+        {
+          "en": "We taste food on this organ.",
+          "hi": "इस अंग से खाने का स्वाद आता है।"
+        }
+      ],
+      "answer": {
+        "en": "Tongue",
+        "hi": "जीभ"
+      }
+    },
+    {
+      "problem": {
+        "en": "Give two habits that keep us healthy.",
+        "hi": "स्वस्थ रखने वाली दो आदतें बताओ।"
+      },
+      "steps": [
+        {
+          "en": "Think about food and exercise.",
+          "hi": "खाने और व्यायाम के बारे में सोचो।"
+        }
+      ],
+      "answer": {
+        "en": "Eating fruits and vegetables; playing or exercising daily",
+        "hi": "फल-सब्ज़ियाँ खाना; रोज़ खेलना या व्यायाम करना"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many sense organs do we have?",
+        "hi": "हमारी कितनी ज्ञानेंद्रियाँ हैं?"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "Which organ helps us feel soft and hard?",
+        "hi": "कौन-सा अंग नरम और सख़्त महसूस करता है?"
+      },
+      "answer": {
+        "en": "Skin",
+        "hi": "त्वचा"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we read in very dim light?",
+        "hi": "क्या बहुत कम रोशनी में पढ़ना चाहिए?"
+      },
+      "answer": {
+        "en": "No, it hurts our eyes",
+        "hi": "नहीं, इससे आँखों को नुकसान होता है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We have five sense organs: eyes, ears, nose, tongue and skin. To stay healthy we eat good food, exercise, sleep well and keep clean.",
+    "hi": "हमारी पाँच ज्ञानेंद्रियाँ हैं: आँख, कान, नाक, जीभ और त्वचा। स्वस्थ रहने के लिए अच्छा खाना, व्यायाम, अच्छी नींद और सफ़ाई ज़रूरी है।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Sing slowly first, then faster.",
+      "hi": "पहले धीरे गाओ, फिर तेज़।"
+    },
+    {
+      "en": "Do the actions while singing.",
+      "hi": "गाते हुए हाव-भाव करो।"
+    },
+    {
+      "en": "Rhyming words sound alike: star–are, toes–nose.",
+      "hi": "तुक वाले शब्द मिलते-जुलते हैं: star–are, toes–nose।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"Twinkle Twinkle Little Star\", what is twinkling?",
+        "hi": "\"Twinkle Twinkle Little Star\" में क्या चमक रहा है?"
+      },
+      "steps": [
+        {
+          "en": "Listen to the first line.",
+          "hi": "पहली पंक्ति सुनो।"
+        }
+      ],
+      "answer": {
+        "en": "A little star ⭐",
+        "hi": "एक छोटा तारा ⭐"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which word rhymes with \"toes\"?",
+        "hi": "\"toes\" से किस शब्द की तुक मिलती है?"
+      },
+      "steps": [
+        {
+          "en": "Head, shoulders, knees and toes … eyes and ears and mouth and nose.",
+          "hi": "Head, shoulders, knees and toes … eyes and ears and mouth and nose।"
+        }
+      ],
+      "answer": {
+        "en": "Nose",
+        "hi": "Nose"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "In \"Johny Johny\", what was Johny eating?",
+        "hi": "\"Johny Johny\" में जॉनी क्या खा रहा था?"
+      },
+      "answer": {
+        "en": "Sugar",
+        "hi": "चीनी (sugar)"
+      }
+    },
+    {
+      "question": {
+        "en": "Where is the star in the rhyme?",
+        "hi": "कविता में तारा कहाँ है?"
+      },
+      "answer": {
+        "en": "Up above the world so high, in the sky",
+        "hi": "आसमान में, बहुत ऊपर"
+      }
+    },
+    {
+      "question": {
+        "en": "Touch your knees! Which rhyme has knees?",
+        "hi": "घुटने छुओ! किस कविता में घुटने आते हैं?"
+      },
+      "answer": {
+        "en": "Head, Shoulders, Knees and Toes",
+        "hi": "Head, Shoulders, Knees and Toes"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Rhymes are short songs. We sing them with actions. \"Head, shoulders, knees and toes\" — touch each part as you sing!",
+    "hi": "कविताएँ छोटे गीत होती हैं। इन्हें हाव-भाव के साथ गाते हैं। \"Head, shoulders, knees and toes\" — गाते हुए हर अंग छुओ!"
+  }
+}

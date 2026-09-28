@@ -44,7 +44,10 @@ The full product plan lives in [`CLAUDE_PROMPT.md`](./CLAUDE_PROMPT.md). This re
   - Hindi and Sanskrit subjects are in Hindi.
   - The other subjects in Class 3–10 are in English for now.
 - Subject pages note that they follow the CBSE curriculum and NCERT textbooks, and link to the official NCERT textbooks site.
-- Study material now covers 50 chapters, including all of Class 2 Maths and add/subtract/multiply/divide for Classes 3 and 4.
+- Study material now covers 172 chapters:
+  - **every chapter of every subject from Nursery to Class 2** (English, Hindi, Numbers/Maths, EVS/My World, Rhymes and Stories, Art and Health), each with an explanation, key points, solved examples and practice, in Hindi and English
+  - Class 3 and 4 add/subtract/multiply/divide, Class 5 fractions and decimals, Class 8 linear equations, Class 9 number systems
+  - all of Class 10 Maths and four Class 10 Science chapters
 
 **Next:** Phase 2 (lesson renderer, e-book reader, offline PWA), Phase 3 (pre-generated audio, read-along, phonics and tracing), and the rest of the plan in `CLAUDE_PROMPT.md`.
 

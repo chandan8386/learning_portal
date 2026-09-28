@@ -1,0 +1,78 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "1 one, 2 two, 3 three, 4 four, 5 five",
+      "hi": "1 एक, 2 दो, 3 तीन, 4 चार, 5 पाँच"
+    },
+    {
+      "en": "One hand has 5 fingers.",
+      "hi": "एक हाथ में 5 उंगलियाँ हैं।"
+    },
+    {
+      "en": "The last number we say is how many.",
+      "hi": "आख़िरी संख्या बताती है कितने हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Count the ducks: 🦆🦆🦆",
+        "hi": "बत्तख गिनो: 🦆🦆🦆"
+      },
+      "steps": [
+        {
+          "en": "Touch and count: 1, 2, 3.",
+          "hi": "छूकर गिनो: 1, 2, 3।"
+        }
+      ],
+      "answer": {
+        "en": "3",
+        "hi": "3"
+      }
+    },
+    {
+      "problem": {
+        "en": "Show 4 with your fingers.",
+        "hi": "उंगलियों से 4 दिखाओ।"
+      },
+      "steps": [
+        {
+          "en": "Open one finger at a time: 1, 2, 3, 4.",
+          "hi": "एक-एक उंगली खोलो: 1, 2, 3, 4।"
+        }
+      ],
+      "answer": {
+        "en": "4 fingers up ✋ (thumb folded)",
+        "hi": "4 उंगलियाँ ऊपर ✋ (अंगूठा मोड़ो)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Count: ⭐⭐",
+        "hi": "गिनो: ⭐⭐"
+      },
+      "answer": "2"
+    },
+    {
+      "question": {
+        "en": "Count: 🍎🍎🍎🍎🍎",
+        "hi": "गिनो: 🍎🍎🍎🍎🍎"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "What comes after 3?",
+        "hi": "3 के बाद क्या आता है?"
+      },
+      "answer": "4"
+    }
+  ],
+  "intro": {
+    "en": "Let us count: 1, 2, 3, 4, 5. We touch each thing once and say one number.",
+    "hi": "आओ गिनें: 1, 2, 3, 4, 5। हर चीज़ को एक बार छूकर एक संख्या बोलो।"
+  }
+}

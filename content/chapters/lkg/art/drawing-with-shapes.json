@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Look for shapes in things around you.",
+      "hi": "आस-पास की चीज़ों में आकृतियाँ ढूँढो।"
+    },
+    {
+      "en": "Draw lightly first, then colour.",
+      "hi": "पहले हल्का बनाओ, फिर रंग भरो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you draw a house?",
+        "hi": "घर कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Draw a square for the walls.",
+          "hi": "दीवारों के लिए वर्ग बनाओ।"
+        },
+        {
+          "en": "Draw a triangle on top for the roof.",
+          "hi": "ऊपर छत के लिए त्रिभुज बनाओ।"
+        },
+        {
+          "en": "Add a rectangle door.",
+          "hi": "एक आयत का दरवाज़ा जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "Square + triangle + rectangle = house 🏠",
+        "hi": "वर्ग + त्रिभुज + आयत = घर 🏠"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which shape is the sun?",
+        "hi": "सूरज किस आकृति से बनता है?"
+      },
+      "steps": [
+        {
+          "en": "The sun is round, then add rays.",
+          "hi": "सूरज गोल है, फिर किरणें जोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "A circle with lines around it ☀️",
+        "hi": "गोला और चारों ओर लकीरें ☀️"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which shape makes a roof?",
+        "hi": "छत किस आकृति से बनती है?"
+      },
+      "answer": {
+        "en": "Triangle",
+        "hi": "त्रिभुज"
+      }
+    },
+    {
+      "question": {
+        "en": "Which shape makes a balloon?",
+        "hi": "गुब्बारा किस आकृति से बनता है?"
+      },
+      "answer": {
+        "en": "Circle (oval)",
+        "hi": "गोला (अंडाकार)"
+      }
+    },
+    {
+      "question": {
+        "en": "Which shape makes a door?",
+        "hi": "दरवाज़ा किस आकृति से बनता है?"
+      },
+      "answer": {
+        "en": "Rectangle",
+        "hi": "आयत"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We can draw many things using simple shapes. A house is a square with a triangle roof. The sun is a circle with lines around it.",
+    "hi": "आसान आकृतियों से बहुत कुछ बना सकते हैं। घर = वर्ग पर त्रिभुज की छत। सूरज = गोला और चारों ओर लकीरें।"
+  }
+}

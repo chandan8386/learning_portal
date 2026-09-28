@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Brush your teeth in the morning and at night.",
+      "hi": "सुबह और रात को दाँत साफ़ करो।"
+    },
+    {
+      "en": "Wash hands with soap before eating.",
+      "hi": "खाने से पहले साबुन से हाथ धोओ।"
+    },
+    {
+      "en": "Put rubbish in the dustbin.",
+      "hi": "कचरा कूड़ेदान में डालो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "When should we wash our hands?",
+        "hi": "हाथ कब धोने चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Before eating and after using the toilet.",
+          "hi": "खाने से पहले और शौचालय के बाद।"
+        }
+      ],
+      "answer": {
+        "en": "Before eating and after the toilet",
+        "hi": "खाने से पहले और शौचालय के बाद"
+      }
+    },
+    {
+      "problem": {
+        "en": "You bumped into a friend by mistake. What do you say?",
+        "hi": "ग़लती से दोस्त से टकरा गए। क्या कहोगे?"
+      },
+      "steps": [
+        {
+          "en": "When we make a mistake we say sorry.",
+          "hi": "ग़लती हो तो माफ़ी माँगते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Sorry!",
+        "hi": "सॉरी! / माफ़ करना!"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many times a day should we brush?",
+        "hi": "दिन में कितनी बार दाँत साफ़ करने चाहिए?"
+      },
+      "answer": {
+        "en": "2 times",
+        "hi": "2 बार"
+      }
+    },
+    {
+      "question": {
+        "en": "Where do we throw a wrapper?",
+        "hi": "रैपर कहाँ फेंकते हैं?"
+      },
+      "answer": {
+        "en": "In the dustbin",
+        "hi": "कूड़ेदान में"
+      }
+    },
+    {
+      "question": {
+        "en": "What do we say when we ask for something?",
+        "hi": "कुछ माँगते समय क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Please",
+        "hi": "कृपया / प्लीज़"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Good habits keep us healthy and happy. We brush our teeth, wash our hands, and say please, sorry and thank you.",
+    "hi": "अच्छी आदतें हमें स्वस्थ और ख़ुश रखती हैं। हम दाँत साफ़ करते हैं, हाथ धोते हैं, और कृपया, माफ़ कीजिए और धन्यवाद कहते हैं।"
+  }
+}

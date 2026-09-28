@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import { chapterContentSchema, parseChapterContent, textFor } from "@/lib/chapter-content";
 import { findOrphanContent, loadChapterContent } from "@/lib/load-chapter-content";
 import { loadSyllabus } from "@/lib/load-syllabus";
+import { normalizeChapters } from "@/lib/syllabus";
 
 const files = loadChapterContent();
 const classes = loadSyllabus();
@@ -18,6 +19,15 @@ describe("chapter study material files", () => {
       const covered = files.filter((f) => f.classSlug === classSlug && f.subjectSlug === "maths").length;
       expect(covered, classSlug).toBe(maths.chapters.length);
     }
+  });
+
+  it("covers every chapter of every subject from Nursery to Class 2", () => {
+    const have = new Set(files.map((f) => `${f.classSlug}/${f.subjectSlug}/${f.chapterSlug}`));
+    const missing = classes
+      .filter((c) => c.audioFirst)
+      .flatMap((c) => c.subjects.flatMap((s) => normalizeChapters(s.chapters).map((ch) => `${c.slug}/${s.slug}/${ch.slug}`)))
+      .filter((key) => !have.has(key));
+    expect(missing).toEqual([]);
   });
 
   it("gives Hindi for every text in the audio-first classes", () => {

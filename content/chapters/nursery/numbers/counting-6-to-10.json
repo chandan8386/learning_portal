@@ -1,0 +1,72 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "6 six, 7 seven, 8 eight, 9 nine, 10 ten",
+      "hi": "6 छह, 7 सात, 8 आठ, 9 नौ, 10 दस"
+    },
+    {
+      "en": "10 fingers on two hands.",
+      "hi": "दोनों हाथों में 10 उंगलियाँ।"
+    },
+    {
+      "en": "10 is written with two digits: 1 and 0.",
+      "hi": "10 दो अंकों से लिखते हैं: 1 और 0।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Count the balloons: 🎈🎈🎈🎈🎈🎈🎈",
+        "hi": "गुब्बारे गिनो: 🎈🎈🎈🎈🎈🎈🎈"
+      },
+      "steps": [
+        {
+          "en": "Count: 1, 2, 3, 4, 5, 6, 7.",
+          "hi": "गिनो: 1, 2, 3, 4, 5, 6, 7।"
+        }
+      ],
+      "answer": "7"
+    },
+    {
+      "problem": {
+        "en": "What comes after 9?",
+        "hi": "9 के बाद क्या आता है?"
+      },
+      "steps": [
+        {
+          "en": "Count on: 8, 9, 10.",
+          "hi": "आगे गिनो: 8, 9, 10।"
+        }
+      ],
+      "answer": "10"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Count: 🐟🐟🐟🐟🐟🐟",
+        "hi": "गिनो: 🐟🐟🐟🐟🐟🐟"
+      },
+      "answer": "6"
+    },
+    {
+      "question": {
+        "en": "How many fingers on two hands?",
+        "hi": "दोनों हाथों में कितनी उंगलियाँ?"
+      },
+      "answer": "10"
+    },
+    {
+      "question": {
+        "en": "What comes before 9?",
+        "hi": "9 से पहले क्या आता है?"
+      },
+      "answer": "8"
+    }
+  ],
+  "intro": {
+    "en": "After 5 we count 6, 7, 8, 9, 10. Two hands have 10 fingers.",
+    "hi": "5 के बाद 6, 7, 8, 9, 10 गिनते हैं। दोनों हाथों में 10 उंगलियाँ हैं।"
+  }
+}

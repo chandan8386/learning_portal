@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Red, blue, yellow, green",
+      "hi": "लाल, नीला, पीला, हरा"
+    },
+    {
+      "en": "Orange, pink, purple, brown",
+      "hi": "नारंगी, गुलाबी, बैंगनी, भूरा"
+    },
+    {
+      "en": "Black and white",
+      "hi": "काला और सफ़ेद"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What colour is grass?",
+        "hi": "घास का रंग क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Look at grass in a park.",
+          "hi": "पार्क में घास देखो।"
+        }
+      ],
+      "answer": {
+        "en": "Green",
+        "hi": "हरा"
+      }
+    },
+    {
+      "problem": {
+        "en": "What colour is milk?",
+        "hi": "दूध का रंग क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Look at milk in a glass.",
+          "hi": "गिलास में दूध देखो।"
+        }
+      ],
+      "answer": {
+        "en": "White",
+        "hi": "सफ़ेद"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What colour is a banana 🍌?",
+        "hi": "केला 🍌 किस रंग का है?"
+      },
+      "answer": {
+        "en": "Yellow",
+        "hi": "पीला"
+      }
+    },
+    {
+      "question": {
+        "en": "What colour is a crow?",
+        "hi": "कौआ किस रंग का है?"
+      },
+      "answer": {
+        "en": "Black",
+        "hi": "काला"
+      }
+    },
+    {
+      "question": {
+        "en": "What colour is a tomato 🍅?",
+        "hi": "टमाटर 🍅 किस रंग का है?"
+      },
+      "answer": {
+        "en": "Red",
+        "hi": "लाल"
+      }
+    }
+  ],
+  "intro": {
+    "en": "The world is full of colours. The sky is blue 🔵, leaves are green 🟢, the sun is yellow 🟡 and an apple is red 🔴.",
+    "hi": "दुनिया रंगों से भरी है। आसमान नीला 🔵, पत्ते हरे 🟢, सूरज पीला 🟡 और सेब लाल 🔴 है।"
+  }
+}

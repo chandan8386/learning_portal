@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Roots hold the plant in the soil and drink water.",
+      "hi": "जड़ें पौधे को मिट्टी में थामे रखती हैं और पानी पीती हैं।"
+    },
+    {
+      "en": "Leaves make food for the plant using sunlight.",
+      "hi": "पत्ते धूप से पौधे का भोजन बनाते हैं।"
+    },
+    {
+      "en": "Water the plants, do not pluck flowers.",
+      "hi": "पौधों को पानी दो, फूल मत तोड़ो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which part of the plant is under the soil?",
+        "hi": "पौधे का कौन-सा भाग मिट्टी के नीचे होता है?"
+      },
+      "steps": [
+        {
+          "en": "It holds the plant and takes in water.",
+          "hi": "यह पौधे को थामता है और पानी लेता है।"
+        }
+      ],
+      "answer": {
+        "en": "Roots",
+        "hi": "जड़ें"
+      }
+    },
+    {
+      "problem": {
+        "en": "What three things does a plant need to grow?",
+        "hi": "पौधे को बढ़ने के लिए कौन-सी तीन चीज़ें चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Think: what do we give plants, and what is all around?",
+          "hi": "सोचो: हम पौधों को क्या देते हैं, और चारों ओर क्या है?"
+        }
+      ],
+      "answer": {
+        "en": "Water, air and sunlight",
+        "hi": "पानी, हवा और धूप"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What colour are most leaves?",
+        "hi": "ज़्यादातर पत्ते किस रंग के होते हैं?"
+      },
+      "answer": {
+        "en": "Green",
+        "hi": "हरे"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one thing a tree gives us.",
+        "hi": "पेड़ हमें क्या देता है, एक बताओ।"
+      },
+      "answer": {
+        "en": "Fruit, shade, wood or fresh air",
+        "hi": "फल, छाया, लकड़ी या ताज़ी हवा"
+      }
+    },
+    {
+      "question": {
+        "en": "Which part of a plant holds it upright?",
+        "hi": "पौधे को सीधा कौन-सा भाग रखता है?"
+      },
+      "answer": {
+        "en": "Stem",
+        "hi": "तना"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A plant has roots, a stem, leaves, flowers and fruits. Plants need water, air and sunlight to grow. Trees give us fruits, shade and fresh air.",
+    "hi": "पौधे की जड़, तना, पत्ते, फूल और फल होते हैं। पौधों को बढ़ने के लिए पानी, हवा और धूप चाहिए। पेड़ हमें फल, छाया और ताज़ी हवा देते हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Hospital – doctors and nurses treat the sick.",
+      "hi": "अस्पताल – डॉक्टर और नर्स बीमारों का इलाज करते हैं।"
+    },
+    {
+      "en": "Post office – sends and delivers letters and parcels.",
+      "hi": "डाकघर – चिट्ठियाँ और पार्सल भेजता और पहुँचाता है।"
+    },
+    {
+      "en": "Keep your neighbourhood clean and help your neighbours.",
+      "hi": "पड़ोस साफ़ रखो और पड़ोसियों की मदद करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where do we go to buy vegetables?",
+        "hi": "सब्ज़ियाँ ख़रीदने कहाँ जाते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Shops selling many things are found together here.",
+          "hi": "यहाँ कई चीज़ें बेचने वाली दुकानें होती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Market",
+        "hi": "बाज़ार"
+      }
+    },
+    {
+      "problem": {
+        "en": "Your ball is stolen from the park. Whom can you ask for help?",
+        "hi": "पार्क से तुम्हारी गेंद चोरी हो गई। किससे मदद माँगोगे?"
+      },
+      "steps": [
+        {
+          "en": "These helpers keep our area safe from crime.",
+          "hi": "ये सहायक हमारे इलाक़े को अपराध से बचाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "The police (with a parent)",
+        "hi": "पुलिस से (माता-पिता के साथ)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where do we go when we are very ill?",
+        "hi": "बहुत बीमार होने पर कहाँ जाते हैं?"
+      },
+      "answer": {
+        "en": "Hospital",
+        "hi": "अस्पताल"
+      }
+    },
+    {
+      "question": {
+        "en": "Where do we post a letter?",
+        "hi": "चिट्ठी कहाँ डालते हैं?"
+      },
+      "answer": {
+        "en": "Post office",
+        "hi": "डाकघर"
+      }
+    },
+    {
+      "question": {
+        "en": "Where do children play in the neighbourhood?",
+        "hi": "पड़ोस में बच्चे कहाँ खेलते हैं?"
+      },
+      "answer": {
+        "en": "Park",
+        "hi": "पार्क"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Our neighbourhood is the area around our home. It has a school, a hospital, a market, a post office, a park and a police station. Many community helpers work there.",
+    "hi": "पड़ोस हमारे घर के आस-पास का इलाक़ा है। वहाँ स्कूल, अस्पताल, बाज़ार, डाकघर, पार्क और पुलिस थाना होते हैं। वहाँ बहुत से सहायक काम करते हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "We love and help our family.",
+      "hi": "हम अपने परिवार से प्यार करते हैं और मदद करते हैं।"
+    },
+    {
+      "en": "Father's mother is Dadi; mother's mother is Nani.",
+      "hi": "पापा की माँ दादी; माँ की माँ नानी।"
+    },
+    {
+      "en": "Some families are big, some are small.",
+      "hi": "कुछ परिवार बड़े होते हैं, कुछ छोटे।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who is your father's father?",
+        "hi": "पापा के पापा कौन हैं?"
+      },
+      "steps": [
+        {
+          "en": "Father's parents are Dada and Dadi.",
+          "hi": "पापा के माता-पिता दादा और दादी हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Dada (grandfather)",
+        "hi": "दादा"
+      }
+    },
+    {
+      "problem": {
+        "en": "How can you help at home?",
+        "hi": "घर में कैसे मदद कर सकते हो?"
+      },
+      "steps": [
+        {
+          "en": "Think of small jobs: putting toys away, laying the table.",
+          "hi": "छोटे काम सोचो: खिलौने रखना, खाने की मेज़ लगाना।"
+        }
+      ],
+      "answer": {
+        "en": "Put my toys back in place.",
+        "hi": "अपने खिलौने जगह पर रखूँगा।"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who is your mother's mother?",
+        "hi": "माँ की माँ कौन हैं?"
+      },
+      "answer": {
+        "en": "Nani",
+        "hi": "नानी"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one person in your family.",
+        "hi": "अपने परिवार के एक सदस्य का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Any family member, e.g. Mummy",
+        "hi": "परिवार का कोई भी सदस्य, जैसे मम्मी"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we share toys with our brother or sister?",
+        "hi": "क्या भाई-बहन के साथ खिलौने बाँटने चाहिए?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A family is the people who live with us and love us: mother, father, brother, sister, grandmother and grandfather.",
+    "hi": "परिवार वे लोग हैं जो हमारे साथ रहते हैं और हमें प्यार करते हैं: माँ, पापा, भाई, बहन, दादी और दादा।"
+  }
+}

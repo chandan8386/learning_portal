@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "s says sss, a says a (as in ant), t says t, p says p.",
+      "hi": "s = स्स, a = अ (ant जैसा), t = ट, p = प।"
+    },
+    {
+      "en": "i says i (as in ink), n says n, m says m, d says d.",
+      "hi": "i = इ (ink जैसा), n = न, m = म, d = ड।"
+    },
+    {
+      "en": "Letter names and letter sounds are different.",
+      "hi": "अक्षर का नाम और ध्वनि अलग होते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What sound does m make?",
+        "hi": "m की ध्वनि क्या है?"
+      },
+      "steps": [
+        {
+          "en": "Close your lips and hum: mmm.",
+          "hi": "होंठ बंद करके गुनगुनाओ: म्म्म।"
+        }
+      ],
+      "answer": {
+        "en": "mmm (as in mango)",
+        "hi": "म्म्म (mango जैसा)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which letter makes the sound \"t\"?",
+        "hi": "\"ट\" ध्वनि कौन-सा अक्षर बनाता है?"
+      },
+      "steps": [
+        {
+          "en": "Think of tiger, top, ten.",
+          "hi": "tiger, top, ten सोचो।"
+        }
+      ],
+      "answer": {
+        "en": "t",
+        "hi": "t"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which letter says \"sss\"?",
+        "hi": "\"स्स्स\" कौन-सा अक्षर बोलता है?"
+      },
+      "answer": {
+        "en": "s",
+        "hi": "s"
+      }
+    },
+    {
+      "question": {
+        "en": "What sound does p make?",
+        "hi": "p की ध्वनि क्या है?"
+      },
+      "answer": {
+        "en": "p (as in pen)",
+        "hi": "प (pen जैसा)"
+      }
+    },
+    {
+      "question": {
+        "en": "Which letter starts \"ant\"?",
+        "hi": "\"ant\" किस अक्षर से शुरू होता है?"
+      },
+      "answer": {
+        "en": "a",
+        "hi": "a"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Letters make sounds. The name of the letter S is \"ess\", but its sound is \"sss\" like a snake 🐍. Knowing sounds helps us read.",
+    "hi": "अक्षर ध्वनि बनाते हैं। S का नाम \"एस\" है, पर उसकी ध्वनि \"स्स्स\" है, साँप 🐍 जैसी। ध्वनियाँ जानने से पढ़ना आता है।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Summer – light cotton clothes",
+      "hi": "गर्मी – हल्के सूती कपड़े"
+    },
+    {
+      "en": "Winter – sweaters, jackets, caps",
+      "hi": "सर्दी – स्वेटर, जैकेट, टोपी"
+    },
+    {
+      "en": "Rainy season – raincoat, umbrella, gumboots",
+      "hi": "बरसात – रेनकोट, छाता, गमबूट"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why do we wear cotton clothes in summer?",
+        "hi": "गर्मी में सूती कपड़े क्यों पहनते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Cotton is light and soaks up sweat.",
+          "hi": "सूती कपड़ा हल्का है और पसीना सोखता है।"
+        }
+      ],
+      "answer": {
+        "en": "They keep us cool",
+        "hi": "हमें ठंडा रखते हैं"
+      }
+    },
+    {
+      "problem": {
+        "en": "What do we get wool from?",
+        "hi": "ऊन किससे मिलती है?"
+      },
+      "steps": [
+        {
+          "en": "Wool is the hair of an animal.",
+          "hi": "ऊन एक जानवर के बाल हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Sheep 🐑",
+        "hi": "भेड़ 🐑"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What do we wear on a rainy day?",
+        "hi": "बारिश वाले दिन क्या पहनते हैं?"
+      },
+      "answer": {
+        "en": "Raincoat",
+        "hi": "रेनकोट"
+      }
+    },
+    {
+      "question": {
+        "en": "What do we wear in winter?",
+        "hi": "सर्दी में क्या पहनते हैं?"
+      },
+      "answer": {
+        "en": "Sweater",
+        "hi": "स्वेटर"
+      }
+    },
+    {
+      "question": {
+        "en": "What do clothes protect us from?",
+        "hi": "कपड़े हमें किससे बचाते हैं?"
+      },
+      "answer": {
+        "en": "Heat, cold and rain",
+        "hi": "गर्मी, सर्दी और बारिश"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Clothes protect our body from heat, cold and rain. We wear cotton in summer, wool in winter and a raincoat in the rainy season.",
+    "hi": "कपड़े शरीर को गर्मी, सर्दी और बारिश से बचाते हैं। गर्मी में सूती, सर्दी में ऊनी और बरसात में रेनकोट पहनते हैं।"
+  }
+}

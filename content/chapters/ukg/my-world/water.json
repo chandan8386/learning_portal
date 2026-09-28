@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Uses of water: drinking, cooking, bathing, washing, watering plants.",
+      "hi": "पानी के उपयोग: पीना, खाना बनाना, नहाना, धोना, पौधों को पानी।"
+    },
+    {
+      "en": "Turn off the tap when not in use.",
+      "hi": "काम न हो तो नल बंद करो।"
+    },
+    {
+      "en": "Drink clean water only.",
+      "hi": "केवल साफ़ पानी पियो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "You are brushing your teeth. How can you save water?",
+        "hi": "तुम दाँत साफ़ कर रहे हो। पानी कैसे बचाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Water flows away if the tap stays open.",
+          "hi": "नल खुला रहे तो पानी बह जाता है।"
+        }
+      ],
+      "answer": {
+        "en": "Close the tap while brushing and use a mug.",
+        "hi": "ब्रश करते समय नल बंद रखो और मग का इस्तेमाल करो।"
+      }
+    },
+    {
+      "problem": {
+        "en": "Name two places where we get water.",
+        "hi": "पानी कहाँ से मिलता है, दो जगहें बताओ।"
+      },
+      "steps": [
+        {
+          "en": "Think of what falls from the sky and what flows on land.",
+          "hi": "सोचो आसमान से क्या गिरता है और ज़मीन पर क्या बहता है।"
+        }
+      ],
+      "answer": {
+        "en": "Rain and rivers (also wells and taps)",
+        "hi": "बारिश और नदी (कुएँ और नल भी)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Should we leave the tap running?",
+        "hi": "क्या नल खुला छोड़ना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Which water should we drink?",
+        "hi": "हमें कौन-सा पानी पीना चाहिए?"
+      },
+      "answer": {
+        "en": "Clean water",
+        "hi": "साफ़ पानी"
+      }
+    },
+    {
+      "question": {
+        "en": "Do plants need water?",
+        "hi": "क्या पौधों को पानी चाहिए?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    }
+  ],
+  "intro": {
+    "en": "All living things need water. We drink it, cook with it, bathe and wash with it. We get water from rain, rivers, wells and taps. Water is precious, so we must not waste it.",
+    "hi": "सभी जीवों को पानी चाहिए। हम पानी पीते हैं, खाना बनाते हैं, नहाते और धोते हैं। पानी बारिश, नदी, कुएँ और नल से मिलता है। पानी क़ीमती है, इसे बर्बाद मत करो।"
+  }
+}

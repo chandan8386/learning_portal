@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Eat fruits and vegetables every day.",
+      "hi": "रोज़ फल और सब्ज़ियाँ खाओ।"
+    },
+    {
+      "en": "Drink milk for strong bones and teeth.",
+      "hi": "मज़बूत हड्डियों और दाँतों के लिए दूध पियो।"
+    },
+    {
+      "en": "Eat less junk food.",
+      "hi": "जंक फ़ूड कम खाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is an apple healthy food or junk food?",
+        "hi": "सेब स्वस्थ भोजन है या जंक फ़ूड?"
+      },
+      "steps": [
+        {
+          "en": "Fruits are fresh and help our body.",
+          "hi": "फल ताज़े होते हैं और शरीर की मदद करते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Healthy food",
+        "hi": "स्वस्थ भोजन"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why should we drink milk?",
+        "hi": "दूध क्यों पीना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Milk has calcium.",
+          "hi": "दूध में कैल्शियम होता है।"
+        }
+      ],
+      "answer": {
+        "en": "For strong bones and teeth",
+        "hi": "मज़बूत हड्डियों और दाँतों के लिए"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Are chips healthy or junk food?",
+        "hi": "चिप्स स्वस्थ हैं या जंक फ़ूड?"
+      },
+      "answer": {
+        "en": "Junk food",
+        "hi": "जंक फ़ूड"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one healthy food.",
+        "hi": "एक स्वस्थ भोजन का नाम बताओ।"
+      },
+      "answer": {
+        "en": "Dal, roti, fruit, milk (any one)",
+        "hi": "दाल, रोटी, फल, दूध (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "Why do we need food?",
+        "hi": "हमें भोजन क्यों चाहिए?"
+      },
+      "answer": {
+        "en": "For energy to play and grow",
+        "hi": "खेलने और बढ़ने की ताक़त के लिए"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Food gives us energy to play and grow. Dal, roti, rice, fruits, vegetables and milk are healthy foods. Chips and cold drinks are junk food.",
+    "hi": "भोजन हमें खेलने और बढ़ने की ताक़त देता है। दाल, रोटी, चावल, फल, सब्ज़ियाँ और दूध स्वस्थ भोजन हैं। चिप्स और कोल्ड ड्रिंक जंक फ़ूड हैं।"
+  }
+}

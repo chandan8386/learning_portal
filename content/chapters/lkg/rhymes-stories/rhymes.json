@@ -1,0 +1,83 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Clap to the beat of the rhyme.",
+      "hi": "कविता की ताल पर ताली बजाओ।"
+    },
+    {
+      "en": "Rhyming words: away–day, wall–fall.",
+      "hi": "तुक वाले शब्द: away–day, wall–fall।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where did Humpty Dumpty sit?",
+        "hi": "हम्प्टी डम्प्टी कहाँ बैठा था?"
+      },
+      "steps": [
+        {
+          "en": "\"Humpty Dumpty sat on a wall.\"",
+          "hi": "\"Humpty Dumpty sat on a wall.\""
+        }
+      ],
+      "answer": {
+        "en": "On a wall",
+        "hi": "दीवार पर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which word rhymes with \"away\"?",
+        "hi": "\"away\" से किसकी तुक मिलती है?"
+      },
+      "steps": [
+        {
+          "en": "\"Rain rain go away, come again another day.\"",
+          "hi": "\"Rain rain go away, come again another day.\""
+        }
+      ],
+      "answer": {
+        "en": "day",
+        "hi": "day"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "In \"Hickory Dickory Dock\", who ran up the clock?",
+        "hi": "\"Hickory Dickory Dock\" में घड़ी पर कौन चढ़ा?"
+      },
+      "answer": {
+        "en": "The mouse 🐭",
+        "hi": "चूहा 🐭"
+      }
+    },
+    {
+      "question": {
+        "en": "What happened to Humpty Dumpty?",
+        "hi": "हम्प्टी डम्प्टी को क्या हुआ?"
+      },
+      "answer": {
+        "en": "He had a great fall",
+        "hi": "वह गिर गया"
+      }
+    },
+    {
+      "question": {
+        "en": "Which word rhymes with \"wall\"?",
+        "hi": "\"wall\" से किसकी तुक मिलती है?"
+      },
+      "answer": {
+        "en": "fall",
+        "hi": "fall"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Rhymes are fun to sing. \"Rain rain go away, come again another day.\" \"Humpty Dumpty sat on a wall.\" We clap to the beat.",
+    "hi": "कविताएँ गाने में मज़ा आता है। \"Rain rain go away, come again another day.\" \"Humpty Dumpty sat on a wall.\" ताल पर ताली बजाओ।"
+  }
+}

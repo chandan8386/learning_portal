@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Action words tell what someone does.",
+      "hi": "काम वाले शब्द बताते हैं कि कोई क्या करता है।"
+    },
+    {
+      "en": "I → am; he, she, it, one person → is",
+      "hi": "I → am; he, she, it, एक व्यक्ति → is"
+    },
+    {
+      "en": "we, you, they, many → are",
+      "hi": "we, you, they, अनेक → are"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Find the verb: \"The baby cries.\"",
+        "hi": "क्रिया ढूँढो: \"The baby cries.\""
+      },
+      "steps": [
+        {
+          "en": "What does the baby do?",
+          "hi": "बच्चा क्या करता है?"
+        }
+      ],
+      "answer": {
+        "en": "cries",
+        "hi": "cries"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in with is/am/are: \"They __ playing.\"",
+        "hi": "is/am/are से भरो: \"They __ playing.\""
+      },
+      "steps": [
+        {
+          "en": "\"They\" means many people, so use \"are\".",
+          "hi": "\"They\" मतलब कई लोग, तो \"are\"।"
+        }
+      ],
+      "answer": {
+        "en": "They are playing.",
+        "hi": "They are playing."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"I __ happy.\"",
+        "hi": "भरो: \"I __ happy.\""
+      },
+      "answer": {
+        "en": "am",
+        "hi": "am"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"The dog __ hungry.\"",
+        "hi": "भरो: \"The dog __ hungry.\""
+      },
+      "answer": {
+        "en": "is",
+        "hi": "is"
+      }
+    },
+    {
+      "question": {
+        "en": "Find the verb: \"Neha writes a letter.\"",
+        "hi": "क्रिया ढूँढो: \"Neha writes a letter.\""
+      },
+      "answer": {
+        "en": "writes",
+        "hi": "writes"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Verbs are action words: run, write, eat, sleep. \"is\", \"am\" and \"are\" are special verbs: I am, he/she/it is, we/you/they are.",
+    "hi": "क्रिया (verb) काम वाले शब्द हैं: run, write, eat, sleep। \"is\", \"am\", \"are\" ख़ास क्रियाएँ हैं: I am, he/she/it is, we/you/they are।"
+  }
+}

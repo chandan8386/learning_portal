@@ -1,0 +1,83 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Count on your fingers while you sing.",
+      "hi": "गाते हुए उंगलियों पर गिनो।"
+    },
+    {
+      "en": "Rhyming pairs: two–shoe, four–door.",
+      "hi": "तुक के जोड़े: two–shoe, four–door।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "\"One, two, …\" what do we do?",
+        "hi": "\"One, two, …\" हम क्या करते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Listen: \"One, two, buckle my shoe.\"",
+          "hi": "सुनो: \"One, two, buckle my shoe.\""
+        }
+      ],
+      "answer": {
+        "en": "Buckle my shoe",
+        "hi": "जूते का बकल लगाते हैं"
+      }
+    },
+    {
+      "problem": {
+        "en": "Five monkeys were jumping. One fell off. How many were left?",
+        "hi": "पाँच बंदर कूद रहे थे। एक गिर गया। कितने बचे?"
+      },
+      "steps": [
+        {
+          "en": "5 − 1 = 4",
+          "hi": "5 − 1 = 4"
+        }
+      ],
+      "answer": {
+        "en": "4 monkeys",
+        "hi": "4 बंदर"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which word rhymes with \"four\": door or shoe?",
+        "hi": "\"four\" की तुक किससे: door या shoe?"
+      },
+      "answer": {
+        "en": "door",
+        "hi": "door"
+      }
+    },
+    {
+      "question": {
+        "en": "Where were the monkeys jumping?",
+        "hi": "बंदर कहाँ कूद रहे थे?"
+      },
+      "answer": {
+        "en": "On the bed",
+        "hi": "बिस्तर पर"
+      }
+    },
+    {
+      "question": {
+        "en": "Who did Mama call when a monkey fell?",
+        "hi": "बंदर गिरा तो मम्मी ने किसे बुलाया?"
+      },
+      "answer": {
+        "en": "The doctor",
+        "hi": "डॉक्टर को"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Counting rhymes help us learn numbers: \"One, two, buckle my shoe; three, four, knock at the door.\" \"Five little monkeys jumping on the bed.\"",
+    "hi": "गिनती वाली कविताएँ संख्याएँ सिखाती हैं: \"One, two, buckle my shoe; three, four, knock at the door.\" \"Five little monkeys jumping on the bed.\""
+  }
+}

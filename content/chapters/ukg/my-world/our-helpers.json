@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Doctor and nurse – keep us healthy",
+      "hi": "डॉक्टर और नर्स – हमें स्वस्थ रखते हैं"
+    },
+    {
+      "en": "Farmer – grows food; cobbler – mends shoes",
+      "hi": "किसान – अनाज उगाता है; मोची – जूते ठीक करता है"
+    },
+    {
+      "en": "We should respect all helpers.",
+      "hi": "हमें सभी सहायकों का सम्मान करना चाहिए।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who grows wheat and rice?",
+        "hi": "गेहूँ और चावल कौन उगाता है?"
+      },
+      "steps": [
+        {
+          "en": "This helper works in the fields.",
+          "hi": "यह सहायक खेतों में काम करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Farmer 👨‍🌾",
+        "hi": "किसान 👨‍🌾"
+      }
+    },
+    {
+      "problem": {
+        "en": "Who will you go to if you have fever?",
+        "hi": "बुख़ार हो तो किसके पास जाओगे?"
+      },
+      "steps": [
+        {
+          "en": "This helper uses a stethoscope.",
+          "hi": "यह सहायक स्टेथोस्कोप इस्तेमाल करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Doctor 👩‍⚕️",
+        "hi": "डॉक्टर 👩‍⚕️"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who brings letters?",
+        "hi": "चिट्ठियाँ कौन लाता है?"
+      },
+      "answer": {
+        "en": "Postman",
+        "hi": "डाकिया"
+      }
+    },
+    {
+      "question": {
+        "en": "Who puts out fires?",
+        "hi": "आग कौन बुझाता है?"
+      },
+      "answer": {
+        "en": "Firefighter",
+        "hi": "दमकल कर्मी (फ़ायरमैन)"
+      }
+    },
+    {
+      "question": {
+        "en": "Who cuts our hair?",
+        "hi": "हमारे बाल कौन काटता है?"
+      },
+      "answer": {
+        "en": "Barber",
+        "hi": "नाई"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Many people help us every day. The doctor treats us when we are ill, the farmer grows our food, the postman brings letters and the police keep us safe.",
+    "hi": "बहुत लोग रोज़ हमारी मदद करते हैं। डॉक्टर बीमारी में इलाज करते हैं, किसान अनाज उगाते हैं, डाकिया चिट्ठियाँ लाता है और पुलिस हमें सुरक्षित रखती है।"
+  }
+}

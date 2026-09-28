@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Deep breathing: breathe in slowly through the nose, breathe out slowly.",
+      "hi": "गहरी साँस: नाक से धीरे साँस अंदर लो, धीरे बाहर छोड़ो।"
+    },
+    {
+      "en": "Warm up before games.",
+      "hi": "खेल से पहले वार्म-अप करो।"
+    },
+    {
+      "en": "Follow the rules and respect the other team.",
+      "hi": "नियम मानो और दूसरी टीम का सम्मान करो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you do deep breathing?",
+        "hi": "गहरी साँस कैसे लेते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Sit straight and close your eyes.",
+          "hi": "सीधे बैठो और आँखें बंद करो।"
+        },
+        {
+          "en": "Breathe in slowly for 4 counts, breathe out for 4 counts.",
+          "hi": "4 गिनती तक धीरे साँस अंदर लो, 4 गिनती तक बाहर छोड़ो।"
+        }
+      ],
+      "answer": {
+        "en": "Slow breath in and out through the nose",
+        "hi": "नाक से धीरे साँस अंदर-बाहर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Your team loses a game. What should you do?",
+        "hi": "तुम्हारी टीम हार गई। क्या करना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Good players are fair in winning and losing.",
+          "hi": "अच्छे खिलाड़ी जीत-हार दोनों में सही व्यवहार करते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Shake hands and congratulate the other team",
+        "hi": "हाथ मिलाओ और दूसरी टीम को बधाई दो"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name one team game.",
+        "hi": "एक टीम खेल बताओ।"
+      },
+      "answer": {
+        "en": "Kho-kho, kabaddi, football, cricket (any one)",
+        "hi": "खो-खो, कबड्डी, फ़ुटबॉल, क्रिकेट (कोई एक)"
+      }
+    },
+    {
+      "question": {
+        "en": "What should we do before playing?",
+        "hi": "खेलने से पहले क्या करना चाहिए?"
+      },
+      "answer": {
+        "en": "Warm up",
+        "hi": "वार्म-अप"
+      }
+    },
+    {
+      "question": {
+        "en": "Which part of the body do we breathe in through during deep breathing?",
+        "hi": "गहरी साँस में किससे साँस अंदर लेते हैं?"
+      },
+      "answer": {
+        "en": "Nose",
+        "hi": "नाक"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Breathing exercises calm our mind. Team games like kho-kho and kabaddi make us strong and teach us to work together and follow rules.",
+    "hi": "साँस के व्यायाम मन को शांत करते हैं। खो-खो और कबड्डी जैसे टीम खेल हमें मज़बूत बनाते हैं और मिलकर काम करना व नियम मानना सिखाते हैं।"
+  }
+}

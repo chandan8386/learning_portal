@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Red light – stop; yellow – wait; green – go.",
+      "hi": "लाल बत्ती – रुको; पीली – रुककर देखो; हरी – चलो।"
+    },
+    {
+      "en": "Look left, right and left again before crossing.",
+      "hi": "सड़क पार करने से पहले बाएँ, दाएँ और फिर बाएँ देखो।"
+    },
+    {
+      "en": "Never go with strangers.",
+      "hi": "अनजान लोगों के साथ कभी मत जाओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Where should we cross the road?",
+        "hi": "सड़क कहाँ से पार करनी चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "It has black and white stripes.",
+          "hi": "इस पर काली और सफ़ेद पट्टियाँ होती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "At the zebra crossing",
+        "hi": "ज़ेबरा क्रॉसिंग पर"
+      }
+    },
+    {
+      "problem": {
+        "en": "A stranger offers you a chocolate. What will you do?",
+        "hi": "कोई अनजान व्यक्ति चॉकलेट देता है। तुम क्या करोगे?"
+      },
+      "steps": [
+        {
+          "en": "Strangers may not be safe.",
+          "hi": "अनजान लोग सुरक्षित नहीं भी हो सकते।"
+        }
+      ],
+      "answer": {
+        "en": "Say \"No\", go away and tell a parent or teacher.",
+        "hi": "\"नहीं\" कहो, दूर जाओ और माता-पिता या टीचर को बताओ।"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What does a red light mean?",
+        "hi": "लाल बत्ती का मतलब क्या है?"
+      },
+      "answer": {
+        "en": "Stop",
+        "hi": "रुको"
+      }
+    },
+    {
+      "question": {
+        "en": "Should we play with matchsticks?",
+        "hi": "क्या माचिस से खेलना चाहिए?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Whose hand should you hold while crossing the road?",
+        "hi": "सड़क पार करते समय किसका हाथ पकड़ना चाहिए?"
+      },
+      "answer": {
+        "en": "An adult's (parent or teacher)",
+        "hi": "किसी बड़े का (माता-पिता या टीचर)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Safety rules keep us from getting hurt. Cross the road at the zebra crossing holding an adult's hand. At home, do not touch plugs, fire or sharp knives.",
+    "hi": "सुरक्षा के नियम हमें चोट से बचाते हैं। सड़क ज़ेबरा क्रॉसिंग पर किसी बड़े का हाथ पकड़कर पार करो। घर में प्लग, आग और तेज़ चाकू मत छुओ।"
+  }
+}

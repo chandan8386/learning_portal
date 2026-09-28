@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Use \"this\" for things near you and \"that\" for things far away.",
+      "hi": "पास की चीज़ के लिए \"this\", दूर की के लिए \"that\"।"
+    },
+    {
+      "en": "Capital letter at the start, full stop at the end.",
+      "hi": "शुरू में बड़ा अक्षर, अंत में पूर्ण विराम।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Correct this sentence: \"the cat is black\"",
+        "hi": "वाक्य ठीक करो: \"the cat is black\""
+      },
+      "steps": [
+        {
+          "en": "Make the first letter capital: The.",
+          "hi": "पहला अक्षर बड़ा करो: The।"
+        },
+        {
+          "en": "Put a full stop at the end.",
+          "hi": "अंत में पूर्ण विराम लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "The cat is black.",
+        "hi": "The cat is black."
+      }
+    },
+    {
+      "problem": {
+        "en": "The moon is far away. Fill in: \"__ is the moon.\"",
+        "hi": "चाँद दूर है। भरो: \"__ is the moon.\""
+      },
+      "steps": [
+        {
+          "en": "Far things use \"That\".",
+          "hi": "दूर की चीज़ के लिए \"That\"।"
+        }
+      ],
+      "answer": {
+        "en": "That is the moon.",
+        "hi": "That is the moon."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Correct: \"i like mangoes\"",
+        "hi": "ठीक करो: \"i like mangoes\""
+      },
+      "answer": {
+        "en": "I like mangoes.",
+        "hi": "I like mangoes."
+      }
+    },
+    {
+      "question": {
+        "en": "Your bag is near you. Fill in: \"__ is my bag.\"",
+        "hi": "बैग तुम्हारे पास है। भरो: \"__ is my bag.\""
+      },
+      "answer": {
+        "en": "This",
+        "hi": "This"
+      }
+    },
+    {
+      "question": {
+        "en": "Read: \"Ravi has a red kite.\" What colour is the kite?",
+        "hi": "पढ़ो: \"Ravi has a red kite.\" पतंग किस रंग की है?"
+      },
+      "answer": {
+        "en": "Red",
+        "hi": "लाल"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A sentence tells a complete idea. It begins with a capital letter and ends with a full stop. \"This is my school.\" \"That is a tree.\"",
+    "hi": "वाक्य पूरी बात बताता है। यह बड़े अक्षर से शुरू होकर पूर्ण विराम पर ख़त्म होता है। \"This is my school.\" \"That is a tree.\""
+  }
+}

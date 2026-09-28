@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Plant-eaters: cow, goat, deer, rabbit",
+      "hi": "शाकाहारी: गाय, बकरी, हिरण, खरगोश"
+    },
+    {
+      "en": "Meat-eaters: lion, tiger, wolf",
+      "hi": "मांसाहारी: शेर, बाघ, भेड़िया"
+    },
+    {
+      "en": "Babies: cat – kitten, hen – chick, sheep – lamb",
+      "hi": "बच्चे: बिल्ली – kitten, मुर्गी – चूज़ा, भेड़ – मेमना"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is a deer a plant-eater or a meat-eater?",
+        "hi": "हिरण शाकाहारी है या मांसाहारी?"
+      },
+      "steps": [
+        {
+          "en": "A deer eats grass and leaves.",
+          "hi": "हिरण घास और पत्ते खाता है।"
+        }
+      ],
+      "answer": {
+        "en": "Plant-eater",
+        "hi": "शाकाहारी"
+      }
+    },
+    {
+      "problem": {
+        "en": "What is a baby dog called?",
+        "hi": "कुत्ते के बच्चे को क्या कहते हैं?"
+      },
+      "steps": [
+        {
+          "en": "It is a small, playful young dog.",
+          "hi": "यह छोटा, खिलंदड़ा बच्चा होता है।"
+        }
+      ],
+      "answer": {
+        "en": "Puppy",
+        "hi": "पिल्ला (puppy)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is a baby cow called?",
+        "hi": "गाय के बच्चे को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Calf",
+        "hi": "बछड़ा"
+      }
+    },
+    {
+      "question": {
+        "en": "Is a tiger a plant-eater or a meat-eater?",
+        "hi": "बाघ शाकाहारी है या मांसाहारी?"
+      },
+      "answer": {
+        "en": "Meat-eater",
+        "hi": "मांसाहारी"
+      }
+    },
+    {
+      "question": {
+        "en": "Where does a spider live?",
+        "hi": "मकड़ी कहाँ रहती है?"
+      },
+      "answer": {
+        "en": "In a web",
+        "hi": "जाले में"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Animals eat different foods. Plant-eaters (cow, goat) eat grass and leaves. Meat-eaters (lion, tiger) eat other animals. Some eat both (crow, bear). Animal babies have special names: a cow has a calf, a dog has a puppy.",
+    "hi": "जानवर अलग-अलग खाना खाते हैं। शाकाहारी (गाय, बकरी) घास-पत्ते खाते हैं। मांसाहारी (शेर, बाघ) दूसरे जानवर खाते हैं। कुछ दोनों खाते हैं (कौआ, भालू)। जानवरों के बच्चों के ख़ास नाम होते हैं: गाय का बछड़ा, कुत्ते का पिल्ला।"
+  }
+}

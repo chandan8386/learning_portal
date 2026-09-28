@@ -1,0 +1,66 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "− means take away.",
+      "hi": "− मतलब निकालो।"
+    },
+    {
+      "en": "Cross out the ones taken away, then count what is left.",
+      "hi": "निकाले गए चित्र काटो, फिर बचे हुए गिनो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "🍬🍬🍬🍬 − 🍬 = ?",
+        "hi": "🍬🍬🍬🍬 − 🍬 = ?"
+      },
+      "steps": [
+        {
+          "en": "There are 4 toffees. Take away 1.",
+          "hi": "4 टॉफ़ी हैं। 1 निकालो।"
+        },
+        {
+          "en": "Count what is left: 1, 2, 3.",
+          "hi": "बचे हुए गिनो: 1, 2, 3।"
+        }
+      ],
+      "answer": "4 − 1 = 3"
+    },
+    {
+      "problem": {
+        "en": "You have 6 crayons and give 2 to a friend. How many are left?",
+        "hi": "तुम्हारे पास 6 क्रेयॉन हैं, 2 दोस्त को दिए। कितने बचे?"
+      },
+      "steps": [
+        {
+          "en": "Start at 6 and count back 2: 5, 4.",
+          "hi": "6 से 2 पीछे गिनो: 5, 4।"
+        }
+      ],
+      "answer": {
+        "en": "4 crayons",
+        "hi": "4 क्रेयॉन"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": "5 − 1 = ?",
+      "answer": "4"
+    },
+    {
+      "question": "7 − 2 = ?",
+      "answer": "5"
+    },
+    {
+      "question": "3 − 3 = ?",
+      "answer": "0"
+    }
+  ],
+  "intro": {
+    "en": "Subtracting means taking away. There are 5 birds 🐦🐦🐦🐦🐦. 2 fly away. 3 are left. So 5 − 2 = 3.",
+    "hi": "घटाना मतलब निकालना। 5 चिड़ियाँ 🐦🐦🐦🐦🐦 हैं। 2 उड़ गईं। 3 बचीं। तो 5 − 2 = 3।"
+  }
+}

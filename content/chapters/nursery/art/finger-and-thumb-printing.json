@@ -1,0 +1,88 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Use a little paint at a time.",
+      "hi": "थोड़ा-थोड़ा रंग लो।"
+    },
+    {
+      "en": "Press gently and lift straight up.",
+      "hi": "हल्के दबाओ और सीधा उठाओ।"
+    },
+    {
+      "en": "Wash your hands after painting.",
+      "hi": "रंग के बाद हाथ धोओ।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How do you make a flower with finger prints?",
+        "hi": "उंगली की छाप से फूल कैसे बनाओगे?"
+      },
+      "steps": [
+        {
+          "en": "Make one print in the middle.",
+          "hi": "बीच में एक छाप लगाओ।"
+        },
+        {
+          "en": "Make 5 prints around it for petals.",
+          "hi": "उसके चारों ओर पंखुड़ियों के लिए 5 छाप लगाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A flower 🌸 with a centre and 5 petals",
+        "hi": "बीच और 5 पंखुड़ियों वाला फूल 🌸"
+      }
+    },
+    {
+      "problem": {
+        "en": "What do many green thumb prints in a line look like?",
+        "hi": "एक लाइन में कई हरे अंगूठे की छाप कैसी दिखती हैं?"
+      },
+      "steps": [
+        {
+          "en": "Add two eyes on the first print.",
+          "hi": "पहली छाप पर दो आँखें बनाओ।"
+        }
+      ],
+      "answer": {
+        "en": "A caterpillar 🐛",
+        "hi": "इल्ली 🐛"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What should you do after painting?",
+        "hi": "रंग के बाद क्या करना चाहिए?"
+      },
+      "answer": {
+        "en": "Wash hands",
+        "hi": "हाथ धोने चाहिए"
+      }
+    },
+    {
+      "question": {
+        "en": "How many petals did we make on the flower?",
+        "hi": "फूल में कितनी पंखुड़ियाँ बनाईं?"
+      },
+      "answer": "5"
+    },
+    {
+      "question": {
+        "en": "Which finger makes the biggest print?",
+        "hi": "कौन-सी उंगली सबसे बड़ी छाप बनाती है?"
+      },
+      "answer": {
+        "en": "Thumb",
+        "hi": "अंगूठा"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We can make pictures with our fingers! Dip your thumb in paint and press it on paper. Many thumb prints in a line make a caterpillar 🐛.",
+    "hi": "उंगलियों से भी चित्र बनते हैं! अंगूठे को रंग में डुबोकर कागज़ पर दबाओ। एक लाइन में कई अंगूठे की छाप से इल्ली 🐛 बनती है।"
+  }
+}
