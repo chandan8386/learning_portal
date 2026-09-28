@@ -1,0 +1,772 @@
+== class-6/maths/patterns-in-mathematics
+I: Mathematics is the study of patterns. Number sequences like odd numbers (1, 3, 5 …), square numbers (1, 4, 9 …) and triangular numbers (1, 3, 6 …) follow rules we can discover, picture with dots, and use to predict what comes next.
+K: Adding consecutive odd numbers starting from 1 gives square numbers: 1 + 3 + 5 = 9 = 3².
+K: Triangular numbers: 1, 3, 6, 10, 15 … (add 2, 3, 4, 5 …).
+K: Powers of 2: 1, 2, 4, 8, 16 … (each doubles).
+E: Find the sum 1 + 3 + 5 + 7 + 9 + 11 without adding one by one.
+S: These are the first 6 odd numbers.
+S: Sum of the first n odd numbers = n × n.
+A: 6 × 6 = 36
+E: Find the next two terms: 1, 3, 6, 10, 15, __, __
+S: Differences are 2, 3, 4, 5 → next differences are 6 and 7.
+S: 15 + 6 = 21, 21 + 7 = 28
+A: 21, 28
+P: Next term: 2, 4, 8, 16, __
+R: 32
+P: Sum of the first 10 odd numbers?
+R: 100
+P: Next term: 1, 4, 9, 16, 25, __
+R: 36
+
+== class-6/maths/lines-and-angles
+I: A point marks a position; a line segment has two endpoints; a ray has one endpoint and goes on in one direction; a line goes on in both directions. Two rays from a common point (vertex) form an angle, measured in degrees with a protractor.
+K: Acute < 90°, right = 90°, obtuse between 90° and 180°, straight = 180°, reflex between 180° and 360°.
+K: A full turn is 360°.
+K: Name an angle with its vertex in the middle: ∠ABC has vertex B.
+E: What is the angle between the hands of a clock at 4 o'clock?
+S: Each hour mark is 360° ÷ 12 = 30° apart.
+S: From 12 to 4 is 4 marks: 4 × 30°.
+A: 120° (obtuse)
+E: An angle measures 250°. What type is it?
+S: It is more than 180° but less than 360°.
+A: Reflex angle
+P: How many degrees apart are two adjacent hour marks on a clock?
+R: 30°
+P: Type of angle: 90°?
+R: Right angle
+P: In ∠PQR, which point is the vertex?
+R: Q
+
+== class-6/maths/number-play
+I: Numbers hide many surprises. Digit sums, palindromes (read the same both ways, like 121), and the Kaprekar routine (6174) show how exploring numbers builds reasoning. We also learn to estimate and compare large numbers.
+K: A palindrome reads the same forwards and backwards: 353, 4884.
+K: Digit sum of 347 = 3 + 4 + 7 = 14.
+K: Kaprekar's constant: repeatedly subtracting the smallest from the largest arrangement of a 4-digit number reaches 6174.
+E: Start with 3524. Arrange digits largest and smallest, then subtract.
+S: Largest: 5432; smallest: 2345.
+S: 5432 − 2345 = 3087
+A: 3087 (repeating the process will reach 6174)
+E: Reverse 67 and add: is the result a palindrome?
+S: 67 + 76 = 143; not a palindrome. Repeat: 143 + 341 = 484.
+A: Yes, after two steps: 484
+P: Is 1331 a palindrome?
+R: Yes
+P: Digit sum of 9,081?
+R: 18
+P: Largest 3-digit number using 4, 0, 9 once each?
+R: 940
+
+== class-6/maths/data-handling-and-presentation
+I: Data is collected, organised and presented so we can understand it. We use tally marks and tables to organise, and pictographs and bar graphs to present. A good graph has a title, labelled axes and a suitable scale.
+K: Frequency = how many times a value occurs.
+K: Choose a scale so bars fit neatly (e.g. 1 unit = 5 students).
+K: Bar graphs make comparisons quick.
+E: Favourite fruits: mango 12, apple 8, banana 10, grapes 5. With scale 1 unit = 2 students, how tall is each bar?
+S: Divide each count by 2.
+A: Mango 6, apple 4, banana 5, grapes 2.5 units
+E: From the data, how many students were surveyed in all?
+S: 12 + 8 + 10 + 5
+A: 35 students
+P: What is the frequency of "blue" in: red, blue, blue, green, blue?
+R: 3
+P: Scale 1 unit = 10. A bar of 4.5 units shows?
+R: 45
+P: Name two things every bar graph needs.
+R: A title and a scale (also labelled axes)
+
+== class-6/maths/prime-time
+I: A prime number has exactly two factors, 1 and itself (2, 3, 5, 7, 11 …). Composite numbers have more than two factors. Every composite number can be written as a product of primes (prime factorisation). Divisibility rules help us test factors quickly.
+K: Divisible by 2: last digit even; by 3: digit sum divisible by 3; by 5: ends in 0 or 5.
+K: Divisible by 4: last two digits divisible by 4; by 9: digit sum divisible by 9; by 10: ends in 0.
+K: Co-prime numbers have no common factor except 1 (e.g. 8 and 15).
+E: Prime factorise 84.
+S: 84 = 2 × 42 = 2 × 2 × 21 = 2 × 2 × 3 × 7
+A: 84 = 2² × 3 × 7
+E: Is 2,346 divisible by 3 and by 4?
+S: Digit sum = 2 + 3 + 4 + 6 = 15, divisible by 3 → yes for 3.
+S: Last two digits 46; 46 is not divisible by 4 → no for 4.
+A: Divisible by 3, not by 4
+P: Is 91 prime?
+R: No (7 × 13)
+P: Prime factorise 60.
+R: 2² × 3 × 5
+P: Are 9 and 16 co-prime?
+R: Yes
+
+== class-6/maths/perimeter-and-area
+I: Perimeter is the total length of the boundary of a closed figure. Area is the amount of surface it covers, measured in square units. For rectangles and squares we have simple formulas; for triangles, area is half the rectangle around it.
+K: Rectangle: P = 2(l + b), A = l × b
+K: Square: P = 4s, A = s × s
+K: Triangle: A = ½ × base × height
+E: A rectangular park is 60 m by 40 m. Find the cost of fencing at ₹25 per metre.
+S: Perimeter = 2 × (60 + 40) = 200 m.
+S: Cost = 200 × ₹25
+A: ₹5,000
+E: A triangle has base 12 cm and height 5 cm. Find its area.
+S: Area = ½ × 12 × 5
+A: 30 sq cm
+P: Area of a square of side 15 cm?
+R: 225 sq cm
+P: A rectangle has area 96 sq m and length 12 m. Breadth?
+R: 8 m
+P: Perimeter of an equilateral triangle of side 9 cm?
+R: 27 cm
+
+== class-6/maths/fractions
+I: A fraction represents a part of a whole or a point on the number line. We compare, add and subtract fractions by making denominators equal (using the LCM). Mixed numbers like 2¾ combine a whole number and a fraction.
+K: Equivalent fractions: 2/3 = 4/6 = 8/12.
+K: Simplest form: divide numerator and denominator by their HCF.
+K: Mixed to improper: 2¾ = (2 × 4 + 3)/4 = 11/4.
+E: Add 2/3 + 3/4.
+S: LCM of 3 and 4 is 12: 2/3 = 8/12, 3/4 = 9/12.
+S: 8/12 + 9/12 = 17/12
+A: 17/12 = 1 5/12
+E: Simplify 18/24.
+S: HCF of 18 and 24 is 6.
+S: 18 ÷ 6 = 3, 24 ÷ 6 = 4
+A: 3/4
+P: 5/6 − 1/4 = ?
+R: 7/12
+P: Convert 17/5 to a mixed number.
+R: 3 2/5
+P: Which is greater: 3/5 or 4/7?
+R: 3/5 (21/35 > 20/35)
+
+== class-6/maths/playing-with-constructions
+I: Using a ruler and compass we can draw circles, copy lengths, and construct shapes accurately. A compass keeps a fixed distance, so every point it draws is the same distance from the centre.
+K: Radius = distance from centre to the circle; diameter = 2 × radius.
+K: To draw a square: draw a side, construct right angles, mark equal sides.
+K: A rectangle's diagonals are equal and bisect each other.
+E: How do you draw a circle of radius 4 cm?
+S: Open the compass to 4 cm on the ruler.
+S: Place the needle at the centre and rotate the pencil once.
+A: Set compass to 4 cm, fix the centre, draw a full turn.
+E: A rectangle has sides 6 cm and 8 cm. How long is each diagonal?
+S: Diagonal² = 6² + 8² = 36 + 64 = 100.
+A: 10 cm
+P: Diameter of a circle with radius 3.5 cm?
+R: 7 cm
+P: What tool keeps a fixed distance while drawing a circle?
+R: Compass
+P: Are the diagonals of a rectangle equal?
+R: Yes
+
+== class-6/maths/symmetry
+I: A figure has line symmetry if a line divides it into two mirror-image halves. It has rotational symmetry if it looks the same after a turn of less than 360°. The number of times it matches in one full turn is its order of rotational symmetry.
+K: Square: 4 lines of symmetry, rotational order 4.
+K: Equilateral triangle: 3 lines, order 3.
+K: Circle: infinite lines of symmetry.
+E: How many lines of symmetry does a regular hexagon have?
+S: A regular polygon with n sides has n lines of symmetry.
+A: 6
+E: What is the order of rotational symmetry of the letter S?
+S: Turning S by 180° gives the same shape.
+A: 2
+P: Lines of symmetry in a rectangle (not square)?
+R: 2
+P: Does the letter H have line symmetry?
+R: Yes (two lines)
+P: Order of rotational symmetry of a square?
+R: 4
+
+== class-6/maths/the-other-side-of-zero
+I: Numbers less than zero are negative numbers. Together with zero and positive numbers they form integers: … −3, −2, −1, 0, 1, 2, 3 …. Integers describe temperatures below zero, floors below ground, and money owed.
+K: On the number line, numbers increase to the right.
+K: Adding a negative is like subtracting: 5 + (−3) = 2.
+K: Subtracting a negative is like adding: 5 − (−3) = 8.
+E: The temperature is 4 °C and falls by 9 °C. What is it now?
+S: 4 − 9 = −5
+A: −5 °C
+E: A lift is at floor −2 (basement 2). It goes up 6 floors. Which floor?
+S: −2 + 6 = 4
+A: Floor 4
+P: Which is greater: −7 or −3?
+R: −3
+P: (−8) + 5 = ?
+R: −3
+P: 6 − (−4) = ?
+R: 10
+
+== class-6/science/the-wonderful-world-of-science
+I: Science is a way of understanding the world by asking questions, observing carefully, making guesses (hypotheses), testing them with experiments and drawing conclusions. Everyone can think like a scientist.
+K: Steps: observe → question → hypothesis → experiment → conclusion.
+K: A fair test changes only one thing at a time.
+K: Record observations honestly, even if they don't match your guess.
+E: Does a plant grow better in sunlight or in the dark? Design a fair test.
+S: Take two identical pots with the same plant, soil and water.
+S: Keep one in sunlight and one in a dark cupboard; observe for a week.
+A: Change only light; keep everything else the same, then compare growth.
+E: Why must we change only one thing in an experiment?
+S: If many things change, we can't tell which one caused the result.
+A: So we know exactly what caused the change we see.
+P: What is an educated guess in science called?
+R: A hypothesis
+P: What is the first step of the scientific method?
+R: Observation
+P: What is a test that changes only one factor called?
+R: A fair test
+
+== class-6/science/diversity-in-the-living-world
+I: Living things show great variety (biodiversity). We group plants and animals by common features to study them. Plants can be herbs, shrubs, trees, climbers and creepers; animals can be grouped by where they live and what they eat.
+K: Herbs: soft green stem (mint); shrubs: woody, bushy (rose); trees: thick trunk (neem).
+K: Climbers need support (money plant); creepers spread on the ground (pumpkin).
+K: Leaves show reticulate (net) or parallel venation.
+E: A plant has a weak stem and spreads along the ground. What is it called?
+S: It cannot climb and has no support.
+A: A creeper (e.g. pumpkin, watermelon)
+E: Grass leaves have veins running side by side. What type of venation is this?
+S: Veins run parallel to each other.
+A: Parallel venation
+P: Is tulsi a herb or a shrub?
+R: Shrub
+P: Leaves of mango have which venation?
+R: Reticulate
+P: What is the variety of living things called?
+R: Biodiversity
+
+== class-6/science/mindful-eating-a-path-to-a-healthy-body
+I: Food gives us nutrients: carbohydrates and fats for energy, proteins for growth and repair, vitamins and minerals for protection, plus water and fibre (roughage). A balanced diet has all of these in the right amounts. Too little of a nutrient causes deficiency diseases.
+K: Test for starch: iodine turns blue-black. Test for protein: copper sulphate + caustic soda turns violet. Test for fat: oily patch on paper.
+K: Deficiencies: vitamin A → night blindness; vitamin C → scurvy; iron → anaemia; iodine → goitre.
+K: Roughage helps digestion; water helps remove waste.
+E: A drop of iodine on a potato slice turns blue-black. What does this show?
+S: Iodine reacts with starch to give blue-black colour.
+A: The potato contains starch.
+E: A child has swollen, bleeding gums. Which nutrient is lacking?
+S: This is a sign of scurvy.
+A: Vitamin C
+P: Which nutrient helps build and repair the body?
+R: Proteins
+P: Lack of iodine causes which disease?
+R: Goitre
+P: What is roughage?
+R: Dietary fibre that helps digestion
+
+== class-6/science/exploring-magnets
+I: Magnets attract iron, nickel and cobalt (magnetic materials). Every magnet has two poles, north and south. Like poles repel and unlike poles attract. A freely hanging magnet always points north–south, which is how a compass works.
+K: Magnetic materials: iron, nickel, cobalt. Non-magnetic: wood, plastic, glass, copper.
+K: Like poles repel; unlike poles attract.
+K: Attraction is strongest at the poles.
+E: Two bar magnets are placed with their north poles facing each other. What happens?
+S: Like poles face each other.
+A: They repel (push away).
+E: Why does a compass needle point north?
+S: The needle is a tiny magnet.
+S: Earth behaves like a giant magnet.
+A: The magnetic needle aligns north–south along Earth's magnetic field.
+P: Will a magnet attract an aluminium can?
+R: No
+P: Where is a magnet's attraction strongest?
+R: At its poles
+P: North pole near south pole: attract or repel?
+R: Attract
+
+== class-6/science/measurement-of-length-and-motion
+I: Measurement compares a quantity with a standard unit. The SI unit of length is the metre (m). Motion is a change in position over time; it can be linear (straight line), circular, periodic (repeats) or oscillatory.
+K: 1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm.
+K: Read a ruler with the eye directly above the mark to avoid error.
+K: Examples: car on a straight road (linear), fan blade (circular), pendulum (periodic/oscillatory).
+E: A pencil starts at the 2.0 cm mark and ends at 14.5 cm. How long is it?
+S: Length = end − start = 14.5 − 2.0
+A: 12.5 cm
+E: What kind of motion does a swing show?
+S: It moves to and fro about a fixed point and repeats.
+A: Oscillatory (periodic) motion
+P: SI unit of length?
+R: Metre
+P: Motion of the hands of a clock?
+R: Circular (and periodic)
+P: Convert 2.5 m to cm.
+R: 250 cm
+
+== class-6/science/materials-around-us
+I: Objects are made of materials like wood, glass, metal, plastic and cloth. Materials are grouped by properties: appearance (lustre), hardness, solubility in water, whether they float or sink, and transparency.
+K: Transparent (glass), translucent (butter paper), opaque (wood).
+K: Soluble in water: sugar, salt; insoluble: sand, chalk.
+K: Metals are lustrous (shiny) and usually hard.
+E: You can see light but not clear shapes through frosted glass. What type of material is it?
+S: Some light passes, but not clearly.
+A: Translucent
+E: Why are cooking pots made of metal but have plastic handles?
+S: Metals conduct heat well; plastic does not.
+A: Metal heats food quickly; the plastic handle stays cool to hold.
+P: Is chalk soluble in water?
+R: No
+P: Give an example of an opaque object.
+R: Wood, a book, a wall (any one)
+P: What property makes metals shiny?
+R: Lustre
+
+== class-6/science/temperature-and-its-measurement
+I: Temperature tells how hot or cold something is. It is measured with a thermometer in degrees Celsius (°C). A clinical thermometer measures body temperature (35–42 °C); a laboratory thermometer measures a wider range (about −10 to 110 °C).
+K: Normal body temperature: about 37 °C.
+K: Water freezes at 0 °C and boils at 100 °C (at sea level).
+K: Digital thermometers are safer than mercury ones.
+E: Why can't a clinical thermometer measure boiling water?
+S: Its range is only about 35–42 °C.
+A: 100 °C is outside its range; it could break.
+E: A patient's temperature is 39 °C. Is it normal?
+S: Normal is about 37 °C.
+A: No, the patient has a fever.
+P: Unit of temperature we commonly use?
+R: Degree Celsius (°C)
+P: Which thermometer is used to measure boiling water?
+R: Laboratory thermometer
+P: At what temperature does water freeze?
+R: 0 °C
+
+== class-6/science/a-journey-through-states-of-water
+I: Water exists as solid (ice), liquid (water) and gas (water vapour). Heating and cooling change its state: melting, evaporation, condensation and freezing. These changes drive the water cycle that brings rain.
+K: Melting: ice → water; freezing: water → ice.
+K: Evaporation: water → vapour (faster with heat, wind, large surface).
+K: Condensation: vapour → water droplets (dew, clouds, drops on a cold glass).
+E: Why do droplets form outside a glass of ice water?
+S: Water vapour in the air touches the cold glass.
+A: The vapour cools and condenses into liquid droplets.
+E: Why do clothes dry faster on a sunny, windy day?
+S: Heat and wind speed up evaporation.
+A: Evaporation is faster with more heat and moving air.
+P: Change of water into vapour is called?
+R: Evaporation
+P: How do clouds form?
+R: Water vapour rises, cools and condenses into tiny droplets
+P: Change of ice into water is called?
+R: Melting
+
+== class-6/science/methods-of-separation-in-everyday-life
+I: Mixtures contain two or more substances that can be separated. We choose a method based on the properties of the components: size, weight, solubility or whether they are magnetic.
+K: Handpicking (stones from rice), sieving (bran from flour), winnowing (husk from grain).
+K: Sedimentation and decantation (mud from water), filtration (tea leaves from tea).
+K: Evaporation (salt from seawater); magnet (iron filings from sand).
+E: How would you separate a mixture of salt and sand?
+S: Add water: salt dissolves, sand does not.
+S: Filter out the sand, then evaporate the water to get salt.
+A: Dissolve → filter → evaporate
+E: Which method separates husk from grain using wind?
+S: The lighter husk blows away when grain is dropped from a height.
+A: Winnowing
+P: How is salt obtained from seawater?
+R: By evaporation
+P: How do you separate iron pins from sand?
+R: Using a magnet
+P: Name the method used to remove tea leaves from tea.
+R: Filtration (straining)
+
+== class-6/science/living-creatures-exploring-their-characteristics
+I: Living things share features: they need food, breathe (respire), grow, respond to stimuli, reproduce, get rid of wastes and move. Non-living things do not show all of these. Seeds show life when they germinate.
+K: Characteristics: nutrition, respiration, growth, response, reproduction, excretion, movement.
+K: Germination needs water, air and suitable warmth.
+K: Plants respond too: sunflower turns to the sun; touch-me-not closes when touched.
+E: Is a seed living or non-living?
+S: A dry seed shows no activity, but it germinates when given water and air.
+A: Living (it is dormant until conditions are right)
+E: What happens when you touch the leaves of a touch-me-not plant?
+S: The plant responds to the stimulus.
+A: The leaves fold up — a response to touch.
+P: Name two characteristics of living things.
+R: Growth and respiration (also reproduction, response, etc.)
+P: What three things does a seed need to germinate?
+R: Water, air and warmth
+P: Do plants respond to light?
+R: Yes, they grow towards light
+
+== class-6/science/nature-s-treasures
+I: Natural resources like air, water, soil, sunlight, forests and minerals come from nature. Renewable resources (sunlight, wind) are replenished; non-renewable ones (coal, petroleum) take millions of years to form and can run out.
+K: Renewable: sunlight, wind, water, forests (if used wisely).
+K: Non-renewable: coal, petroleum, natural gas, minerals.
+K: Use resources wisely: reduce, reuse, recycle.
+E: Is petroleum renewable or non-renewable? Why?
+S: Petroleum forms from buried organisms over millions of years.
+A: Non-renewable — it cannot be replaced in our lifetime.
+E: Give two ways to conserve electricity (which often comes from coal).
+S: Think of switching off and efficient devices.
+A: Switch off unused lights and fans; use LED bulbs.
+P: Is sunlight renewable?
+R: Yes
+P: Name two non-renewable resources.
+R: Coal and petroleum
+P: What are the 3 Rs?
+R: Reduce, reuse, recycle
+
+== class-6/science/beyond-earth
+I: The night sky shows stars, planets, the Moon and constellations. The Sun is a star at the centre of our solar system. The Moon shines by reflecting sunlight and shows phases as it orbits Earth. India's ISRO explores space with missions like Chandrayaan and Aditya-L1.
+K: 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+K: Constellations are groups of stars forming patterns (Ursa Major/Saptarishi, Orion).
+K: The Pole Star appears fixed and shows north.
+E: Why does the Moon seem to change shape during a month?
+S: The Moon reflects sunlight.
+S: As it orbits Earth, we see different amounts of its lit half.
+A: Because we see different portions of its sunlit side (phases).
+E: How can you find north at night?
+S: Use the Saptarishi to locate the Pole Star.
+A: Find the Pole Star (Dhruv Tara); it lies in the north.
+P: Which is the nearest star to Earth?
+R: The Sun
+P: Which ISRO mission studies the Sun?
+R: Aditya-L1
+P: Name one constellation.
+R: Orion or Ursa Major (Saptarishi)
+
+== class-6/social-science/locating-places-on-the-earth
+I: Maps and globes help us locate places. Latitudes are imaginary lines running east–west, measured north and south of the Equator (0°). Longitudes run north–south, measured east and west of the Prime Meridian (0°, Greenwich). Together they form a grid giving exact locations.
+K: Equator 0°; North Pole 90°N; South Pole 90°S.
+K: Prime Meridian 0° passes through Greenwich, London.
+K: India's Standard Time is based on 82½°E.
+E: Delhi is about 28°N, 77°E. What does this tell us?
+S: 28°N: 28 degrees north of the Equator.
+S: 77°E: 77 degrees east of the Prime Meridian.
+A: Delhi lies in the Northern and Eastern Hemispheres at that grid point.
+E: Why is Indian Standard Time ahead of Greenwich time by 5 h 30 min?
+S: Earth rotates 15° per hour; 82.5° ÷ 15° = 5.5 h.
+A: Because IST is based on 82½°E longitude, 5½ hours ahead.
+P: Latitude of the Equator?
+R: 0°
+P: Where does the Prime Meridian pass?
+R: Greenwich, London
+P: How many degrees does Earth rotate in one hour?
+R: 15°
+
+== class-6/social-science/oceans-and-continents
+I: About 71% of Earth's surface is covered by water. There are 7 continents (Asia, Africa, North America, South America, Antarctica, Europe, Australia) and 5 oceans (Pacific, Atlantic, Indian, Southern, Arctic).
+K: Largest continent: Asia; smallest: Australia.
+K: Largest ocean: Pacific; smallest: Arctic.
+K: India is surrounded by the Arabian Sea, Bay of Bengal and Indian Ocean.
+E: Which ocean lies between Africa and Australia?
+S: It is named after a country in Asia.
+A: The Indian Ocean
+E: Which continent is covered with ice and has no permanent residents?
+S: It lies around the South Pole.
+A: Antarctica
+P: Largest ocean?
+R: Pacific Ocean
+P: About what percent of Earth is covered by water?
+R: About 71%
+P: Smallest continent?
+R: Australia
+
+== class-6/social-science/landforms-and-life
+I: The Earth's surface has mountains, plateaus and plains. Each landform shapes how people live: farming thrives on fertile plains, plateaus are rich in minerals, and mountain life depends on terraces, herding and tourism.
+K: Mountains: high, steep slopes (Himalayas).
+K: Plateaus: raised flat land (Deccan Plateau), rich in minerals.
+K: Plains: flat low land formed by rivers (Indo-Gangetic plains), good for farming.
+E: Why do most people in India live on the Gangetic plains?
+S: Rivers deposit fertile soil and provide water.
+A: Fertile soil, water and flat land make farming and transport easy.
+E: How do people farm on steep mountain slopes?
+S: Flat steps are cut into the hillside.
+A: By terrace farming
+P: Name a plateau in India.
+R: Deccan Plateau (also Chota Nagpur)
+P: Which landform is best for farming?
+R: Plains
+P: What is step farming on hills called?
+R: Terrace farming
+
+== class-6/social-science/timeline-and-sources-of-history
+I: History tells us about the past using sources. A timeline shows events in order. BCE (Before Common Era) years count down towards year 1; CE years count up. Sources can be archaeological (coins, tools, buildings) or literary (books, inscriptions).
+K: BCE dates count backwards: 500 BCE is earlier than 200 BCE.
+K: Archaeological sources: pottery, coins, monuments.
+K: Literary sources: manuscripts, inscriptions, travellers' accounts.
+E: Which happened earlier: an event in 300 BCE or one in 100 BCE?
+S: BCE numbers count down to 1.
+A: 300 BCE is earlier.
+E: How many years passed from 200 BCE to 300 CE?
+S: 200 years to reach year 1, then 300 more (there is no year 0).
+A: 499 years (≈ 500 years)
+P: An old coin found at a site is what type of source?
+R: Archaeological source
+P: What does BCE mean?
+R: Before Common Era
+P: Why are timelines useful?
+R: They show events in the order they happened
+
+== class-6/social-science/india-s-cultural-roots
+I: India's culture has deep roots in ancient knowledge: the Vedas, Upanishads, Buddhism and Jainism, as well as advances in mathematics, medicine (Ayurveda) and astronomy. These ideas spread and shaped life across the subcontinent.
+K: The Vedas are among the oldest texts; the Rig Veda is the oldest.
+K: Buddhism (Gautama Buddha) and Jainism (Mahavira) taught non-violence.
+K: Ancient Indians contributed zero, the decimal system and Ayurveda.
+E: Who founded Buddhism and what did he teach?
+S: He was a prince who gave up luxury to seek truth.
+A: Gautama Buddha — the Middle Path, the end of suffering and non-violence.
+E: Name one ancient Indian contribution to mathematics.
+S: It is a number that holds place value.
+A: Zero (and the decimal place-value system)
+P: Oldest of the Vedas?
+R: Rig Veda
+P: Who was the 24th tirthankara of Jainism?
+R: Mahavira
+P: Traditional Indian system of medicine?
+R: Ayurveda
+
+== class-6/social-science/unity-in-diversity
+I: India has many languages, religions, foods, dresses and festivals, yet people share a sense of belonging to one nation. This is called unity in diversity. The Constitution protects this diversity.
+K: India has 22 scheduled languages.
+K: Festivals are shared across communities.
+K: National symbols unite us: flag, anthem, emblem.
+E: Give an example of unity in diversity in food.
+S: Think of a dish eaten in many regions in different forms.
+A: Rice is eaten across India as biryani, pulao, idli, pongal or khichdi.
+E: How does the national anthem show unity?
+S: It names regions from across India.
+A: It mentions many regions (Punjab, Sindh, Gujarat, Maratha, Dravida, Utkala, Banga) as one nation.
+P: How many scheduled languages does India have?
+R: 22
+P: Name one national symbol.
+R: The Tiranga, the national emblem or the anthem
+P: What does unity in diversity mean?
+R: Being united as one nation despite many differences
+
+== class-6/social-science/family-and-community
+I: Family is the first place where we learn values and roles. Communities are larger groups that share a place, work or culture, and support each other through festivals, help in need and shared resources.
+K: Families can be nuclear or joint.
+K: Communities share resources like wells, schools, parks.
+K: Cooperation and respect keep communities strong.
+E: How does a community help during a flood?
+S: People come together to share food, shelter and labour.
+A: Neighbours share food and shelter, rescue people and rebuild together.
+E: Give one role children play in a family.
+S: Think of small responsibilities at home.
+A: Helping with chores and caring for elders or siblings.
+P: A family of parents and children only is called?
+R: Nuclear family
+P: Name one shared community resource.
+R: Park, school, well, hospital (any one)
+P: What value keeps communities strong?
+R: Cooperation (also respect, sharing)
+
+== class-6/social-science/grassroots-democracy-local-government
+I: Local government works closest to people. In villages, the Gram Panchayat (headed by the Sarpanch) handles roads, water, sanitation and schools. In towns and cities, municipal bodies (headed by a Mayor or chairperson) do similar work. The Gram Sabha includes all adult voters of the village.
+K: Three-tier Panchayati Raj: Gram Panchayat, Panchayat Samiti (block), Zila Parishad (district).
+K: Gram Sabha: all adults (18+) of the village meet to discuss plans.
+K: Municipal Corporation for big cities; Municipal Council for towns.
+E: Who heads a Gram Panchayat?
+S: This person is elected by the village.
+A: The Sarpanch (Pradhan)
+E: Where should villagers complain about a broken hand-pump?
+S: Local water supply is a Panchayat duty.
+A: To the Gram Panchayat (or raise it in the Gram Sabha)
+P: Who can attend the Gram Sabha?
+R: All adult voters of the village
+P: Who heads a Municipal Corporation?
+R: The Mayor
+P: Name the three tiers of Panchayati Raj.
+R: Gram Panchayat, Panchayat Samiti, Zila Parishad
+
+== class-6/social-science/economic-activities-around-us
+I: Economic activities are done to earn a living. Primary activities take resources from nature (farming, fishing, mining). Secondary activities make goods (factories, weaving). Tertiary activities provide services (teaching, banking, transport).
+K: Primary: farming, fishing, mining, forestry.
+K: Secondary: manufacturing, construction.
+K: Tertiary: services such as trade, transport, health, education.
+E: Classify: a baker who makes bread from flour.
+S: The baker turns a raw material into a new product.
+A: Secondary activity
+E: Classify: a doctor treating patients.
+S: The doctor provides a service, not a product.
+A: Tertiary activity
+P: Fishing is which type of activity?
+R: Primary
+P: A car factory is which type?
+R: Secondary
+P: A bus conductor's work is which type?
+R: Tertiary
+
+== class-6/social-science/the-value-of-work
+I: All work has value. Some work is paid (jobs, business); some is unpaid but essential (household work, caring for family, volunteering). Recognising unpaid work and respecting all workers makes society fair.
+K: Paid work: earns wages or income.
+K: Unpaid work: cooking, cleaning, caring — often done by women at home.
+K: Dignity of labour means every honest job deserves respect.
+E: Is cooking at home paid or unpaid work?
+S: Family members usually aren't paid for it.
+A: Unpaid work (but very valuable)
+E: What does "dignity of labour" mean?
+S: It is about respect for all kinds of work.
+A: Every honest job, whether by hand or head, deserves equal respect.
+P: Give one example of unpaid work.
+R: Cooking, cleaning, caring for elders, volunteering (any one)
+P: Should a sweeper be respected like a teacher?
+R: Yes — all honest work deserves respect
+P: Work done for free to help society is called?
+R: Volunteering
+
+== class-6/sanskrit/varnamala-and-pronunciation
+I: संस्कृत वर्णमाला में स्वर और व्यंजन होते हैं। शुद्ध उच्चारण संस्कृत का आधार है। स्वर: अ आ इ ई उ ऊ ऋ ॠ ऌ ए ऐ ओ औ; व्यंजन क से ह तक।
+K: ह्रस्व स्वर: अ इ उ ऋ ऌ; दीर्घ: आ ई ऊ ॠ ए ऐ ओ औ
+K: उच्चारण स्थान: कंठ (क वर्ग), तालु (च वर्ग), मूर्धा (ट वर्ग), दंत (त वर्ग), ओष्ठ (प वर्ग)
+K: अनुस्वार (ं) और विसर्ग (ः) भी वर्ण हैं।
+E: "प" का उच्चारण स्थान क्या है?
+S: बोलते समय दोनों होंठ मिलते हैं।
+A: ओष्ठ
+E: "ट" किस स्थान से बोला जाता है?
+S: जीभ मुँह की छत (मूर्धा) को छूती है।
+A: मूर्धा
+P: "क" का उच्चारण स्थान?
+R: कंठ
+P: "च" का उच्चारण स्थान?
+R: तालु
+P: विसर्ग का चिह्न क्या है?
+R: ः
+
+== class-6/sanskrit/shabd-roop
+I: संस्कृत में संज्ञा शब्द विभक्ति और वचन के अनुसार रूप बदलते हैं। अकारान्त पुल्लिंग शब्द "बालक" के रूप: बालकः (एकवचन), बालकौ (द्विवचन), बालकाः (बहुवचन)।
+K: तीन वचन: एकवचन, द्विवचन, बहुवचन
+K: प्रथमा विभक्ति (कर्ता): बालकः, बालकौ, बालकाः
+K: आकारान्त स्त्रीलिंग "लता": लता, लते, लताः
+E: "दो बालक" को संस्कृत में क्या कहेंगे?
+S: दो के लिए द्विवचन।
+A: बालकौ
+E: "बहुत सी लताएँ" का संस्कृत रूप?
+S: लता का प्रथमा बहुवचन।
+A: लताः
+P: "बालक" का प्रथमा एकवचन?
+R: बालकः
+P: संस्कृत में कितने वचन होते हैं?
+R: तीन
+P: "लता" का प्रथमा द्विवचन?
+R: लते
+
+== class-6/sanskrit/dhatu-roop
+I: धातु क्रिया का मूल रूप है। "पठ्" (पढ़ना) धातु के लट् लकार (वर्तमान काल) में रूप: पठति (वह पढ़ता है), पठतः (वे दो पढ़ते हैं), पठन्ति (वे सब पढ़ते हैं)।
+K: प्रथम पुरुष: पठति, पठतः, पठन्ति
+K: मध्यम पुरुष: पठसि, पठथः, पठथ
+K: उत्तम पुरुष: पठामि, पठावः, पठामः
+E: "मैं पढ़ता हूँ" का संस्कृत अनुवाद करो।
+S: मैं = अहम्; उत्तम पुरुष एकवचन।
+A: अहं पठामि।
+E: "वे सब खेलते हैं" (क्रीड्) का संस्कृत?
+S: प्रथम पुरुष बहुवचन: क्रीडन्ति।
+A: ते क्रीडन्ति।
+P: "तुम पढ़ते हो" का संस्कृत?
+R: त्वं पठसि।
+P: "हम सब पढ़ते हैं" का संस्कृत?
+R: वयं पठामः।
+P: लट् लकार किस काल को बताता है?
+R: वर्तमान काल
+
+== class-6/sanskrit/numbers-in-sanskrit
+I: संस्कृत में संख्याएँ: एकम् (1), द्वे (2), त्रीणि (3), चत्वारि (4), पञ्च (5), षट् (6), सप्त (7), अष्ट (8), नव (9), दश (10)।
+K: 11 एकादश, 12 द्वादश, 20 विंशतिः
+K: 50 पञ्चाशत्, 100 शतम्
+K: एक, द्वि, त्रि, चतुर् संख्याएँ लिंग के अनुसार बदलती हैं।
+E: 7 को संस्कृत में क्या कहते हैं?
+S: पञ्च, षट् के बाद आता है।
+A: सप्त
+E: 15 को संस्कृत में कैसे कहेंगे?
+S: पञ्च (5) + दश (10) = पञ्चदश।
+A: पञ्चदश
+P: 10 को संस्कृत में?
+R: दश
+P: 100 को संस्कृत में?
+R: शतम्
+P: 12 को संस्कृत में?
+R: द्वादश
+
+== class-6/sanskrit/simple-sentences-and-stories
+I: संस्कृत में सरल वाक्य कर्ता, कर्म और क्रिया से बनते हैं: "बालकः पुस्तकं पठति" (बालक पुस्तक पढ़ता है)। छोटी कथाएँ पढ़कर शब्द और वाक्य-रचना सीखते हैं।
+K: कर्ता प्रथमा विभक्ति में, कर्म द्वितीया विभक्ति में।
+K: सः (वह, पुल्लिंग), सा (वह, स्त्रीलिंग), तत् (वह, नपुंसक)
+K: क्रिया कर्ता के पुरुष और वचन के अनुसार।
+E: "लड़की फल खाती है" का संस्कृत अनुवाद करो।
+S: लड़की = बालिका (प्रथमा); फल = फलम् (द्वितीया); खाती है = खादति।
+A: बालिका फलं खादति।
+E: "सः विद्यालयं गच्छति" का हिंदी अर्थ?
+S: सः = वह; विद्यालयं = विद्यालय को; गच्छति = जाता है।
+A: वह विद्यालय जाता है।
+P: "बालकः जलं पिबति" का हिंदी अर्थ?
+R: बालक पानी पीता है।
+P: "वह (स्त्री) पढ़ती है" का संस्कृत?
+R: सा पठति।
+P: कर्म किस विभक्ति में होता है?
+R: द्वितीया
+
+== class-6/computer/computer-systems
+I: A computer system has hardware (physical parts) and software (programs). The CPU processes data, memory (RAM) holds data while working, and storage (hard disk, SSD) keeps it permanently. Software can be system software (operating system) or application software (word processor, games).
+K: Hardware: CPU, RAM, storage, input and output devices.
+K: RAM is temporary (volatile); ROM and storage are permanent.
+K: Units: 1 KB = 1024 bytes, 1 MB = 1024 KB, 1 GB = 1024 MB.
+E: Is Windows system software or application software?
+S: It runs the computer and manages other programs.
+A: System software (operating system)
+E: Why is unsaved work lost when power goes off?
+S: Unsaved work is only in RAM.
+A: RAM is volatile — it loses its data without power.
+P: What does CPU stand for?
+R: Central Processing Unit
+P: Is a web browser system or application software?
+R: Application software
+P: How many MB make 1 GB?
+R: 1024
+
+== class-6/computer/spreadsheets-basics
+I: A spreadsheet (like Excel, Google Sheets or Calc) arranges data in rows (numbers) and columns (letters). Each box is a cell with an address like B3. Formulas start with = and calculate automatically: =SUM(B2:B6), =AVERAGE(C2:C10).
+K: Cell address: column letter + row number (A1, C5).
+K: Formulas begin with =; functions like SUM, AVERAGE, MAX, MIN.
+K: A range like B2:B6 means all cells from B2 to B6.
+E: Marks are in cells B2 to B6. Write a formula for the total.
+S: Use the SUM function over the range.
+A: =SUM(B2:B6)
+E: What does =MAX(C2:C20) give?
+S: MAX finds the largest value in a range.
+A: The highest value among cells C2 to C20
+P: What is the address of the cell in column D, row 7?
+R: D7
+P: With what symbol does every formula begin?
+R: =
+P: Formula for the average of A1 to A10?
+R: =AVERAGE(A1:A10)
+
+== class-6/computer/introduction-to-scratch
+I: Scratch is a block-based programming tool. Characters are sprites on a stage. We drag blocks from categories like Motion, Looks, Sound, Events, Control and Operators to make stories, animations and games.
+K: Events start scripts (when green flag clicked, when key pressed).
+K: Control blocks: repeat, forever, if–then, wait.
+K: Variables store values like score or lives.
+E: Make a sprite move right when the right arrow is pressed.
+S: Use an event block for the key.
+S: Add a motion block to change x.
+A: when [right arrow] key pressed → change x by 10
+E: How do you keep score in a game?
+S: Create a variable called score.
+S: Increase it when the player catches something.
+A: Make a variable "score"; use "change score by 1" when points are earned.
+P: What is the background area in Scratch called?
+R: The stage
+P: Which block repeats something without stopping?
+R: forever
+P: What stores a changing value like score?
+R: A variable
+
+== class-6/computer/algorithms-and-flowcharts
+I: An algorithm is a step-by-step set of instructions to solve a problem. A flowchart shows an algorithm with symbols: oval (start/end), parallelogram (input/output), rectangle (process) and diamond (decision).
+K: Oval: start/stop; parallelogram: input/output.
+K: Rectangle: process; diamond: decision (yes/no).
+K: Good algorithms are clear, ordered and finish.
+E: Write an algorithm to find the larger of two numbers.
+S: Step 1: Start. Step 2: Input A and B.
+S: Step 3: If A > B, print A; else print B. Step 4: Stop.
+A: Start → input A, B → if A > B print A else print B → stop
+E: Which flowchart symbol is used for "Is it raining?"
+S: It is a yes/no question.
+A: Diamond (decision)
+P: Which symbol shows start or end?
+R: Oval
+P: Which symbol shows input or output?
+R: Parallelogram
+P: What is a step-by-step solution called?
+R: An algorithm
+
+== class-6/computer/digital-citizenship
+I: A digital citizen uses technology responsibly: respecting others online, protecting privacy, giving credit for others' work, balancing screen time and reporting cyberbullying.
+K: Netiquette: be polite, don't type in ALL CAPS (it feels like shouting).
+K: Plagiarism: copying others' work without credit is wrong.
+K: Balance screen time with sleep, study and outdoor play.
+E: You use a picture from a website in your project. What should you do?
+S: The picture belongs to its creator.
+A: Give credit to the source (or use free-to-use images).
+E: A classmate is being mocked in a group chat. What should a good digital citizen do?
+S: Don't join in; support the victim.
+A: Don't forward or laugh; support the classmate and report it to a teacher.
+P: What is copying someone's work without credit called?
+R: Plagiarism
+P: What does typing in all capital letters seem like online?
+R: Shouting
+P: Name one netiquette rule.
+R: Be polite and respectful online
