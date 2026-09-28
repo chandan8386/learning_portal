@@ -1,0 +1,324 @@
+== class-7/english/prose-and-poetry-learning-together
+I: Texts on learning together show how curiosity, questions and teamwork help us grow. Characters often learn from mistakes, from each other and from the world around them.
+K: Collaboration means working together towards a shared goal.
+K: Asking questions is a sign of an active learner.
+K: Characters often change (develop) through a story.
+E: In a story, two rivals must build a model together and win the prize. What is the message?
+S: They succeeded only when they cooperated.
+A: Working together achieves more than competing alone.
+E: How can you tell a character has grown by the end of a story?
+S: Compare how they think and act at the start and at the end.
+A: Their attitude or behaviour changes, e.g. from selfish to helpful.
+P: What is working together towards a goal called?
+R: Collaboration
+P: Name one quality of a good learner.
+R: Curiosity (also patience, asking questions)
+P: What do we call a character's change during a story?
+R: Character development
+
+== class-7/english/prose-and-poetry-wit-and-wisdom
+I: Stories of wit and wisdom, like those of Birbal or Tenali Raman, show clever thinking solving tricky problems. Humour and quick replies often reveal deeper truths.
+K: Wit is quick, clever humour.
+K: Wisdom is good judgement based on knowledge and experience.
+K: Irony: when the opposite of what is expected happens.
+E: Birbal is asked to shorten a line without erasing it. He draws a longer line beside it. What does this show?
+S: He changed the comparison instead of the line.
+A: Clever thinking — a problem can be solved by looking at it differently.
+E: A fire station burns down. Why is this ironic?
+S: It is the opposite of what we expect from a fire station.
+A: Because a place meant to fight fires is destroyed by fire.
+P: Name a famous witty courtier in Indian stories.
+R: Birbal (also Tenali Raman)
+P: What is good judgement from experience called?
+R: Wisdom
+P: When the opposite of what is expected happens, it is called?
+R: Irony
+
+== class-7/english/prose-and-poetry-values-and-dispositions
+I: Texts on values show honesty, courage, compassion and responsibility. We learn by seeing characters face choices and the results of their actions.
+K: Values guide how we act when no one is watching.
+K: Dilemma: a situation with a difficult choice.
+K: The consequences of choices teach the lesson.
+E: A boy finds a lost wallet with money and an ID. What would an honest choice be, and why?
+S: The wallet belongs to someone who needs it back.
+A: Return it using the ID or give it to the police — honesty builds trust.
+E: What is a dilemma? Give an example.
+S: It involves two hard choices.
+A: A difficult choice, e.g. telling the truth about a friend's mistake or keeping quiet.
+P: Name two important values.
+R: Honesty and compassion (also courage, responsibility)
+P: What is a difficult choice between two options called?
+R: A dilemma
+P: What shows the lesson in a values story?
+R: The consequences of the characters' choices
+
+== class-7/english/prose-and-poetry-travel-and-adventure
+I: Travel and adventure writing describes journeys, new places and challenges. Writers use vivid description, sensory details and a sense of suspense to take readers along.
+K: Travelogue: an account of a journey.
+K: Suspense keeps readers eager to know what happens next.
+K: Use sensory words: sights, sounds, smells, textures.
+E: Rewrite with sensory details: "We reached the hills."
+S: Add what you saw, heard or felt.
+A: We reached the misty hills, where cold wind stung our cheeks and pine trees whispered.
+E: What is a travelogue?
+S: It is a kind of writing about journeys.
+A: A written account of someone's travels and experiences.
+P: What keeps readers eager to know what happens next?
+R: Suspense
+P: Name two senses used in descriptive travel writing.
+R: Sight and sound (also smell, touch, taste)
+P: Is a diary of a trek a travelogue?
+R: Yes
+
+== class-7/english/grammar-tenses-and-their-use
+I: Choosing the right tense makes meaning clear. Simple tenses state facts and habits; continuous tenses show ongoing actions; perfect tenses show completed actions linked to another time; perfect continuous shows duration.
+K: Present perfect continuous: has/have been + -ing (I have been waiting for an hour).
+K: Past perfect: had + V3 for the earlier of two past actions.
+K: Future perfect: will have + V3 (By 6 p.m. I will have finished).
+E: Fill in with "study": "She __ for three hours and is tired now."
+S: Action began in the past, continued till now, with duration.
+A: has been studying
+E: Fill in with "complete": "By next Monday, we __ the project."
+S: Action will be finished before a future time.
+A: will have completed
+P: Fill in with "go": "When I arrived, he __ already __." (past perfect)
+R: had … gone
+P: Fill in with "wait": "They __ since morning." (present perfect continuous)
+R: have been waiting
+P: Fill in with "boil": "Water __ at 100 °C." (fact)
+R: boils
+
+== class-7/english/grammar-active-and-passive-voice
+I: The passive voice focuses on the action or receiver rather than the doer. It is formed with a form of "be" + past participle. The passive is common in science and news writing.
+K: Simple present: is/are + V3; simple past: was/were + V3.
+K: Continuous: is being / was being + V3; perfect: has been / had been + V3.
+K: Future: will be + V3.
+E: Change to passive: "The workers are building a bridge."
+S: Present continuous → is being + V3; bridge (singular).
+A: A bridge is being built by the workers.
+E: Change to passive: "They have finished the work."
+S: Present perfect → has been + V3.
+A: The work has been finished (by them).
+P: Change to passive: "Someone will clean the room."
+R: The room will be cleaned.
+P: Change to passive: "The police caught the thief."
+R: The thief was caught by the police.
+P: Change to active: "The letter was written by Asha."
+R: Asha wrote the letter.
+
+== class-7/english/grammar-direct-and-indirect-speech
+I: Indirect speech reports what someone said. Change pronouns, move tenses one step back (if the reporting verb is past), and change time words (now → then, today → that day, tomorrow → the next day).
+K: Statements: said that; questions: asked if/whether or asked + wh-word.
+K: Commands: told/ordered + to + verb; requests: requested + to + verb.
+K: Time words: here → there, this → that, yesterday → the previous day.
+E: Report: Mother said, "Close the window."
+S: Command → told + to + verb.
+A: Mother told me to close the window.
+E: Report: Ravi said, "I will come tomorrow."
+S: I → he; will → would; tomorrow → the next day.
+A: Ravi said that he would come the next day.
+P: Report: She asked, "Why are you late?"
+R: She asked me why I was late.
+P: Report: He said, "I am reading now."
+R: He said that he was reading then.
+P: Report: The teacher said, "Please be quiet."
+R: The teacher requested us to be quiet.
+
+== class-7/english/grammar-clauses
+I: A clause is a group of words with a subject and a verb. A main (independent) clause makes sense on its own; a subordinate (dependent) clause does not and begins with words like because, when, if, who, which, that.
+K: Main clause: "I stayed home" — complete thought.
+K: Subordinate clause: "because it was raining" — incomplete alone.
+K: Relative clauses start with who, which, that and describe a noun.
+E: Identify the clauses: "When the bell rang, the students left."
+S: "the students left" makes sense alone.
+S: "When the bell rang" depends on it.
+A: Main: the students left; Subordinate: When the bell rang
+E: Combine using "who": "I met a girl. She plays the violin."
+S: "who" refers back to the girl.
+A: I met a girl who plays the violin.
+P: Is "because he was tired" a main or subordinate clause?
+R: Subordinate
+P: Combine using "which": "This is the book. It won an award."
+R: This is the book which won an award.
+P: What must every clause have?
+R: A subject and a verb
+
+== class-7/english/writing-formal-and-informal-letters
+I: Informal letters are friendly and personal; formal letters are polite, to the point and follow a fixed format. Choose tone and language to suit the reader.
+K: Formal: sender's address, date, receiver's address, subject, Sir/Madam, body, Yours faithfully/sincerely.
+K: Informal: address, date, Dear …, body, Yours lovingly/affectionately.
+K: Formal letters avoid slang and contractions (don't → do not).
+E: Write the opening of a letter to the editor about stray animals on roads.
+S: Include "The Editor", the newspaper, a subject line and "Sir".
+A: The Editor, The Daily Times, Pune. Subject: Menace of stray animals on roads. Sir, Through your esteemed newspaper I wish to draw attention to …
+E: Which closing suits a letter to your cousin?
+S: The tone is friendly and personal.
+A: Yours lovingly / Your affectionate cousin
+P: Should a formal letter use slang?
+R: No
+P: What line states the purpose of a formal letter?
+R: The subject line
+P: Closing for a letter to the Principal?
+R: Yours sincerely / Yours obediently
+
+== class-7/english/writing-story-and-report
+I: A story needs characters, setting, conflict and resolution, told with vivid details and dialogue. A report gives facts about an event (what, when, where, who, how) in the past tense, with a heading and the writer's name.
+K: Story: hook opening, rising action, climax, resolution.
+K: Report: headline, byline (name), date and place, facts in order.
+K: Reports are factual and use passive voice often ("A function was organised").
+E: Write the first line of a report on your school's sports day.
+S: Include when, where and what.
+A: Sunrise School, Jaipur, 15 December: The annual sports day was held on the school ground with great enthusiasm.
+E: Write a hook to begin a story.
+S: Start with action, a question or a surprising line.
+A: The moment the lights went out, we heard footsteps above us.
+P: Which tense is used in a report?
+R: Past tense
+P: What part of a story solves the problem?
+R: Resolution
+P: What is a byline in a report?
+R: The writer's name
+
+== class-7/hindi/prose-lessons
+I: गद्य पाठों में कहानी, संस्मरण, निबंध, जीवनी जैसी विधाएँ होती हैं। पाठ पढ़कर उसकी विधा, मुख्य विचार, पात्रों का चरित्र और भाषा-शैली समझो।
+K: विधाएँ: कहानी, संस्मरण, निबंध, जीवनी, आत्मकथा, एकांकी
+K: संस्मरण: लेखक की याद की गई सच्ची घटनाएँ
+K: जीवनी दूसरे व्यक्ति के जीवन पर; आत्मकथा अपने जीवन पर
+E: लेखक अपने दादाजी के साथ बिताए दिनों को याद करता है। यह किस विधा का पाठ है?
+S: लेखक सच्ची यादें लिख रहा है।
+A: संस्मरण
+E: महात्मा गांधी पर किसी और द्वारा लिखा पाठ किस विधा का है?
+S: किसी दूसरे के जीवन पर लिखा गया।
+A: जीवनी
+P: अपने जीवन पर लिखी रचना क्या कहलाती है?
+R: आत्मकथा
+P: एक अंक वाला नाटक क्या कहलाता है?
+R: एकांकी
+P: पाठ का केंद्रीय भाव क्या कहलाता है?
+R: मुख्य विचार
+
+== class-7/hindi/poems
+I: कविता में भाव (अर्थ) और शिल्प (भाषा, अलंकार, छंद) दोनों होते हैं। कविता का सौंदर्य उसकी भाषा, बिंब और अलंकारों में दिखता है।
+K: अनुप्रास: एक वर्ण की आवृत्ति (चारु चंद्र की चंचल किरणें)
+K: उपमा: सा, सी, से, सम से तुलना (मुख चंद्र सा)
+K: रूपक: उपमेय पर उपमान का आरोप (चरण कमल)
+E: "चारु चंद्र की चंचल किरणें" में कौन-सा अलंकार है?
+S: "च" वर्ण बार-बार आया है।
+A: अनुप्रास अलंकार
+E: "चरण-कमल बंदौं हरि राई" में कौन-सा अलंकार है?
+S: चरणों को ही कमल मान लिया गया है।
+A: रूपक अलंकार
+P: "पीपर पात सरिस मन डोला" में कौन-सा अलंकार?
+R: उपमा (सरिस = समान)
+P: कविता की भाषा, छंद, अलंकार मिलकर क्या कहलाते हैं?
+R: शिल्प
+P: एक वर्ण की बार-बार आवृत्ति वाला अलंकार?
+R: अनुप्रास
+
+== class-7/hindi/samas
+I: दो या अधिक शब्दों को मिलाकर नया छोटा शब्द बनाना समास कहलाता है। समास तोड़ने को समास-विग्रह कहते हैं। मुख्य भेद: तत्पुरुष, द्वंद्व, द्विगु, कर्मधारय, बहुव्रीहि, अव्ययीभाव।
+K: द्वंद्व: दोनों पद प्रधान (माता-पिता = माता और पिता)
+K: द्विगु: पहला पद संख्या (त्रिभुज = तीन भुजाओं का समूह)
+K: तत्पुरुष: दूसरा पद प्रधान (राजपुत्र = राजा का पुत्र)
+E: "पाठशाला" का विग्रह और समास बताओ।
+S: पाठ के लिए शाला; दूसरा पद प्रधान।
+A: पाठ के लिए शाला — तत्पुरुष समास
+E: "नवरात्र" में कौन-सा समास है?
+S: पहला पद "नव" संख्या है।
+A: द्विगु समास (नौ रात्रियों का समूह)
+P: "रात-दिन" का विग्रह?
+R: रात और दिन (द्वंद्व)
+P: "नीलकंठ" (शिव) में कौन-सा समास?
+R: बहुव्रीहि
+P: "यथाशक्ति" में कौन-सा समास?
+R: अव्ययीभाव
+
+== class-7/hindi/kinds-of-sentences
+I: अर्थ के आधार पर वाक्य आठ प्रकार के होते हैं: विधानवाचक, निषेधवाचक, प्रश्नवाचक, आज्ञावाचक, इच्छावाचक, संदेहवाचक, संकेतवाचक और विस्मयादिबोधक।
+K: विधानवाचक: सूरज पूर्व में उगता है।
+K: निषेधवाचक: मैं आज नहीं जाऊँगा।
+K: इच्छावाचक: भगवान तुम्हें लंबी उम्र दे।
+E: "शायद आज बारिश हो।" किस प्रकार का वाक्य है?
+S: "शायद" संदेह दिखाता है।
+A: संदेहवाचक वाक्य
+E: "यदि तुम मेहनत करते तो पास हो जाते।" वाक्य का प्रकार?
+S: एक काम दूसरे पर निर्भर है (शर्त)।
+A: संकेतवाचक वाक्य
+P: "वाह! क्या सुंदर दृश्य है!" वाक्य का प्रकार?
+R: विस्मयादिबोधक
+P: "दरवाज़ा बंद करो।" वाक्य का प्रकार?
+R: आज्ञावाचक
+P: "क्या तुम खाना खा चुके?" वाक्य का प्रकार?
+R: प्रश्नवाचक
+
+== class-7/hindi/avyay
+I: जिन शब्दों का रूप लिंग, वचन, काल से नहीं बदलता, उन्हें अव्यय (अविकारी शब्द) कहते हैं। भेद: क्रियाविशेषण, संबंधबोधक, समुच्चयबोधक, विस्मयादिबोधक।
+K: क्रियाविशेषण: धीरे, कल, यहाँ, बहुत
+K: संबंधबोधक: के ऊपर, के पास, के बिना
+K: समुच्चयबोधक: और, लेकिन, क्योंकि; विस्मयादिबोधक: अरे!, वाह!
+E: "कछुआ धीरे-धीरे चलता है।" में अव्यय और उसका भेद बताओ।
+S: "धीरे-धीरे" क्रिया (चलना) की विशेषता बताता है।
+A: धीरे-धीरे — क्रियाविशेषण
+E: "मैं आया लेकिन वह चला गया।" में अव्यय का भेद?
+S: "लेकिन" दो वाक्यों को जोड़ता है।
+A: समुच्चयबोधक
+P: "पेड़ के नीचे गाय बैठी है।" — "के नीचे" का भेद?
+R: संबंधबोधक
+P: "अरे! तुम आ गए।" — "अरे" का भेद?
+R: विस्मयादिबोधक
+P: अव्यय को और क्या कहते हैं?
+R: अविकारी शब्द
+
+== class-7/hindi/vachya
+I: क्रिया के जिस रूप से पता चले कि वाक्य में कर्ता, कर्म या भाव प्रधान है, उसे वाच्य कहते हैं। वाच्य के तीन भेद हैं: कर्तृवाच्य, कर्मवाच्य और भाववाच्य।
+K: कर्तृवाच्य: कर्ता प्रधान (राम पत्र लिखता है)
+K: कर्मवाच्य: कर्म प्रधान (राम द्वारा पत्र लिखा जाता है)
+K: भाववाच्य: भाव प्रधान, अकर्मक क्रिया (मुझसे चला नहीं जाता)
+E: "सीता गाना गाती है।" को कर्मवाच्य में बदलो।
+S: कर्म (गाना) प्रधान करो; "द्वारा" लगाओ।
+A: सीता द्वारा गाना गाया जाता है।
+E: "मुझसे बैठा नहीं जाता।" किस वाच्य में है?
+S: कर्म नहीं है; क्रिया का भाव प्रधान है।
+A: भाववाच्य
+P: "बच्चे खेलते हैं" को भाववाच्य में बदलो।
+R: बच्चों से खेला जाता है।
+P: "मोहन ने किताब पढ़ी।" किस वाच्य में है?
+R: कर्तृवाच्य
+P: वाच्य के कितने भेद हैं?
+R: तीन
+
+== class-7/hindi/idioms-and-proverbs
+I: मुहावरे और लोकोक्तियाँ भाषा को जीवंत बनाते हैं। इनका प्रयोग प्रसंग के अनुसार करना चाहिए।
+K: आस्तीन का साँप — धोखेबाज़ मित्र
+K: घी के दिए जलाना — ख़ुशी मनाना
+K: अधजल गगरी छलकत जाय — कम ज्ञान वाला ज़्यादा दिखावा करता है
+E: "बेटे के पास होने पर परिवार ने घी के दिए जलाए।" अर्थ?
+S: परिवार बहुत ख़ुश हुआ।
+A: ख़ुशी मनाना
+E: थोड़ा जानने वाला बढ़-चढ़कर बोल रहा है। कौन-सी लोकोक्ति ठीक है?
+S: कम ज्ञान और ज़्यादा दिखावा।
+A: अधजल गगरी छलकत जाय
+P: "आस्तीन का साँप" का अर्थ?
+R: धोखेबाज़ मित्र
+P: "एक पंथ दो काज" का अर्थ?
+R: एक काम से दो लाभ
+P: "नौ दो ग्यारह होना" का अर्थ?
+R: भाग जाना
+
+== class-7/hindi/essay-letter-and-notice-writing
+I: निबंध, पत्र और सूचना लेखन में विषय के अनुसार भाषा और प्रारूप चुनते हैं। सूचना संक्षिप्त (25–50 शब्द) और स्पष्ट होती है और बॉक्स में लिखी जाती है।
+K: सूचना: संस्था का नाम, "सूचना", तिथि, शीर्षक, मुख्य बात, नाम और पद
+K: औपचारिक पत्र: सेवा में, पता, विषय, महोदय, विषय-वस्तु, भवदीय/आपका आज्ञाकारी, नाम, तिथि
+K: निबंध में उदाहरण और तथ्य जोड़ो।
+E: विद्यालय में वृक्षारोपण कार्यक्रम की सूचना लिखो।
+S: क्या, कब, कहाँ, कौन — और लिखने वाले का नाम।
+A: आदर्श विद्यालय, भोपाल — सूचना — 1 जुलाई — वृक्षारोपण कार्यक्रम — 5 जुलाई को प्रातः 9 बजे विद्यालय प्रांगण में वृक्षारोपण होगा। कक्षा 6 से 8 के इच्छुक छात्र अपने नाम कक्षाध्यापक को दें। — सचिव, इको क्लब
+E: नगर निगम को गली की सफ़ाई के लिए पत्र का विषय लिखो।
+S: विषय छोटा और स्पष्ट हो।
+A: विषय: मोहल्ले में नियमित सफ़ाई हेतु प्रार्थना-पत्र
+P: सूचना में लगभग कितने शब्द होने चाहिए?
+R: 25–50
+P: औपचारिक पत्र के अंत में क्या लिखते हैं?
+R: भवदीय / आपका आज्ञाकारी शिष्य और नाम
+P: सूचना किसमें लिखी जाती है?
+R: बॉक्स (चौखटे) में
