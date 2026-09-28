@@ -1,0 +1,96 @@
+{
+  "slug": "class-2",
+  "name": "Class 2",
+  "nameHi": "कक्षा 2",
+  "order": 4,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "7–8",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Mridang (reference)",
+      "chapters": [
+        { "title": "Phonics: Blends and Digraphs", "titleHi": "फ़ोनिक्स: मिश्रित ध्वनियाँ", "topics": ["bl cl fl", "sh ch th", "Long Vowel Sounds"] },
+        { "title": "Nouns", "titleHi": "संज्ञा", "topics": ["Naming Words", "One and Many", "Boy and Girl Words"] },
+        { "title": "Pronouns", "titleHi": "सर्वनाम", "topics": ["He, She, It", "I, We, They"] },
+        { "title": "Verbs", "titleHi": "क्रिया", "topics": ["Action Words", "is, am, are"] },
+        { "title": "Describing Words", "titleHi": "विशेषण", "topics": ["Colour and Size Words", "Opposites"] },
+        { "title": "Poems", "titleHi": "कविताएँ", "topics": ["Poem: The Sun", "Poem: My Kite"] },
+        { "title": "Stories", "titleHi": "कहानियाँ", "topics": ["Story: The Kind Elephant", "Story: The Clever Rabbit"] },
+        { "title": "Writing", "titleHi": "लेखन", "topics": ["Writing Sentences", "Describing a Picture"] }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Sarangi (reference)",
+      "chapters": [
+        { "title": "Matra Revision", "titleHi": "मात्राओं की दोहराई", "topics": [{ "title": "All Matras", "titleHi": "सभी मात्राएँ" }] },
+        { "title": "Chandrabindu and Anusvar", "titleHi": "चंद्रबिंदु और अनुस्वार", "topics": [{ "title": "Chandrabindu", "titleHi": "चंद्रबिंदु (ँ)" }, { "title": "Anusvar", "titleHi": "अनुस्वार (ं)" }] },
+        { "title": "Conjunct Letters", "titleHi": "संयुक्त अक्षर", "topics": [{ "title": "Half Letters", "titleHi": "आधे अक्षर" }, { "title": "ra ke roop", "titleHi": "र के रूप" }] },
+        { "title": "Noun and Gender", "titleHi": "संज्ञा और लिंग", "topics": [{ "title": "Sangya", "titleHi": "संज्ञा" }, { "title": "Ling", "titleHi": "लिंग" }] },
+        { "title": "Singular and Plural", "titleHi": "वचन", "topics": [{ "title": "Ek aur Anek", "titleHi": "एक और अनेक" }] },
+        { "title": "Opposite Words", "titleHi": "विलोम शब्द", "topics": [{ "title": "Vilom", "titleHi": "विलोम शब्द" }] },
+        { "title": "Poems and Stories", "titleHi": "कविताएँ और कहानियाँ", "topics": [{ "title": "Poem: Bulbul", "titleHi": "कविता: बुलबुल" }, { "title": "Story: Mitthu", "titleHi": "कहानी: मिट्ठू" }] },
+        { "title": "Writing", "titleHi": "लेखन", "topics": [{ "title": "Picture Description", "titleHi": "चित्र वर्णन" }, { "title": "Short Paragraph", "titleHi": "छोटा अनुच्छेद" }] }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Joyful Mathematics (reference)",
+      "chapters": [
+        { "title": "Numbers up to 100", "titleHi": "100 तक संख्याएँ", "topics": ["Tens and Ones", "Number Names", "Comparing Numbers"] },
+        { "title": "Numbers up to 999", "titleHi": "999 तक संख्याएँ", "topics": ["Hundreds, Tens, Ones", "Expanded Form"] },
+        { "title": "Addition up to 99", "titleHi": "99 तक जोड़", "topics": ["Adding Without Carrying", "Adding With Carrying", "Word Problems"] },
+        { "title": "Subtraction up to 99", "titleHi": "99 तक घटाव", "topics": ["Subtracting Without Borrowing", "Subtracting With Borrowing", "Word Problems"] },
+        { "title": "Multiplication Readiness", "titleHi": "गुणा की शुरुआत", "topics": ["Repeated Addition", "Tables of 2, 5 and 10"] },
+        { "title": "Shapes and Lines", "titleHi": "आकृतियाँ और रेखाएँ", "topics": ["Straight and Curved Lines", "2D Shapes", "Corners and Sides"] },
+        { "title": "Measurement", "titleHi": "माप", "topics": ["Length in cm and m", "Weight in kg", "Capacity in litres"] },
+        { "title": "Time", "titleHi": "समय", "topics": ["Reading the Clock", "Months of the Year", "Calendar"] },
+        { "title": "Money", "titleHi": "पैसा", "topics": ["Adding Money", "Making a Bill"] },
+        { "title": "Patterns and Data", "titleHi": "पैटर्न और आँकड़े", "topics": ["Number Patterns", "Pictographs"] }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us",
+      "nameHi": "हमारे आस-पास",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        { "title": "Our Body and Health", "titleHi": "हमारा शरीर और स्वास्थ्य", "topics": ["Sense Organs", "Keeping Healthy"] },
+        { "title": "Food and Water", "titleHi": "भोजन और पानी", "topics": ["Balanced Food", "Clean Drinking Water"] },
+        { "title": "Our Neighbourhood", "titleHi": "हमारा पड़ोस", "topics": ["Places Around Us", "Community Helpers"] },
+        { "title": "Plants", "titleHi": "पौधे", "topics": ["Parts of a Plant", "How Plants Grow"] },
+        { "title": "Animals", "titleHi": "जानवर", "topics": ["Animal Food", "Animal Homes", "Animal Young Ones"] },
+        { "title": "Weather and Seasons", "titleHi": "मौसम और ऋतुएँ", "topics": ["Sunny, Rainy, Windy", "Seasons of India"] },
+        { "title": "Travel and Communication", "titleHi": "यात्रा और संचार", "topics": ["Means of Transport", "Means of Communication"] },
+        { "title": "Our Country", "titleHi": "हमारा देश", "topics": ["National Symbols", "Festivals of India"] }
+      ]
+    },
+    {
+      "slug": "art-health",
+      "name": "Art, Health and Well-being",
+      "nameHi": "कला, स्वास्थ्य और खुशहाली",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        { "title": "Drawing and Craft", "titleHi": "चित्रकारी और शिल्प", "topics": ["Draw a Village", "Paper Boat"] },
+        { "title": "Music and Dance", "titleHi": "संगीत और नृत्य", "topics": ["Rhythm Games", "Folk Dance Steps"] },
+        { "title": "Yoga and Games", "titleHi": "योग और खेल", "topics": ["Breathing Exercises", "Team Games"] }
+      ]
+    }
+  ]
+}

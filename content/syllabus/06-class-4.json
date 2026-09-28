@@ -1,0 +1,44 @@
+{
+  "slug": "class-4",
+  "name": "Class 4",
+  "nameHi": "कक्षा 4",
+  "order": 6,
+  "stage": "PREPARATORY",
+  "ageRange": "9–10",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Santoor (reference)",
+      "chapters": ["Reading Comprehension", "Kinds of Nouns", "Pronouns and Possessives", "Simple Past Tense", "Adjectives: Degrees of Comparison", "Adverbs", "Conjunctions", "Sentence Types", "Poems", "Stories", "Writing: Paragraph and Notice"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Veena (reference)",
+      "chapters": [
+        { "title": "Poems", "titleHi": "कविताएँ" },
+        { "title": "Stories", "titleHi": "कहानियाँ" },
+        { "title": "Kinds of Nouns", "titleHi": "संज्ञा के भेद" },
+        { "title": "Adjective", "titleHi": "विशेषण" },
+        { "title": "Tense", "titleHi": "काल" },
+        { "title": "Idioms", "titleHi": "मुहावरे" },
+        { "title": "One Word Substitution", "titleHi": "अनेक शब्दों के लिए एक शब्द" },
+        { "title": "Essay and Letter", "titleHi": "निबंध और पत्र" }
+      ]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➕", "color": "emerald", "book": "NCERT Maths Mela (reference)",
+      "chapters": ["Large Numbers up to 99,999", "Addition and Subtraction", "Multiplication", "Division", "Factors and Multiples", "Fractions", "Geometry: Lines, Angles, Circles", "Perimeter and Area", "Measurement", "Time", "Money", "Patterns and Symmetry", "Data Handling"]
+    },
+    {
+      "slug": "evs", "name": "The World Around Us (EVS)", "nameHi": "हमारे आस-पास (पर्यावरण)", "icon": "🌳", "color": "lime",
+      "chapters": ["Our Body and Teeth", "Food and Its Sources", "Water: Sources and Conservation", "Houses in Different Regions", "Plants and Their Uses", "Animals and Their Behaviour", "Families and Occupations", "Maps and Our Country", "Travel and Communication", "Clean Environment"]
+    },
+    {
+      "slug": "computer", "name": "Computer Basics", "nameHi": "कंप्यूटर की जानकारी", "icon": "💻", "color": "indigo",
+      "chapters": ["Computer as a Machine", "Input and Output Devices", "Typing Practice", "Word Processing Basics", "Internet Safety"]
+    },
+    {
+      "slug": "gk", "name": "General Knowledge", "nameHi": "सामान्य ज्ञान", "icon": "💡", "color": "amber",
+      "chapters": ["States and Capitals", "Great Indians", "Inventions", "Environment", "Sports"]
+    }
+  ]
+}

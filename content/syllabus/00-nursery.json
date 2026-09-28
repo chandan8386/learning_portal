@@ -1,0 +1,89 @@
+{
+  "slug": "nursery",
+  "name": "Nursery",
+  "nameHi": "नर्सरी",
+  "order": 0,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "3–4",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "chapters": [
+        { "title": "Listening and Speaking", "titleHi": "सुनना और बोलना", "topics": ["Greetings", "My Name", "Following Simple Instructions"] },
+        { "title": "Letters A to M", "titleHi": "अक्षर A से M", "topics": ["A B C D", "E F G H", "I J K L M"] },
+        { "title": "Letters N to Z", "titleHi": "अक्षर N से Z", "topics": ["N O P Q", "R S T U", "V W X Y Z"] },
+        { "title": "Pre-writing Strokes", "titleHi": "लिखने से पहले की रेखाएँ", "topics": ["Standing and Sleeping Lines", "Slanting Lines", "Curves and Circles"] },
+        { "title": "Picture Words", "titleHi": "चित्र वाले शब्द", "topics": ["Fruits Words", "Animal Words", "Things at Home"] }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "chapters": [
+        { "title": "Listening and Speaking", "titleHi": "सुनना और बोलना", "topics": [{ "title": "Namaste", "titleHi": "नमस्ते" }, { "title": "My Family Words", "titleHi": "मेरे परिवार के शब्द" }] },
+        { "title": "Vowels (Swar) a to aa", "titleHi": "स्वर अ से आ", "topics": [{ "title": "a", "titleHi": "अ" }, { "title": "aa", "titleHi": "आ" }] },
+        { "title": "Vowels (Swar) i to au", "titleHi": "स्वर इ से औ", "topics": [{ "title": "i ii", "titleHi": "इ ई" }, { "title": "u uu", "titleHi": "उ ऊ" }, { "title": "e ai o au", "titleHi": "ए ऐ ओ औ" }] },
+        { "title": "Pre-writing Strokes", "titleHi": "लिखने से पहले की रेखाएँ", "topics": [{ "title": "Lines", "titleHi": "रेखाएँ" }, { "title": "Curves", "titleHi": "घुमाव" }] },
+        { "title": "Balgeet", "titleHi": "बालगीत", "topics": [{ "title": "Machhli Jal Ki Rani", "titleHi": "मछली जल की रानी" }, { "title": "Chanda Mama", "titleHi": "चंदा मामा" }] }
+      ]
+    },
+    {
+      "slug": "numbers",
+      "name": "Numbers",
+      "nameHi": "गिनती",
+      "icon": "🔢",
+      "color": "emerald",
+      "chapters": [
+        { "title": "Counting 1 to 5", "titleHi": "1 से 5 तक गिनती", "topics": ["Count and Say", "Show with Fingers", "Trace the Numbers"] },
+        { "title": "Counting 6 to 10", "titleHi": "6 से 10 तक गिनती", "topics": ["Count and Say", "Match Number to Objects", "Trace the Numbers"] },
+        { "title": "Big and Small", "titleHi": "बड़ा और छोटा", "topics": ["Big and Small", "Tall and Short", "More and Less"] },
+        { "title": "Shapes", "titleHi": "आकृतियाँ", "topics": ["Circle", "Square", "Triangle"] },
+        { "title": "Colours", "titleHi": "रंग", "topics": ["Red Blue Yellow", "Green Orange", "Black and White"] }
+      ]
+    },
+    {
+      "slug": "my-world",
+      "name": "My World (EVS)",
+      "nameHi": "मेरी दुनिया",
+      "icon": "🌍",
+      "color": "lime",
+      "chapters": [
+        { "title": "My Body", "titleHi": "मेरा शरीर", "topics": ["Parts of the Face", "Hands and Legs"] },
+        { "title": "My Family", "titleHi": "मेरा परिवार", "topics": ["Family Members", "Helping at Home"] },
+        { "title": "Fruits and Vegetables", "titleHi": "फल और सब्ज़ियाँ", "topics": ["Fruits", "Vegetables"] },
+        { "title": "Animals and Birds", "titleHi": "जानवर और पक्षी", "topics": ["Pet Animals", "Birds Around Us"] },
+        { "title": "Good Habits", "titleHi": "अच्छी आदतें", "topics": ["Washing Hands", "Saying Please and Thank You"] }
+      ]
+    },
+    {
+      "slug": "rhymes-stories",
+      "name": "Rhymes and Stories",
+      "nameHi": "कविताएँ और कहानियाँ",
+      "icon": "🎵",
+      "color": "pink",
+      "chapters": [
+        { "title": "Action Rhymes", "titleHi": "हाव-भाव वाली कविताएँ", "topics": ["Twinkle Twinkle Little Star", "Head Shoulders Knees and Toes", "Johny Johny Yes Papa"] },
+        { "title": "Picture Stories", "titleHi": "चित्र कहानियाँ", "topics": ["The Thirsty Crow", "The Lion and the Mouse"] }
+      ]
+    },
+    {
+      "slug": "art",
+      "name": "Art and Craft",
+      "nameHi": "कला और शिल्प",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        { "title": "Colouring Fun", "titleHi": "रंग भरो", "topics": ["Colour the Fruit", "Colour the Animal"] },
+        { "title": "Finger and Thumb Printing", "titleHi": "उंगली और अंगूठे की छपाई", "topics": ["Thumb Caterpillar", "Finger Flowers"] }
+      ]
+    }
+  ]
+}

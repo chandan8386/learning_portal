@@ -1,0 +1,44 @@
+{
+  "slug": "class-3",
+  "name": "Class 3",
+  "nameHi": "कक्षा 3",
+  "order": 5,
+  "stage": "PREPARATORY",
+  "ageRange": "8–9",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Santoor (reference)",
+      "chapters": ["Reading with Expression", "Nouns: Common and Proper", "Pronouns", "Verbs and Tenses: Present", "Adjectives", "Articles: a, an, the", "Prepositions of Place", "Punctuation", "Poems", "Stories and Comprehension", "Writing: Sentences and Short Paragraphs"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Veena (reference)",
+      "chapters": [
+        { "title": "Poems", "titleHi": "कविताएँ" },
+        { "title": "Stories", "titleHi": "कहानियाँ" },
+        { "title": "Noun", "titleHi": "संज्ञा" },
+        { "title": "Pronoun", "titleHi": "सर्वनाम" },
+        { "title": "Verb", "titleHi": "क्रिया" },
+        { "title": "Gender and Number", "titleHi": "लिंग और वचन" },
+        { "title": "Synonyms and Antonyms", "titleHi": "पर्यायवाची और विलोम शब्द" },
+        { "title": "Picture Description and Letter", "titleHi": "चित्र वर्णन और पत्र" }
+      ]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➕", "color": "emerald", "book": "NCERT Maths Mela (reference)",
+      "chapters": ["Numbers up to 9999", "Addition", "Subtraction", "Multiplication", "Division", "Fractions: Half, Quarter, Three-Quarters", "Shapes and Designs", "Length, Weight and Capacity", "Time and Calendar", "Money", "Patterns", "Data Handling"]
+    },
+    {
+      "slug": "evs", "name": "The World Around Us (EVS)", "nameHi": "हमारे आस-पास (पर्यावरण)", "icon": "🌳", "color": "lime",
+      "chapters": ["Family and Friends", "Food We Eat", "Water", "Shelter", "Plants Around Us", "Animals Around Us", "Our Body", "Travel and Transport", "Things We Make and Do", "Maps and Directions"]
+    },
+    {
+      "slug": "computer", "name": "Computer Basics", "nameHi": "कंप्यूटर की जानकारी", "icon": "💻", "color": "indigo",
+      "chapters": ["What is a Computer?", "Parts of a Computer", "Using the Mouse and Keyboard", "Drawing with Paint", "Safe Use of Computers"]
+    },
+    {
+      "slug": "gk", "name": "General Knowledge", "nameHi": "सामान्य ज्ञान", "icon": "💡", "color": "amber",
+      "chapters": ["Our India", "Animal World", "Science Around Us", "Sports and Games", "Good Values"]
+    }
+  ]
+}

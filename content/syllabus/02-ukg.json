@@ -1,0 +1,89 @@
+{
+  "slug": "ukg",
+  "name": "UKG",
+  "nameHi": "यू.के.जी.",
+  "order": 2,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "5–6",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "chapters": [
+        { "title": "Phonics Revision", "titleHi": "फ़ोनिक्स दोहराई", "topics": ["All Letter Sounds", "Blending Sounds"] },
+        { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द", "topics": ["-at -an Words", "-en -et Words", "-ig -in Words", "-og -op Words", "-ug -un Words"] },
+        { "title": "Sight Words", "titleHi": "पहचान वाले शब्द", "topics": ["the a is", "I can see", "this that"] },
+        { "title": "Naming Words", "titleHi": "नाम वाले शब्द", "topics": ["Names of People", "Names of Things", "Names of Places"] },
+        { "title": "Reading Small Sentences", "titleHi": "छोटे वाक्य पढ़ना", "topics": ["This is a cat", "I can run"] }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "chapters": [
+        { "title": "Complete Varnamala", "titleHi": "पूरी वर्णमाला", "topics": [{ "title": "Consonants ta to ma", "titleHi": "व्यंजन त से म" }, { "title": "Consonants ya to ha", "titleHi": "व्यंजन य से ह" }, { "title": "ksha tra gya", "titleHi": "क्ष त्र ज्ञ" }] },
+        { "title": "Two-Letter Words", "titleHi": "दो अक्षर वाले शब्द", "topics": [{ "title": "jal, fal, ghar", "titleHi": "जल, फल, घर" }] },
+        { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द", "topics": [{ "title": "kamal, nayan", "titleHi": "कमल, नयन" }] },
+        { "title": "Aa Matra", "titleHi": "आ की मात्रा (ा)", "topics": [{ "title": "Words with aa matra", "titleHi": "ा की मात्रा वाले शब्द" }] },
+        { "title": "Balgeet and Stories", "titleHi": "बालगीत और कहानियाँ", "topics": [{ "title": "Titli Rani", "titleHi": "तितली रानी" }, { "title": "Pyasa Kauwa", "titleHi": "प्यासा कौआ" }] }
+      ]
+    },
+    {
+      "slug": "numbers",
+      "name": "Numbers",
+      "nameHi": "गिनती",
+      "icon": "🔢",
+      "color": "emerald",
+      "chapters": [
+        { "title": "Counting 1 to 100", "titleHi": "1 से 100 तक गिनती", "topics": ["Count 51 to 75", "Count 76 to 100", "Count by Tens"] },
+        { "title": "Number Names 1 to 20", "titleHi": "संख्याओं के नाम 1 से 20", "topics": ["one to ten", "eleven to twenty"] },
+        { "title": "Addition with Pictures", "titleHi": "चित्रों से जोड़", "topics": ["Putting Together", "Add Within 10"] },
+        { "title": "Subtraction with Pictures", "titleHi": "चित्रों से घटाव", "topics": ["Taking Away", "Subtract Within 10"] },
+        { "title": "Time and Money Basics", "titleHi": "समय और पैसे की शुरुआत", "topics": ["Day and Night", "Our Coins"] }
+      ]
+    },
+    {
+      "slug": "my-world",
+      "name": "My World (EVS)",
+      "nameHi": "मेरी दुनिया",
+      "icon": "🌍",
+      "color": "lime",
+      "chapters": [
+        { "title": "Our Helpers", "titleHi": "हमारे सहायक", "topics": ["Doctor and Nurse", "Farmer", "Postman and Police"] },
+        { "title": "Plants Around Us", "titleHi": "हमारे आस-पास के पौधे", "topics": ["Parts of a Plant", "Trees Give Us"] },
+        { "title": "Water", "titleHi": "पानी", "topics": ["Uses of Water", "Save Water"] },
+        { "title": "Festivals", "titleHi": "त्योहार", "topics": ["Diwali and Holi", "Eid and Christmas", "National Festivals"] },
+        { "title": "Safety Rules", "titleHi": "सुरक्षा के नियम", "topics": ["Road Safety", "Safety at Home"] }
+      ]
+    },
+    {
+      "slug": "rhymes-stories",
+      "name": "Rhymes and Stories",
+      "nameHi": "कविताएँ और कहानियाँ",
+      "icon": "🎵",
+      "color": "pink",
+      "chapters": [
+        { "title": "Rhymes", "titleHi": "कविताएँ", "topics": ["One Two Buckle My Shoe", "Five Little Monkeys"] },
+        { "title": "Stories", "titleHi": "कहानियाँ", "topics": ["The Fox and the Grapes", "The Honest Woodcutter"] }
+      ]
+    },
+    {
+      "slug": "art",
+      "name": "Art and Craft",
+      "nameHi": "कला और शिल्प",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        { "title": "Drawing and Colouring", "titleHi": "चित्र बनाओ और रंग भरो", "topics": ["Draw a Tree", "Draw a Fish"] },
+        { "title": "Clay Modelling", "titleHi": "मिट्टी के खिलौने", "topics": ["Make Fruits", "Make a Snake"] }
+      ]
+    }
+  ]
+}

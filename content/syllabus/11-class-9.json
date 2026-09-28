@@ -1,0 +1,39 @@
+{
+  "slug": "class-9",
+  "name": "Class 9",
+  "nameHi": "कक्षा 9",
+  "order": 11,
+  "stage": "SECONDARY",
+  "ageRange": "14–15",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Beehive and Moments",
+      "chapters": ["Beehive: The Fun They Had", "Beehive: The Sound of Music", "Beehive: The Little Girl", "Beehive: A Truly Beautiful Mind", "Beehive: The Snake and the Mirror", "Beehive: My Childhood", "Beehive: Reach for the Top", "Beehive: Kathmandu", "Beehive: If I Were You", "Poem: The Road Not Taken", "Poem: Wind", "Poem: Rain on the Roof", "Poem: The Lake Isle of Innisfree", "Poem: A Legend of the Northland", "Poem: No Men Are Foreign", "Poem: On Killing a Tree", "Poem: A Slumber Did My Spirit Seal", "Moments: The Lost Child", "Moments: The Adventures of Toto", "Moments: Iswaran the Storyteller", "Moments: In the Kingdom of Fools", "Moments: The Happy Prince", "Moments: Weathering the Storm in Ersama", "Moments: The Last Leaf", "Moments: A House Is Not a Home", "Moments: The Beggar", "Grammar", "Writing Skills"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi (Course A)", "nameHi": "हिंदी (कोर्स A)", "icon": "🅰️", "color": "orange", "book": "NCERT Kshitij and Kritika",
+      "chapters": ["दो बैलों की कथा", "ल्हासा की ओर", "उपभोक्तावाद की संस्कृति", "साँवले सपनों की याद", "प्रेमचंद के फटे जूते", "मेरे बचपन के दिन", "साखियाँ एवं सबद", "वाख", "सवैये", "कैदी और कोकिला", "ग्राम श्री", "मेघ आए", "बच्चे काम पर जा रहे हैं", "कृतिका: इस जल प्रलय में", "कृतिका: मेरे संग की औरतें", "कृतिका: रीढ़ की हड्डी", "व्याकरण: शब्द निर्माण (उपसर्ग, प्रत्यय, समास)", "व्याकरण: अर्थ के आधार पर वाक्य भेद", "व्याकरण: अलंकार", "लेखन: अनुच्छेद, पत्र, संवाद"]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "📐", "color": "emerald", "book": "NCERT Mathematics",
+      "chapters": ["Number Systems", "Polynomials", "Coordinate Geometry", "Linear Equations in Two Variables", "Introduction to Euclid's Geometry", "Lines and Angles", "Triangles", "Quadrilaterals", "Circles", "Heron's Formula", "Surface Areas and Volumes", "Statistics"]
+    },
+    {
+      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Science",
+      "chapters": ["Matter in Our Surroundings", "Is Matter Around Us Pure?", "Atoms and Molecules", "Structure of the Atom", "The Fundamental Unit of Life", "Tissues", "Motion", "Force and Laws of Motion", "Gravitation", "Work and Energy", "Sound", "Improvement in Food Resources"]
+    },
+    {
+      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT History, Geography, Political Science, Economics",
+      "chapters": ["History: The French Revolution", "History: Socialism in Europe and the Russian Revolution", "History: Nazism and the Rise of Hitler", "History: Forest Society and Colonialism", "History: Pastoralists in the Modern World", "Geography: India – Size and Location", "Geography: Physical Features of India", "Geography: Drainage", "Geography: Climate", "Geography: Natural Vegetation and Wildlife", "Geography: Population", "Political Science: What is Democracy? Why Democracy?", "Political Science: Constitutional Design", "Political Science: Electoral Politics", "Political Science: Working of Institutions", "Political Science: Democratic Rights", "Economics: The Story of Village Palampur", "Economics: People as Resource", "Economics: Poverty as a Challenge", "Economics: Food Security in India"]
+    },
+    {
+      "slug": "it", "name": "Information Technology (Optional)", "nameHi": "सूचना प्रौद्योगिकी (वैकल्पिक)", "icon": "💻", "color": "indigo",
+      "chapters": ["Communication Skills", "Self-Management Skills", "ICT Skills", "Entrepreneurial Skills", "Green Skills", "Introduction to IT and ITeS", "Data Entry and Keyboarding", "Digital Documentation", "Electronic Spreadsheet", "Digital Presentation"]
+    },
+    {
+      "slug": "exam-prep", "name": "Exam Preparation", "nameHi": "परीक्षा की तैयारी", "icon": "📝", "color": "rose",
+      "chapters": ["Sample Papers", "Chapter-wise Important Questions", "Formula and Revision Sheets", "Study and Time-Management Tips"]
+    }
+  ]
+}

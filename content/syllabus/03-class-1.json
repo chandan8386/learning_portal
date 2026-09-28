@@ -1,0 +1,214 @@
+{
+  "slug": "class-1",
+  "name": "Class 1",
+  "nameHi": "कक्षा 1",
+  "order": 3,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "6–7",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "book": "NCERT Mridang (reference)",
+      "chapters": [
+        {
+          "title": "Sounds and Letters",
+          "titleHi": "ध्वनियाँ और अक्षर",
+          "learningOutcomes": ["Says the sound of each letter", "Matches small and capital letters"],
+          "topics": ["Letter Sounds a to m", "Letter Sounds n to z", "Capital and Small Letters"]
+        },
+        {
+          "title": "Reading Simple Words",
+          "titleHi": "आसान शब्द पढ़ना",
+          "learningOutcomes": ["Blends sounds to read three-letter words", "Reads common sight words"],
+          "topics": ["Blending c-a-t", "Word Families", "Sight Words"]
+        },
+        {
+          "title": "Naming and Action Words",
+          "titleHi": "नाम वाले और काम वाले शब्द",
+          "learningOutcomes": ["Identifies naming words", "Identifies action words in pictures"],
+          "topics": ["Naming Words", "Action Words", "One and Many"]
+        },
+        {
+          "title": "Reading Sentences",
+          "titleHi": "वाक्य पढ़ना",
+          "learningOutcomes": ["Reads short sentences with support", "Uses capital letter and full stop"],
+          "topics": ["Capital Letter and Full Stop", "This is / That is", "Reading a Short Paragraph"]
+        },
+        {
+          "title": "Poems and Stories",
+          "titleHi": "कविताएँ और कहानियाँ",
+          "learningOutcomes": ["Recites a poem with actions", "Answers simple questions about a story"],
+          "topics": ["Poem: My Family", "Poem: The Rainbow", "Story: The Little Seed"]
+        },
+        {
+          "title": "Listening and Speaking",
+          "titleHi": "सुनना और बोलना",
+          "learningOutcomes": ["Introduces self in simple sentences", "Follows two-step instructions"],
+          "topics": ["Introducing Myself", "Talking About a Picture", "Polite Words"]
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "book": "NCERT Sarangi (reference)",
+      "chapters": [
+        {
+          "title": "Varnamala Revision",
+          "titleHi": "वर्णमाला दोहराई",
+          "learningOutcomes": ["सभी स्वर और व्यंजन पहचानता है", "वर्ण की ध्वनि बोलता है"],
+          "topics": [{ "title": "Swar", "titleHi": "स्वर" }, { "title": "Vyanjan", "titleHi": "व्यंजन" }]
+        },
+        {
+          "title": "Words Without Matra",
+          "titleHi": "बिना मात्रा वाले शब्द",
+          "learningOutcomes": ["दो और तीन अक्षर वाले शब्द पढ़ता है"],
+          "topics": [{ "title": "Two-Letter Words", "titleHi": "दो अक्षर वाले शब्द" }, { "title": "Three-Letter Words", "titleHi": "तीन अक्षर वाले शब्द" }, { "title": "Small Sentences", "titleHi": "छोटे वाक्य" }]
+        },
+        {
+          "title": "Matras aa i ii",
+          "titleHi": "मात्राएँ ा ि ी",
+          "learningOutcomes": ["मात्रा लगे शब्द पढ़ता और लिखता है"],
+          "topics": [{ "title": "aa matra", "titleHi": "आ की मात्रा (ा)" }, { "title": "i matra", "titleHi": "इ की मात्रा (ि)" }, { "title": "ii matra", "titleHi": "ई की मात्रा (ी)" }]
+        },
+        {
+          "title": "Matras u uu e ai",
+          "titleHi": "मात्राएँ ु ू े ै",
+          "learningOutcomes": ["मात्रा लगे शब्द पढ़ता और लिखता है"],
+          "topics": [{ "title": "u matra", "titleHi": "उ की मात्रा (ु)" }, { "title": "uu matra", "titleHi": "ऊ की मात्रा (ू)" }, { "title": "e and ai matra", "titleHi": "ए और ऐ की मात्रा (े ै)" }]
+        },
+        {
+          "title": "Matras o au am",
+          "titleHi": "मात्राएँ ो ौ ं",
+          "learningOutcomes": ["सभी मात्राओं वाले शब्द पढ़ता है"],
+          "topics": [{ "title": "o and au matra", "titleHi": "ओ और औ की मात्रा (ो ौ)" }, { "title": "Anusvar", "titleHi": "अनुस्वार (ं)" }]
+        },
+        {
+          "title": "Poems and Stories",
+          "titleHi": "कविताएँ और कहानियाँ",
+          "learningOutcomes": ["कविता हाव-भाव के साथ सुनाता है", "कहानी पर आसान प्रश्नों के उत्तर देता है"],
+          "topics": [{ "title": "Poem: Aam ki Tokri", "titleHi": "कविता: आम की टोकरी" }, { "title": "Story: Chuhe ki Topi", "titleHi": "कहानी: चूहे की टोपी" }]
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Mathematics",
+      "nameHi": "गणित",
+      "icon": "➕",
+      "color": "emerald",
+      "book": "NCERT Joyful Mathematics (reference)",
+      "chapters": [
+        {
+          "title": "Finding the Furry Cat: Position",
+          "titleHi": "स्थिति: ऊपर-नीचे, अंदर-बाहर",
+          "learningOutcomes": ["Uses words like above, below, inside, outside, near, far"],
+          "topics": ["Above and Below", "Inside and Outside", "Near and Far"]
+        },
+        {
+          "title": "Numbers 1 to 9",
+          "titleHi": "संख्याएँ 1 से 9",
+          "learningOutcomes": ["Counts objects up to 9", "Reads and writes numerals 1 to 9"],
+          "topics": ["Counting Objects", "Reading and Writing Numbers", "Comparing Numbers"]
+        },
+        {
+          "title": "Zero and Numbers to 20",
+          "titleHi": "शून्य और 20 तक संख्याएँ",
+          "learningOutcomes": ["Understands zero as 'nothing'", "Counts and writes numbers up to 20"],
+          "topics": ["Zero", "Numbers 10 to 20", "Before, After, Between"]
+        },
+        {
+          "title": "Addition",
+          "titleHi": "जोड़",
+          "learningOutcomes": ["Adds numbers up to 9 using objects", "Solves simple word problems"],
+          "topics": ["Adding with Objects", "Addition on a Number Line", "Addition Stories"]
+        },
+        {
+          "title": "Subtraction",
+          "titleHi": "घटाव",
+          "learningOutcomes": ["Subtracts numbers up to 9 using objects"],
+          "topics": ["Taking Away", "Subtraction on a Number Line", "Subtraction Stories"]
+        },
+        {
+          "title": "Shapes",
+          "titleHi": "आकृतियाँ",
+          "learningOutcomes": ["Recognises basic 2D shapes and 3D objects around us"],
+          "topics": ["Flat Shapes", "Solid Objects", "Shapes Around Us"]
+        },
+        {
+          "title": "Numbers to 100",
+          "titleHi": "100 तक संख्याएँ",
+          "learningOutcomes": ["Counts in tens", "Reads and writes numbers up to 100"],
+          "topics": ["Tens and Ones", "Counting to 100", "Skip Counting"]
+        },
+        {
+          "title": "Measurement",
+          "titleHi": "माप",
+          "learningOutcomes": ["Compares length and weight using non-standard units"],
+          "topics": ["Long and Short", "Heavy and Light", "Measuring with Hand Span"]
+        },
+        {
+          "title": "Time",
+          "titleHi": "समय",
+          "learningOutcomes": ["Sequences daily events", "Names days of the week"],
+          "topics": ["Morning, Afternoon, Night", "Days of the Week", "Earlier and Later"]
+        },
+        {
+          "title": "Money",
+          "titleHi": "पैसा",
+          "learningOutcomes": ["Recognises Indian coins and notes"],
+          "topics": ["Our Coins", "Our Notes", "Buying at a Shop"]
+        },
+        {
+          "title": "Patterns",
+          "titleHi": "पैटर्न",
+          "learningOutcomes": ["Extends simple shape and number patterns"],
+          "topics": ["Shape Patterns", "Number Patterns"]
+        },
+        {
+          "title": "Data Handling",
+          "titleHi": "आँकड़े",
+          "learningOutcomes": ["Collects and sorts objects, counts using tally marks"],
+          "topics": ["Sorting Objects", "Tally Marks", "Picture Graphs"]
+        }
+      ]
+    },
+    {
+      "slug": "evs",
+      "name": "The World Around Us",
+      "nameHi": "हमारे आस-पास",
+      "icon": "🌳",
+      "color": "lime",
+      "chapters": [
+        { "title": "Myself", "titleHi": "मैं", "learningOutcomes": ["Names body parts and their uses"], "topics": ["My Body", "My Likes and Dislikes"] },
+        { "title": "My Family", "titleHi": "मेरा परिवार", "learningOutcomes": ["Describes family members and their roles"], "topics": ["Family Members", "Family Tree"] },
+        { "title": "Food", "titleHi": "भोजन", "learningOutcomes": ["Differentiates healthy and unhealthy food"], "topics": ["Food from Plants", "Food from Animals", "Healthy Eating"] },
+        { "title": "Clothes", "titleHi": "कपड़े", "learningOutcomes": ["Matches clothes to seasons"], "topics": ["Summer and Winter Clothes", "Rainy Day Clothes"] },
+        { "title": "Our House", "titleHi": "हमारा घर", "learningOutcomes": ["Names rooms and their uses"], "topics": ["Rooms of a House", "Kinds of Houses"] },
+        { "title": "Plants and Animals", "titleHi": "पौधे और जानवर", "learningOutcomes": ["Observes plants and animals around"], "topics": ["Trees and Plants", "Animals and Their Homes"] },
+        { "title": "Water and Air", "titleHi": "पानी और हवा", "learningOutcomes": ["Explains uses of water and air"], "topics": ["Uses of Water", "Air is Everywhere"] },
+        { "title": "Safety and Good Habits", "titleHi": "सुरक्षा और अच्छी आदतें", "learningOutcomes": ["Follows basic safety and cleanliness rules"], "topics": ["Clean Habits", "Road Safety", "Good Touch and Bad Touch"] }
+      ]
+    },
+    {
+      "slug": "art-health",
+      "name": "Art, Health and Well-being",
+      "nameHi": "कला, स्वास्थ्य और खुशहाली",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        { "title": "Drawing and Colouring", "titleHi": "चित्रकारी और रंग", "topics": ["Draw Your Family", "Colour Mixing"] },
+        { "title": "Music and Movement", "titleHi": "संगीत और हलचल", "topics": ["Clap the Beat", "Action Songs"] },
+        { "title": "Yoga and Games", "titleHi": "योग और खेल", "topics": ["Simple Asanas", "Outdoor Games"] }
+      ]
+    }
+  ]
+}

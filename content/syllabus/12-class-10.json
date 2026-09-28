@@ -1,0 +1,39 @@
+{
+  "slug": "class-10",
+  "name": "Class 10",
+  "nameHi": "कक्षा 10",
+  "order": 12,
+  "stage": "SECONDARY",
+  "ageRange": "15–16",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT First Flight and Footprints Without Feet",
+      "chapters": ["First Flight: A Letter to God", "First Flight: Nelson Mandela – Long Walk to Freedom", "First Flight: Two Stories about Flying", "First Flight: From the Diary of Anne Frank", "First Flight: Glimpses of India", "First Flight: Mijbil the Otter", "First Flight: Madam Rides the Bus", "First Flight: The Sermon at Benares", "First Flight: The Proposal", "Poem: Dust of Snow", "Poem: Fire and Ice", "Poem: A Tiger in the Zoo", "Poem: How to Tell Wild Animals", "Poem: The Ball Poem", "Poem: Amanda!", "Poem: The Trees", "Poem: Fog", "Poem: The Tale of Custard the Dragon", "Poem: For Anne Gregory", "Footprints: A Triumph of Surgery", "Footprints: The Thief's Story", "Footprints: The Midnight Visitor", "Footprints: A Question of Trust", "Footprints: Footprints without Feet", "Footprints: The Making of a Scientist", "Footprints: The Necklace", "Footprints: Bholi", "Footprints: The Book That Saved the Earth", "Grammar", "Writing Skills: Letters and Analytical Paragraph"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi (Course A)", "nameHi": "हिंदी (कोर्स A)", "icon": "🅰️", "color": "orange", "book": "NCERT Kshitij and Kritika",
+      "chapters": ["सूरदास के पद", "राम-लक्ष्मण-परशुराम संवाद", "आत्मकथ्य", "उत्साह और अट नहीं रही है", "यह दंतुरित मुसकान और फसल", "संगतकार", "नेताजी का चश्मा", "बालगोबिन भगत", "लखनवी अंदाज़", "एक कहानी यह भी", "नौबतखाने में इबादत", "संस्कृति", "कृतिका: माता का अँचल", "कृतिका: साना-साना हाथ जोड़ि", "कृतिका: मैं क्यों लिखता हूँ?", "व्याकरण: रचना के आधार पर वाक्य भेद", "व्याकरण: वाच्य", "व्याकरण: पद परिचय", "व्याकरण: रस", "व्याकरण: मुहावरे", "लेखन: अनुच्छेद, पत्र, सूचना, विज्ञापन, संदेश"]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "📐", "color": "emerald", "book": "NCERT Mathematics",
+      "chapters": ["Real Numbers", "Polynomials", "Pair of Linear Equations in Two Variables", "Quadratic Equations", "Arithmetic Progressions", "Triangles", "Coordinate Geometry", "Introduction to Trigonometry", "Some Applications of Trigonometry", "Circles", "Areas Related to Circles", "Surface Areas and Volumes", "Statistics", "Probability"]
+    },
+    {
+      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Science",
+      "chapters": ["Chemical Reactions and Equations", "Acids, Bases and Salts", "Metals and Non-metals", "Carbon and its Compounds", "Life Processes", "Control and Coordination", "How do Organisms Reproduce?", "Heredity", "Light – Reflection and Refraction", "The Human Eye and the Colourful World", "Electricity", "Magnetic Effects of Electric Current", "Our Environment"]
+    },
+    {
+      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT History, Geography, Political Science, Economics",
+      "chapters": ["History: The Rise of Nationalism in Europe", "History: Nationalism in India", "History: The Making of a Global World", "History: The Age of Industrialisation", "History: Print Culture and the Modern World", "Geography: Resources and Development", "Geography: Forest and Wildlife Resources", "Geography: Water Resources", "Geography: Agriculture", "Geography: Minerals and Energy Resources", "Geography: Manufacturing Industries", "Geography: Lifelines of National Economy", "Political Science: Power-sharing", "Political Science: Federalism", "Political Science: Gender, Religion and Caste", "Political Science: Political Parties", "Political Science: Outcomes of Democracy", "Economics: Development", "Economics: Sectors of the Indian Economy", "Economics: Money and Credit", "Economics: Globalisation and the Indian Economy", "Economics: Consumer Rights"]
+    },
+    {
+      "slug": "it", "name": "Information Technology (Optional)", "nameHi": "सूचना प्रौद्योगिकी (वैकल्पिक)", "icon": "💻", "color": "indigo",
+      "chapters": ["Communication Skills", "Self-Management Skills", "ICT Skills", "Entrepreneurial Skills", "Green Skills", "Digital Documentation (Advanced)", "Electronic Spreadsheet (Advanced)", "Database Management System", "Web Applications and Security"]
+    },
+    {
+      "slug": "board-prep", "name": "Board Exam Preparation", "nameHi": "बोर्ड परीक्षा की तैयारी", "icon": "🏆", "color": "rose",
+      "chapters": ["Previous Years' Question Papers", "Sample Papers", "Chapter-wise Important Questions", "Formula Sheets", "Marking Scheme and Answer-Writing Tips", "Revision Planner"]
+    }
+  ]
+}

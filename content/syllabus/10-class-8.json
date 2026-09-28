@@ -1,0 +1,54 @@
+{
+  "slug": "class-8",
+  "name": "Class 8",
+  "nameHi": "कक्षा 8",
+  "order": 10,
+  "stage": "MIDDLE",
+  "ageRange": "13–14",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Poorvi (reference)",
+      "chapters": ["Prose and Poetry: Wisdom Paves the Way", "Prose and Poetry: Science and Curiosity", "Prose and Poetry: Nation and Heritage", "Prose and Poetry: Humour", "Grammar: Modals", "Grammar: Reported Speech", "Grammar: Voice", "Grammar: Clauses and Sentence Transformation", "Writing: Letters and Emails", "Writing: Article, Report and Speech"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Malhar (reference)",
+      "chapters": [
+        { "title": "Prose Lessons", "titleHi": "गद्य पाठ" },
+        { "title": "Poems", "titleHi": "कविताएँ" },
+        { "title": "Upsarg and Pratyay", "titleHi": "उपसर्ग और प्रत्यय" },
+        { "title": "Samas", "titleHi": "समास" },
+        { "title": "Sentence Transformation", "titleHi": "वाक्य रूपांतरण" },
+        { "title": "Alankar (Introduction)", "titleHi": "अलंकार (परिचय)" },
+        { "title": "Idioms and Proverbs", "titleHi": "मुहावरे और लोकोक्तियाँ" },
+        { "title": "Essay, Letter and Advertisement Writing", "titleHi": "निबंध, पत्र और विज्ञापन लेखन" }
+      ]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➗", "color": "emerald", "book": "NCERT Ganita Prakash (reference)",
+      "chapters": ["Rational Numbers", "Linear Equations in One Variable", "Understanding Quadrilaterals", "Data Handling and Probability", "Squares and Square Roots", "Cubes and Cube Roots", "Comparing Quantities: Profit, Loss, Interest", "Algebraic Expressions and Identities", "Mensuration", "Exponents and Powers", "Direct and Inverse Proportions", "Factorisation", "Introduction to Graphs"]
+    },
+    {
+      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Curiosity (reference)",
+      "chapters": ["Crop Production and Management", "Microorganisms: Friend and Foe", "Synthetic Fibres and Plastics", "Materials: Metals and Non-Metals", "Coal and Petroleum", "Combustion and Flame", "Conservation of Plants and Animals", "Cell: Structure and Functions", "Reproduction in Animals", "Reaching the Age of Adolescence", "Force and Pressure", "Friction", "Sound", "Chemical Effects of Electric Current", "Some Natural Phenomena", "Light and the Human Eye"]
+    },
+    {
+      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT Exploring Society: India and Beyond (reference)",
+      "chapters": ["Resources and Their Conservation", "Land, Soil, Water and Natural Vegetation", "Agriculture and Industries", "Human Resources", "The Coming of the British", "Colonialism and Rural Society", "The Revolt of 1857", "The Indian National Movement", "The Indian Constitution", "Parliament and the Making of Laws", "The Judiciary", "Public Facilities and Law"]
+    },
+    {
+      "slug": "sanskrit", "name": "Sanskrit", "nameHi": "संस्कृत", "icon": "🕉️", "color": "rose",
+      "chapters": [
+        { "title": "Shabd Roop and Dhatu Roop", "titleHi": "शब्द रूप और धातु रूप" },
+        { "title": "Sandhi and Samas", "titleHi": "संधि और समास" },
+        { "title": "Pratyay", "titleHi": "प्रत्यय" },
+        { "title": "Translation Practice", "titleHi": "अनुवाद अभ्यास" },
+        { "title": "Stories and Shlokas", "titleHi": "कथाएँ और श्लोक" }
+      ]
+    },
+    {
+      "slug": "computer", "name": "Computer Science", "nameHi": "कंप्यूटर विज्ञान", "icon": "💻", "color": "indigo",
+      "chapters": ["Number Systems in Computers", "Databases Basics", "Introduction to Python", "Web Pages with HTML and CSS", "Artificial Intelligence Basics"]
+    }
+  ]
+}

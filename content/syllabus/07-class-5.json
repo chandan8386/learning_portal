@@ -1,0 +1,44 @@
+{
+  "slug": "class-5",
+  "name": "Class 5",
+  "nameHi": "कक्षा 5",
+  "order": 7,
+  "stage": "PREPARATORY",
+  "ageRange": "10–11",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Santoor (reference)",
+      "chapters": ["Reading Comprehension", "Nouns and Pronouns Revision", "Tenses: Present, Past, Future", "Subject-Verb Agreement", "Adverbs and Prepositions", "Direct and Indirect Speech (Introduction)", "Active and Passive (Introduction)", "Poems", "Stories and Plays", "Writing: Letter, Story, Diary"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Veena (reference)",
+      "chapters": [
+        { "title": "Poems", "titleHi": "कविताएँ" },
+        { "title": "Stories and Lessons", "titleHi": "कहानियाँ और पाठ" },
+        { "title": "Sandhi (Introduction)", "titleHi": "संधि (परिचय)" },
+        { "title": "Kinds of Pronouns", "titleHi": "सर्वनाम के भेद" },
+        { "title": "Kinds of Verbs", "titleHi": "क्रिया के भेद" },
+        { "title": "Prefix and Suffix", "titleHi": "उपसर्ग और प्रत्यय" },
+        { "title": "Idioms and Proverbs", "titleHi": "मुहावरे और लोकोक्तियाँ" },
+        { "title": "Essay, Letter and Story Writing", "titleHi": "निबंध, पत्र और कहानी लेखन" }
+      ]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➕", "color": "emerald", "book": "NCERT Maths Mela (reference)",
+      "chapters": ["Large Numbers up to Lakhs", "Operations on Large Numbers", "Factors, Multiples, HCF and LCM", "Fractions", "Decimals", "Angles and Their Measurement", "Triangles and Circles", "Perimeter, Area and Volume", "Measurement Conversions", "Time and Temperature", "Money and Profit-Loss (Basic)", "Patterns", "Data Handling: Bar Graphs"]
+    },
+    {
+      "slug": "evs", "name": "The World Around Us (EVS)", "nameHi": "हमारे आस-पास (पर्यावरण)", "icon": "🌳", "color": "lime",
+      "chapters": ["Our Senses and Animals", "Food: Growing and Preserving", "Water: Sources and Scarcity", "Shelter and Environment", "Forests and Tribal Life", "Diseases and Health", "Energy and Fuels", "Maps, Directions and the Globe", "Our Heritage", "Disasters and Safety"]
+    },
+    {
+      "slug": "computer", "name": "Computer Basics", "nameHi": "कंप्यूटर की जानकारी", "icon": "💻", "color": "indigo",
+      "chapters": ["Operating System Basics", "Files and Folders", "Presentations", "Introduction to Coding with Blocks", "Cyber Safety"]
+    },
+    {
+      "slug": "gk", "name": "General Knowledge", "nameHi": "सामान्य ज्ञान", "icon": "💡", "color": "amber",
+      "chapters": ["India and the World", "Space and Planets", "Science Facts", "Current Affairs Basics", "Values and Citizenship"]
+    }
+  ]
+}

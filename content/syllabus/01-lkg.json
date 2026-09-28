@@ -1,0 +1,89 @@
+{
+  "slug": "lkg",
+  "name": "LKG",
+  "nameHi": "एल.के.जी.",
+  "order": 1,
+  "stage": "FOUNDATIONAL",
+  "ageRange": "4–5",
+  "audioFirst": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "nameHi": "अंग्रेज़ी",
+      "icon": "🔤",
+      "color": "sky",
+      "chapters": [
+        { "title": "Capital Letters A to Z", "titleHi": "बड़े अक्षर A से Z", "topics": ["A to I", "J to R", "S to Z"] },
+        { "title": "Small Letters a to z", "titleHi": "छोटे अक्षर a से z", "topics": ["a to i", "j to r", "s to z"] },
+        { "title": "Phonics Sounds", "titleHi": "ध्वनियाँ (फ़ोनिक्स)", "topics": ["Sounds s a t p", "Sounds i n m d", "Sounds g o c k"] },
+        { "title": "Beginning Sounds", "titleHi": "शुरुआती ध्वनि", "topics": ["Which Letter Starts the Word?", "Match Picture to Letter"] },
+        { "title": "Rhymes and Stories", "titleHi": "कविताएँ और कहानियाँ", "topics": ["Baa Baa Black Sheep", "The Hare and the Tortoise"] }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "nameHi": "हिंदी",
+      "icon": "🅰️",
+      "color": "orange",
+      "chapters": [
+        { "title": "All Vowels (Swar)", "titleHi": "सभी स्वर (अ से अः)", "topics": [{ "title": "a to uu", "titleHi": "अ से ऊ" }, { "title": "ri to ah", "titleHi": "ऋ से अः" }] },
+        { "title": "Consonants ka to nga", "titleHi": "व्यंजन क से ङ", "topics": [{ "title": "ka kha ga", "titleHi": "क ख ग" }, { "title": "gha nga", "titleHi": "घ ङ" }] },
+        { "title": "Consonants cha to nya", "titleHi": "व्यंजन च से ञ", "topics": [{ "title": "cha chha ja", "titleHi": "च छ ज" }, { "title": "jha nya", "titleHi": "झ ञ" }] },
+        { "title": "Consonants ta to na", "titleHi": "व्यंजन ट से ण", "topics": [{ "title": "Ta Tha Da", "titleHi": "ट ठ ड" }, { "title": "Dha Na", "titleHi": "ढ ण" }] },
+        { "title": "Balgeet", "titleHi": "बालगीत", "topics": [{ "title": "Aloo Kachaloo", "titleHi": "आलू कचालू" }, { "title": "Nani Teri Morni", "titleHi": "नानी तेरी मोरनी" }] }
+      ]
+    },
+    {
+      "slug": "numbers",
+      "name": "Numbers",
+      "nameHi": "गिनती",
+      "icon": "🔢",
+      "color": "emerald",
+      "chapters": [
+        { "title": "Counting 1 to 20", "titleHi": "1 से 20 तक गिनती", "topics": ["Count 1 to 10", "Count 11 to 20", "Write Numbers"] },
+        { "title": "Counting 21 to 50", "titleHi": "21 से 50 तक गिनती", "topics": ["Count 21 to 30", "Count 31 to 50"] },
+        { "title": "Before, After and Between", "titleHi": "पहले, बाद और बीच", "topics": ["What Comes After?", "What Comes Before?", "What Comes Between?"] },
+        { "title": "More and Less", "titleHi": "ज़्यादा और कम", "topics": ["Which Group Has More?", "Which Group Has Less?"] },
+        { "title": "Shapes and Patterns", "titleHi": "आकृतियाँ और पैटर्न", "topics": ["Circle Square Triangle Rectangle", "Complete the Pattern"] }
+      ]
+    },
+    {
+      "slug": "my-world",
+      "name": "My World (EVS)",
+      "nameHi": "मेरी दुनिया",
+      "icon": "🌍",
+      "color": "lime",
+      "chapters": [
+        { "title": "My Senses", "titleHi": "मेरी इंद्रियाँ", "topics": ["Eyes to See", "Ears to Hear", "Nose Tongue and Skin"] },
+        { "title": "Food We Eat", "titleHi": "हमारा भोजन", "topics": ["Healthy Food", "Junk Food"] },
+        { "title": "Wild and Farm Animals", "titleHi": "जंगली और पालतू जानवर", "topics": ["Wild Animals", "Farm Animals", "Animal Sounds"] },
+        { "title": "Means of Transport", "titleHi": "यातायात के साधन", "topics": ["Land Transport", "Water and Air Transport"] },
+        { "title": "Seasons", "titleHi": "मौसम", "topics": ["Summer", "Rainy Season", "Winter"] }
+      ]
+    },
+    {
+      "slug": "rhymes-stories",
+      "name": "Rhymes and Stories",
+      "nameHi": "कविताएँ और कहानियाँ",
+      "icon": "🎵",
+      "color": "pink",
+      "chapters": [
+        { "title": "Rhymes", "titleHi": "कविताएँ", "topics": ["Rain Rain Go Away", "Humpty Dumpty", "Hickory Dickory Dock"] },
+        { "title": "Moral Stories", "titleHi": "नैतिक कहानियाँ", "topics": ["The Greedy Dog", "The Ant and the Grasshopper"] }
+      ]
+    },
+    {
+      "slug": "art",
+      "name": "Art and Craft",
+      "nameHi": "कला और शिल्प",
+      "icon": "🎨",
+      "color": "violet",
+      "chapters": [
+        { "title": "Drawing with Shapes", "titleHi": "आकृतियों से चित्र", "topics": ["Draw a House", "Draw a Sun"] },
+        { "title": "Paper Craft", "titleHi": "कागज़ शिल्प", "topics": ["Paper Tearing", "Paper Folding Fan"] }
+      ]
+    }
+  ]
+}

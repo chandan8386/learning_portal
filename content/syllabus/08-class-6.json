@@ -1,0 +1,54 @@
+{
+  "slug": "class-6",
+  "name": "Class 6",
+  "nameHi": "कक्षा 6",
+  "order": 8,
+  "stage": "MIDDLE",
+  "ageRange": "11–12",
+  "audioFirst": false,
+  "subjects": [
+    {
+      "slug": "english", "name": "English", "nameHi": "अंग्रेज़ी", "icon": "🔤", "color": "sky", "book": "NCERT Poorvi (reference)",
+      "chapters": ["Prose and Poetry: Fables and Folk Tales", "Prose and Poetry: Friendship", "Prose and Poetry: Nurturing Nature", "Prose and Poetry: Sports and Wellness", "Prose and Poetry: Culture and Tradition", "Grammar: Tenses", "Grammar: Determiners and Modals", "Grammar: Voice and Narration (Basics)", "Writing: Letter, Notice and Paragraph", "Reading Comprehension"]
+    },
+    {
+      "slug": "hindi", "name": "Hindi", "nameHi": "हिंदी", "icon": "🅰️", "color": "orange", "book": "NCERT Malhar (reference)",
+      "chapters": [
+        { "title": "Prose Lessons", "titleHi": "गद्य पाठ" },
+        { "title": "Poems", "titleHi": "कविताएँ" },
+        { "title": "Varna Vichar", "titleHi": "वर्ण विचार" },
+        { "title": "Sandhi", "titleHi": "संधि" },
+        { "title": "Noun, Pronoun, Adjective", "titleHi": "संज्ञा, सर्वनाम, विशेषण" },
+        { "title": "Verb and Tense", "titleHi": "क्रिया और काल" },
+        { "title": "Idioms and Proverbs", "titleHi": "मुहावरे और लोकोक्तियाँ" },
+        { "title": "Essay, Letter and Dialogue Writing", "titleHi": "निबंध, पत्र और संवाद लेखन" }
+      ]
+    },
+    {
+      "slug": "maths", "name": "Mathematics", "nameHi": "गणित", "icon": "➗", "color": "emerald", "book": "NCERT Ganita Prakash",
+      "chapters": ["Patterns in Mathematics", "Lines and Angles", "Number Play", "Data Handling and Presentation", "Prime Time", "Perimeter and Area", "Fractions", "Playing with Constructions", "Symmetry", "The Other Side of Zero"]
+    },
+    {
+      "slug": "science", "name": "Science", "nameHi": "विज्ञान", "icon": "🔬", "color": "teal", "book": "NCERT Curiosity",
+      "chapters": ["The Wonderful World of Science", "Diversity in the Living World", "Mindful Eating: A Path to a Healthy Body", "Exploring Magnets", "Measurement of Length and Motion", "Materials Around Us", "Temperature and its Measurement", "A Journey through States of Water", "Methods of Separation in Everyday Life", "Living Creatures: Exploring their Characteristics", "Nature's Treasures", "Beyond Earth"]
+    },
+    {
+      "slug": "social-science", "name": "Social Science", "nameHi": "सामाजिक विज्ञान", "icon": "🗺️", "color": "amber", "book": "NCERT Exploring Society: India and Beyond (reference)",
+      "chapters": ["Locating Places on the Earth", "Oceans and Continents", "Landforms and Life", "Timeline and Sources of History", "India's Cultural Roots", "Unity in Diversity", "Family and Community", "Grassroots Democracy: Local Government", "Economic Activities Around Us", "The Value of Work"]
+    },
+    {
+      "slug": "sanskrit", "name": "Sanskrit", "nameHi": "संस्कृत", "icon": "🕉️", "color": "rose",
+      "chapters": [
+        { "title": "Varnamala and Pronunciation", "titleHi": "वर्णमाला और उच्चारण" },
+        { "title": "Shabd Roop", "titleHi": "शब्द रूप" },
+        { "title": "Dhatu Roop", "titleHi": "धातु रूप" },
+        { "title": "Numbers in Sanskrit", "titleHi": "संख्याएँ" },
+        { "title": "Simple Sentences and Stories", "titleHi": "सरल वाक्य और कथाएँ" }
+      ]
+    },
+    {
+      "slug": "computer", "name": "Computer Science", "nameHi": "कंप्यूटर विज्ञान", "icon": "💻", "color": "indigo",
+      "chapters": ["Computer Systems", "Spreadsheets Basics", "Introduction to Scratch", "Algorithms and Flowcharts", "Digital Citizenship"]
+    }
+  ]
+}
