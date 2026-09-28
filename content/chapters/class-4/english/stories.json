@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Beginning: characters and setting. Middle: the problem. End: the solution.",
+      "hi": "शुरुआत: पात्र और स्थान। बीच: समस्या। अंत: समाधान।"
+    },
+    {
+      "en": "Describe characters with adjectives: brave, clever, greedy.",
+      "hi": "पात्रों का वर्णन विशेषणों से: brave, clever, greedy।"
+    },
+    {
+      "en": "Retell in order using first, then, next, finally.",
+      "hi": "क्रम से सुनाओ: first, then, next, finally।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "In \"The Lion and the Mouse\", what word describes the mouse?",
+        "hi": "\"The Lion and the Mouse\" में चूहे के लिए कौन-सा शब्द सही है?"
+      },
+      "steps": [
+        {
+          "en": "The mouse kept its promise and freed the lion.",
+          "hi": "चूहे ने वादा निभाया और शेर को छुड़ाया।"
+        }
+      ],
+      "answer": {
+        "en": "Grateful / helpful / loyal",
+        "hi": "आभारी / मददगार / वफ़ादार"
+      }
+    },
+    {
+      "problem": {
+        "en": "Retell \"The Thirsty Crow\" in four steps.",
+        "hi": "\"प्यासा कौआ\" चार कदमों में सुनाओ।"
+      },
+      "steps": [
+        {
+          "en": "First – problem; then – idea; next – action; finally – result.",
+          "hi": "पहले – समस्या; फिर – उपाय; फिर – काम; अंत – परिणाम।"
+        }
+      ],
+      "answer": {
+        "en": "First, the crow was thirsty. Then it found a pot with little water. Next, it dropped pebbles in. Finally, the water rose and it drank.",
+        "hi": "First, the crow was thirsty. Then it found a pot with little water. Next, it dropped pebbles in. Finally, the water rose and it drank."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which part of a story has the problem?",
+        "hi": "कहानी के किस भाग में समस्या होती है?"
+      },
+      "answer": {
+        "en": "The middle",
+        "hi": "बीच में"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the setting of a story?",
+        "hi": "कहानी की सेटिंग क्या है?"
+      },
+      "answer": {
+        "en": "Where and when it happens",
+        "hi": "कहाँ और कब होती है"
+      }
+    },
+    {
+      "question": {
+        "en": "Give an adjective for the hare in \"The Hare and the Tortoise\".",
+        "hi": "\"The Hare and the Tortoise\" में खरगोश के लिए एक विशेषण।"
+      },
+      "answer": {
+        "en": "Proud / overconfident / lazy",
+        "hi": "घमंडी / अति-आत्मविश्वासी / आलसी"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A story has characters, setting, a problem and a solution. Characters can be described by what they say, do and feel. Retelling a story in your own words shows you understood it.",
+    "hi": "कहानी में पात्र, स्थान-समय, समस्या और समाधान होते हैं। पात्रों का वर्णन उनकी बातों, कामों और भावनाओं से होता है। अपने शब्दों में कहानी दोबारा सुनाना दिखाता है कि तुम समझ गए।"
+  }
+}

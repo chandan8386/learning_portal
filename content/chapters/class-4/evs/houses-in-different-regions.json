@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Thick mud walls keep houses cool in the desert.",
+      "hi": "मिट्टी की मोटी दीवारें रेगिस्तान में घर ठंडा रखती हैं।"
+    },
+    {
+      "en": "Houseboats in Srinagar float on the Dal Lake.",
+      "hi": "श्रीनगर में हाउसबोट डल झील पर तैरती हैं।"
+    },
+    {
+      "en": "Materials: bricks, stone, wood, bamboo, mud, ice",
+      "hi": "सामग्री: ईंट, पत्थर, लकड़ी, बाँस, मिट्टी, बर्फ़"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why do houses in Rajasthan have thick walls and small windows?",
+        "hi": "राजस्थान में घरों की दीवारें मोटी और खिड़कियाँ छोटी क्यों होती हैं?"
+      },
+      "steps": [
+        {
+          "en": "Rajasthan is very hot.",
+          "hi": "राजस्थान बहुत गर्म है।"
+        },
+        {
+          "en": "Thick walls and small windows keep the heat out.",
+          "hi": "मोटी दीवारें और छोटी खिड़कियाँ गर्मी बाहर रखती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "To keep the house cool",
+        "hi": "घर ठंडा रखने के लिए"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which material is used for houses in the North-East where bamboo grows a lot?",
+        "hi": "पूर्वोत्तर में, जहाँ बाँस बहुत होता है, घर किससे बनते हैं?"
+      },
+      "steps": [
+        {
+          "en": "People use what grows nearby.",
+          "hi": "लोग आस-पास उगने वाली चीज़ इस्तेमाल करते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Bamboo",
+        "hi": "बाँस"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Where are houseboats found?",
+        "hi": "हाउसबोट कहाँ मिलती हैं?"
+      },
+      "answer": {
+        "en": "Srinagar (Dal Lake) and Kerala backwaters",
+        "hi": "श्रीनगर (डल झील) और केरल के बैकवॉटर"
+      }
+    },
+    {
+      "question": {
+        "en": "Why do hill houses have sloping roofs?",
+        "hi": "पहाड़ी घरों की छत ढलवाँ क्यों होती है?"
+      },
+      "answer": {
+        "en": "So rain and snow slide off",
+        "hi": "ताकि बारिश और बर्फ़ फिसल जाए"
+      }
+    },
+    {
+      "question": {
+        "en": "What is an igloo made of?",
+        "hi": "इग्लू किससे बनता है?"
+      },
+      "answer": {
+        "en": "Blocks of ice/snow",
+        "hi": "बर्फ़ के टुकड़ों से"
+      }
+    }
+  ],
+  "intro": {
+    "en": "People build houses to suit the weather and materials of their region. In hot deserts houses have thick mud walls; in cold hills they have wooden walls and sloping roofs; in flood areas they stand on stilts; in snowy places some people build igloos.",
+    "hi": "लोग अपने इलाक़े के मौसम और सामग्री के हिसाब से घर बनाते हैं। गर्म रेगिस्तान में मिट्टी की मोटी दीवारें; ठंडे पहाड़ों में लकड़ी की दीवारें और ढलवाँ छत; बाढ़ वाले इलाक़ों में खंभों पर घर; बर्फ़ीली जगहों पर कुछ लोग इग्लू बनाते हैं।"
+  }
+}

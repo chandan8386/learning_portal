@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Collective: a herd of cows, a bunch of grapes, a team of players",
+      "hi": "समूहवाचक: a herd of cows, a bunch of grapes, a team of players"
+    },
+    {
+      "en": "Material: cotton, silver, glass, wood",
+      "hi": "द्रव्यवाचक: cotton, silver, glass, wood"
+    },
+    {
+      "en": "Abstract: love, fear, kindness, childhood (cannot be touched)",
+      "hi": "भाववाचक: love, fear, kindness, childhood (छू नहीं सकते)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What kind of noun is \"army\"?",
+        "hi": "\"army\" किस तरह की संज्ञा है?"
+      },
+      "steps": [
+        {
+          "en": "An army is a group of soldiers.",
+          "hi": "army सैनिकों का समूह है।"
+        }
+      ],
+      "answer": {
+        "en": "Collective noun",
+        "hi": "समूहवाचक संज्ञा (collective)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Find the abstract noun: \"The child was full of happiness.\"",
+        "hi": "भाववाचक संज्ञा ढूँढो: \"The child was full of happiness.\""
+      },
+      "steps": [
+        {
+          "en": "child can be seen; happiness is a feeling.",
+          "hi": "child दिखता है; happiness एक भावना है।"
+        }
+      ],
+      "answer": {
+        "en": "happiness",
+        "hi": "happiness"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"a __ of sheep\" (flock/bunch)",
+        "hi": "भरो: \"a __ of sheep\" (flock/bunch)"
+      },
+      "answer": {
+        "en": "flock",
+        "hi": "flock"
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of noun is \"gold\"?",
+        "hi": "\"gold\" किस तरह की संज्ञा है?"
+      },
+      "answer": {
+        "en": "Material noun",
+        "hi": "द्रव्यवाचक (material)"
+      }
+    },
+    {
+      "question": {
+        "en": "Is \"bravery\" a common or an abstract noun?",
+        "hi": "\"bravery\" common है या abstract?"
+      },
+      "answer": {
+        "en": "Abstract",
+        "hi": "Abstract"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Nouns are of different kinds: proper (Ravi, Delhi), common (boy, city), collective (a group: a flock of birds), material (things made from: gold, wood) and abstract (feelings and ideas: joy, honesty).",
+    "hi": "संज्ञा कई तरह की होती है: proper (Ravi, Delhi), common (boy, city), collective (समूह: a flock of birds), material (पदार्थ: gold, wood) और abstract (भाव और विचार: joy, honesty)।"
+  }
+}

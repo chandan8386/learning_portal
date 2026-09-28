@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Rubber comes from the latex of the rubber tree.",
+      "hi": "रबड़, रबड़ के पेड़ के दूध (लेटेक्स) से बनता है।"
+    },
+    {
+      "en": "Medicinal plants: neem, tulsi, aloe vera, turmeric",
+      "hi": "औषधीय पौधे: नीम, तुलसी, एलोवेरा, हल्दी"
+    },
+    {
+      "en": "Plants release oxygen, which we breathe.",
+      "hi": "पौधे ऑक्सीजन छोड़ते हैं जिसमें हम साँस लेते हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How does a coconut spread to a new place?",
+        "hi": "नारियल नई जगह कैसे फैलता है?"
+      },
+      "steps": [
+        {
+          "en": "It has a hard, light, hairy covering.",
+          "hi": "इसका छिलका सख़्त, हल्का और रेशेदार होता है।"
+        }
+      ],
+      "answer": {
+        "en": "It floats on water",
+        "hi": "पानी पर तैरकर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which plant gives us the spice turmeric?",
+        "hi": "हल्दी मसाला किस पौधे से मिलता है?"
+      },
+      "steps": [
+        {
+          "en": "Its underground stem is dried and powdered.",
+          "hi": "इसका ज़मीन के नीचे का तना सुखाकर पीसा जाता है।"
+        }
+      ],
+      "answer": {
+        "en": "The turmeric (haldi) plant",
+        "hi": "हल्दी का पौधा"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which gas do plants give out that we breathe?",
+        "hi": "पौधे कौन-सी गैस छोड़ते हैं जिसमें हम साँस लेते हैं?"
+      },
+      "answer": {
+        "en": "Oxygen",
+        "hi": "ऑक्सीजन"
+      }
+    },
+    {
+      "question": {
+        "en": "How do light, fluffy seeds spread?",
+        "hi": "हल्के, रुई जैसे बीज कैसे फैलते हैं?"
+      },
+      "answer": {
+        "en": "By wind",
+        "hi": "हवा से"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one medicinal plant.",
+        "hi": "एक औषधीय पौधे का नाम।"
+      },
+      "answer": {
+        "en": "Neem, tulsi, aloe vera (any one)",
+        "hi": "नीम, तुलसी, एलोवेरा (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Plants give us food, oxygen, wood, cotton, rubber, medicines and spices. Seeds spread to new places by wind (cotton seeds), water (coconut), animals (burrs stick to fur) and bursting pods (peas).",
+    "hi": "पौधे हमें भोजन, ऑक्सीजन, लकड़ी, कपास, रबड़, दवाइयाँ और मसाले देते हैं। बीज नई जगहों पर हवा (कपास के बीज), पानी (नारियल), जानवरों (चिपकने वाले बीज) और फटती फलियों (मटर) से फैलते हैं।"
+  }
+}

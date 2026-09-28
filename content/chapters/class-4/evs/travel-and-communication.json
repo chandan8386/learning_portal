@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Personal communication: letter, phone, email, SMS",
+      "hi": "व्यक्तिगत संचार: चिट्ठी, फ़ोन, ईमेल, SMS"
+    },
+    {
+      "en": "Mass communication: TV, radio, newspaper, internet",
+      "hi": "जनसंचार: टीवी, रेडियो, अख़बार, इंटरनेट"
+    },
+    {
+      "en": "A PIN code helps letters reach the right post office.",
+      "hi": "पिन कोड चिट्ठी को सही डाकघर तक पहुँचाता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the fastest way to send a written message to a friend abroad?",
+        "hi": "विदेश में दोस्त को लिखित संदेश भेजने का सबसे तेज़ तरीक़ा?"
+      },
+      "steps": [
+        {
+          "en": "Letters take days; internet messages arrive in seconds.",
+          "hi": "चिट्ठी में दिन लगते हैं; इंटरनेट संदेश सेकंडों में पहुँचते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Email or an online message",
+        "hi": "ईमेल या ऑनलाइन संदेश"
+      }
+    },
+    {
+      "problem": {
+        "en": "How many digits does an Indian PIN code have?",
+        "hi": "भारतीय पिन कोड में कितने अंक होते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Example: New Delhi 110001.",
+          "hi": "उदाहरण: नई दिल्ली 110001।"
+        }
+      ],
+      "answer": "6"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is a newspaper personal or mass communication?",
+        "hi": "अख़बार व्यक्तिगत संचार है या जनसंचार?"
+      },
+      "answer": {
+        "en": "Mass communication",
+        "hi": "जनसंचार"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one modern means of city transport.",
+        "hi": "शहर का एक आधुनिक यातायात साधन।"
+      },
+      "answer": {
+        "en": "Metro rail",
+        "hi": "मेट्रो रेल"
+      }
+    },
+    {
+      "question": {
+        "en": "What helps a letter reach the right post office?",
+        "hi": "चिट्ठी को सही डाकघर तक क्या पहुँचाता है?"
+      },
+      "answer": {
+        "en": "PIN code",
+        "hi": "पिन कोड"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Transport has changed from walking and bullock carts to trains, planes and metro rail. Communication has changed from letters and pigeons to phones, email and video calls. Faster ways connect people across the world.",
+    "hi": "यातायात पैदल और बैलगाड़ी से बदलकर ट्रेन, हवाई जहाज़ और मेट्रो तक आ गया है। संचार चिट्ठी और कबूतर से बदलकर फ़ोन, ईमेल और वीडियो कॉल तक पहुँच गया है। तेज़ साधन दुनिया भर के लोगों को जोड़ते हैं।"
+  }
+}

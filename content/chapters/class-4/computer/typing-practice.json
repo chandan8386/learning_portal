@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Home row: A S D F — J K L ;",
+      "hi": "होम रो: A S D F — J K L ;"
+    },
+    {
+      "en": "Use thumbs for the space bar.",
+      "hi": "स्पेस बार के लिए अंगूठे इस्तेमाल करो।"
+    },
+    {
+      "en": "Sit straight, wrists relaxed, eyes on the screen.",
+      "hi": "सीधे बैठो, कलाई ढीली, आँखें स्क्रीन पर।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which fingers rest on F and J?",
+        "hi": "F और J पर कौन-सी उंगलियाँ रहती हैं?"
+      },
+      "steps": [
+        {
+          "en": "These keys have bumps you can feel.",
+          "hi": "इन कुंजियों पर उभार होते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "The index (pointer) fingers",
+        "hi": "तर्जनी उंगलियाँ"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which key types capital letters when held down?",
+        "hi": "कौन-सी कुंजी दबाए रखने पर बड़े अक्षर आते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Hold it and press a letter.",
+          "hi": "इसे दबाए रखकर अक्षर दबाओ।"
+        }
+      ],
+      "answer": {
+        "en": "Shift",
+        "hi": "Shift"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name the four home row keys for the left hand.",
+        "hi": "बाएँ हाथ की चार होम रो कुंजियाँ।"
+      },
+      "answer": {
+        "en": "A S D F",
+        "hi": "A S D F"
+      }
+    },
+    {
+      "question": {
+        "en": "Which fingers press the space bar?",
+        "hi": "स्पेस बार कौन-सी उंगलियाँ दबाती हैं?"
+      },
+      "answer": {
+        "en": "Thumbs",
+        "hi": "अंगूठे"
+      }
+    },
+    {
+      "question": {
+        "en": "Which key turns on all capitals until pressed again?",
+        "hi": "कौन-सी कुंजी दोबारा दबाने तक सब बड़े अक्षर करती है?"
+      },
+      "answer": {
+        "en": "Caps Lock",
+        "hi": "Caps Lock"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Touch typing means typing without looking at the keys. Rest your fingers on the home row: left hand on A S D F, right hand on J K L ;. The F and J keys have small bumps to guide your index fingers.",
+    "hi": "टच टाइपिंग मतलब कुंजियाँ देखे बिना टाइप करना। उंगलियाँ होम रो पर रखो: बायाँ हाथ A S D F पर, दायाँ हाथ J K L ; पर। F और J पर छोटे उभार होते हैं जो तर्जनी उंगलियों को रास्ता दिखाते हैं।"
+  }
+}

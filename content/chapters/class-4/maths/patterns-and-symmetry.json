@@ -1,0 +1,79 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Square: 4 lines of symmetry; rectangle: 2; circle: countless",
+      "hi": "वर्ग: 4 सममिति रेखाएँ; आयत: 2; वृत्त: अनगिनत"
+    },
+    {
+      "en": "Letters A, M, T have a vertical line of symmetry.",
+      "hi": "A, M, T अक्षरों में खड़ी सममिति रेखा होती है।"
+    },
+    {
+      "en": "Magic squares: every row, column and diagonal adds to the same number.",
+      "hi": "जादुई वर्ग: हर पंक्ति, स्तंभ और विकर्ण का जोड़ बराबर।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "How many lines of symmetry does an equilateral triangle have?",
+        "hi": "समबाहु त्रिभुज की कितनी सममिति रेखाएँ हैं?"
+      },
+      "steps": [
+        {
+          "en": "Fold from each corner to the middle of the opposite side.",
+          "hi": "हर कोने से सामने की भुजा के बीच तक मोड़ो।"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "problem": {
+        "en": "Complete: 1, 4, 9, 16, __",
+        "hi": "पूरा करो: 1, 4, 9, 16, __"
+      },
+      "steps": [
+        {
+          "en": "These are 1 × 1, 2 × 2, 3 × 3, 4 × 4.",
+          "hi": "ये हैं 1 × 1, 2 × 2, 3 × 3, 4 × 4।"
+        },
+        {
+          "en": "Next: 5 × 5",
+          "hi": "अगला: 5 × 5"
+        }
+      ],
+      "answer": "25"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many lines of symmetry does a rectangle have?",
+        "hi": "आयत की कितनी सममिति रेखाएँ?"
+      },
+      "answer": "2"
+    },
+    {
+      "question": {
+        "en": "Does the letter F have a line of symmetry?",
+        "hi": "क्या F अक्षर में सममिति रेखा है?"
+      },
+      "answer": {
+        "en": "No",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "question": {
+        "en": "Next number: 2, 6, 18, 54, __",
+        "hi": "अगली संख्या: 2, 6, 18, 54, __"
+      },
+      "answer": "162 (× 3)"
+    }
+  ],
+  "intro": {
+    "en": "A shape is symmetrical if one half is the mirror image of the other half. The fold line is the line of symmetry. Patterns can grow in shapes and numbers.",
+    "hi": "आकृति सममित होती है जब उसका एक आधा दूसरे आधे का दर्पण प्रतिबिंब हो। मोड़ने वाली रेखा सममिति रेखा है। पैटर्न आकृतियों और संख्याओं में बढ़ सकते हैं।"
+  }
+}

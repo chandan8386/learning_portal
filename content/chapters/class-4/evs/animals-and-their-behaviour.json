@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Ants and bees divide work: queen, workers, soldiers.",
+      "hi": "चींटियाँ और मधुमक्खियाँ काम बाँटती हैं: रानी, मज़दूर, सैनिक।"
+    },
+    {
+      "en": "An elephant herd is led by the oldest female.",
+      "hi": "हाथियों के झुंड की अगुवाई सबसे बड़ी हथिनी करती है।"
+    },
+    {
+      "en": "Some birds migrate long distances in winter (Siberian crane).",
+      "hi": "कुछ पक्षी सर्दी में दूर प्रवास करते हैं (साइबेरियन क्रेन)।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Why do ants walk in a line?",
+        "hi": "चींटियाँ लाइन में क्यों चलती हैं?"
+      },
+      "steps": [
+        {
+          "en": "The first ant leaves a smell trail on the path.",
+          "hi": "पहली चींटी रास्ते पर गंध छोड़ती है।"
+        }
+      ],
+      "answer": {
+        "en": "They follow the smell trail left by other ants",
+        "hi": "दूसरी चींटियों की छोड़ी गंध का पीछा करती हैं"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why do some birds come to India in winter?",
+        "hi": "कुछ पक्षी सर्दी में भारत क्यों आते हैं?"
+      },
+      "steps": [
+        {
+          "en": "Their homes far north become freezing cold with little food.",
+          "hi": "उत्तर में उनके घर बहुत ठंडे हो जाते हैं और खाना कम।"
+        }
+      ],
+      "answer": {
+        "en": "To escape the cold and find food (migration)",
+        "hi": "ठंड से बचने और खाना ढूँढने (प्रवास)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who leads an elephant herd?",
+        "hi": "हाथी के झुंड की अगुवाई कौन करता है?"
+      },
+      "answer": {
+        "en": "The oldest female elephant",
+        "hi": "सबसे बड़ी हथिनी"
+      }
+    },
+    {
+      "question": {
+        "en": "What is sleeping through winter called?",
+        "hi": "सर्दी भर सोने को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Hibernation",
+        "hi": "शीतनिद्रा"
+      }
+    },
+    {
+      "question": {
+        "en": "Name an insect that lives in a group.",
+        "hi": "समूह में रहने वाला एक कीड़ा।"
+      },
+      "answer": {
+        "en": "Ant or bee",
+        "hi": "चींटी या मधुमक्खी"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Animals behave in special ways to survive. Some live in groups (elephants, ants, bees) for safety and sharing work. Some sleep through winter (hibernation). Many animals communicate with sounds, smells and movements.",
+    "hi": "जानवर ज़िंदा रहने के लिए ख़ास तरह से व्यवहार करते हैं। कुछ समूह में रहते हैं (हाथी, चींटी, मधुमक्खी) सुरक्षा और काम बाँटने के लिए। कुछ सर्दी भर सोते हैं (शीतनिद्रा)। कई जानवर आवाज़, गंध और हरकतों से बात करते हैं।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Occupation = the work a person does to earn money.",
+      "hi": "पेशा = पैसे कमाने के लिए किया जाने वाला काम।"
+    },
+    {
+      "en": "Every job is important for society.",
+      "hi": "समाज के लिए हर काम ज़रूरी है।"
+    },
+    {
+      "en": "Children should study, not work for money.",
+      "hi": "बच्चों को पढ़ना चाहिए, पैसे के लिए काम नहीं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who builds houses?",
+        "hi": "घर कौन बनाता है?"
+      },
+      "steps": [
+        {
+          "en": "This worker uses bricks, cement and tools.",
+          "hi": "यह मज़दूर ईंट, सीमेंट और औज़ार इस्तेमाल करता है।"
+        }
+      ],
+      "answer": {
+        "en": "Mason (raj mistri)",
+        "hi": "राजमिस्त्री"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why is child labour wrong?",
+        "hi": "बाल मज़दूरी ग़लत क्यों है?"
+      },
+      "steps": [
+        {
+          "en": "Children need to learn, play and grow.",
+          "hi": "बच्चों को सीखना, खेलना और बढ़ना चाहिए।"
+        }
+      ],
+      "answer": {
+        "en": "It takes away their right to education and childhood",
+        "hi": "यह उनसे पढ़ाई और बचपन का हक़ छीनती है"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who catches fish for a living?",
+        "hi": "मछली पकड़कर रोज़ी कौन कमाता है?"
+      },
+      "answer": {
+        "en": "Fisherman",
+        "hi": "मछुआरा"
+      }
+    },
+    {
+      "question": {
+        "en": "Who weaves cloth?",
+        "hi": "कपड़ा कौन बुनता है?"
+      },
+      "answer": {
+        "en": "Weaver",
+        "hi": "बुनकर"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the word for the work a person does to earn money?",
+        "hi": "पैसे कमाने के लिए किए गए काम को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "Occupation",
+        "hi": "पेशा (व्यवसाय)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "People do different kinds of work (occupations) to earn a living: farmers, doctors, teachers, drivers, shopkeepers, weavers and many more. Some skills pass from parents to children, like pottery or weaving.",
+    "hi": "लोग रोज़ी कमाने के लिए अलग-अलग काम (पेशे) करते हैं: किसान, डॉक्टर, शिक्षक, ड्राइवर, दुकानदार, बुनकर और बहुत से। कुछ हुनर माता-पिता से बच्चों में आते हैं, जैसे मिट्टी के बर्तन या बुनाई।"
+  }
+}

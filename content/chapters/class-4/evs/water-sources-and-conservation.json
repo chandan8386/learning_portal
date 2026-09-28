@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Surface water: rivers, lakes, ponds. Groundwater: wells, tube wells.",
+      "hi": "सतही जल: नदी, झील, तालाब। भूजल: कुएँ, नलकूप।"
+    },
+    {
+      "en": "Stepwells (baolis) were built long ago to store water.",
+      "hi": "पानी जमा करने के लिए पहले बावड़ियाँ बनाई जाती थीं।"
+    },
+    {
+      "en": "Reuse: water from washing vegetables can water plants.",
+      "hi": "दोबारा उपयोग: सब्ज़ी धोने का पानी पौधों में डालो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "A tap leaks one drop every second. Why should it be fixed quickly?",
+        "hi": "नल से हर सेकंड एक बूँद टपकती है। इसे जल्दी क्यों ठीक करना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Small drops add up to many litres in a day.",
+          "hi": "छोटी बूँदें दिनभर में कई लीटर बन जाती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "It wastes a lot of water over time",
+        "hi": "समय के साथ बहुत पानी बर्बाद होता है"
+      }
+    },
+    {
+      "problem": {
+        "en": "What is a stepwell?",
+        "hi": "बावड़ी क्या है?"
+      },
+      "steps": [
+        {
+          "en": "It has steps going down to reach water.",
+          "hi": "इसमें पानी तक पहुँचने के लिए सीढ़ियाँ होती हैं।"
+        }
+      ],
+      "answer": {
+        "en": "An old deep well with steps, built to store water",
+        "hi": "पानी जमा करने के लिए बनी सीढ़ियों वाली पुरानी गहरी बावड़ी"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is the main source of all our water?",
+        "hi": "हमारे सारे पानी का मुख्य स्रोत क्या है?"
+      },
+      "answer": {
+        "en": "Rain",
+        "hi": "बारिश"
+      }
+    },
+    {
+      "question": {
+        "en": "Is a well surface water or groundwater?",
+        "hi": "कुआँ सतही जल है या भूजल?"
+      },
+      "answer": {
+        "en": "Groundwater",
+        "hi": "भूजल"
+      }
+    },
+    {
+      "question": {
+        "en": "Give one way to save water at home.",
+        "hi": "घर में पानी बचाने का एक तरीक़ा।"
+      },
+      "answer": {
+        "en": "Turn off taps, fix leaks, reuse water (any one)",
+        "hi": "नल बंद रखना, रिसाव ठीक करना, पानी दोबारा इस्तेमाल (कोई एक)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Rain is the main source of water. It fills rivers, lakes and ponds, and seeps underground to fill wells. Water is limited, so we must conserve it through rainwater harvesting, fixing leaks and reusing water.",
+    "hi": "बारिश पानी का मुख्य स्रोत है। यह नदियों, झीलों और तालाबों को भरती है और ज़मीन में रिसकर कुओं को भरती है। पानी सीमित है, इसलिए वर्षा जल संचयन, रिसाव ठीक करके और पानी दोबारा इस्तेमाल करके उसे बचाना चाहिए।"
+  }
+}

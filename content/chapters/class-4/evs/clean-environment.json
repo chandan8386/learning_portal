@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Biodegradable waste rots naturally: peels, leaves.",
+      "hi": "सड़ने वाला कचरा अपने आप गलता है: छिलके, पत्ते।"
+    },
+    {
+      "en": "Plastic does not rot for hundreds of years.",
+      "hi": "प्लास्टिक सैकड़ों साल तक नहीं गलता।"
+    },
+    {
+      "en": "3 Rs: Reduce, Reuse, Recycle",
+      "hi": "3 R: Reduce (कम करो), Reuse (दोबारा उपयोग), Recycle (पुनर्चक्रण)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which bin for a banana peel: green or blue?",
+        "hi": "केले का छिलका किस डिब्बे में: हरे या नीले?"
+      },
+      "steps": [
+        {
+          "en": "A peel is wet waste that rots.",
+          "hi": "छिलका गीला कचरा है जो सड़ता है।"
+        }
+      ],
+      "answer": {
+        "en": "Green bin",
+        "hi": "हरा डिब्बा"
+      }
+    },
+    {
+      "problem": {
+        "en": "Give an example of reusing.",
+        "hi": "दोबारा इस्तेमाल का एक उदाहरण दो।"
+      },
+      "steps": [
+        {
+          "en": "Use something again instead of throwing it away.",
+          "hi": "फेंकने की जगह दोबारा इस्तेमाल करो।"
+        }
+      ],
+      "answer": {
+        "en": "Use an old jar as a pencil holder",
+        "hi": "पुराने डिब्बे को पेंसिल स्टैंड बनाओ"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Which bin for a plastic bottle?",
+        "hi": "प्लास्टिक की बोतल किस डिब्बे में?"
+      },
+      "answer": {
+        "en": "Blue bin (dry waste)",
+        "hi": "नीला डिब्बा (सूखा कचरा)"
+      }
+    },
+    {
+      "question": {
+        "en": "What should we carry for shopping to reduce plastic?",
+        "hi": "प्लास्टिक कम करने के लिए ख़रीदारी में क्या ले जाएँ?"
+      },
+      "answer": {
+        "en": "A cloth bag",
+        "hi": "कपड़े का थैला"
+      }
+    },
+    {
+      "question": {
+        "en": "What are the 3 Rs?",
+        "hi": "3 R क्या हैं?"
+      },
+      "answer": {
+        "en": "Reduce, Reuse, Recycle",
+        "hi": "कम करो, दोबारा उपयोग करो, रीसायकल करो"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A clean environment keeps us healthy. Waste should go into separate bins: green for wet (biodegradable) waste like peels, blue for dry waste like plastic and paper. Reduce, Reuse and Recycle help cut down waste.",
+    "hi": "साफ़ पर्यावरण हमें स्वस्थ रखता है। कचरा अलग डिब्बों में: हरा गीले (सड़ने वाले) कचरे के लिए जैसे छिलके, नीला सूखे कचरे के लिए जैसे प्लास्टिक और काग़ज़। कम करो, दोबारा इस्तेमाल करो और रीसायकल करो से कचरा घटता है।"
+  }
+}

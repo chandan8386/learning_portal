@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Maharashtra – Mumbai; Tamil Nadu – Chennai; West Bengal – Kolkata",
+      "hi": "महाराष्ट्र – मुंबई; तमिलनाडु – चेन्नई; पश्चिम बंगाल – कोलकाता"
+    },
+    {
+      "en": "Uttar Pradesh – Lucknow; Bihar – Patna; Rajasthan – Jaipur",
+      "hi": "उत्तर प्रदेश – लखनऊ; बिहार – पटना; राजस्थान – जयपुर"
+    },
+    {
+      "en": "Karnataka – Bengaluru; Kerala – Thiruvananthapuram; Gujarat – Gandhinagar",
+      "hi": "कर्नाटक – बेंगलुरु; केरल – तिरुवनंतपुरम; गुजरात – गांधीनगर"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "What is the capital of Madhya Pradesh?",
+        "hi": "मध्य प्रदेश की राजधानी क्या है?"
+      },
+      "steps": [
+        {
+          "en": "It is called the City of Lakes.",
+          "hi": "इसे झीलों का शहर कहते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Bhopal",
+        "hi": "भोपाल"
+      }
+    },
+    {
+      "problem": {
+        "en": "Which state has Dispur as its capital?",
+        "hi": "दिसपुर किस राज्य की राजधानी है?"
+      },
+      "steps": [
+        {
+          "en": "This north-eastern state is famous for tea.",
+          "hi": "यह पूर्वोत्तर राज्य चाय के लिए प्रसिद्ध है।"
+        }
+      ],
+      "answer": {
+        "en": "Assam",
+        "hi": "असम"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Capital of Rajasthan?",
+        "hi": "राजस्थान की राजधानी?"
+      },
+      "answer": {
+        "en": "Jaipur",
+        "hi": "जयपुर"
+      }
+    },
+    {
+      "question": {
+        "en": "Capital of Telangana?",
+        "hi": "तेलंगाना की राजधानी?"
+      },
+      "answer": {
+        "en": "Hyderabad",
+        "hi": "हैदराबाद"
+      }
+    },
+    {
+      "question": {
+        "en": "Which state's capital is Chennai?",
+        "hi": "चेन्नई किस राज्य की राजधानी है?"
+      },
+      "answer": {
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
+      }
+    }
+  ],
+  "intro": {
+    "en": "India has 28 states, each with a capital city where its government works. Knowing states and capitals helps us understand our country's map.",
+    "hi": "भारत में 28 राज्य हैं, हर एक की राजधानी है जहाँ उसकी सरकार काम करती है। राज्य और राजधानियाँ जानने से देश का नक़्शा समझ आता है।"
+  }
+}

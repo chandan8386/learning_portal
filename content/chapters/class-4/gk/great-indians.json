@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Father of the Nation: Mahatma Gandhi",
+      "hi": "राष्ट्रपिता: महात्मा गांधी"
+    },
+    {
+      "en": "First Prime Minister: Jawaharlal Nehru",
+      "hi": "पहले प्रधानमंत्री: जवाहरलाल नेहरू"
+    },
+    {
+      "en": "Missile Man of India: Dr A. P. J. Abdul Kalam",
+      "hi": "भारत के मिसाइल मैन: डॉ. ए. पी. जे. अब्दुल कलाम"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Who is called the \"Father of the Indian Constitution\"?",
+        "hi": "\"भारतीय संविधान के जनक\" किसे कहते हैं?"
+      },
+      "steps": [
+        {
+          "en": "He chaired the committee that drafted the Constitution.",
+          "hi": "वे संविधान का मसौदा बनाने वाली समिति के अध्यक्ष थे।"
+        }
+      ],
+      "answer": {
+        "en": "Dr B. R. Ambedkar",
+        "hi": "डॉ. बी. आर. आंबेडकर"
+      }
+    },
+    {
+      "problem": {
+        "en": "Children's Day (14 November) is the birthday of which leader?",
+        "hi": "बाल दिवस (14 नवंबर) किस नेता का जन्मदिन है?"
+      },
+      "steps": [
+        {
+          "en": "He loved children, who called him \"Chacha\".",
+          "hi": "उन्हें बच्चों से प्यार था, बच्चे उन्हें \"चाचा\" कहते थे।"
+        }
+      ],
+      "answer": {
+        "en": "Jawaharlal Nehru",
+        "hi": "जवाहरलाल नेहरू"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Who is called the Father of the Nation?",
+        "hi": "राष्ट्रपिता किसे कहते हैं?"
+      },
+      "answer": {
+        "en": "Mahatma Gandhi",
+        "hi": "महात्मा गांधी"
+      }
+    },
+    {
+      "question": {
+        "en": "Who was the first Indian-born woman in space?",
+        "hi": "अंतरिक्ष जाने वाली पहली भारत में जन्मी महिला?"
+      },
+      "answer": {
+        "en": "Kalpana Chawla",
+        "hi": "कल्पना चावला"
+      }
+    },
+    {
+      "question": {
+        "en": "Teachers' Day (5 September) honours whom?",
+        "hi": "शिक्षक दिवस (5 सितंबर) किसके सम्मान में है?"
+      },
+      "answer": {
+        "en": "Dr Sarvepalli Radhakrishnan",
+        "hi": "डॉ. सर्वपल्ली राधाकृष्णन"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Many great Indians inspire us. Mahatma Gandhi led the freedom struggle with non-violence. Dr B. R. Ambedkar led the making of our Constitution. A. P. J. Abdul Kalam was a scientist and President. Kalpana Chawla flew to space.",
+    "hi": "कई महान भारतीय हमें प्रेरणा देते हैं। महात्मा गांधी ने अहिंसा से स्वतंत्रता संग्राम चलाया। डॉ. बी. आर. आंबेडकर ने संविधान बनाने का नेतृत्व किया। ए. पी. जे. अब्दुल कलाम वैज्ञानिक और राष्ट्रपति थे। कल्पना चावला अंतरिक्ष गईं।"
+  }
+}

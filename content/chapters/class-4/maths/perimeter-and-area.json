@@ -1,0 +1,82 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Perimeter of rectangle = 2 × (length + breadth)",
+      "hi": "आयत का परिमाप = 2 × (लंबाई + चौड़ाई)"
+    },
+    {
+      "en": "Perimeter of square = 4 × side",
+      "hi": "वर्ग का परिमाप = 4 × भुजा"
+    },
+    {
+      "en": "Area of rectangle = length × breadth (sq cm)",
+      "hi": "आयत का क्षेत्रफल = लंबाई × चौड़ाई (वर्ग cm)"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "A rectangular garden is 12 m long and 8 m wide. Find its perimeter and area.",
+        "hi": "आयताकार बगीचा 12 m लंबा और 8 m चौड़ा है। परिमाप और क्षेत्रफल निकालो।"
+      },
+      "steps": [
+        {
+          "en": "Perimeter = 2 × (12 + 8) = 2 × 20 = 40 m.",
+          "hi": "परिमाप = 2 × (12 + 8) = 2 × 20 = 40 m।"
+        },
+        {
+          "en": "Area = 12 × 8 = 96 sq m.",
+          "hi": "क्षेत्रफल = 12 × 8 = 96 वर्ग m।"
+        }
+      ],
+      "answer": {
+        "en": "Perimeter 40 m, area 96 sq m",
+        "hi": "परिमाप 40 m, क्षेत्रफल 96 वर्ग m"
+      }
+    },
+    {
+      "problem": {
+        "en": "A square tile has a side of 9 cm. Find its perimeter.",
+        "hi": "एक वर्गाकार टाइल की भुजा 9 cm है। परिमाप?"
+      },
+      "steps": [
+        {
+          "en": "4 × 9",
+          "hi": "4 × 9"
+        }
+      ],
+      "answer": "36 cm"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Perimeter of a rectangle 7 cm by 5 cm?",
+        "hi": "7 cm × 5 cm आयत का परिमाप?"
+      },
+      "answer": "24 cm"
+    },
+    {
+      "question": {
+        "en": "Area of a square of side 6 cm?",
+        "hi": "6 cm भुजा वाले वर्ग का क्षेत्रफल?"
+      },
+      "answer": {
+        "en": "36 sq cm",
+        "hi": "36 वर्ग cm"
+      }
+    },
+    {
+      "question": {
+        "en": "A wire 32 cm long is bent into a square. What is each side?",
+        "hi": "32 cm लंबा तार मोड़कर वर्ग बनाया। हर भुजा?"
+      },
+      "answer": "8 cm"
+    }
+  ],
+  "intro": {
+    "en": "Perimeter is the distance around a shape: add all its sides. Area is the space inside a shape, measured in square units. For a rectangle, area = length × breadth.",
+    "hi": "परिमाप किसी आकृति के चारों ओर की दूरी है: सब भुजाएँ जोड़ो। क्षेत्रफल आकृति के अंदर की जगह है, वर्ग इकाइयों में। आयत का क्षेत्रफल = लंबाई × चौड़ाई।"
+  }
+}

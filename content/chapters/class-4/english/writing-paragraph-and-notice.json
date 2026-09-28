@@ -1,0 +1,91 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Notice format: NOTICE, school name, date, heading, body, name and designation.",
+      "hi": "सूचना प्रारूप: NOTICE, स्कूल का नाम, तारीख़, शीर्षक, मुख्य बात, नाम और पद।"
+    },
+    {
+      "en": "Keep a notice short (30–50 words) and put it in a box.",
+      "hi": "सूचना छोटी रखो (30–50 शब्द) और बॉक्स में लिखो।"
+    },
+    {
+      "en": "Paragraph: stay on one topic.",
+      "hi": "अनुच्छेद: एक ही विषय पर रहो।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Write a notice about a drawing competition.",
+        "hi": "चित्रकला प्रतियोगिता पर सूचना लिखो।"
+      },
+      "steps": [
+        {
+          "en": "Heading and date at the top.",
+          "hi": "ऊपर शीर्षक और तारीख़।"
+        },
+        {
+          "en": "What, when, where, who can take part, whom to contact.",
+          "hi": "क्या, कब, कहाँ, कौन भाग ले सकता है, किससे संपर्क करें।"
+        }
+      ],
+      "answer": {
+        "en": "NOTICE — Sunrise Public School — 10 July — DRAWING COMPETITION — A drawing competition for Classes 3–5 will be held on 20 July at 10 a.m. in the school hall. Bring your own colours. Give your names to your class teacher by 15 July. — Anita Rao, Art Teacher",
+        "hi": "NOTICE — Sunrise Public School — 10 July — DRAWING COMPETITION — A drawing competition for Classes 3–5 will be held on 20 July at 10 a.m. in the school hall. Bring your own colours. Give your names to your class teacher by 15 July. — Anita Rao, Art Teacher"
+      }
+    },
+    {
+      "problem": {
+        "en": "Write a topic sentence for a paragraph on \"A Rainy Day\".",
+        "hi": "\"A Rainy Day\" अनुच्छेद का मुख्य वाक्य लिखो।"
+      },
+      "steps": [
+        {
+          "en": "It should tell the main idea in one line.",
+          "hi": "यह एक पंक्ति में मुख्य विचार बताए।"
+        }
+      ],
+      "answer": {
+        "en": "A rainy day is full of fun and fresh smells.",
+        "hi": "A rainy day is full of fun and fresh smells."
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Name three things every notice must have.",
+        "hi": "हर सूचना में कौन-सी तीन बातें होनी चाहिए?"
+      },
+      "answer": {
+        "en": "Heading, date, writer's name (also what, when, where)",
+        "hi": "शीर्षक, तारीख़, लिखने वाले का नाम (क्या, कब, कहाँ भी)"
+      }
+    },
+    {
+      "question": {
+        "en": "About how many words should a notice have?",
+        "hi": "सूचना में लगभग कितने शब्द हों?"
+      },
+      "answer": {
+        "en": "30–50 words",
+        "hi": "30–50 शब्द"
+      }
+    },
+    {
+      "question": {
+        "en": "What does a closing sentence do?",
+        "hi": "समापन वाक्य क्या करता है?"
+      },
+      "answer": {
+        "en": "Ends the paragraph with a summary or feeling",
+        "hi": "सार या भावना से अनुच्छेद ख़त्म करता है"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A paragraph develops one idea with a topic sentence, supporting details and a closing sentence. A notice gives short, clear information to many people and has a heading, date, what/when/where, and the writer's name.",
+    "hi": "अनुच्छेद एक विचार को मुख्य वाक्य, सहायक बातों और समापन वाक्य से बढ़ाता है। सूचना (notice) बहुत लोगों को छोटी, साफ़ जानकारी देती है; इसमें शीर्षक, तारीख़, क्या/कब/कहाँ और लिखने वाले का नाम होता है।"
+  }
+}

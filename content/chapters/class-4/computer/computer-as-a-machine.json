@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Input → Process → Output",
+      "hi": "इनपुट → प्रोसेस → आउटपुट"
+    },
+    {
+      "en": "Features: speed, accuracy, storage, diligence (no tiredness)",
+      "hi": "विशेषताएँ: गति, सटीकता, भंडारण, लगन (थकान नहीं)"
+    },
+    {
+      "en": "GIGO: Garbage In, Garbage Out — wrong input gives wrong output.",
+      "hi": "GIGO: ग़लत इनपुट, ग़लत आउटपुट।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "You type 25 + 17 on a calculator app and see 42. Name the input, process and output.",
+        "hi": "कैलकुलेटर ऐप में 25 + 17 टाइप करके 42 दिखा। इनपुट, प्रोसेस और आउटपुट बताओ।"
+      },
+      "steps": [
+        {
+          "en": "What you type is input; the adding is the process; the answer shown is output.",
+          "hi": "जो टाइप किया वह इनपुट; जोड़ना प्रोसेस; दिखा उत्तर आउटपुट।"
+        }
+      ],
+      "answer": {
+        "en": "Input: 25 + 17; Process: adding; Output: 42",
+        "hi": "इनपुट: 25 + 17; प्रोसेस: जोड़ना; आउटपुट: 42"
+      }
+    },
+    {
+      "problem": {
+        "en": "You typed your age as 90 instead of 9. The computer shows you as a senior citizen. Why?",
+        "hi": "तुमने उम्र 9 की जगह 90 टाइप की। कंप्यूटर तुम्हें वरिष्ठ नागरिक दिखाता है। क्यों?"
+      },
+      "steps": [
+        {
+          "en": "The computer uses exactly what it is given.",
+          "hi": "कंप्यूटर वही इस्तेमाल करता है जो उसे दिया जाए।"
+        }
+      ],
+      "answer": {
+        "en": "Wrong input gives wrong output (GIGO)",
+        "hi": "ग़लत इनपुट से ग़लत आउटपुट (GIGO)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What does IPO stand for?",
+        "hi": "IPO का पूरा रूप?"
+      },
+      "answer": {
+        "en": "Input, Process, Output",
+        "hi": "इनपुट, प्रोसेस, आउटपुट"
+      }
+    },
+    {
+      "question": {
+        "en": "Can a computer work for hours without getting tired?",
+        "hi": "क्या कंप्यूटर घंटों बिना थके काम कर सकता है?"
+      },
+      "answer": {
+        "en": "Yes",
+        "hi": "हाँ"
+      }
+    },
+    {
+      "question": {
+        "en": "What does GIGO mean?",
+        "hi": "GIGO का मतलब?"
+      },
+      "answer": {
+        "en": "Garbage In, Garbage Out",
+        "hi": "ग़लत इनपुट, ग़लत आउटपुट"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A computer is a machine that works in three steps: Input (taking data), Process (working on it) and Output (giving the result). This is called the IPO cycle. It also stores data to use later.",
+    "hi": "कंप्यूटर एक मशीन है जो तीन चरणों में काम करती है: इनपुट (डेटा लेना), प्रोसेस (उस पर काम) और आउटपुट (परिणाम देना)। इसे IPO चक्र कहते हैं। यह डेटा बाद के लिए सँभालकर भी रखता है।"
+  }
+}

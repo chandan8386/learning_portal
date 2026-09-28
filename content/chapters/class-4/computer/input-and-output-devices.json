@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Input: keyboard, mouse, mic, scanner, webcam",
+      "hi": "इनपुट: कीबोर्ड, माउस, माइक, स्कैनर, वेबकैम"
+    },
+    {
+      "en": "Output: monitor, printer, speakers, projector",
+      "hi": "आउटपुट: मॉनिटर, प्रिंटर, स्पीकर, प्रोजेक्टर"
+    },
+    {
+      "en": "Storage: hard disk, pen drive, memory card",
+      "hi": "भंडारण: हार्ड डिस्क, पेन ड्राइव, मेमोरी कार्ड"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Is a scanner an input or output device?",
+        "hi": "स्कैनर इनपुट उपकरण है या आउटपुट?"
+      },
+      "steps": [
+        {
+          "en": "It copies a paper picture into the computer.",
+          "hi": "यह काग़ज़ का चित्र कंप्यूटर में भेजता है।"
+        }
+      ],
+      "answer": {
+        "en": "Input",
+        "hi": "इनपुट"
+      }
+    },
+    {
+      "problem": {
+        "en": "You want to carry your project to school. Which device?",
+        "hi": "प्रोजेक्ट स्कूल ले जाना है। कौन-सा उपकरण?"
+      },
+      "steps": [
+        {
+          "en": "It is small, fits in your pocket and stores files.",
+          "hi": "यह छोटा है, जेब में आ जाता है और फ़ाइलें रखता है।"
+        }
+      ],
+      "answer": {
+        "en": "Pen drive",
+        "hi": "पेन ड्राइव"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is a microphone input or output?",
+        "hi": "माइक्रोफ़ोन इनपुट है या आउटपुट?"
+      },
+      "answer": {
+        "en": "Input",
+        "hi": "इनपुट"
+      }
+    },
+    {
+      "question": {
+        "en": "Name one output device.",
+        "hi": "एक आउटपुट उपकरण बताओ।"
+      },
+      "answer": {
+        "en": "Monitor, printer or speakers",
+        "hi": "मॉनिटर, प्रिंटर या स्पीकर"
+      }
+    },
+    {
+      "question": {
+        "en": "Where does a computer store files permanently?",
+        "hi": "कंप्यूटर फ़ाइलें स्थायी रूप से कहाँ रखता है?"
+      },
+      "answer": {
+        "en": "Hard disk",
+        "hi": "हार्ड डिस्क"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Input devices send data into the computer: keyboard, mouse, microphone, scanner, webcam. Output devices show or give results: monitor, printer, speakers. Storage devices keep data: hard disk, pen drive.",
+    "hi": "इनपुट उपकरण कंप्यूटर में डेटा भेजते हैं: कीबोर्ड, माउस, माइक्रोफ़ोन, स्कैनर, वेबकैम। आउटपुट उपकरण परिणाम दिखाते या देते हैं: मॉनिटर, प्रिंटर, स्पीकर। भंडारण उपकरण डेटा रखते हैं: हार्ड डिस्क, पेन ड्राइव।"
+  }
+}

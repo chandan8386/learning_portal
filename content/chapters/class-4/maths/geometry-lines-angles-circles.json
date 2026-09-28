@@ -1,0 +1,78 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Right angle = 90° (like a book corner); acute < 90°; obtuse > 90°",
+      "hi": "समकोण = 90° (किताब के कोने जैसा); न्यून < 90°; अधिक > 90°"
+    },
+    {
+      "en": "Diameter = 2 × radius",
+      "hi": "व्यास = 2 × त्रिज्या"
+    },
+    {
+      "en": "All radii of a circle are equal.",
+      "hi": "वृत्त की सारी त्रिज्याएँ बराबर होती हैं।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "A circle has a radius of 7 cm. Find its diameter.",
+        "hi": "एक वृत्त की त्रिज्या 7 cm है। व्यास निकालो।"
+      },
+      "steps": [
+        {
+          "en": "Diameter = 2 × radius.",
+          "hi": "व्यास = 2 × त्रिज्या।"
+        }
+      ],
+      "answer": "14 cm"
+    },
+    {
+      "problem": {
+        "en": "The hands of a clock at 3 o'clock make what kind of angle?",
+        "hi": "3 बजे घड़ी की सुइयाँ कौन-सा कोण बनाती हैं?"
+      },
+      "steps": [
+        {
+          "en": "The hands point to 12 and 3, a quarter turn apart.",
+          "hi": "सुइयाँ 12 और 3 पर हैं, चौथाई घुमाव की दूरी।"
+        }
+      ],
+      "answer": {
+        "en": "A right angle (90°)",
+        "hi": "समकोण (90°)"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Is an angle of 120° acute or obtuse?",
+        "hi": "120° का कोण न्यून है या अधिक?"
+      },
+      "answer": {
+        "en": "Obtuse",
+        "hi": "अधिक"
+      }
+    },
+    {
+      "question": {
+        "en": "The diameter is 20 cm. What is the radius?",
+        "hi": "व्यास 20 cm है। त्रिज्या?"
+      },
+      "answer": "10 cm"
+    },
+    {
+      "question": {
+        "en": "How many end points does a line segment have?",
+        "hi": "रेखाखंड के कितने सिरे होते हैं?"
+      },
+      "answer": "2"
+    }
+  ],
+  "intro": {
+    "en": "A line goes on forever both ways, a line segment has two end points, and a ray starts at a point and goes on in one direction. Two rays from one point make an angle. A circle has a centre, a radius and a diameter (2 × radius).",
+    "hi": "रेखा दोनों ओर अनंत तक जाती है, रेखाखंड के दो सिरे होते हैं, और किरण एक बिंदु से शुरू होकर एक ओर अनंत तक जाती है। एक बिंदु से निकली दो किरणें कोण बनाती हैं। वृत्त में केंद्र, त्रिज्या और व्यास (2 × त्रिज्या) होते हैं।"
+  }
+}

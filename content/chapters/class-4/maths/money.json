@@ -1,0 +1,72 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "₹12.50 = 1250 paise",
+      "hi": "₹12.50 = 1250 पैसे"
+    },
+    {
+      "en": "Cost of many = cost of one × number",
+      "hi": "कई का दाम = एक का दाम × संख्या"
+    },
+    {
+      "en": "Cost of one = total cost ÷ number",
+      "hi": "एक का दाम = कुल दाम ÷ संख्या"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "One pen costs ₹12.50. What do 4 pens cost?",
+        "hi": "एक पेन ₹12.50 का। 4 पेन कितने के?"
+      },
+      "steps": [
+        {
+          "en": "₹12.50 × 4: ₹12 × 4 = ₹48, 50 p × 4 = ₹2.",
+          "hi": "₹12.50 × 4: ₹12 × 4 = ₹48, 50 पैसे × 4 = ₹2।"
+        }
+      ],
+      "answer": "₹50.00"
+    },
+    {
+      "problem": {
+        "en": "6 notebooks cost ₹192. Find the cost of one.",
+        "hi": "6 कॉपियाँ ₹192 की। एक की क़ीमत?"
+      },
+      "steps": [
+        {
+          "en": "₹192 ÷ 6",
+          "hi": "₹192 ÷ 6"
+        }
+      ],
+      "answer": "₹32"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Convert ₹8.25 into paise.",
+        "hi": "₹8.25 को पैसों में बदलो।"
+      },
+      "answer": {
+        "en": "825 paise",
+        "hi": "825 पैसे"
+      }
+    },
+    {
+      "question": "₹45.50 + ₹24.75 = ?",
+      "answer": "₹70.25"
+    },
+    {
+      "question": {
+        "en": "You pay ₹100 for items worth ₹63.40. Change?",
+        "hi": "₹63.40 के सामान के लिए ₹100 दिए। वापसी?"
+      },
+      "answer": "₹36.60"
+    }
+  ],
+  "intro": {
+    "en": "₹1 = 100 paise. We write ₹45.75 for 45 rupees 75 paise. To solve money problems we add, subtract, multiply or divide just like numbers, keeping the decimal points lined up.",
+    "hi": "₹1 = 100 पैसे। 45 रुपये 75 पैसे को ₹45.75 लिखते हैं। पैसों के सवाल संख्याओं की तरह जोड़, घटाव, गुणा या भाग से हल करते हैं, दशमलव बिंदु एक सीध में रखकर।"
+  }
+}

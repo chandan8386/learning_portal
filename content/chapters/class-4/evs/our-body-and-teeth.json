@@ -1,0 +1,84 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Milk teeth: 20; permanent teeth: 32",
+      "hi": "दूध के दाँत: 20; स्थायी दाँत: 32"
+    },
+    {
+      "en": "Brush twice a day and rinse after meals.",
+      "hi": "दिन में दो बार ब्रश करो और खाने के बाद कुल्ला।"
+    },
+    {
+      "en": "Too many sweets cause cavities.",
+      "hi": "ज़्यादा मीठा खाने से दाँतों में कीड़ा (कैविटी) लगता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Which teeth do we use to bite a guava?",
+        "hi": "अमरूद काटने के लिए कौन-से दाँत इस्तेमाल करते हैं?"
+      },
+      "steps": [
+        {
+          "en": "The flat, sharp front teeth cut food.",
+          "hi": "आगे के चपटे, तेज़ दाँत खाना काटते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "Incisors (front teeth)",
+        "hi": "कृंतक (आगे के दाँत)"
+      }
+    },
+    {
+      "problem": {
+        "en": "Why should we rinse our mouth after eating sweets?",
+        "hi": "मिठाई खाने के बाद कुल्ला क्यों करना चाहिए?"
+      },
+      "steps": [
+        {
+          "en": "Sugar stuck on teeth helps germs make holes.",
+          "hi": "दाँतों पर चिपकी चीनी से कीटाणु छेद बनाते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "To prevent cavities",
+        "hi": "कैविटी से बचने के लिए"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "How many permanent teeth do adults have?",
+        "hi": "बड़ों के कितने स्थायी दाँत होते हैं?"
+      },
+      "answer": "32"
+    },
+    {
+      "question": {
+        "en": "Which teeth grind food?",
+        "hi": "कौन-से दाँत खाना पीसते हैं?"
+      },
+      "answer": {
+        "en": "Molars",
+        "hi": "दाढ़ (molars)"
+      }
+    },
+    {
+      "question": {
+        "en": "How many times a day should we brush?",
+        "hi": "दिन में कितनी बार ब्रश करें?"
+      },
+      "answer": {
+        "en": "Twice",
+        "hi": "दो बार"
+      }
+    }
+  ],
+  "intro": {
+    "en": "We get two sets of teeth: 20 milk teeth that fall out, and 32 permanent teeth that last for life. Different teeth have different jobs: incisors cut, canines tear, and molars grind food.",
+    "hi": "हमारे दाँत दो बार आते हैं: 20 दूध के दाँत जो गिर जाते हैं, और 32 स्थायी दाँत जो जीवनभर रहते हैं। अलग दाँतों के अलग काम हैं: कृंतक (incisors) काटते हैं, रदनक (canines) फाड़ते हैं, और दाढ़ (molars) पीसती हैं।"
+  }
+}

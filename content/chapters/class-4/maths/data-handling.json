@@ -1,0 +1,81 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Title, axes labels and a scale are needed.",
+      "hi": "शीर्षक, अक्षों के नाम और पैमाना चाहिए।"
+    },
+    {
+      "en": "Bars have equal width and equal gaps.",
+      "hi": "दंडों की चौड़ाई और बीच की दूरी बराबर।"
+    },
+    {
+      "en": "The tallest bar shows the most.",
+      "hi": "सबसे ऊँचा दंड सबसे ज़्यादा दिखाता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Scale: 1 square = 5 children. The cricket bar is 6 squares high. How many children like cricket?",
+        "hi": "पैमाना: 1 खाना = 5 बच्चे। क्रिकेट का दंड 6 खाने ऊँचा है। कितने बच्चों को क्रिकेट पसंद है?"
+      },
+      "steps": [
+        {
+          "en": "6 squares × 5 children.",
+          "hi": "6 खाने × 5 बच्चे।"
+        }
+      ],
+      "answer": {
+        "en": "30 children",
+        "hi": "30 बच्चे"
+      }
+    },
+    {
+      "problem": {
+        "en": "Books read: Mon 12, Tue 8, Wed 15. How many more on Wednesday than Tuesday?",
+        "hi": "पढ़ी गई किताबें: सोम 12, मंगल 8, बुध 15। बुध को मंगल से कितनी ज़्यादा?"
+      },
+      "steps": [
+        {
+          "en": "15 − 8",
+          "hi": "15 − 8"
+        }
+      ],
+      "answer": "7"
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Scale: 1 square = 10. A bar is 4 squares. What does it show?",
+        "hi": "पैमाना: 1 खाना = 10। दंड 4 खाने का है। कितना दिखाता है?"
+      },
+      "answer": "40"
+    },
+    {
+      "question": {
+        "en": "Which bar shows the least: the shortest or the tallest?",
+        "hi": "सबसे कम कौन-सा दंड दिखाता है: सबसे छोटा या सबसे ऊँचा?"
+      },
+      "answer": {
+        "en": "The shortest",
+        "hi": "सबसे छोटा"
+      }
+    },
+    {
+      "question": {
+        "en": "Name two things every bar graph needs.",
+        "hi": "हर दंड आलेख में कौन-सी दो चीज़ें चाहिए?"
+      },
+      "answer": {
+        "en": "Title and scale (also axis labels)",
+        "hi": "शीर्षक और पैमाना (अक्षों के नाम भी)"
+      }
+    }
+  ],
+  "intro": {
+    "en": "A bar graph shows data with bars of different lengths. We read the height of each bar using the scale. Bar graphs make it easy to compare quantities.",
+    "hi": "दंड आलेख (bar graph) अलग-अलग लंबाई के दंडों से डेटा दिखाता है। हर दंड की ऊँचाई पैमाने से पढ़ते हैं। दंड आलेख से तुलना आसान होती है।"
+  }
+}

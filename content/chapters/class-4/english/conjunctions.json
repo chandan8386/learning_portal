@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "and – I like tea and biscuits.",
+      "hi": "and – I like tea and biscuits."
+    },
+    {
+      "en": "but – He is poor but honest.",
+      "hi": "but – He is poor but honest."
+    },
+    {
+      "en": "because / so – I stayed home because I was ill. I was ill, so I stayed home.",
+      "hi": "because / so – I stayed home because I was ill. I was ill, so I stayed home."
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Join: \"It was raining. We played indoors.\"",
+        "hi": "जोड़ो: \"It was raining. We played indoors.\""
+      },
+      "steps": [
+        {
+          "en": "Raining is the reason; playing indoors is the result → so.",
+          "hi": "बारिश कारण; अंदर खेलना परिणाम → so।"
+        }
+      ],
+      "answer": {
+        "en": "It was raining, so we played indoors.",
+        "hi": "It was raining, so we played indoors."
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"Would you like milk __ juice?\"",
+        "hi": "भरो: \"Would you like milk __ juice?\""
+      },
+      "steps": [
+        {
+          "en": "It gives a choice between two things.",
+          "hi": "यह दो चीज़ों में विकल्प देता है।"
+        }
+      ],
+      "answer": {
+        "en": "or",
+        "hi": "or"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"She was tired __ she finished her work.\"",
+        "hi": "भरो: \"She was tired __ she finished her work.\""
+      },
+      "answer": {
+        "en": "but",
+        "hi": "but"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"He is happy __ he won the race.\"",
+        "hi": "भरो: \"He is happy __ he won the race.\""
+      },
+      "answer": {
+        "en": "because",
+        "hi": "because"
+      }
+    },
+    {
+      "question": {
+        "en": "Join: \"I have a cat. I have a dog.\"",
+        "hi": "जोड़ो: \"I have a cat. I have a dog.\""
+      },
+      "answer": {
+        "en": "I have a cat and a dog.",
+        "hi": "I have a cat and a dog."
+      }
+    }
+  ],
+  "intro": {
+    "en": "Conjunctions join words or sentences: and (adds), but (shows contrast), or (gives a choice), because (gives a reason), so (shows a result).",
+    "hi": "योजक (conjunctions) शब्दों या वाक्यों को जोड़ते हैं: and (जोड़ता है), but (उलटी बात), or (विकल्प), because (कारण), so (परिणाम)।"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "my book → the book is mine",
+      "hi": "my book → the book is mine"
+    },
+    {
+      "en": "her bag → the bag is hers",
+      "hi": "her bag → the bag is hers"
+    },
+    {
+      "en": "its (belongs to it) has no apostrophe; it's = it is",
+      "hi": "its (उसका) में apostrophe नहीं; it's = it is"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in: \"This is Riya's pen. It is __.\"",
+        "hi": "भरो: \"This is Riya's pen. It is __.\""
+      },
+      "steps": [
+        {
+          "en": "Riya is a girl; on its own we use \"hers\".",
+          "hi": "Riya लड़की है; अकेले \"hers\" लगता है।"
+        }
+      ],
+      "answer": {
+        "en": "hers",
+        "hi": "hers"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"The dog wagged __ tail.\" (its/it's)",
+        "hi": "भरो: \"The dog wagged __ tail.\" (its/it's)"
+      },
+      "steps": [
+        {
+          "en": "The tail belongs to the dog → its.",
+          "hi": "पूँछ कुत्ते की है → its।"
+        }
+      ],
+      "answer": {
+        "en": "its",
+        "hi": "its"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Fill in: \"We painted __ room blue.\"",
+        "hi": "भरो: \"We painted __ room blue.\""
+      },
+      "answer": {
+        "en": "our",
+        "hi": "our"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"Is this bag yours or __?\" (my/mine)",
+        "hi": "भरो: \"Is this bag yours or __?\" (my/mine)"
+      },
+      "answer": {
+        "en": "mine",
+        "hi": "mine"
+      }
+    },
+    {
+      "question": {
+        "en": "What does \"it's\" mean?",
+        "hi": "\"it's\" का मतलब क्या है?"
+      },
+      "answer": {
+        "en": "it is",
+        "hi": "it is"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Personal pronouns stand for people and things (I, he, they). Possessive words show who owns something: my, your, his, her, its, our, their (before a noun) and mine, yours, his, hers, ours, theirs (on their own).",
+    "hi": "व्यक्तिवाचक सर्वनाम लोगों और चीज़ों के लिए आते हैं (I, he, they)। स्वामित्व बताने वाले शब्द बताते हैं कि चीज़ किसकी है: my, your, his, her, its, our, their (संज्ञा से पहले) और mine, yours, his, hers, ours, theirs (अकेले)।"
+  }
+}

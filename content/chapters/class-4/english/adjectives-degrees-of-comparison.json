@@ -1,0 +1,95 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Short words: add -er/-est: fast, faster, fastest",
+      "hi": "छोटे शब्द: -er/-est: fast, faster, fastest"
+    },
+    {
+      "en": "Long words: more/most: beautiful, more beautiful, most beautiful",
+      "hi": "लंबे शब्द: more/most: beautiful, more beautiful, most beautiful"
+    },
+    {
+      "en": "Irregular: good, better, best; bad, worse, worst",
+      "hi": "Irregular: good, better, best; bad, worse, worst"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "Fill in: \"An elephant is __ than a horse.\" (big)",
+        "hi": "भरो: \"An elephant is __ than a horse.\" (big)"
+      },
+      "steps": [
+        {
+          "en": "Two animals are compared → comparative.",
+          "hi": "दो जानवरों की तुलना → comparative।"
+        },
+        {
+          "en": "big ends in vowel + consonant: double g, add -er.",
+          "hi": "big: g दोगुना करके -er।"
+        }
+      ],
+      "answer": {
+        "en": "bigger",
+        "hi": "bigger"
+      }
+    },
+    {
+      "problem": {
+        "en": "Fill in: \"Rita is the __ singer in the class.\" (good)",
+        "hi": "भरो: \"Rita is the __ singer in the class.\" (good)"
+      },
+      "steps": [
+        {
+          "en": "Whole class = many people → superlative.",
+          "hi": "पूरी कक्षा = कई लोग → superlative।"
+        },
+        {
+          "en": "good is irregular: good, better, best.",
+          "hi": "good irregular है: good, better, best।"
+        }
+      ],
+      "answer": {
+        "en": "best",
+        "hi": "best"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "Comparative of \"happy\"?",
+        "hi": "\"happy\" का comparative?"
+      },
+      "answer": {
+        "en": "happier",
+        "hi": "happier"
+      }
+    },
+    {
+      "question": {
+        "en": "Superlative of \"bad\"?",
+        "hi": "\"bad\" का superlative?"
+      },
+      "answer": {
+        "en": "worst",
+        "hi": "worst"
+      }
+    },
+    {
+      "question": {
+        "en": "Fill in: \"This is the __ flower in the garden.\" (beautiful)",
+        "hi": "भरो: \"This is the __ flower in the garden.\" (beautiful)"
+      },
+      "answer": {
+        "en": "most beautiful",
+        "hi": "most beautiful"
+      }
+    }
+  ],
+  "intro": {
+    "en": "Adjectives have three degrees: positive (tall), comparative (taller — comparing two) and superlative (tallest — comparing three or more).",
+    "hi": "विशेषण की तीन अवस्थाएँ हैं: positive (tall), comparative (taller — दो की तुलना) और superlative (tallest — तीन या ज़्यादा की तुलना)।"
+  }
+}

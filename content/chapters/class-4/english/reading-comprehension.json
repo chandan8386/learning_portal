@@ -1,0 +1,87 @@
+{
+  "status": "REVIEWED",
+  "keyPoints": [
+    {
+      "en": "Find key words from the question in the passage.",
+      "hi": "प्रश्न के मुख्य शब्द अनुच्छेद में ढूँढो।"
+    },
+    {
+      "en": "Inference: use clues to find what is not written directly.",
+      "hi": "अनुमान: जो सीधे नहीं लिखा उसे सुरागों से समझो।"
+    },
+    {
+      "en": "The title often tells the main idea.",
+      "hi": "शीर्षक अक्सर मुख्य विचार बताता है।"
+    }
+  ],
+  "examples": [
+    {
+      "problem": {
+        "en": "\"Aman took his umbrella and wore his raincoat before leaving home.\" What was the weather like?",
+        "hi": "\"Aman took his umbrella and wore his raincoat before leaving home.\" मौसम कैसा था?"
+      },
+      "steps": [
+        {
+          "en": "Umbrella and raincoat are used when it rains.",
+          "hi": "छाता और रेनकोट बारिश में इस्तेमाल होते हैं।"
+        }
+      ],
+      "answer": {
+        "en": "It was raining (rainy).",
+        "hi": "बारिश हो रही थी।"
+      }
+    },
+    {
+      "problem": {
+        "en": "\"The shopkeeper smiled and gave Neha an extra toffee for returning the extra change.\" Why did he give her a toffee?",
+        "hi": "\"The shopkeeper smiled and gave Neha an extra toffee for returning the extra change.\" उसने टॉफ़ी क्यों दी?"
+      },
+      "steps": [
+        {
+          "en": "Neha returned money that was not hers.",
+          "hi": "नेहा ने वह पैसे लौटाए जो उसके नहीं थे।"
+        }
+      ],
+      "answer": {
+        "en": "Because she was honest",
+        "hi": "क्योंकि वह ईमानदार थी"
+      }
+    }
+  ],
+  "practice": [
+    {
+      "question": {
+        "en": "What is an answer we work out from clues called?",
+        "hi": "सुरागों से निकाला गया उत्तर क्या कहलाता है?"
+      },
+      "answer": {
+        "en": "An inference",
+        "hi": "अनुमान (inference)"
+      }
+    },
+    {
+      "question": {
+        "en": "\"The children shivered and rubbed their hands.\" What was the weather?",
+        "hi": "\"The children shivered and rubbed their hands.\" मौसम कैसा था?"
+      },
+      "answer": {
+        "en": "Cold",
+        "hi": "ठंडा"
+      }
+    },
+    {
+      "question": {
+        "en": "What often tells the main idea of a passage?",
+        "hi": "अक्सर अनुच्छेद का मुख्य विचार क्या बताता है?"
+      },
+      "answer": {
+        "en": "The title",
+        "hi": "शीर्षक"
+      }
+    }
+  ],
+  "intro": {
+    "en": "To understand a passage, first read it fully, then read the questions and look back for the answers. Some answers are stated directly; others we must work out (infer) from clues.",
+    "hi": "किसी अनुच्छेद को समझने के लिए पहले पूरा पढ़ो, फिर प्रश्न पढ़ो और उत्तर के लिए वापस देखो। कुछ उत्तर सीधे लिखे होते हैं; कुछ सुरागों से अंदाज़ा (अनुमान) लगाना पड़ता है।"
+  }
+}
